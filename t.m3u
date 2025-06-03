@@ -55,8 +55,6 @@ https://seo.tv.bo/tv/FIpSEO-TV-4.m3u8
 https://owncloud1692001.fasthostunlimited.com/hls/0/stream.m3u8
 #EXTINF:-1 group-title="Peliculas",Elias TV
 https://live.eliaspinatv.com.do/livelan/stream.m3u8
-#EXTINF:-1 group-title="Peliculas",Neo TV
-https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 group-title="Peliculas",Telever
 https://vdo1.streamgato.us:3342/live/televercanal12live.m3u8
 #EXTINF:-1 group-title="Peliculas",Telemaxrd
@@ -219,3 +217,21 @@ http://live1.cl.cdn.lla.vtrplay.com/espnhdchi/vxfmt=dp/playlist.m3u8?device_prof
 http://live1.cl.cdn.lla.vtrplay.com/foxsports1hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 #EXTINF:-1 group-title="Latinoamerica",Disney Channel
 http://live1.cl.cdn.lla.vtrplay.com/disneyhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 group-title="Latinoamerica",Cine SONY
+https://a-cdn.klowdtv.com:443/live1/cine_720p/chunks.m3u8
+#EXTINF:-1 group-title="Latinoamerica",Cine SONY1
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+#EXTINF:-1 group-title="Latinoamerica",SONY competencias
+https://spt-competencias-1-us.xumo.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Latinoamerica",Accion
+https://stmv6.voxtvhd.com.br:443/cineaccion/cineaccion/chunklist_w241460843.m3u8
+#EXTINF:-1 group-title="Latinoamerica",MG
+https://live20.bozztv.com:443/giatvplayout7/giatv-208730/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Latinoamerica",El Chavo del 8
+http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Latinoamerica",COSMOS TV HD
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+#EXTINF:-1 group-title="Latinoamerica",MALVINAS TV MG
+https://live20.bozztv.com:443/giatvplayout7/giatv-208744/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Latinoamerica",BAYRES TV HD
+https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8?PlaylistM3UCL
