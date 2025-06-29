@@ -1,0 +1,103 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="-1",win+
+http://190.60.37.154:45000/play/a00q/index.m3u8
+#EXTINF:0 type="stream" channelId="-1",win
+#EXTINF:0 type="stream" channelId="-1",micasa_win+
+http://newultra.xyz:8080/live/MI_CASA_2024/F3B2eZ3rZbaB/360.m3u8
+#EXTINF:0 type="stream" channelId="-1",micasa_win+2
+http://newultra.xyz:8080/live/MI_CASA_2024/F3B2eZ3rZbaB/361.m3u8
+http://200.59.188.3:8000/play/a03y
+#EXTINF:0 type="stream" channelId="-1",Directv Sport HD
+http://200.59.188.3:8000/play/a0xe
+#EXTINF:0 type="stream" channelId="-1",Directv Sport2
+http://200.59.188.3:8000/play/a0xf
+#EXTINF:0 type="stream" channelId="-1",DSPORT1
+http://newultra.xyz:8080/live/MI_CASA_2024/F3B2eZ3rZbaB/465.m3u8
+#EXTINF:0 type="stream" channelId="-1",DSPORT+
+http://newultra.xyz:8080/live/MI_CASA_2024/F3B2eZ3rZbaB/466.m3u8
+#EXTINF:0 type="stream" channelId="-1",DSPORT2
+http://newultra.xyz:8080/live/MI_CASA_2024/F3B2eZ3rZbaB/470.m3u8
+#EXTINF:0 type="stream" channelId="-1",DSPORT3
+http://newultra.xyz:8080/live/MI_CASA_2024/F3B2eZ3rZbaB/480.m3u8
+#EXTINF:0 type="stream" channelId="-1",GOLTV
+http://newultra.xyz:8080/live/MI_CASA_2024/F3B2eZ3rZbaB/486.m3u8
+#EXTINF:0 type="stream" channelId="-1",movistar sport+
+http://newultra.xyz:8080/live/MI_CASA_2024/F3B2eZ3rZbaB/490.m3u8
+#EXTINF:0 type="stream" channelId="-1",movistar la liga
+http://newultra.xyz:8080/live/MI_CASA_2024/F3B2eZ3rZbaB/493.m3u8
+#EXTINF:0 type="stream" channelId="-1",micasa_espn2
+http://newultra.xyz:8080/live/MI_CASA_2024/F3B2eZ3rZbaB/508.m3u8
+#EXTINF:0 type="stream" channelId="-1",micasa_espn
+http://newultra.xyz:8080/live/MI_CASA_2024/F3B2eZ3rZbaB/509.m3u8
+#EXTINF:0 type="stream" channelId="-1",micasa_espn3
+http://newultra.xyz:8080/live/MI_CASA_2024/F3B2eZ3rZbaB/512.m3u8
+#EXTINF:0 type="stream" channelId="-1",micasa_espn4
+http://newultra.xyz:8080/live/MI_CASA_2024/F3B2eZ3rZbaB/515.m3u8
+#EXTINF:0 type="stream" channelId="-1",micasa_espn5
+http://newultra.xyz:8080/live/MI_CASA_2024/F3B2eZ3rZbaB/518.m3u8
+#EXTINF:0 type="stream" channelId="-1",micasa_espn7
+http://newultra.xyz:8080/live/MI_CASA_2024/F3B2eZ3rZbaB/453.m3u8
+#EXTINF:0 type="stream" channelId="-1",micasa_espn4
+http://newultra.xyz:8080/live/MI_CASA_2024/F3B2eZ3rZbaB/455.m3u8
+#EXTINF:0 type="stream" channelId="-1",micasa_foxsport
+http://newultra.xyz:8080/live/MI_CASA_2024/F3B2eZ3rZbaB/456.m3u8
+#EXTINF:0 type="stream" channelId="-1",micasa_disney+
+http://newultra.xyz:8080/live/MI_CASA_2024/F3B2eZ3rZbaB/445.m3u8
+#EXTINF:0 type="stream" channelId="-1",micasa_telemedellin_pedro
+http://newultra.xyz:8080/live/MI_CASA_2024/F3B2eZ3rZbaB/355.m3u8
+#EXTINF:0 type="stream" channelId="-1",ESPN
+http://200.59.188.3:8000/play/a0xp
+#EXTINF:0 type="stream" channelId="-1",ESPN2
+http://200.59.188.3:8000/play/a0vz
+#EXTINF:0 type="stream" channelId="-1",ESPN 3
+http://200.59.188.3:8000/play/a0y8
+#EXTINF:0 type="stream" channelId="-1",ESPN 4HD
+http://200.59.188.3:8000/play/a0lg
+#EXTINF:0 type="stream" channelId="-1",ESPN 5
+http://200.59.188.3:8000/play/a0w2
+#EXTINF:0 type="stream" channelId="-1",ESPN 6
+#EXTINF:0 type="stream" channelId="-1",
+http://200.59.188.3:8000/play/a0w1
+#EXTINF:0 type="stream" channelId="-1",ESPN 7
+http://200.59.188.3:8000/play/a0t8
+#EXTINF:0 type="stream" channelId="-1",ESPN CO
+#EXTINF:0 type="stream" channelId="-1",ESPN Premium HD
+http://200.59.188.3:8000/play/a0mr
+#EXTINF:0 type="stream" channelId="-1",FOX Deportes
+http://200.59.188.3:8000/play/a0yb
+#EXTINF:0 type="stream" channelId="-1",FOX Sport 3
+http://181.10.123.154:14000/play/a02t/index.m3u8
+#EXTINF:0 type="stream" channelId="-1",FOX Sport 2
+http://181.10.123.154:14000/play/a05c/index.m3u8
+#EXTINF:0 type="stream" channelId="-1",FOX Sport HD
+http://181.10.123.154:14000/play/a07j/index.m3u8
+#EXTINF:0 type="stream" channelId="-1",TNT Sports HD
+http://181.10.123.154:14000/play/a0bc/index.m3u8
+#EXTINF:0 type="stream" channelId="-1",Canal 4
+https://nxt.plus:8443/play/38zFLK3acOM2saVDvlFmXtA1gbtR6FOppp34mHg1CLs/ts
+#EXTINF:0 type="stream" channelId="-1",
+http://190.60.37.154:45000/play/a039/index.m3u8
+#EXTINF:0 type="stream" channelId="-1",
+http://200.59.188.3:8000/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1",TNT Sports
+http://newultra.xyz:8080/live/MI_CASA_2024/F3B2eZ3rZbaB/461.m3u8
+#EXTINF:0 type="stream" channelId="-1",TYC Sports
+http://newultra.xyz:8080/live/MI_CASA_2024/F3B2eZ3rZbaB/462.m3u8
+#EXTINF:0 type="stream" channelId="-1",TYC Sports
+http://newultra.xyz:8080/live/MI_CASA_2024/F3B2eZ3rZbaB/464.m3u8
+#EXTINF:0 type="stream" channelId="-1",Fox-Sports-Espanol2
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8 
+#EXTINF:0 type="stream" channelId="-1",beIN-Espanol
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,beIN-Espanol.m3u8
+#EXTINF:0 type="stream" channelId="-1",Chavo
+http://newultra.xyz:8080/live/MI_CASA_2024/F3B2eZ3rZbaB/250478.m3u8
+#EXTINF:0 type="stream" channelId="-1",cine accion
+http://newultra.xyz:8080/live/MI_CASA_2024/F3B2eZ3rZbaB/54682.m3u8
+#EXTINF:0 type="stream" channelId="-1",cine marvel
+http://newultra.xyz:8080/live/MI_CASA_2024/F3B2eZ3rZbaB/54697.m3u8
+#EXTINF:0 type="stream" channelId="-1",hgtv
+http://newultra.xyz:8080/live/MI_CASA_2024/F3B2eZ3rZbaB/59435.m3u8
+#EXTINF:0 type="stream" channelId="-1",discovery familia
+http://newultra.xyz:8080/live/MI_CASA_2024/F3B2eZ3rZbaB/23415.m3u8
+#EXTINF:0 type="stream" channelId="-1",cinema 01
+http://newultra.xyz:8080/live/MI_CASA_2024/F3B2eZ3rZbaB/236454.m3u8
