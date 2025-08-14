@@ -1,105 +1,309 @@
 #EXTM3U
-#EXTINF:-1, AZTECA 7 HD
-http://190.92.10.66:4000/play/a007/index.m3u8
-#EXTINF:-1,BUNDESLIGA
-http://190.92.10.66:4000/play/a006/index.m3u8
-#EXTINF:-1,Telacadena
-http://190.92.10.66:4000/play/a008/index.m3u8
-#EXTINF:-1,ESPN DEPORTES USA
-http://190.92.10.66:4000/play/a003/index.m3u8
-#EXTINF:-1,FUTV
-http://190.92.10.66:4000/play/a00c/index.m3u8
-#EXTINF:-1,LA LIGA
-http://190.92.10.66:4000/play/a001/index.m3u8
-#EXTINF:-1,DHE
-http://190.92.10.66:4000/play/a00e/index.m3u8
-#EXTINF:-1,liga mx
-http://190.92.10.66:4000/play/a002/index.m3u8
-#EXTINF:-1,telemundo
-http://190.92.10.66:4000/play/a004/index.m3u8
-#EXTINF:-1, ESPN  4 HD
-http://200.115.96.61:9090/play/a0hw/index.m3u8
-#EXTINF:-1, ESPN 1
-http://200.115.96.61:9090/play/a034/index.m3u8ESPN 3
-#EXTINF:-1, ESPN 3
-http://200.115.96.61:9090/play/a0fj/index.m3u8
-#EXTINF:-1, ESPN 5  HD
-http://200.115.96.61:9090/play/a0he/index.m3u8
-#EXTINF:-1, ESPN 2
-http://200.115.96.61:9090/play/a035/index.m3u8
-#EXTINF:-1, fox sport 1
-http://200.115.96.61:9090/play/a0fv/index.m3u8
-#EXTINF:-1, ESPN Extra
-http://200.115.96.61:9090/play/a0ja/index.m3u8
-#EXTINF:-1, ESPN Premium
-http://177.53.155.236:8000/play/a0es/index.m3u8
-#EXTINF:-1, ESPN7
-http://177.53.155.236:8000/play/a0g2/index.m3u8
-#EXTINF:-1, espn5
-http://177.53.155.236:8000/play/a0jy/index.m3u8
-#EXTINF:-1, DIRECTV
-http://177.53.155.236:8000/play/a0co/index.m3u8
-#EXTINF:-1, DIRECTV2
-http://177.53.155.236:8000/play/a0jb/index.m3u8
-#EXTINF:-1, liga1 peru
-http://177.53.155.236:8000/play/a0bt/index.m3u8
-#EXTINF:-1, liga 1 max
-http://177.53.155.236:8000/play/a0j4/index.m3u8
-#EXTINF:-1, tnt sport
-http://177.53.155.236:8000/play/a0e9/index.m3u8
-#EXTINF:-1, win sport
-http://177.53.155.236:8000/play/a06a/index.m3u8
-#EXTINF:-1, win sport+
-http://181.78.23.26:45000/play/a03d
-#EXTINF:0,Fox Sports MX HD (Hon1)
-http://200.115.96.61:9090/play/a0fv/index.m3u8
-#EXTINF:0,BEIN SPORTS USA HD (L22)
-http://fl5.moveonjoy.com/BEIN_SPORTS/index.m3u8
-#EXTINF:-1, GOLDEN PREMIERE
-http://200.115.96.61:9090/play/a0do/index.m3u8
-#EXTINF:-1, Golden Premiere 2 HD
-http://200.115.96.61:9090/play/a0ic/index.m3u8
-#EXTINF:-1, golden
-http://177.53.155.236:8000/play/a0h7/index.m3u8
-#EXTINF:-1, Golden Edge
-http://177.53.155.236:8000/play/a0he/index.m3u8
-#EXTINF:-1, golden premier
-http://177.53.155.236:8000/play/a0jk/index.m3u8
-#EXTINF:-1, HBO
-http://200.115.96.61:9090/play/a0it/index.m3u8
-#EXTINF:-1, hbo1
-http://177.53.155.236:8000/play/a0fs/index.m3u8
-#EXTINF:-1, hbo2
-http://177.53.155.236:8000/play/a063/index.m3u8
-#EXTINF:-1, hbo plus
-http://177.53.155.236:8000/play/a05w/index.m3u8
-#EXTINF:-1, hbo extreme
-http://177.53.155.236:8000/play/a0kb/index.m3u8
-#EXTINF:-1, multicinama
-http://200.115.96.61:9090/play/a0i0/index.m3u8
-#EXTINF:-1, multipremier
-http://200.115.96.61:9090/play/a03r/index.m3u8
-#EXTINF:-1, paramount
-http://200.115.96.61:9090/play/a00p/index.m3u8
-#EXTINF:-1, star channel
-http://200.115.96.61:9090/play/a037/index.m3u8
-#EXTINF:-1, stuido universal navidad
-http://200.115.96.61:9090/play/a03u/index.m3u8
-#EXTINF:-1, universal
-http://200.115.96.61:9090/play/a03p/index.m3u8
-#EXTINF:-1, FMH Family
-http://177.53.155.236:8000/play/a0je/index.m3u8
-#EXTINF:-1, FMH Kids
-http://177.53.155.236:8000/play/a0jf/index.m3u8
-#EXTINF:-1, FMH Movies
-http://177.53.155.236:8000/play/a0jg/index.m3u8
-#EXTINF:-1, sony
-http://177.53.155.236:8000/play/a0fl/index.m3u8
-#EXTINF:-1, syfy
-http://177.53.155.236:8000/play/a02l/index.m3u8
-#EXTINF:-1, tnt
-http://177.53.155.236:8000/play/a0do/index.m3u8
-#EXTINF:0,Canela Cinema (MX) (LG)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelacinema-lgmx/playlist.m3u8
-#EXTINF:-1, HBO Family 
-http://190.60.37.154:45000/play/a055/index.m3u8
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Las Estrellas" tvg-logo="" group-title="Mexico" tvg-shift="",Las Estrellas
+http://user.tvcluboficial.com/live/m/m/411.m3u8
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="ImagenTV" tvg-logo="" group-title="Mexico" tvg-shift="",ImagenTV
+http://user.tvcluboficial.com/live/m/m/341.m3u8
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="ForoTV" tvg-logo="" group-title="Mexico" tvg-shift="",ForoTV
+https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_6.m3u8
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Multimedios" tvg-logo="" group-title="Mexico" tvg-shift="",Multimedios
+http://user.tvcluboficial.com/live/m/m/155.m3u8
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="ADN40" tvg-logo="" group-title="Mexico" tvg-shift="",ADN40
+http://user.tvcluboficial.com/live/m/m/447.m3u8
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="A+" tvg-logo="" group-title="Mexico" tvg-shift="",A+
+http://user.tvcluboficial.com/live/m/m/406.m3u8
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Star " tvg-logo="" group-title="Entretenimiento" tvg-shift="",Star
+http://user.tvcluboficial.com/live/m/m/45.m3u8
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Sony" tvg-logo="" group-title="Entretenimiento" tvg-shift="",Sony
+http://user.tvcluboficial.com/live/m/m/145.m3u8
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Warner" tvg-logo="" group-title="Entretenimiento" tvg-shift="",Warner
+http://user.tvcluboficial.com/live/m/m/102.m3u8
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="History" tvg-logo="" group-title="Entretenimiento" tvg-shift="",History
+http://user.tvcluboficial.com/live/m/m/67.m3u8
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Animal Planet" tvg-logo="" group-title="Entretenimiento" tvg-shift="",Animal Planet
+http://user.tvcluboficial.com/live/m/m/633.m3u8
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Studio Universal" tvg-logo="" group-title="Entretenimiento" tvg-shift="",Studio Universal
+http://user.tvcluboficial.com/live/m/m/84.m3u8
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Golden" tvg-logo="" group-title="Entretenimiento" tvg-shift="",Golden
+http://user.tvcluboficial.com/live/m/m/57.m3u8
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Golde Edge" tvg-logo="" group-title="Entretenimiento" tvg-shift="",Golde Edge
+http://user.tvcluboficial.com/live/m/m/58.m3u8
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Cine Marvel" tvg-logo="" group-title="Entretenimiento" tvg-shift="",Cine Marvel
+http://user.tvcluboficial.com/live/m/m/697.m3u8
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Cine Canal" tvg-logo="" group-title="Entretenimiento" tvg-shift="",Cine Canal
+http://user.tvcluboficial.com/live/m/m/18.m3u8
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Cinemax" tvg-logo="" group-title="Entretenimiento" tvg-shift="",Cinemax
+http://user.tvcluboficial.com/live/m/m/638.m3u8
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Space" tvg-logo="" group-title="Entretenimiento" tvg-shift="",Space
+http://user.tvcluboficial.com/live/m/m/83.m3u8
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Cartoon Network" tvg-logo="" group-title="Teen" tvg-shift="",Cartoon Network
+http://user.tvcluboficial.com/live/m/m/17.m3u8
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Disney" tvg-logo="" group-title="Teen" tvg-shift="",Disney
+http://user.tvcluboficial.com/live/m/m/29.m3u8
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Nick" tvg-logo="" group-title="Teen" tvg-shift="",Nick
+http://user.tvcluboficial.com/live/m/m/78.m3u8
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Nickelodeon" tvg-logo="" group-title="Teen" tvg-shift="",Nickelodeon
+http://user.tvcluboficial.com/live/m/m/184.m3u8
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Teen Nick" tvg-logo="" group-title="Teen" tvg-shift="",Teen Nick
+http://user.tvcluboficial.com/live/m/m/882.m3u8
+#EXTINF:0 type="stream" channelId="-1", cine infantil
+http://user.tvcluboficial.com/live/m/m/687.m3u8
+#EXTINF:0 type="stream" channelId="-1", BEIN OPCION 1
+http://user.tvcluboficial.com/live/m/m/376.m3u8
+#EXTINF:0 type="stream" channelId="-1", canal 5 opcion2 
+http://user.tvcluboficial.com/live/m/m/14.m3u8
+#EXTINF:0 type="stream" channelId="-1", sony
+http://user.tvcluboficial.com/live/m/m/145.m3u8
+#EXTINF:0 type="stream" channelId="-1", warner
+http://user.tvcluboficial.com/live/m/m/102.m3u8
+#EXTINF:0 type="stream" channelId="-1", history
+http://user.tvcluboficial.com/live/m/m/67.m3u8
+#EXTINF:0 type="stream" channelId="-1", animal planet
+http://user.tvcluboficial.com/live/m/m/633.m3u8
+#EXTINF:0 type="stream" channelId="-1", studio universal
+http://user.tvcluboficial.com/live/m/m/84.m3u8
+#EXTINF:0 type="stream" channelId="-1", golden
+http://user.tvcluboficial.com/live/m/m/57.m3u8
+#EXTINF:0 type="stream" channelId="-1", golde edge
+http://user.tvcluboficial.com/live/m/m/58.m3u8
+#EXTINF:0 type="stream" channelId="-1", cine marvel
+http://user.tvcluboficial.com/live/m/m/697.m3u8
+#EXTINF:0 type="stream" channelId="-1", cine canal
+http://user.tvcluboficial.com/live/m/m/18.m3u8
+#EXTINF:0 type="stream" channelId="-1", cinemax
+http://user.tvcluboficial.com/live/m/m/638.m3u8
+#EXTINF:0 type="stream" channelId="-1", space
+http://user.tvcluboficial.com/live/m/m/83.m3u8
+#EXTINF:0 type="stream" channelId="-1", animalplanet
+http://user.tvcluboficial.com/live/m/m/3.m3u8
+#EXTINF:0 type="stream" channelId="-1", azteca uno
+http://user.tvcluboficial.com/live/m/m/4.m3u8
+#EXTINF:0 type="stream" channelId="-1", azteca7
+http://user.tvcluboficial.com/live/m/m/5.m3u8
+#EXTINF:0 type="stream" channelId="-1", dorama5
+http://user.tvcluboficial.com/live/m/m/14.m3u8
+#EXTINF:0 type="stream" channelId="-1", once
+http://user.tvcluboficial.com/live/m/m/15.m3u8
+#EXTINF:0 type="stream" channelId="-1", discovery
+http://user.tvcluboficial.com/live/m/m/22.m3u8
+#EXTINF:0 type="stream" channelId="-1", discovery2
+http://user.tvcluboficial.com/live/m/m/23.m3u8
+#EXTINF:0 type="stream" channelId="-1", hh
+http://user.tvcluboficial.com/live/m/m/24.m3u8
+#EXTINF:0 type="stream" channelId="-1", discovery science
+http://user.tvcluboficial.com/live/m/m/26.m3u8
+#EXTINF:0 type="stream" channelId="-1", discovery turbo
+http://user.tvcluboficial.com/live/m/m/28.m3u8
+#EXTINF:0 type="stream" channelId="-1", disney channel
+http://user.tvcluboficial.com/live/m/m/29.m3u8
+#EXTINF:0 type="stream" channelId="-1", disney+
+http://user.tvcluboficial.com/live/m/m/30.m3u8
+#EXTINF:0 type="stream" channelId="-1", e!
+http://user.tvcluboficial.com/live/m/m/33.m3u8
+#EXTINF:0 type="stream" channelId="-1", ESPN
+http://user.tvcluboficial.com/live/m/m/34.m3u8
+#EXTINF:0 type="stream" channelId="-1", ESPN2
+http://user.tvcluboficial.com/live/m/m/35.m3u8
+#EXTINF:0 type="stream" channelId="-1", espn3
+http://user.tvcluboficial.com/live/m/m/36.m3u8
+#EXTINF:0 type="stream" channelId="-1", espn4
+http://user.tvcluboficial.com/live/m/m/37.m3u8
+#EXTINF:0 type="stream" channelId="-1", star channel
+http://user.tvcluboficial.com/live/m/m/45.m3u8
+#EXTINF:0 type="stream" channelId="-1", fox sports
+http://user.tvcluboficial.com/live/m/m/52.m3u8
+#EXTINF:0 type="stream" channelId="-1", fox sports2
+http://user.tvcluboficial.com/live/m/m/53.m3u8
+#EXTINF:0 type="stream" channelId="-1", fox sports3
+http://user.tvcluboficial.com/live/m/m/54.m3u8
+#EXTINF:0 type="stream" channelId="-1", vix
+http://user.tvcluboficial.com/live/m/m/56.m3u8
+#EXTINF:0 type="stream" channelId="-1", h2
+http://user.tvcluboficial.com/live/m/m/61.m3u8
+#EXTINF:0 type="stream" channelId="-1", hbo1
+http://user.tvcluboficial.com/live/m/m/62.m3u8
+#EXTINF:0 type="stream" channelId="-1", history1
+http://user.tvcluboficial.com/live/m/m/67.m3u8
+#EXTINF:0 type="stream" channelId="-1", nature
+http://user.tvcluboficial.com/live/m/m/77.m3u8
+#EXTINF:0 type="stream" channelId="-1", tudn1
+http://user.tvcluboficial.com/live/m/m/86.m3u8
+#EXTINF:0 type="stream" channelId="-1", tnt series
+http://user.tvcluboficial.com/live/m/m/90.m3u8
+#EXTINF:0 type="stream" channelId="-1", telemundo1
+http://user.tvcluboficial.com/live/m/m/92.m3u8
+#EXTINF:0 type="stream" channelId="-1", unicable
+http://user.tvcluboficial.com/live/m/m/98.m3u8
+#EXTINF:0 type="stream" channelId="-1", warner1
+http://user.tvcluboficial.com/live/m/m/102.m3u8
+#EXTINF:0 type="stream" channelId="-1", lifetime
+http://user.tvcluboficial.com/live/m/m/152.m3u8
+#EXTINF:0 type="stream" channelId="-1", tv azteca
+http://user.tvcluboficial.com/live/m/m/165.m3u8
+#EXTINF:0 type="stream" channelId="-1", estrella tv
+http://user.tvcluboficial.com/live/m/m/177.m3u8
+#EXTINF:0 type="stream" channelId="-1", amc
+http://user.tvcluboficial.com/live/m/m/183.m3u8
+#EXTINF:0 type="stream" channelId="-1", discovery world1
+http://user.tvcluboficial.com/live/m/m/187.m3u8
+#EXTINF:0 type="stream" channelId="-1", dazn
+http://user.tvcluboficial.com/live/m/m/192.m3u8
+#EXTINF:0 type="stream" channelId="-1", CIV deportes
+http://user.tvcluboficial.com/live/m/m/198.m3u8
+#EXTINF:0 type="stream" channelId="-1", tyc sports
+http://user.tvcluboficial.com/live/m/m/274.m3u8
+#EXTINF:0 type="stream" channelId="-1", FS Premium ingles
+http://user.tvcluboficial.com/live/m/m/276.m3u8
+#EXTINF:0 type="stream" channelId="-1", win sport  
+http://user.tvcluboficial.com/live/m/m/292.m3u8
+#EXTINF:0 type="stream" channelId="-1", fox sports1
+http://user.tvcluboficial.com/live/m/m/402.m3u8
+#EXTINF:0 type="stream" channelId="-1", chavo
+http://user.tvcluboficial.com/live/m/m/400.m3u8
+#EXTINF:0 type="stream" channelId="-1", cdo
+http://user.tvcluboficial.com/live/m/m/401.m3u8
+#EXTINF:0 type="stream" channelId="-1", chespirito
+http://user.tvcluboficial.com/live/m/m/417.m3u8
+#EXTINF:0 type="stream" channelId="-1", chapulin
+http://user.tvcluboficial.com/live/m/m/418.m3u8
+#EXTINF:0 type="stream" channelId="-1", tom y jerry
+http://user.tvcluboficial.com/live/m/m/421.m3u8
+#EXTINF:0 type="stream" channelId="-1", dragon ball1
+http://user.tvcluboficial.com/live/m/m/424.m3u8
+#EXTINF:0 type="stream" channelId="-1", dragon ball2
+http://user.tvcluboficial.com/live/m/m/425.m3u8
+#EXTINF:0 type="stream" channelId="-1", caballeros del zodiaco
+http://user.tvcluboficial.com/live/m/m/427.m3u8
+#EXTINF:0 type="stream" channelId="-1", universal1
+http://user.tvcluboficial.com/live/m/m/502.m3u8
+#EXTINF:0 type="stream" channelId="-1", tnt1
+http://user.tvcluboficial.com/live/m/m/500.m3u8
+#EXTINF:0 type="stream" channelId="-1", sony1
+http://user.tvcluboficial.com/live/m/m/498.m3u8
+#EXTINF:0 type="stream" channelId="-1", space1
+http://user.tvcluboficial.com/live/m/m/499.m3u8
+#EXTINF:0 type="stream" channelId="-1", tnt sports
+http://user.tvcluboficial.com/live/m/m/509.m3u8
+#EXTINF:0 type="stream" channelId="-1", goltv1
+http://user.tvcluboficial.com/live/m/m/514.m3u8
+#EXTINF:0 type="stream" channelId="-1", el gato cosmico
+http://user.tvcluboficial.com/live/m/m/521.m3u8
+#EXTINF:0 type="stream" channelId="-1", espn
+http://user.tvcluboficial.com/live/m/m/530.m3u8
+#EXTINF:0 type="stream" channelId="-1", cinemax1
+http://user.tvcluboficial.com/live/m/m/638.m3u8
+#EXTINF:0 type="stream" channelId="-1", discovery1
+http://user.tvcluboficial.com/live/m/m/639.m3u8
+#EXTINF:0 type="stream" channelId="-1", paramount1
+http://user.tvcluboficial.com/live/m/m/647.m3u8
+#EXTINF:0 type="stream" channelId="-1", telehit musica
+http://user.tvcluboficial.com/live/m/m/649.m3u8
+#EXTINF:0 type="stream" channelId="-1", hbo+
+http://user.tvcluboficial.com/live/m/m/655.m3u8
+#EXTINF:0 type="stream" channelId="-1", dsports2
+http://user.tvcluboficial.com/live/m/m/667.m3u8
+#EXTINF:0 type="stream" channelId="-1", los picapiedra
+http://user.tvcluboficial.com/live/m/m/669.m3u8
+#EXTINF:0 type="stream" channelId="-1", pelis1
+http://user.tvcluboficial.com/live/m/m/700.m3u8
+#EXTINF:0 type="stream" channelId="-1", pelis2
+http://user.tvcluboficial.com/live/m/m/701.m3u8
+#EXTINF:0 type="stream" channelId="-1", pelis3
+http://user.tvcluboficial.com/live/m/m/702.m3u8
+#EXTINF:0 type="stream" channelId="-1", pelis4
+http://user.tvcluboficial.com/live/m/m/703.m3u8
+#EXTINF:0 type="stream" channelId="-1", pelis5
+http://user.tvcluboficial.com/live/m/m/704.m3u8
+#EXTINF:0 type="stream" channelId="-1", pelis6
+http://user.tvcluboficial.com/live/m/m/705.m3u8
+#EXTINF:0 type="stream" channelId="-1", pelis7
+http://user.tvcluboficial.com/live/m/m/707.m3u8
+#EXTINF:0 type="stream" channelId="-1", pelis9
+http://user.tvcluboficial.com/live/m/m/709.m3u8
+#EXTINF:0 type="stream" channelId="-1", pelis10
+http://user.tvcluboficial.com/live/m/m/710.m3u8
+#EXTINF:0 type="stream" channelId="-1", pelis11
+http://user.tvcluboficial.com/live/m/m/711.m3u8
+#EXTINF:0 type="stream" channelId="-1", pelis12
+http://user.tvcluboficial.com/live/m/m/712.m3u8
+#EXTINF:0 type="stream" channelId="-1", axn
+http://user.tvcluboficial.com/live/m/m/713.m3u8
+#EXTINF:0 type="stream" channelId="-1", axn movies
+http://user.tvcluboficial.com/live/m/m/714.m3u8
+#EXTINF:0 type="stream" channelId="-1", wb
+http://user.tvcluboficial.com/live/m/m/716.m3u8
+#EXTINF:0 type="stream" channelId="-1", cerebro
+http://user.tvcluboficial.com/live/m/m/721.m3u8
+#EXTINF:0 type="stream" channelId="-1", ecdc el canal del futbol
+http://user.tvcluboficial.com/live/m/m/725.m3u8
+#EXTINF:0 type="stream" channelId="-1", hbo family1
+http://user.tvcluboficial.com/live/m/m/728.m3u8
+#EXTINF:0 type="stream" channelId="-1", win sports1
+http://user.tvcluboficial.com/live/m/m/754.m3u8
+#EXTINF:0 type="stream" channelId="-1", fox sports5
+http://user.tvcluboficial.com/live/m/m/769.m3u8
+#EXTINF:0 type="stream" channelId="-1", win sports+
+http://user.tvcluboficial.com/live/m/m/802.m3u8
+#EXTINF:0 type="stream" channelId="-1", win sports+1
+http://user.tvcluboficial.com/live/m/m/881.m3u8
+#EXTINF:0 type="stream" channelId="-1", pelis13
+http://user.tvcluboficial.com/live/m/m/800.m3u8
+#EXTINF:0 type="stream" channelId="-1", tudn
+http://user.tvcluboficial.com/live/m/m/801.m3u8
+#EXTINF:0 type="stream" channelId="-1", espn1
+http://user.tvcluboficial.com/live/m/m/842.m3u8
+#EXTINF:0 type="stream" channelId="-1", dhe
+http://user.tvcluboficial.com/live/m/m/844.m3u8
+#EXTINF:0 type="stream" channelId="-1", pelis14
+http://user.tvcluboficial.com/live/m/m/885.m3u8
+#EXTINF:0 type="stream" channelId="-1", los simpsons
+http://user.tvcluboficial.com/live/m/m/894.m3u8
+#EXTINF:0 type="stream" channelId="-1", sky sports bundesliga
+http://user.tvcluboficial.com/live/m/m/900.m3u8
+#EXTINF:0 type="stream" channelId="-1", universal premier
+http://user.tvcluboficial.com/live/m/m/901.m3u8
+#EXTINF:0 type="stream" channelId="-1", universal comedy
+http://user.tvcluboficial.com/live/m/m/903.m3u8
+#EXTINF:0 type="stream" channelId="-1", chile tv
+http://user.tvcluboficial.com/live/m/m/906.m3u8
+#EXTINF:0 type="stream" channelId="-1", pelis15
+http://user.tvcluboficial.com/live/m/m/915.m3u8
+#EXTINF:0 type="stream" channelId="-1", pelis16 
+http://user.tvcluboficial.com/live/m/m/917.m3u8
+#EXTINF:0 type="stream" channelId="-1", dmax
+http://user.tvcluboficial.com/live/m/m/923.m3u8
+#EXTINF:0 type="stream" channelId="-1", deportes por movistar+
+http://user.tvcluboficial.com/live/m/m/925.m3u8
+#EXTINF:0 type="stream" channelId="-1", canal5
+http://user.tvcluboficial.com/live/m/m/941.m3u8
+#EXTINF:0 type="stream" channelId="-1", a3cine
+http://user.tvcluboficial.com/live/m/m/945.m3u8
+#EXTINF:0 type="stream" channelId="-1", bitme
+http://user.tvcluboficial.com/live/m/m/946.m3u8
+#EXTINF:0 type="stream" channelId="-1", espn4
+http://user.tvcluboficial.com/live/m/m/951.m3u8
+#EXTINF:0 type="stream" channelId="-1", espn premium
+http://user.tvcluboficial.com/live/m/m/952.m3u8
+#EXTINF:0 type="stream" channelId="-1", musica 80s
+http://user.tvcluboficial.com/live/m/m/954.m3u8
+#EXTINF:0 type="stream" channelId="-1", cine con subtitulos español
+http://user.tvcluboficial.com/live/m/m/957.m3u8
+#EXTINF:0 type="stream" channelId="-1", hbo family2
+http://user.tvcluboficial.com/live/m/m/968.m3u8
+#EXTINF:0 type="stream" channelId="-1", espn premium
+http://user.tvcluboficial.com/live/m/m/972.m3u8
+#EXTINF:0 type="stream" channelId="-1", dsports1
+http://user.tvcluboficial.com/live/m/m/974.m3u8
+#EXTINF:0 type="stream" channelId="-1", dsports2
+http://user.tvcluboficial.com/live/m/m/975.m3u8
+#EXTINF:0 type="stream" channelId="-1", estrenos por movistar
+http://user.tvcluboficial.com/live/m/m/976.m3u8
+#EXTINF:0 type="stream" channelId="-1", fox sports3
+http://user.tvcluboficial.com/live/m/m/988.m3u8
+#EXTINF:0 type="stream" channelId="-1", sky sports
+http://user.tvcluboficial.com/live/m/m/989.m3u8
+#EXTINF:0 type="stream" channelId="-1", pelis17
+http://user.tvcluboficial.com/live/m/m/990.m3u8
+#EXTINF:0 type="stream" channelId="-1", pelis18
+http://user.tvcluboficial.com/live/m/m/1022.m3u8
+
+
