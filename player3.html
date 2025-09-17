@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>IPTV MultiPlayer Dinámico</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #000;
+      color: #fff;
+      display: flex;
+      flex-direction: column;
+      height: 100vh;
+    }
+
+    header {
+      background-color: #111;
+      padding: 1rem;
+      text-align: center;
+      border-bottom: 1px solid #333;
+    }
+
+    header button {
+      margin-top: 8px;
+      padding: 6px 12px;
+      border: none;
+      border-radius: 6px;
+      cursor: pointer;
+      background: #333;
+      color: #fff;
+      font-size: 0.9rem;
+      transition: background 0.2s;
+    }
+
+    header button:hover {
+      background: #555;
+    }
+
+    footer {
+      background-color: #111;
+      padding: 10px;
+      text-align: center;
+      border-top: 1px solid #333;
+      font-size: 0.9rem;
+    }
+
+    .grid-container {
+      flex: 1;
+      display: grid;
+      gap: 3px;
+      background: #000;
+      height: 100%; /* ocupa todo el espacio disponible */
+    }
+
+    .video-box {
+      display: flex;
+      flex-direction: column;
+      background: #000;
+      border: 1px solid #222;
+    }
+
+    video {
+      width: 100%;
+      height: 100%;
+      object-fit: cover; /* llena el espacio manteniendo proporción */
+      cursor: pointer;
+    }
+
+    .controls {
+      display: flex;
+      justify-content: center;
+      gap: 8px;
+      background: #111;
+      padding: 5px;
+    }
+
+    .controls button {
+      padding: 4px 8px;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      background: #333;
+      color: #fff;
+      font-size: 0.9rem;
+      transition: background 0.2s;
+    }
+
+    .controls button:hover {
+      background: #555;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h2>📺 IPTV MultiPlayer Dinámico</h2>
+    <p>Haz clic en una ventana para activar su audio</p>
+    <button onclick="restaurarVentanas()">🔄 Restaurar Ventanas</button>
+  </header>
+
+  <div class="grid-container" id="grid"></div>
+
+  <footer>
+    © 2025 IPTV MultiPlayer | GPLv3
+  </footer>
+
+  <script>
+    const streams = {
+      ventana1: "http://181.119.85.222:8000/play/a00m/index.m3u8",
+      ventana2: "http://181.119.85.222:8000/play/a00n/index.m3u8",
+      ventana3: "http://181.119.85.222:8000/play/a01q/index.m3u8",
+      ventana4: "http://181.119.85.222:8000/play/a01q/index.m3u8"
+    };
+
+    const grid = document.getElementById("grid");
+
+    function ajustarGrid() {
+      const count = grid.children.length;
+      [...grid.children].forEach(c => c.style.gridColumn = "auto"); // reset
+
+      if (count === 4) {
+        grid.style.gridTemplateColumns = "repeat(2, 1fr)";
+        grid.style.gridTemplateRows = "repeat(2, 1fr)";
+      } else if (count === 3) {
+        grid.style.gridTemplateColumns = "repeat(2, 1fr)";
+        grid.style.gridTemplateRows = "1fr 1fr";
+        grid.children[0].style.gridColumn = "1 / span 2"; // primera ocupa toda la fila
+      } else if (count === 2) {
+        grid.style.gridTemplateColumns = "1fr";
+        grid.style.gridTemplateRows = "1fr 1fr";
+      } else if (count === 1) {
+        grid.style.gridTemplateColumns = "1fr";
+        grid.style.gridTemplateRows = "1fr";
+      }
+    }
+
+    function crearVideoBox(id, url) {
+      const box = document.createElement("div");
+      box.className = "video-box";
+      box.id = "box_" + id;
+
+      box.innerHTML = `
+        <video id="${id}" autoplay muted></video>
+        <div class="controls">
+          <button onclick="pausar('${id}')">⏸ Pausar</button>
+          <button onclick="continuar('${id}')">▶️ Continuar</button>
+          <button onclick="cerrar('box_${id}')">❌ Cerrar</button>
+          <button onclick="pantallaCompleta('box_${id}')">⛶ Full</button>
+        </div>
+      `;
+
+      grid.appendChild(box);
+      playStream(id, url);
+
+      const video = box.querySelector("video");
+      video.addEventListener("click", () => {
+        document.querySelectorAll("video").forEach(v => v.muted = true);
+        video.muted = false;
+        video.focus();
+      });
+
+      ajustarGrid();
+    }
+
+    function playStream(videoId, src) {
+      const video = document.getElementById(videoId);
+      if (Hls.isSupported()) {
+        const hls = new Hls();
+        hls.loadSource(src);
+        hls.attachMedia(video);
+      } else if (video.canPlayType('application/vnd.apple.mpegurl')) {
+        video.src = src;
+      }
+    }
+
+    function restaurarVentanas() {
+      grid.innerHTML = ""; // limpiar
+      for (const [id, url] of Object.entries(streams)) {
+        crearVideoBox(id, url);
+      }
+      ajustarGrid();
+    }
+
+    // Inicializar con 4 ventanas
+    restaurarVentanas();
+
+    // Controles
+    function pausar(id) {
+      const v = document.getElementById(id);
+      v.pause();
+    }
+
+    function continuar(id) {
+      const v = document.getElementById(id);
+      v.play();
+    }
+
+    function cerrar(boxId) {
+      const box = document.getElementById(boxId);
+      if (box) {
+        box.remove();
+        ajustarGrid();
+      }
+    }
+
+    function pantallaCompleta(boxId) {
+      const box = document.getElementById(boxId);
+      if (box.requestFullscreen) {
+        box.requestFullscreen();
+      } else if (box.webkitRequestFullscreen) {
+        box.webkitRequestFullscreen();
+      } else if (box.msRequestFullscreen) {
+        box.msRequestFullscreen();
+      }
+    }
+  </script>
+</body>
+</html>
