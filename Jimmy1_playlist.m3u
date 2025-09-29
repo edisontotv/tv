@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="UNITEL HD SCZ" tvg-logo="https://i.postimg.cc/CKXsSpNJ/UNITEL.jpg" group-title="BOLIVIA",UNITEL HD SCZ
-http://mastvapp.com:80/live/Jimmy1/Jimmy1/4894a4fb-2f3d-4fe5-afd4-feaa6192046f.m3u
+http://mastvapp.com:80/live/Jimmy1/Jimmy1/4894a4fb-2f3d-4fe5-afd4-feaa6192046f.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="UNITEL HD SC (OP2)" tvg-logo="https://i.postimg.cc/CKXsSpNJ/UNITEL.jpg" group-title="BOLIVIA",UNITEL HD SC (OP2)
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/19225d81-c48d-40e9-bf8c-23a0a4c432e8.m3u
 #EXTINF:-1 tvg-id="" tvg-name="UNITEL HD SC (OP3)" tvg-logo="https://i.postimg.cc/CKXsSpNJ/UNITEL.jpg" group-title="BOLIVIA",UNITEL HD SC (OP3)
@@ -889,4 +889,5 @@ http://mastvapp.com:80/live/Jimmy1/Jimmy1/aff75e93-26f0-4e23-b66c-3bcec207df88.m
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/f3e27f54-1d61-46c3-9321-76003672a565.m3u
 #EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD" tvg-logo="https://i.postimg.cc/rFGzSbgL/NAT-WILD.jpg" group-title="CULTURA-DOCUMENTALES",NAT GEO WILD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/6591c873-1509-4284-8f80-97dc97998e54.m3u
+
 
