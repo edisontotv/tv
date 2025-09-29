@@ -1,892 +1,892 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="UNITEL HD SCZ"  group-title="BOLIVIA",UNITEL HD SCZ
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/4894a4fb-2f3d-4fe5-afd4-feaa6192046f.m3u
-#EXTINF:-1 tvg-id="" tvg-name="UNITEL HD SC (OP2)" https://i.postimg.cc/CKXsSpNJ/UNITEL.jpg" group-title="BOLIVIA",UNITEL HD SC (OP2)
+#EXTINF:-1 tvg-id="" tvg-name="UNITEL HD SC (OP2)" tvg-logo="https://i.postimg.cc/CKXsSpNJ/UNITEL.jpg" group-title="BOLIVIA",UNITEL HD SC (OP2)
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/19225d81-c48d-40e9-bf8c-23a0a4c432e8.m3u
-#EXTINF:-1 tvg-id="" tvg-name="UNITEL HD SC (OP3)" https://i.postimg.cc/CKXsSpNJ/UNITEL.jpg" group-title="BOLIVIA",UNITEL HD SC (OP3)
+#EXTINF:-1 tvg-id="" tvg-name="UNITEL HD SC (OP3)" tvg-logo="https://i.postimg.cc/CKXsSpNJ/UNITEL.jpg" group-title="BOLIVIA",UNITEL HD SC (OP3)
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/bc727349-fd9a-4b46-955c-dbf4c723284f.m3u
-#EXTINF:-1 tvg-id="" tvg-name="UNITEL HD LPZ" https://i.postimg.cc/CKXsSpNJ/UNITEL.jpg" group-title="BOLIVIA",UNITEL HD LPZ
+#EXTINF:-1 tvg-id="" tvg-name="UNITEL HD LPZ" tvg-logo="https://i.postimg.cc/CKXsSpNJ/UNITEL.jpg" group-title="BOLIVIA",UNITEL HD LPZ
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/5c52638a-549c-4151-a4c9-58180bd151a2.m3u
-#EXTINF:-1 tvg-id="" tvg-name="UNITEL SD LPZ (OP2)" https://i.postimg.cc/CKXsSpNJ/UNITEL.jpg" group-title="BOLIVIA",UNITEL SD LPZ (OP2)
+#EXTINF:-1 tvg-id="" tvg-name="UNITEL SD LPZ (OP2)" tvg-logo="https://i.postimg.cc/CKXsSpNJ/UNITEL.jpg" group-title="BOLIVIA",UNITEL SD LPZ (OP2)
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/1bdbe581-334a-4668-8220-2b75b5f48799.m3u
-#EXTINF:-1 tvg-id="" tvg-name="UNITEL HD CBBA" https://i.postimg.cc/CKXsSpNJ/UNITEL.jpg" group-title="BOLIVIA",UNITEL HD CBBA
+#EXTINF:-1 tvg-id="" tvg-name="UNITEL HD CBBA" tvg-logo="https://i.postimg.cc/CKXsSpNJ/UNITEL.jpg" group-title="BOLIVIA",UNITEL HD CBBA
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/3aabb220-a605-4dde-bdd5-275684f9ca2f.m3u
-#EXTINF:-1 tvg-id="" tvg-name="UNITEL GLOBAL HD (Tarija)" https://i.postimg.cc/CKXsSpNJ/UNITEL.jpg" group-title="BOLIVIA",UNITEL GLOBAL HD (Tarija)
+#EXTINF:-1 tvg-id="" tvg-name="UNITEL GLOBAL HD (Tarija)" tvg-logo="https://i.postimg.cc/CKXsSpNJ/UNITEL.jpg" group-title="BOLIVIA",UNITEL GLOBAL HD (Tarija)
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/1fc07eee-1701-4ca7-ac8f-965341171610.m3u
-#EXTINF:-1 tvg-id="" tvg-name="RED UNO HD SCZ" https://i.postimg.cc/QdnpJZRs/RED-UNO.jpg" group-title="BOLIVIA",RED UNO HD SCZ
+#EXTINF:-1 tvg-id="" tvg-name="RED UNO HD SCZ" tvg-logo="https://i.postimg.cc/QdnpJZRs/RED-UNO.jpg" group-title="BOLIVIA",RED UNO HD SCZ
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/00a3e083-2a85-4d10-9c6a-415770328dc6.m3u
-#EXTINF:-1 tvg-id="" tvg-name="RED UNO HD SC (OP2)" https://i.postimg.cc/QdnpJZRs/RED-UNO.jpg" group-title="BOLIVIA",RED UNO HD SC (OP2)
+#EXTINF:-1 tvg-id="" tvg-name="RED UNO HD SC (OP2)" tvg-logo="https://i.postimg.cc/QdnpJZRs/RED-UNO.jpg" group-title="BOLIVIA",RED UNO HD SC (OP2)
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/8671b423-db04-4d7c-b3d3-da5eff5aab8b.m3u
-#EXTINF:-1 tvg-id="" tvg-name="RED UNO HD LPZ" https://i.postimg.cc/QdnpJZRs/RED-UNO.jpg" group-title="BOLIVIA",RED UNO HD LPZ
+#EXTINF:-1 tvg-id="" tvg-name="RED UNO HD LPZ" tvg-logo="https://i.postimg.cc/QdnpJZRs/RED-UNO.jpg" group-title="BOLIVIA",RED UNO HD LPZ
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/f641f350-3d4f-4a85-989a-2c8c110086fa.m3u
-#EXTINF:-1 tvg-id="" tvg-name="RED UNO HD CBBA" https://i.postimg.cc/QdnpJZRs/RED-UNO.jpg" group-title="BOLIVIA",RED UNO HD CBBA
+#EXTINF:-1 tvg-id="" tvg-name="RED UNO HD CBBA" tvg-logo="https://i.postimg.cc/QdnpJZRs/RED-UNO.jpg" group-title="BOLIVIA",RED UNO HD CBBA
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/ecb055c7-2333-4008-bdd0-af5c9145369c.m3u
-#EXTINF:-1 tvg-id="" tvg-name="RED UNO HD (Tarija)" https://i.postimg.cc/QdnpJZRs/RED-UNO.jpg" group-title="BOLIVIA",RED UNO HD (Tarija)
+#EXTINF:-1 tvg-id="" tvg-name="RED UNO HD (Tarija)" tvg-logo="https://i.postimg.cc/QdnpJZRs/RED-UNO.jpg" group-title="BOLIVIA",RED UNO HD (Tarija)
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/1e717db0-1028-4123-855e-ae51c55b4c57.m3u
-#EXTINF:-1 tvg-id="" tvg-name="BOLIVISION HD LPZ" https://i.postimg.cc/NMwRtQMq/BOLIVISION.jpg" group-title="BOLIVIA",BOLIVISION HD LPZ
+#EXTINF:-1 tvg-id="" tvg-name="BOLIVISION HD LPZ" tvg-logo="https://i.postimg.cc/NMwRtQMq/BOLIVISION.jpg" group-title="BOLIVIA",BOLIVISION HD LPZ
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/95518d48-b69c-457a-b45a-9d46049edefa.m3u
-#EXTINF:-1 tvg-id="" tvg-name="BOLIVISION HD LPZ (OP2)" https://i.postimg.cc/NMwRtQMq/BOLIVISION.jpg" group-title="BOLIVIA",BOLIVISION HD LPZ (OP2)
+#EXTINF:-1 tvg-id="" tvg-name="BOLIVISION HD LPZ (OP2)" tvg-logo="https://i.postimg.cc/NMwRtQMq/BOLIVISION.jpg" group-title="BOLIVIA",BOLIVISION HD LPZ (OP2)
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/2b337c6a-ed37-4b31-81fb-7a403ba3e558.m3u
-#EXTINF:-1 tvg-id="" tvg-name="BOLIVISION HD SCZ" https://i.postimg.cc/NMwRtQMq/BOLIVISION.jpg" group-title="BOLIVIA",BOLIVISION HD SCZ
+#EXTINF:-1 tvg-id="" tvg-name="BOLIVISION HD SCZ" tvg-logo="https://i.postimg.cc/NMwRtQMq/BOLIVISION.jpg" group-title="BOLIVIA",BOLIVISION HD SCZ
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/1fcf9ba7-62ad-4484-8e6b-953b00cdc677.m3u
-#EXTINF:-1 tvg-id="" tvg-name="BOLIVISION HD CBBA" https://i.postimg.cc/NMwRtQMq/BOLIVISION.jpg" group-title="BOLIVIA",BOLIVISION HD CBBA
+#EXTINF:-1 tvg-id="" tvg-name="BOLIVISION HD CBBA" tvg-logo="https://i.postimg.cc/NMwRtQMq/BOLIVISION.jpg" group-title="BOLIVIA",BOLIVISION HD CBBA
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/c026570f-004e-4198-90e8-8ef82d73ebb4.m3u
-#EXTINF:-1 tvg-id="" tvg-name="BOLIVISION HD (Tarija)" https://i.postimg.cc/NMwRtQMq/BOLIVISION.jpg" group-title="BOLIVIA",BOLIVISION HD (Tarija)
+#EXTINF:-1 tvg-id="" tvg-name="BOLIVISION HD (Tarija)" tvg-logo="https://i.postimg.cc/NMwRtQMq/BOLIVISION.jpg" group-title="BOLIVIA",BOLIVISION HD (Tarija)
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/c13e0aa6-e8e5-4d5a-9d96-437931c76b0c.m3u
-#EXTINF:-1 tvg-id="" tvg-name="ATB HD SCZ" https://i.postimg.cc/526BqPGG/ATB-BOLIVIA.jpg" group-title="BOLIVIA",ATB HD SCZ
+#EXTINF:-1 tvg-id="" tvg-name="ATB HD SCZ" tvg-logo="https://i.postimg.cc/526BqPGG/ATB-BOLIVIA.jpg" group-title="BOLIVIA",ATB HD SCZ
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/56583f4d-15b4-4d67-87e0-65185f62c447.m3u
-#EXTINF:-1 tvg-id="" tvg-name="ATB HD LPZ" https://i.postimg.cc/526BqPGG/ATB-BOLIVIA.jpg" group-title="BOLIVIA",ATB HD LPZ
+#EXTINF:-1 tvg-id="" tvg-name="ATB HD LPZ" tvg-logo="https://i.postimg.cc/526BqPGG/ATB-BOLIVIA.jpg" group-title="BOLIVIA",ATB HD LPZ
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/e9462ae9-2613-43cd-8e23-2e4de3e6eea0.m3u
-#EXTINF:-1 tvg-id="" tvg-name="ATB HD CBBA" https://i.postimg.cc/526BqPGG/ATB-BOLIVIA.jpg" group-title="BOLIVIA",ATB HD CBBA
+#EXTINF:-1 tvg-id="" tvg-name="ATB HD CBBA" tvg-logo="https://i.postimg.cc/526BqPGG/ATB-BOLIVIA.jpg" group-title="BOLIVIA",ATB HD CBBA
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/b9dd50cb-7d25-4031-8a5f-3586d764d42f.m3u
-#EXTINF:-1 tvg-id="" tvg-name="ATB HD (Tarija)" https://i.postimg.cc/526BqPGG/ATB-BOLIVIA.jpg" group-title="BOLIVIA",ATB HD (Tarija)
+#EXTINF:-1 tvg-id="" tvg-name="ATB HD (Tarija)" tvg-logo="https://i.postimg.cc/526BqPGG/ATB-BOLIVIA.jpg" group-title="BOLIVIA",ATB HD (Tarija)
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/fa23b916-bf44-440c-b464-ef013bafb9af.m3u
-#EXTINF:-1 tvg-id="" tvg-name="TLNOVELAS" https://i.postimg.cc/sXNySgZb/TLNOVELAS.jpg" group-title="BOLIVIA",TLNOVELAS
+#EXTINF:-1 tvg-id="" tvg-name="TLNOVELAS" tvg-logo="https://i.postimg.cc/sXNySgZb/TLNOVELAS.jpg" group-title="BOLIVIA",TLNOVELAS
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/eb6abac8-139a-42b1-8893-693a506a0efa.m3u
-#EXTINF:-1 tvg-id="" tvg-name="PAT HD" https://i.postimg.cc/zX9B60v4/PAT-TV.jpg" group-title="BOLIVIA",PAT HD
+#EXTINF:-1 tvg-id="" tvg-name="PAT HD" tvg-logo="https://i.postimg.cc/zX9B60v4/PAT-TV.jpg" group-title="BOLIVIA",PAT HD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/d2514493-d811-48a4-ae06-67ac735881bb.m3u
-#EXTINF:-1 tvg-id="" tvg-name="DTV HD" https://i.postimg.cc/brZyFthz/RED-DTV.jpg" group-title="BOLIVIA",DTV HD
+#EXTINF:-1 tvg-id="" tvg-name="DTV HD" tvg-logo="https://i.postimg.cc/brZyFthz/RED-DTV.jpg" group-title="BOLIVIA",DTV HD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/edbc4c5d-a4a0-40a9-a3e6-9b468d9bf48b.m3u
-#EXTINF:-1 tvg-id="" tvg-name="RTP" https://i.postimg.cc/yx21q810/RTP.jpg" group-title="BOLIVIA",RTP
+#EXTINF:-1 tvg-id="" tvg-name="RTP" tvg-logo="https://i.postimg.cc/yx21q810/RTP.jpg" group-title="BOLIVIA",RTP
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/023fa5e3-de93-41bf-9316-8ce3ca0d6ba9.m3u
-#EXTINF:-1 tvg-id="" tvg-name="CADENA A" https://i.postimg.cc/nzYBcNjs/CADENA-RED-NACIONAL.jpg" group-title="BOLIVIA",CADENA A
+#EXTINF:-1 tvg-id="" tvg-name="CADENA A" tvg-logo="https://i.postimg.cc/nzYBcNjs/CADENA-RED-NACIONAL.jpg" group-title="BOLIVIA",CADENA A
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/00210c3d-d87a-4be4-8353-efa21afc354f.m3u
-#EXTINF:-1 tvg-id="" tvg-name="BOLIVIA TV HD" https://i.postimg.cc/25Wng1C7/BOLIVIA-TV.jpg" group-title="BOLIVIA",BOLIVIA TV HD
+#EXTINF:-1 tvg-id="" tvg-name="BOLIVIA TV HD" tvg-logo="https://i.postimg.cc/25Wng1C7/BOLIVIA-TV.jpg" group-title="BOLIVIA",BOLIVIA TV HD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/6fd1aa5a-b9c7-416e-8e6b-c9755624104e.m3u
-#EXTINF:-1 tvg-id="" tvg-name="BOLIVIA TV 7.2 HD" https://i.postimg.cc/25Wng1C7/BOLIVIA-TV.jpg" group-title="BOLIVIA",BOLIVIA TV 7.2 HD
+#EXTINF:-1 tvg-id="" tvg-name="BOLIVIA TV 7.2 HD" tvg-logo="https://i.postimg.cc/25Wng1C7/BOLIVIA-TV.jpg" group-title="BOLIVIA",BOLIVIA TV 7.2 HD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/3947a95f-cabe-4470-b542-65709cd56e99.m3u
-#EXTINF:-1 tvg-id="" tvg-name="GIGAVISION HD LPZ" https://i.postimg.cc/kgbVgLLn/GIGAVISION.jpg" group-title="BOLIVIA",GIGAVISION HD LPZ
+#EXTINF:-1 tvg-id="" tvg-name="GIGAVISION HD LPZ" tvg-logo="https://i.postimg.cc/kgbVgLLn/GIGAVISION.jpg" group-title="BOLIVIA",GIGAVISION HD LPZ
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/49f359b6-c7ea-43b7-8b97-b4cb5910df01.m3u
-#EXTINF:-1 tvg-id="" tvg-name="GIGAVISION HD SC" https://i.postimg.cc/kgbVgLLn/GIGAVISION.jpg" group-title="BOLIVIA",GIGAVISION HD SC
+#EXTINF:-1 tvg-id="" tvg-name="GIGAVISION HD SC" tvg-logo="https://i.postimg.cc/kgbVgLLn/GIGAVISION.jpg" group-title="BOLIVIA",GIGAVISION HD SC
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/835c3fc3-2bb4-4cfc-9afd-5777f4fd3843.m3u
-#EXTINF:-1 tvg-id="" tvg-name="F10 HD" https://i.postimg.cc/rsw0ys2b/F10.jpg" group-title="BOLIVIA",F10 HD
+#EXTINF:-1 tvg-id="" tvg-name="F10 HD" tvg-logo="https://i.postimg.cc/rsw0ys2b/F10.jpg" group-title="BOLIVIA",F10 HD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/c33884ef-41ad-40b6-8b4e-72197e0de81b.m3u
-#EXTINF:-1 tvg-id="" tvg-name="TVU UAGRM" https://i.postimg.cc/tTYJ8fdQ/TVU-UAGRM.jpg" group-title="BOLIVIA",TVU UAGRM
+#EXTINF:-1 tvg-id="" tvg-name="TVU UAGRM" tvg-logo="https://i.postimg.cc/tTYJ8fdQ/TVU-UAGRM.jpg" group-title="BOLIVIA",TVU UAGRM
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/d4ea38f7-340e-4eb8-9488-66abcc019bea.m3u
-#EXTINF:-1 tvg-id="" tvg-name="TVU PANDO" https://i.postimg.cc/434mQnm3/TVU-PANDO.jpg" group-title="BOLIVIA",TVU PANDO
+#EXTINF:-1 tvg-id="" tvg-name="TVU PANDO" tvg-logo="https://i.postimg.cc/434mQnm3/TVU-PANDO.jpg" group-title="BOLIVIA",TVU PANDO
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/ec6357f8-a983-4008-a932-d380205160b8.m3u
-#EXTINF:-1 tvg-id="" tvg-name="TVU SUCRE" https://i.postimg.cc/tgr7SyxN/TVU-SUCRE.jpg" group-title="BOLIVIA",TVU SUCRE
+#EXTINF:-1 tvg-id="" tvg-name="TVU SUCRE" tvg-logo="https://i.postimg.cc/tgr7SyxN/TVU-SUCRE.jpg" group-title="BOLIVIA",TVU SUCRE
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/f58061d5-8c3d-40af-9eb8-603fa097c8d8.m3u
-#EXTINF:-1 tvg-id="" tvg-name="UNIVALLE HD CBBA" https://i.postimg.cc/qRSqrLQt/TVU-UNIVALLE.jpg" group-title="BOLIVIA",UNIVALLE HD CBBA
+#EXTINF:-1 tvg-id="" tvg-name="UNIVALLE HD CBBA" tvg-logo="https://i.postimg.cc/qRSqrLQt/TVU-UNIVALLE.jpg" group-title="BOLIVIA",UNIVALLE HD CBBA
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/e321fae6-f024-4ff5-85b9-71db20b35a34.m3u
-#EXTINF:-1 tvg-id="" tvg-name="UMSS HD CBBA" https://i.postimg.cc/K82K40bB/TVU-COCHABAMBA.jpg" group-title="BOLIVIA",UMSS HD CBBA
+#EXTINF:-1 tvg-id="" tvg-name="UMSS HD CBBA" tvg-logo="https://i.postimg.cc/K82K40bB/TVU-COCHABAMBA.jpg" group-title="BOLIVIA",UMSS HD CBBA
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/d4ebc8dc-d7a9-4cfa-aec2-00c136a483c4.m3u
-#EXTINF:-1 tvg-id="" tvg-name="SCM TV CBBA" https://i.postimg.cc/RCgJs7cz/FLATEL-TV.jpg" group-title="BOLIVIA",SCM TV CBBA
+#EXTINF:-1 tvg-id="" tvg-name="SCM TV CBBA" tvg-logo="https://i.postimg.cc/RCgJs7cz/FLATEL-TV.jpg" group-title="BOLIVIA",SCM TV CBBA
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/198b6ff5-56f1-432d-841c-77452a16d081.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Red CCTv CBBA 2" https://i.postimg.cc/mkLMcVCm/CCTV-COCHABAMBA.jpg" group-title="BOLIVIA",Red CCTv CBBA 2
+#EXTINF:-1 tvg-id="" tvg-name="Red CCTv CBBA 2" tvg-logo="https://i.postimg.cc/mkLMcVCm/CCTV-COCHABAMBA.jpg" group-title="BOLIVIA",Red CCTv CBBA 2
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/2037172d-84dc-47d4-85cb-72bb81a99fff.m3u
-#EXTINF:-1 tvg-id="" tvg-name="VISION CRUZ Montero" " group-title="BOLIVIA",VISION CRUZ Montero
+#EXTINF:-1 tvg-id="" tvg-name="VISION CRUZ Montero" tvg-logo="" group-title="BOLIVIA",VISION CRUZ Montero
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/8ad3fd8c-2aea-419f-a48c-a96ad0f58835.m3u
-#EXTINF:-1 tvg-id="" tvg-name="SNTV HD SC" " group-title="BOLIVIA",SNTV HD SC
+#EXTINF:-1 tvg-id="" tvg-name="SNTV HD SC" tvg-logo="" group-title="BOLIVIA",SNTV HD SC
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/cf12da60-15f2-4631-b42c-93b6f86869f8.m3u
-#EXTINF:-1 tvg-id="" tvg-name="TV NORTE SC" https://i.postimg.cc/RCfRMPTw/bba24d35b1527e7c66fc4c4fc99341da.png" group-title="BOLIVIA",TV NORTE SC
+#EXTINF:-1 tvg-id="" tvg-name="TV NORTE SC" tvg-logo="https://i.postimg.cc/RCfRMPTw/bba24d35b1527e7c66fc4c4fc99341da.png" group-title="BOLIVIA",TV NORTE SC
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/61ba3c16-c727-4ad2-a9c5-2b95d912406e.m3u
-#EXTINF:-1 tvg-id="" tvg-name="SITEL SC" https://i.postimg.cc/43q6Gt78/images.png" group-title="BOLIVIA",SITEL SC
+#EXTINF:-1 tvg-id="" tvg-name="SITEL SC" tvg-logo="https://i.postimg.cc/43q6Gt78/images.png" group-title="BOLIVIA",SITEL SC
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/4df1b09b-e38f-42ab-b1df-3237f8d34e89.m3u
-#EXTINF:-1 tvg-id="" tvg-name="FTV SC" " group-title="BOLIVIA",FTV SC
+#EXTINF:-1 tvg-id="" tvg-name="FTV SC" tvg-logo="" group-title="BOLIVIA",FTV SC
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/a52117d0-4517-4b9d-b521-5544fd2b7cdc.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Abya Yala Tv" https://i.postimg.cc/65HVZsHn/ABAYA-YALA.jpg" group-title="BOLIVIA",Abya Yala Tv
+#EXTINF:-1 tvg-id="" tvg-name="Abya Yala Tv" tvg-logo="https://i.postimg.cc/65HVZsHn/ABAYA-YALA.jpg" group-title="BOLIVIA",Abya Yala Tv
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/88d8c2bb-5eec-49b4-8339-1cac992491d7.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Red Advenir" https://i.postimg.cc/C1PMN49P/RED-ADVENIR.jpg" group-title="BOLIVIA",Red Advenir
+#EXTINF:-1 tvg-id="" tvg-name="Red Advenir" tvg-logo="https://i.postimg.cc/C1PMN49P/RED-ADVENIR.jpg" group-title="BOLIVIA",Red Advenir
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/f04a293f-94d0-4273-baf1-8161ab6abd25.m3u
-#EXTINF:-1 tvg-id="" tvg-name="DELTA TV" https://i.postimg.cc/6QCGYFhH/DELTA-TV.jpg" group-title="BOLIVIA",DELTA TV
+#EXTINF:-1 tvg-id="" tvg-name="DELTA TV" tvg-logo="https://i.postimg.cc/6QCGYFhH/DELTA-TV.jpg" group-title="BOLIVIA",DELTA TV
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/d613d6d8-1473-4a7e-8034-b67939f4cafb.m3u
-#EXTINF:-1 tvg-id="" tvg-name="VOS TV HD" https://i.postimg.cc/VkxfDP11/VOZTV.png" group-title="BOLIVIA",VOS TV HD
+#EXTINF:-1 tvg-id="" tvg-name="VOS TV HD" tvg-logo="https://i.postimg.cc/VkxfDP11/VOZTV.png" group-title="BOLIVIA",VOS TV HD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/53032b6e-6762-48aa-96e3-a06b4985080a.m3u
-#EXTINF:-1 tvg-id="" tvg-name="TELE ESTRELLA HD" https://i.postimg.cc/gJJmnZrv/TL-ESTRELLA.jpg" group-title="BOLIVIA",TELE ESTRELLA HD
+#EXTINF:-1 tvg-id="" tvg-name="TELE ESTRELLA HD" tvg-logo="https://i.postimg.cc/gJJmnZrv/TL-ESTRELLA.jpg" group-title="BOLIVIA",TELE ESTRELLA HD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/94fd227c-dcf2-4461-bcf1-d9b8b8753736.m3u
-#EXTINF:-1 tvg-id="" tvg-name="CINERAMA TV" https://i.postimg.cc/52YspjzF/CINERAMA.png" group-title="BOLIVIA",CINERAMA TV
+#EXTINF:-1 tvg-id="" tvg-name="CINERAMA TV" tvg-logo="https://i.postimg.cc/52YspjzF/CINERAMA.png" group-title="BOLIVIA",CINERAMA TV
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/3428613e-102c-4c2f-b17f-dd5fa65ebff5.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AYNI TV" https://i.postimg.cc/GmVkMFnp/AYNI-TV.jpg" group-title="BOLIVIA",AYNI TV
+#EXTINF:-1 tvg-id="" tvg-name="AYNI TV" tvg-logo="https://i.postimg.cc/GmVkMFnp/AYNI-TV.jpg" group-title="BOLIVIA",AYNI TV
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/ed2dab1d-6139-45d1-9c9c-b18610bce74b.m3u
-#EXTINF:-1 tvg-id="" tvg-name="GOGO PLAY" https://i.postimg.cc/s2CMQwR5/GOGOPLAY.jpg" group-title="BOLIVIA",GOGO PLAY
+#EXTINF:-1 tvg-id="" tvg-name="GOGO PLAY" tvg-logo="https://i.postimg.cc/s2CMQwR5/GOGOPLAY.jpg" group-title="BOLIVIA",GOGO PLAY
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/016f8163-2410-4712-af7f-e6fa4b001bfd.m3u
-#EXTINF:-1 tvg-id="" tvg-name="PLUS TLT Tarija" https://i.postimg.cc/MpVTSVjH/PLUSTV-TARIJA.jpg" group-title="BOLIVIA",PLUS TLT Tarija
+#EXTINF:-1 tvg-id="" tvg-name="PLUS TLT Tarija" tvg-logo="https://i.postimg.cc/MpVTSVjH/PLUSTV-TARIJA.jpg" group-title="BOLIVIA",PLUS TLT Tarija
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/b0c22f9e-bcd5-4120-8690-bd7a7093a846.m3u
-#EXTINF:-1 tvg-id="" tvg-name="ANT TV HD (Tarija)" https://i.postimg.cc/sxmYKb3F/ANTV.jpg" group-title="BOLIVIA",ANT TV HD (Tarija)
+#EXTINF:-1 tvg-id="" tvg-name="ANT TV HD (Tarija)" tvg-logo="https://i.postimg.cc/sxmYKb3F/ANTV.jpg" group-title="BOLIVIA",ANT TV HD (Tarija)
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/96e02367-9f3c-4b19-a180-9ff670f368c5.m3u
-#EXTINF:-1 tvg-id="" tvg-name="COSETT (Tarija)" https://i.postimg.cc/qvjFzGmQ/COSSET.jpg" group-title="BOLIVIA",COSETT (Tarija)
+#EXTINF:-1 tvg-id="" tvg-name="COSETT (Tarija)" tvg-logo="https://i.postimg.cc/qvjFzGmQ/COSSET.jpg" group-title="BOLIVIA",COSETT (Tarija)
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/4091a590-1110-4214-bad4-6559264d0adf.m3u
-#EXTINF:-1 tvg-id="" tvg-name="FAP TV" https://i.postimg.cc/FzCfYv9K/FAP-TV.jpg" group-title="BOLIVIA",FAP TV
+#EXTINF:-1 tvg-id="" tvg-name="FAP TV" tvg-logo="https://i.postimg.cc/FzCfYv9K/FAP-TV.jpg" group-title="BOLIVIA",FAP TV
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/4e78ba35-2afc-4995-a7ae-88ade042fe36.m3u
-#EXTINF:-1 tvg-id="" tvg-name="PODER DE DIOS" https://i.postimg.cc/5tJtNyw3/PODER-DE-DIOS.jpg" group-title="BOLIVIA",PODER DE DIOS
+#EXTINF:-1 tvg-id="" tvg-name="PODER DE DIOS" tvg-logo="https://i.postimg.cc/5tJtNyw3/PODER-DE-DIOS.jpg" group-title="BOLIVIA",PODER DE DIOS
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/2ba69f05-f8b3-4fd3-a993-061574292e7e.m3u
-#EXTINF:-1 tvg-id="" tvg-name="NUEVO TIEMPO" https://i.postimg.cc/PrLJSBXm/NUEVO-TIEMPO.jpg" group-title="BOLIVIA",NUEVO TIEMPO
+#EXTINF:-1 tvg-id="" tvg-name="NUEVO TIEMPO" tvg-logo="https://i.postimg.cc/PrLJSBXm/NUEVO-TIEMPO.jpg" group-title="BOLIVIA",NUEVO TIEMPO
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/135de330-5683-47a5-8f45-91fcac294b00.m3u
-#EXTINF:-1 tvg-id="" tvg-name="EGPP 360" https://i.postimg.cc/3R7069S3/EGPP-360.jpg" group-title="BOLIVIA",EGPP 360
+#EXTINF:-1 tvg-id="" tvg-name="EGPP 360" tvg-logo="https://i.postimg.cc/3R7069S3/EGPP-360.jpg" group-title="BOLIVIA",EGPP 360
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/74cef292-3ea2-45cc-9e03-a0e04e1a7dce.m3u
-#EXTINF:-1 tvg-id="" tvg-name="CTV" https://i.postimg.cc/sD0SXYXJ/CTV.jpg" group-title="BOLIVIA",CTV
+#EXTINF:-1 tvg-id="" tvg-name="CTV" tvg-logo="https://i.postimg.cc/sD0SXYXJ/CTV.jpg" group-title="BOLIVIA",CTV
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/4ce03b23-98c7-43b4-b3c3-9a6e3132e398.m3u
-#EXTINF:-1 tvg-id="" tvg-name="ENTEL TV HD" https://i.postimg.cc/1tHVZ62w/ENTEL-TV.jpg" group-title="BOLIVIA",ENTEL TV HD
+#EXTINF:-1 tvg-id="" tvg-name="ENTEL TV HD" tvg-logo="https://i.postimg.cc/1tHVZ62w/ENTEL-TV.jpg" group-title="BOLIVIA",ENTEL TV HD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/7e6621da-3ca5-4aa1-808f-f2152344362a.m3u
-#EXTINF:-1 tvg-id="" tvg-name="TDT Multimedia" https://i.postimg.cc/3w3KQ6Tf/TDT-TV.jpg" group-title="BOLIVIA",TDT Multimedia
+#EXTINF:-1 tvg-id="" tvg-name="TDT Multimedia" tvg-logo="https://i.postimg.cc/3w3KQ6Tf/TDT-TV.jpg" group-title="BOLIVIA",TDT Multimedia
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/e2cf8597-fed4-4db5-bf2a-1cbea8ee1bf6.m3u
-#EXTINF:-1 tvg-id="" tvg-name="TELE 6 INTERNACIONAL" https://i.postimg.cc/Dz57vgfv/TELE-6-TV.jpg" group-title="BOLIVIA",TELE 6 INTERNACIONAL
+#EXTINF:-1 tvg-id="" tvg-name="TELE 6 INTERNACIONAL" tvg-logo="https://i.postimg.cc/Dz57vgfv/TELE-6-TV.jpg" group-title="BOLIVIA",TELE 6 INTERNACIONAL
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/13ac8892-17af-4d12-ab9a-551d14a435cd.m3u
-#EXTINF:-1 tvg-id="" tvg-name="XTO" https://i.postimg.cc/dtM3S5Lp/XTO-TV.jpg" group-title="BOLIVIA",XTO
+#EXTINF:-1 tvg-id="" tvg-name="XTO" tvg-logo="https://i.postimg.cc/dtM3S5Lp/XTO-TV.jpg" group-title="BOLIVIA",XTO
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/2811114d-a645-492f-a195-acf2f0bc0d5e.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Cadena Coral Bo." https://i.postimg.cc/DyzLnj2Z/CORAL-TV.jpg" group-title="BOLIVIA",Cadena Coral Bo.
+#EXTINF:-1 tvg-id="" tvg-name="Cadena Coral Bo." tvg-logo="https://i.postimg.cc/DyzLnj2Z/CORAL-TV.jpg" group-title="BOLIVIA",Cadena Coral Bo.
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/8dfc5a51-b3cd-4276-b4d5-f3d18b6c448b.m3u
-#EXTINF:-1 tvg-id="" tvg-name="TV OFF" https://i.postimg.cc/7PjJrxQB/TV-OFF.jpg" group-title="BOLIVIA",TV OFF
+#EXTINF:-1 tvg-id="" tvg-name="TV OFF" tvg-logo="https://i.postimg.cc/7PjJrxQB/TV-OFF.jpg" group-title="BOLIVIA",TV OFF
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/cda6f031-c1cc-4506-937b-145b64b19be7.m3u
-#EXTINF:-1 tvg-id="" tvg-name="TV CULTURAS" https://i.postimg.cc/7bvkst9V/TV-CULTURAS.jpg" group-title="BOLIVIA",TV CULTURAS
+#EXTINF:-1 tvg-id="" tvg-name="TV CULTURAS" tvg-logo="https://i.postimg.cc/7bvkst9V/TV-CULTURAS.jpg" group-title="BOLIVIA",TV CULTURAS
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/fe5a1980-e18d-40b1-8ada-b3f751da4420.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AGENDA MINERA" https://i.postimg.cc/tRNNXnWr/AMITEL-TV.jpg" group-title="BOLIVIA",AGENDA MINERA
+#EXTINF:-1 tvg-id="" tvg-name="AGENDA MINERA" tvg-logo="https://i.postimg.cc/tRNNXnWr/AMITEL-TV.jpg" group-title="BOLIVIA",AGENDA MINERA
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/137e92bc-0a01-437d-bc07-66055c2f6433.m3u
-#EXTINF:-1 tvg-id="" tvg-name="ABE TV" https://i.postimg.cc/SNQ7jQGm/ABE-TV.jpg" group-title="BOLIVIA",ABE TV
+#EXTINF:-1 tvg-id="" tvg-name="ABE TV" tvg-logo="https://i.postimg.cc/SNQ7jQGm/ABE-TV.jpg" group-title="BOLIVIA",ABE TV
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/6b2d589d-53a2-4ab0-8656-152561b33435.m3u
-#EXTINF:-1 tvg-id="" tvg-name="ABE EDUCATIVO" https://i.postimg.cc/SNQ7jQGm/ABE-TV.jpg" group-title="BOLIVIA",ABE EDUCATIVO
+#EXTINF:-1 tvg-id="" tvg-name="ABE EDUCATIVO" tvg-logo="https://i.postimg.cc/SNQ7jQGm/ABE-TV.jpg" group-title="BOLIVIA",ABE EDUCATIVO
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/c8ad4473-107a-4088-8666-7f7fb55f1538.m3u
-#EXTINF:-1 tvg-id="" tvg-name="SEO TV" https://i.postimg.cc/440NHB6n/SEO-TV.jpg" group-title="BOLIVIA",SEO TV
+#EXTINF:-1 tvg-id="" tvg-name="SEO TV" tvg-logo="https://i.postimg.cc/440NHB6n/SEO-TV.jpg" group-title="BOLIVIA",SEO TV
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/7282b991-c28f-4c3e-9477-54c4997f17a0.m3u
-#EXTINF:-1 tvg-id="" tvg-name="RED SIGLO XXI" https://i.postimg.cc/4Nh46VPP/SIGLO-XX1-TV.jpg" group-title="BOLIVIA",RED SIGLO XXI
+#EXTINF:-1 tvg-id="" tvg-name="RED SIGLO XXI" tvg-logo="https://i.postimg.cc/4Nh46VPP/SIGLO-XX1-TV.jpg" group-title="BOLIVIA",RED SIGLO XXI
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/e3cf1c02-dce7-44e4-9983-a6eef791698d.m3u
-#EXTINF:-1 tvg-id="" tvg-name="CVC HD El Alto" https://i.postimg.cc/13kq0yDn/CVC-TV.jpg" group-title="BOLIVIA",CVC HD El Alto
+#EXTINF:-1 tvg-id="" tvg-name="CVC HD El Alto" tvg-logo="https://i.postimg.cc/13kq0yDn/CVC-TV.jpg" group-title="BOLIVIA",CVC HD El Alto
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/c870bc31-8a93-44e0-9917-1bd4addefe31.m3u
-#EXTINF:-1 tvg-id="" tvg-name="VIDA TV" https://i.postimg.cc/pLJmjKV7/TVT-17.jpg" group-title="BOLIVIA",VIDA TV
+#EXTINF:-1 tvg-id="" tvg-name="VIDA TV" tvg-logo="https://i.postimg.cc/pLJmjKV7/TVT-17.jpg" group-title="BOLIVIA",VIDA TV
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/a82324b6-6e32-4f28-85fe-461d35f85ca1.m3u
-#EXTINF:-1 tvg-id="" tvg-name="PTV HD" https://i.postimg.cc/pdBL9vCt/PTV-TV.jpg" group-title="BOLIVIA",PTV HD
+#EXTINF:-1 tvg-id="" tvg-name="PTV HD" tvg-logo="https://i.postimg.cc/pdBL9vCt/PTV-TV.jpg" group-title="BOLIVIA",PTV HD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/b31b0618-dd0c-4401-a6af-34b31aa826f1.m3u
-#EXTINF:-1 tvg-id="" tvg-name="CEACOM" https://i.postimg.cc/kMsWr3Pz/CEACOM.jpg" group-title="BOLIVIA",CEACOM
+#EXTINF:-1 tvg-id="" tvg-name="CEACOM" tvg-logo="https://i.postimg.cc/kMsWr3Pz/CEACOM.jpg" group-title="BOLIVIA",CEACOM
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/d96caa80-c56a-41ea-9703-0b1d13f75e96.m3u
-#EXTINF:-1 tvg-id="" tvg-name="FM BOLIVIA" https://i.postimg.cc/Gh98Z4QT/FM-BOLIVIA.jpg" group-title="BOLIVIA",FM BOLIVIA
+#EXTINF:-1 tvg-id="" tvg-name="FM BOLIVIA" tvg-logo="https://i.postimg.cc/Gh98Z4QT/FM-BOLIVIA.jpg" group-title="BOLIVIA",FM BOLIVIA
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/a0b88901-68de-4da6-ae79-13bb7fddc2bd.m3u
-#EXTINF:-1 tvg-id="" tvg-name="PALENQUE TV" https://i.postimg.cc/NMgLpB8Q/PALEMQUE.jpg" group-title="BOLIVIA",PALENQUE TV
+#EXTINF:-1 tvg-id="" tvg-name="PALENQUE TV" tvg-logo="https://i.postimg.cc/NMgLpB8Q/PALEMQUE.jpg" group-title="BOLIVIA",PALENQUE TV
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/9185427e-ac8e-4736-9d32-5e309a9669cc.m3u
-#EXTINF:-1 tvg-id="" tvg-name="UYUNI TELEVISION" https://i.postimg.cc/nV9Mkycq/UYUNI-TV.jpg" group-title="BOLIVIA",UYUNI TELEVISION
+#EXTINF:-1 tvg-id="" tvg-name="UYUNI TELEVISION" tvg-logo="https://i.postimg.cc/nV9Mkycq/UYUNI-TV.jpg" group-title="BOLIVIA",UYUNI TELEVISION
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/bc3e79c2-9925-4a5e-946d-149d3e10af5e.m3u
-#EXTINF:-1 tvg-id="" tvg-name="FORTALEZA TV CUETO" https://i.postimg.cc/GhN8rb77/FORTALEZA-TV.jpg" group-title="BOLIVIA",FORTALEZA TV CUETO
+#EXTINF:-1 tvg-id="" tvg-name="FORTALEZA TV CUETO" tvg-logo="https://i.postimg.cc/GhN8rb77/FORTALEZA-TV.jpg" group-title="BOLIVIA",FORTALEZA TV CUETO
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/e68e4414-956e-4f16-a89d-140a00bd68ce.m3u
-#EXTINF:-1 tvg-id="" tvg-name="SITEL TV" https://i.postimg.cc/Mp26dHrS/SITEL-RED-NACIONAL.jpg" group-title="BOLIVIA",SITEL TV
+#EXTINF:-1 tvg-id="" tvg-name="SITEL TV" tvg-logo="https://i.postimg.cc/Mp26dHrS/SITEL-RED-NACIONAL.jpg" group-title="BOLIVIA",SITEL TV
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/416d2db2-7ef3-4a15-96ec-1328897c18ee.m3u
-#EXTINF:-1 tvg-id="" tvg-name="ATESUR" https://i.postimg.cc/SNTPzs4G/ATESUR.jpg" group-title="BOLIVIA",ATESUR
+#EXTINF:-1 tvg-id="" tvg-name="ATESUR" tvg-logo="https://i.postimg.cc/SNTPzs4G/ATESUR.jpg" group-title="BOLIVIA",ATESUR
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/3c3a6072-c647-4609-b1ee-448f8953d159.m3u
-#EXTINF:-1 tvg-id="" tvg-name="UPEA TV" https://i.postimg.cc/T1bw3DHt/UPEA-TV.jpg" group-title="BOLIVIA",UPEA TV
+#EXTINF:-1 tvg-id="" tvg-name="UPEA TV" tvg-logo="https://i.postimg.cc/T1bw3DHt/UPEA-TV.jpg" group-title="BOLIVIA",UPEA TV
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/0955310c-525d-4878-a66d-00ffbcf19e01.m3u
-#EXTINF:-1 tvg-id="" tvg-name="GRUPO CENTRO" https://i.postimg.cc/TPjprgRF/GRUPO-CENTRO-TV.jpg" group-title="BOLIVIA",GRUPO CENTRO
+#EXTINF:-1 tvg-id="" tvg-name="GRUPO CENTRO" tvg-logo="https://i.postimg.cc/TPjprgRF/GRUPO-CENTRO-TV.jpg" group-title="BOLIVIA",GRUPO CENTRO
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/afc96716-1923-4b19-b8a1-3fb3deb2dcf9.m3u
-#EXTINF:-1 tvg-id="" tvg-name="TV LATINA HD" https://i.postimg.cc/nrPDc5bY/TVLATINA.png" group-title="BOLIVIA",TV LATINA HD
+#EXTINF:-1 tvg-id="" tvg-name="TV LATINA HD" tvg-logo="https://i.postimg.cc/nrPDc5bY/TVLATINA.png" group-title="BOLIVIA",TV LATINA HD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/27f238d5-82a7-451c-9a03-117a5693c5c9.m3u
-#EXTINF:-1 tvg-id="" tvg-name="UNITEL ORURO" https://i.postimg.cc/CKXsSpNJ/UNITEL.jpg" group-title="BOLIVIA",UNITEL ORURO
+#EXTINF:-1 tvg-id="" tvg-name="UNITEL ORURO" tvg-logo="https://i.postimg.cc/CKXsSpNJ/UNITEL.jpg" group-title="BOLIVIA",UNITEL ORURO
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/6fce3b59-6511-49f9-b4d4-446d4514d0e8.m3u
-#EXTINF:-1 tvg-id="" tvg-name="ATB ORURO" https://i.postimg.cc/526BqPGG/ATB-BOLIVIA.jpg" group-title="BOLIVIA",ATB ORURO
+#EXTINF:-1 tvg-id="" tvg-name="ATB ORURO" tvg-logo="https://i.postimg.cc/526BqPGG/ATB-BOLIVIA.jpg" group-title="BOLIVIA",ATB ORURO
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/f1f5d8f8-ae46-439e-b35b-10d4da9cd2dc.m3u
-#EXTINF:-1 tvg-id="" tvg-name="BOLIVISION ORURO" https://i.postimg.cc/NMwRtQMq/BOLIVISION.jpg" group-title="BOLIVIA",BOLIVISION ORURO
+#EXTINF:-1 tvg-id="" tvg-name="BOLIVISION ORURO" tvg-logo="https://i.postimg.cc/NMwRtQMq/BOLIVISION.jpg" group-title="BOLIVIA",BOLIVISION ORURO
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/9a552eb7-c6bc-4fb5-9de6-0b246286d57a.m3u
-#EXTINF:-1 tvg-id="" tvg-name="COTEOR PLUS" https://i.postimg.cc/D0bL6gzX/COTEOR-PLUS.jpg" group-title="BOLIVIA",COTEOR PLUS
+#EXTINF:-1 tvg-id="" tvg-name="COTEOR PLUS" tvg-logo="https://i.postimg.cc/D0bL6gzX/COTEOR-PLUS.jpg" group-title="BOLIVIA",COTEOR PLUS
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/8d780dce-03ef-4a41-b5ee-ec5f5fd819ec.m3u
-#EXTINF:-1 tvg-id="" tvg-name="COTEOR TV" https://i.postimg.cc/D0bL6gzX/COTEOR-PLUS.jpg" group-title="BOLIVIA",COTEOR TV
+#EXTINF:-1 tvg-id="" tvg-name="COTEOR TV" tvg-logo="https://i.postimg.cc/D0bL6gzX/COTEOR-PLUS.jpg" group-title="BOLIVIA",COTEOR TV
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/46b9405f-6857-4e09-9ffb-f511cedf2b6f.m3u
-#EXTINF:-1 tvg-id="" tvg-name="COTEOR SPORTS" https://i.postimg.cc/ZRQ66gJm/COTEOR-SPORT.jpg" group-title="BOLIVIA",COTEOR SPORTS
+#EXTINF:-1 tvg-id="" tvg-name="COTEOR SPORTS" tvg-logo="https://i.postimg.cc/ZRQ66gJm/COTEOR-SPORT.jpg" group-title="BOLIVIA",COTEOR SPORTS
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/4047e624-e428-40bb-a5b6-9322ea63bbc6.m3u
-#EXTINF:-1 tvg-id="" tvg-name="TV Universitaria Oruro" https://i.postimg.cc/N0JdPdQJ/TVU-ORURO.jpg" group-title="BOLIVIA",TV Universitaria Oruro
+#EXTINF:-1 tvg-id="" tvg-name="TV Universitaria Oruro" tvg-logo="https://i.postimg.cc/N0JdPdQJ/TVU-ORURO.jpg" group-title="BOLIVIA",TV Universitaria Oruro
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/a4441bea-ac91-45da-b54f-b465cde54d6b.m3u
-#EXTINF:-1 tvg-id="" tvg-name="TV COOPERATIVA" https://i.postimg.cc/ZRQ66gJm/COTEOR-SPORT.jpg" group-title="BOLIVIA",TV COOPERATIVA
+#EXTINF:-1 tvg-id="" tvg-name="TV COOPERATIVA" tvg-logo="https://i.postimg.cc/ZRQ66gJm/COTEOR-SPORT.jpg" group-title="BOLIVIA",TV COOPERATIVA
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/ac7aa546-3ca6-445f-9cfc-e6dbe301fd8e.m3u
-#EXTINF:-1 tvg-id="" tvg-name="KEMA TV Oruro" https://i.postimg.cc/5NLkN5my/KEMA-TV.jpg" group-title="BOLIVIA",KEMA TV Oruro
+#EXTINF:-1 tvg-id="" tvg-name="KEMA TV Oruro" tvg-logo="https://i.postimg.cc/5NLkN5my/KEMA-TV.jpg" group-title="BOLIVIA",KEMA TV Oruro
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/a0c78707-69b3-41af-a9b8-dae7152e65c9.m3u
-#EXTINF:-1 tvg-id="" tvg-name="TELEFUTURO Oruro" https://i.postimg.cc/7LYBVFrJ/TELEFUTURO-ORURO.jpg" group-title="BOLIVIA",TELEFUTURO Oruro
+#EXTINF:-1 tvg-id="" tvg-name="TELEFUTURO Oruro" tvg-logo="https://i.postimg.cc/7LYBVFrJ/TELEFUTURO-ORURO.jpg" group-title="BOLIVIA",TELEFUTURO Oruro
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/876d33d4-68d1-409b-9439-5219b0019ab1.m3u
-#EXTINF:-1 tvg-id="" tvg-name="MEGATV Oruro" https://i.postimg.cc/WpQHvYgx/MEGATV-ORURO.jpg" group-title="BOLIVIA",MEGATV Oruro
+#EXTINF:-1 tvg-id="" tvg-name="MEGATV Oruro" tvg-logo="https://i.postimg.cc/WpQHvYgx/MEGATV-ORURO.jpg" group-title="BOLIVIA",MEGATV Oruro
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/3ec0fb71-6cdd-4706-a425-94a13cd44713.m3u
-#EXTINF:-1 tvg-id="" tvg-name="SRTC Oruro" https://i.postimg.cc/Cx0rZZvN/SRTC-ORURO.jpg" group-title="BOLIVIA",SRTC Oruro
+#EXTINF:-1 tvg-id="" tvg-name="SRTC Oruro" tvg-logo="https://i.postimg.cc/Cx0rZZvN/SRTC-ORURO.jpg" group-title="BOLIVIA",SRTC Oruro
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/6c6bb639-9175-4b6e-8b0c-fca0e3c789bd.m3u
-#EXTINF:-1 tvg-id="" tvg-name="RTVU Oruro" https://i.postimg.cc/g2KS3YQP/RTVU-ORURO.jpg" group-title="BOLIVIA",RTVU Oruro
+#EXTINF:-1 tvg-id="" tvg-name="RTVU Oruro" tvg-logo="https://i.postimg.cc/g2KS3YQP/RTVU-ORURO.jpg" group-title="BOLIVIA",RTVU Oruro
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/c4dbc6ab-7665-4277-9da5-67e6a286f103.m3u
-#EXTINF:-1 tvg-id="" tvg-name="TV SHOW Oruro" https://i.postimg.cc/WbrF2QBs/TV-SHOP.jpg" group-title="BOLIVIA",TV SHOW Oruro
+#EXTINF:-1 tvg-id="" tvg-name="TV SHOW Oruro" tvg-logo="https://i.postimg.cc/WbrF2QBs/TV-SHOP.jpg" group-title="BOLIVIA",TV SHOW Oruro
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/c048dec2-4def-4966-b746-b8b01c2c42d6.m3u
-#EXTINF:-1 tvg-id="" tvg-name="EL CANAL DEL PUEBLO Oruro" https://i.postimg.cc/0rRmBw6H/CANAL-DELPUEBLO-ORURO.jpg" group-title="BOLIVIA",EL CANAL DEL PUEBLO Oruro
+#EXTINF:-1 tvg-id="" tvg-name="EL CANAL DEL PUEBLO Oruro" tvg-logo="https://i.postimg.cc/0rRmBw6H/CANAL-DELPUEBLO-ORURO.jpg" group-title="BOLIVIA",EL CANAL DEL PUEBLO Oruro
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/cc216202-71e0-42cf-8120-b239b72bbf18.m3u
-#EXTINF:-1 tvg-id="" tvg-name="RED UNO Oruro" https://i.postimg.cc/QdnpJZRs/RED-UNO.jpg" group-title="BOLIVIA",RED UNO Oruro
+#EXTINF:-1 tvg-id="" tvg-name="RED UNO Oruro" tvg-logo="https://i.postimg.cc/QdnpJZRs/RED-UNO.jpg" group-title="BOLIVIA",RED UNO Oruro
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/fb444488-b30f-4036-a946-075751ea5789.m3u
-#EXTINF:-1 tvg-id="" tvg-name="MEGA amazonia" https://i.postimg.cc/tJcTXz5Z/MEGA-RURRE-TV.jpg" group-title="BOLIVIA",MEGA amazonia
+#EXTINF:-1 tvg-id="" tvg-name="MEGA amazonia" tvg-logo="https://i.postimg.cc/tJcTXz5Z/MEGA-RURRE-TV.jpg" group-title="BOLIVIA",MEGA amazonia
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/6bede983-b1b0-4f67-8740-c7350d86dc2d.m3u
-#EXTINF:-1 tvg-id="" tvg-name="TELE C CBBA" https://i.postimg.cc/c1f1MBV1/TELE-C-CBBA.jpg" group-title="BOLIVIA",TELE C CBBA
+#EXTINF:-1 tvg-id="" tvg-name="TELE C CBBA" tvg-logo="https://i.postimg.cc/c1f1MBV1/TELE-C-CBBA.jpg" group-title="BOLIVIA",TELE C CBBA
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/b79ca2e7-9c98-466f-a4b8-a04d21e02651.m3u
-#EXTINF:-1 tvg-id="" tvg-name="ANDALUCIA TV CBBA" https://i.postimg.cc/VLB61WRZ/ANDALUCIA-TV-CBBA.jpg" group-title="BOLIVIA",ANDALUCIA TV CBBA
+#EXTINF:-1 tvg-id="" tvg-name="ANDALUCIA TV CBBA" tvg-logo="https://i.postimg.cc/VLB61WRZ/ANDALUCIA-TV-CBBA.jpg" group-title="BOLIVIA",ANDALUCIA TV CBBA
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/8032036f-db4c-406a-9e51-d238fc53eac7.m3u
-#EXTINF:-1 tvg-id="" tvg-name="TVU LAPAZ" " group-title="BOLIVIA",TVU LAPAZ
+#EXTINF:-1 tvg-id="" tvg-name="TVU LAPAZ" tvg-logo="" group-title="BOLIVIA",TVU LAPAZ
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/295471c0-635e-43a6-b343-eba6af001875.m3u
-#EXTINF:-1 tvg-id="" tvg-name="ZURACA TV LPZ" https://i.postimg.cc/RVRM2VSj/ZURACA-TV.jpg" group-title="BOLIVIA",ZURACA TV LPZ
+#EXTINF:-1 tvg-id="" tvg-name="ZURACA TV LPZ" tvg-logo="https://i.postimg.cc/RVRM2VSj/ZURACA-TV.jpg" group-title="BOLIVIA",ZURACA TV LPZ
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/cc10619e-dc0c-448c-a7db-650c590956cf.m3u
-#EXTINF:-1 tvg-id="" tvg-name="FIDES TV LPZ" " group-title="BOLIVIA",FIDES TV LPZ
+#EXTINF:-1 tvg-id="" tvg-name="FIDES TV LPZ" tvg-logo="" group-title="BOLIVIA",FIDES TV LPZ
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/5e1d93f4-ae0e-41cc-af6a-cccb4f46cfa7.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IMPERIAL TV" https://i.postimg.cc/KY4vPSyC/IMPERIAL-TV.jpg" group-title="BOLIVIA",IMPERIAL TV
+#EXTINF:-1 tvg-id="" tvg-name="IMPERIAL TV" tvg-logo="https://i.postimg.cc/KY4vPSyC/IMPERIAL-TV.jpg" group-title="BOLIVIA",IMPERIAL TV
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/996f5a27-c332-4e11-b6c1-6b0249a8bdc4.m3u
-#EXTINF:-1 tvg-id="" tvg-name="BOLIVIA PUNTO TV" https://i.postimg.cc/vZ0Zx8CW/BOLIVIA-PUNTO-TV.jpg" group-title="BOLIVIA",BOLIVIA PUNTO TV
+#EXTINF:-1 tvg-id="" tvg-name="BOLIVIA PUNTO TV" tvg-logo="https://i.postimg.cc/vZ0Zx8CW/BOLIVIA-PUNTO-TV.jpg" group-title="BOLIVIA",BOLIVIA PUNTO TV
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/9873938b-735f-4f2e-ba42-3f05e9e1067f.m3u
-#EXTINF:-1 tvg-id="" tvg-name="VTV CANAL 17" https://i.postimg.cc/pLJmjKV7/TVT-17.jpg" group-title="BOLIVIA",VTV CANAL 17
+#EXTINF:-1 tvg-id="" tvg-name="VTV CANAL 17" tvg-logo="https://i.postimg.cc/pLJmjKV7/TVT-17.jpg" group-title="BOLIVIA",VTV CANAL 17
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/3cd19736-0723-49c3-be75-91ac7e1bd3d8.m3u
-#EXTINF:-1 tvg-id="" tvg-name="RED CCTV Punata" https://i.postimg.cc/BQG6dVx1/CCTV.jpg" group-title="BOLIVIA",RED CCTV Punata
+#EXTINF:-1 tvg-id="" tvg-name="RED CCTV Punata" tvg-logo="https://i.postimg.cc/BQG6dVx1/CCTV.jpg" group-title="BOLIVIA",RED CCTV Punata
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/058e4666-03a8-49c8-a370-9e9a4278c698.m3u
-#EXTINF:-1 tvg-id="" tvg-name="SEO TV PELICULAS" https://i.postimg.cc/440NHB6n/SEO-TV.jpg" group-title="BOLIVIA",SEO TV PELICULAS
+#EXTINF:-1 tvg-id="" tvg-name="SEO TV PELICULAS" tvg-logo="https://i.postimg.cc/440NHB6n/SEO-TV.jpg" group-title="BOLIVIA",SEO TV PELICULAS
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/b67cc30d-a44b-49c3-8a4a-ccd9861d22c0.m3u
-#EXTINF:-1 tvg-id="" tvg-name="SEO TV NOVELAS" https://i.postimg.cc/440NHB6n/SEO-TV.jpg" group-title="BOLIVIA",SEO TV NOVELAS
+#EXTINF:-1 tvg-id="" tvg-name="SEO TV NOVELAS" tvg-logo="https://i.postimg.cc/440NHB6n/SEO-TV.jpg" group-title="BOLIVIA",SEO TV NOVELAS
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/643ee9f4-563c-4a63-9c97-0b0bd0f083b4.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IN TV" https://i.postimg.cc/ZqgYj7bn/IN-TV.jpg" group-title="BOLIVIA",IN TV
+#EXTINF:-1 tvg-id="" tvg-name="IN TV" tvg-logo="https://i.postimg.cc/ZqgYj7bn/IN-TV.jpg" group-title="BOLIVIA",IN TV
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/4f78c98c-eb99-4143-8216-f92d19e1479a.m3u
-#EXTINF:-1 tvg-id="" tvg-name="CANAL 29 TVA" https://i.postimg.cc/13mzzV7m/CANAL-29-TVA.jpg" group-title="BOLIVIA",CANAL 29 TVA
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 29 TVA" tvg-logo="https://i.postimg.cc/13mzzV7m/CANAL-29-TVA.jpg" group-title="BOLIVIA",CANAL 29 TVA
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/69c9fb94-0152-47d5-be7b-d467b9b3c47b.m3u
-#EXTINF:-1 tvg-id="" tvg-name="INTERATIVO TV 1" " group-title="BOLIVIA",INTERATIVO TV 1
+#EXTINF:-1 tvg-id="" tvg-name="INTERATIVO TV 1" tvg-logo="" group-title="BOLIVIA",INTERATIVO TV 1
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/8cb43a02-5477-487e-a8b9-28989a783f93.m3u
-#EXTINF:-1 tvg-id="" tvg-name="INTERACTIVO TV 2" " group-title="BOLIVIA",INTERACTIVO TV 2
+#EXTINF:-1 tvg-id="" tvg-name="INTERACTIVO TV 2" tvg-logo="" group-title="BOLIVIA",INTERACTIVO TV 2
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/00e5eaf6-bd8a-4371-a9fe-62e9960b5c57.m3u
-#EXTINF:-1 tvg-id="" tvg-name="CN3 TV" " group-title="BOLIVIA",CN3 TV
+#EXTINF:-1 tvg-id="" tvg-name="CN3 TV" tvg-logo="" group-title="BOLIVIA",CN3 TV
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/7e499d54-8326-4553-952c-d28f9908ddc2.m3u
-#EXTINF:-1 tvg-id="" tvg-name="SUCRE COTES TV SPORTS" " group-title="BOLIVIA",SUCRE COTES TV SPORTS
+#EXTINF:-1 tvg-id="" tvg-name="SUCRE COTES TV SPORTS" tvg-logo="" group-title="BOLIVIA",SUCRE COTES TV SPORTS
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/26ed86bc-7f6a-4061-832a-7b99ffe1e604.m3u
-#EXTINF:-1 tvg-id="" tvg-name="SUCRE COTES TV PRIME" " group-title="BOLIVIA",SUCRE COTES TV PRIME
+#EXTINF:-1 tvg-id="" tvg-name="SUCRE COTES TV PRIME" tvg-logo="" group-title="BOLIVIA",SUCRE COTES TV PRIME
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/22e47014-0659-41cb-b79b-0d6abed0eb33.m3u
-#EXTINF:-1 tvg-id="" tvg-name="SUCRE COTES TV MUSIC" " group-title="BOLIVIA",SUCRE COTES TV MUSIC
+#EXTINF:-1 tvg-id="" tvg-name="SUCRE COTES TV MUSIC" tvg-logo="" group-title="BOLIVIA",SUCRE COTES TV MUSIC
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/884a8414-b2ef-420e-83c9-e987c1b6b24a.m3u
-#EXTINF:-1 tvg-id="" tvg-name="SUCRE COTES TV MOVIES" " group-title="BOLIVIA",SUCRE COTES TV MOVIES
+#EXTINF:-1 tvg-id="" tvg-name="SUCRE COTES TV MOVIES" tvg-logo="" group-title="BOLIVIA",SUCRE COTES TV MOVIES
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/d7a10b10-e75b-4e42-ad29-694d3f3dba3f.m3u
-#EXTINF:-1 tvg-id="" tvg-name="SUCRE COTES TV JUNIOR" " group-title="BOLIVIA",SUCRE COTES TV JUNIOR
+#EXTINF:-1 tvg-id="" tvg-name="SUCRE COTES TV JUNIOR" tvg-logo="" group-title="BOLIVIA",SUCRE COTES TV JUNIOR
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/d8a5c11d-3f40-4040-a4f3-5ea6facc07f4.m3u
-#EXTINF:-1 tvg-id="" tvg-name="TELE FE HD bolivia" " group-title="BOLIVIA",TELE FE HD bolivia
+#EXTINF:-1 tvg-id="" tvg-name="TELE FE HD bolivia" tvg-logo="" group-title="BOLIVIA",TELE FE HD bolivia
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/5b4cc24a-b695-4284-82a3-8f3877390179.m3u
-#EXTINF:-1 tvg-id="" tvg-name="SC MEGA HD - MEGA VISION" " group-title="BOLIVIA",SC MEGA HD - MEGA VISION
+#EXTINF:-1 tvg-id="" tvg-name="SC MEGA HD - MEGA VISION" tvg-logo="" group-title="BOLIVIA",SC MEGA HD - MEGA VISION
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/438faec4-8681-4dc3-bfe7-a73be8ecd5e6.m3u
-#EXTINF:-1 tvg-id="" tvg-name="SC RED SUDAMERICANA TV" " group-title="BOLIVIA",SC RED SUDAMERICANA TV
+#EXTINF:-1 tvg-id="" tvg-name="SC RED SUDAMERICANA TV" tvg-logo="" group-title="BOLIVIA",SC RED SUDAMERICANA TV
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/fb66c468-2999-4797-bbe2-60bd49201ab5.m3u
-#EXTINF:-1 tvg-id="" tvg-name="FUTBOL CANAL 1 HD" https://i.postimg.cc/jjz4Sfqp/FUTBOL-CANAL.jpg" group-title="BOLIVIA",FUTBOL CANAL 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="FUTBOL CANAL 1 HD" tvg-logo="https://i.postimg.cc/jjz4Sfqp/FUTBOL-CANAL.jpg" group-title="BOLIVIA",FUTBOL CANAL 1 HD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/4bc4a528-9e7e-49a7-95a6-3af27ea15382.m3u
-#EXTINF:-1 tvg-id="" tvg-name="FUTBOL CANAL 1 SD" https://i.postimg.cc/jjz4Sfqp/FUTBOL-CANAL.jpg" group-title="BOLIVIA",FUTBOL CANAL 1 SD
+#EXTINF:-1 tvg-id="" tvg-name="FUTBOL CANAL 1 SD" tvg-logo="https://i.postimg.cc/jjz4Sfqp/FUTBOL-CANAL.jpg" group-title="BOLIVIA",FUTBOL CANAL 1 SD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/43541416-4153-459e-b4c9-7925cba8aa23.m3u
-#EXTINF:-1 tvg-id="" tvg-name="FUTBOL CANAL 2 HD" https://i.postimg.cc/jjz4Sfqp/FUTBOL-CANAL.jpg" group-title="BOLIVIA",FUTBOL CANAL 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="FUTBOL CANAL 2 HD" tvg-logo="https://i.postimg.cc/jjz4Sfqp/FUTBOL-CANAL.jpg" group-title="BOLIVIA",FUTBOL CANAL 2 HD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/576ee13f-6bb8-4681-ad92-f3bf09d1ae02.m3u
-#EXTINF:-1 tvg-id="" tvg-name="FUTBOL CANAL 2 SD" https://i.postimg.cc/jjz4Sfqp/FUTBOL-CANAL.jpg" group-title="BOLIVIA",FUTBOL CANAL 2 SD
+#EXTINF:-1 tvg-id="" tvg-name="FUTBOL CANAL 2 SD" tvg-logo="https://i.postimg.cc/jjz4Sfqp/FUTBOL-CANAL.jpg" group-title="BOLIVIA",FUTBOL CANAL 2 SD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/966d8c2b-a118-4f78-bdf6-1f69144c5bcb.m3u
-#EXTINF:-1 tvg-id="" tvg-name="T1GO 1 HD" https://i.postimg.cc/4yHMcft6/TIGO-SPORTS-1-BO.jpg" group-title="BOLIVIA",T1GO 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="T1GO 1 HD" tvg-logo="https://i.postimg.cc/4yHMcft6/TIGO-SPORTS-1-BO.jpg" group-title="BOLIVIA",T1GO 1 HD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/efc84dce-1a56-410c-b98a-e6f79814c3b2.m3u
-#EXTINF:-1 tvg-id="" tvg-name="T1GO 1 SD" https://i.postimg.cc/4yHMcft6/TIGO-SPORTS-1-BO.jpg" group-title="BOLIVIA",T1GO 1 SD
+#EXTINF:-1 tvg-id="" tvg-name="T1GO 1 SD" tvg-logo="https://i.postimg.cc/4yHMcft6/TIGO-SPORTS-1-BO.jpg" group-title="BOLIVIA",T1GO 1 SD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/ee63f5b6-3b3b-4475-b0ab-af5a0f0b5f79.m3u
-#EXTINF:-1 tvg-id="" tvg-name="T1GO 2 HD" https://i.postimg.cc/NMzSL9yG/TIGO-SPORTS-2-BO.jpg" group-title="BOLIVIA",T1GO 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="T1GO 2 HD" tvg-logo="https://i.postimg.cc/NMzSL9yG/TIGO-SPORTS-2-BO.jpg" group-title="BOLIVIA",T1GO 2 HD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/09098aef-a60d-4d0a-a796-a670111eb477.m3u
-#EXTINF:-1 tvg-id="" tvg-name="T1GO 2 SD" https://i.postimg.cc/NMzSL9yG/TIGO-SPORTS-2-BO.jpg" group-title="BOLIVIA",T1GO 2 SD
+#EXTINF:-1 tvg-id="" tvg-name="T1GO 2 SD" tvg-logo="https://i.postimg.cc/NMzSL9yG/TIGO-SPORTS-2-BO.jpg" group-title="BOLIVIA",T1GO 2 SD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/5adb0ade-8616-4954-b7e5-56d7d13e1b4e.m3u
-#EXTINF:-1 tvg-id="" tvg-name="UNICA TV" " group-title="BOLIVIA",UNICA TV
+#EXTINF:-1 tvg-id="" tvg-name="UNICA TV" tvg-logo="" group-title="BOLIVIA",UNICA TV
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/9993c4ba-d4a3-435d-aeba-e354d17a0452.m3u
-#EXTINF:-1 tvg-id="" tvg-name="POB TV" " group-title="BOLIVIA",POB TV
+#EXTINF:-1 tvg-id="" tvg-name="POB TV" tvg-logo="" group-title="BOLIVIA",POB TV
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/d835a726-4990-466b-b621-a38258e8fcff.m3u
-#EXTINF:-1 tvg-id="" tvg-name="GUIA DE EVENTOS DEPORTIVOS DEL DIA" https://i.postimg.cc/c4CFDxLz/eventosdeldia.png" group-title="EVENTOS DEPORTIVOS",GUIA DE EVENTOS DEPORTIVOS DEL DIA
+#EXTINF:-1 tvg-id="" tvg-name="GUIA DE EVENTOS DEPORTIVOS DEL DIA" tvg-logo="https://i.postimg.cc/c4CFDxLz/eventosdeldia.png" group-title="EVENTOS DEPORTIVOS",GUIA DE EVENTOS DEPORTIVOS DEL DIA
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/fffc49be-fa6d-4f60-a9f0-5f57585df506.m3u
-#EXTINF:-1 tvg-id="3ea3e299-a824-4290-bae7-6c34950cd3c6" tvg-name="CANAL VIDEOTUTORIALES para la instalacion de MASTV" https://i.postimg.cc/C5rYh1nK/CANAL-GUIA.png" group-title="EVENTOS DEPORTIVOS",CANAL VIDEOTUTORIALES para la instalacion de MASTV
+#EXTINF:-1 tvg-id="3ea3e299-a824-4290-bae7-6c34950cd3c6" tvg-name="CANAL VIDEOTUTORIALES para la instalacion de MASTV" tvg-logo="https://i.postimg.cc/C5rYh1nK/CANAL-GUIA.png" group-title="EVENTOS DEPORTIVOS",CANAL VIDEOTUTORIALES para la instalacion de MASTV
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/3ea3e299-a824-4290-bae7-6c34950cd3c6.m3u
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY 1" https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 1
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY 1" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 1
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/4ad94a33-b121-4711-9400-09c77efec227.m3u
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY 2" https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 2
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY 2" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 2
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/755367cf-cbc6-4a2c-bfb4-1352dc3fee41.m3u
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY 3" https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 3
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY 3" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 3
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/a9434fb8-4d4e-4b7d-9b75-9a090763706a.m3u
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY 4" https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 4
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY 4" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 4
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/ba80993a-487e-4d55-a1fb-a8ace7c4df44.m3u
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY 5" https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 5
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY 5" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 5
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/0af3e57a-d472-42a4-a4c8-05a503fa0701.m3u
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY 6" https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 6
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY 6" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 6
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/eec1c872-f2f7-4c67-99af-e13fda57c8bd.m3u
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY 7" https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 7
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY 7" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 7
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/a7ce5870-d4bb-4202-a9f0-587a71fce5e4.m3u
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY 8" https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 8
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY 8" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 8
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/945dcb9c-a882-40ba-be45-8b7f9d608b6d.m3u
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY 9" https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 9
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY 9" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 9
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/dbf4686c-4c1e-4c73-993d-5094654795c0.m3u
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY 10" https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 10
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY 10" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 10
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/e0052d3f-de29-4052-bdec-dcc1d7a07281.m3u
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY 11" https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 11
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY 11" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 11
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/1cb985ba-dfa7-481a-8ade-0485feba0f14.m3u
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY 12" https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 12
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY 12" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 12
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/b2c0d53f-fe73-4dd1-8af2-4c3ed28d919d.m3u
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY 13" https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 13
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY 13" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 13
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/2944c6e0-4973-4bba-9a31-51bd2f833069.m3u
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY 14" https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 14
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY 14" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 14
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/fa5c15a0-61bc-4628-8ebf-63e40b242e53.m3u
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY 15" https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 15
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY 15" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 15
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/bb993b52-f9b2-4dd0-a839-e248108ea2fe.m3u
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY 16" https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 16
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY 16" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 16
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/4461941f-d49e-47c1-b4a9-4a3a72a520ab.m3u
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY 17" https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 17
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY 17" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 17
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/c5224e42-e172-480f-aea4-774e75a13c14.m3u
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY 18" https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 18
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY 18" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 18
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/79b9a1c1-270c-495e-b2bc-08568ddd125f.m3u
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY 19" https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 19
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY 19" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 19
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/df87fd21-98cb-4820-b743-01317a08f208.m3u
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY 20" https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 20
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY 20" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 20
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/ce05c973-92e3-481b-aa77-32fe1a4ad286.m3u
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY 21" https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 21
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY 21" tvg-logo="https://i.postimg.cc/YCWFVqNW/disneyplus.jpg" group-title="EVENTOS DEPORTIVOS",DISNEY 21
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/250019d8-6088-4311-9961-0525577e8a99.m3u
-#EXTINF:-1 tvg-id="" tvg-name="EVENTOS PPV 1" https://i.postimg.cc/mgfxHsYG/eventosppv.png" group-title="EVENTOS DEPORTIVOS",EVENTOS PPV 1
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS PPV 1" tvg-logo="https://i.postimg.cc/mgfxHsYG/eventosppv.png" group-title="EVENTOS DEPORTIVOS",EVENTOS PPV 1
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/a71fcefc-e019-4a4b-b517-92f7a8578990.m3u
-#EXTINF:-1 tvg-id="" tvg-name="EVENTOS PPV 2" https://i.postimg.cc/mgfxHsYG/eventosppv.png" group-title="EVENTOS DEPORTIVOS",EVENTOS PPV 2
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS PPV 2" tvg-logo="https://i.postimg.cc/mgfxHsYG/eventosppv.png" group-title="EVENTOS DEPORTIVOS",EVENTOS PPV 2
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/7c9d81fa-75db-4533-8b24-72b245677081.m3u
-#EXTINF:-1 tvg-id="" tvg-name="EVENTOS PPV 3" https://i.postimg.cc/mgfxHsYG/eventosppv.png" group-title="EVENTOS DEPORTIVOS",EVENTOS PPV 3
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS PPV 3" tvg-logo="https://i.postimg.cc/mgfxHsYG/eventosppv.png" group-title="EVENTOS DEPORTIVOS",EVENTOS PPV 3
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/9442832f-a18d-4c49-9885-2dbd9b77f792.m3u
-#EXTINF:-1 tvg-id="" tvg-name="EVENTOS PPV 4" https://i.postimg.cc/mgfxHsYG/eventosppv.png" group-title="EVENTOS DEPORTIVOS",EVENTOS PPV 4
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS PPV 4" tvg-logo="https://i.postimg.cc/mgfxHsYG/eventosppv.png" group-title="EVENTOS DEPORTIVOS",EVENTOS PPV 4
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/cb3534e7-d7fd-427b-8600-a85f76040cbb.m3u
-#EXTINF:-1 tvg-id="" tvg-name="EVENTOS PPV 5" https://i.postimg.cc/mgfxHsYG/eventosppv.png" group-title="EVENTOS DEPORTIVOS",EVENTOS PPV 5
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS PPV 5" tvg-logo="https://i.postimg.cc/mgfxHsYG/eventosppv.png" group-title="EVENTOS DEPORTIVOS",EVENTOS PPV 5
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/6b60683a-03ff-42ac-b173-25b7338704ff.m3u
-#EXTINF:-1 tvg-id="" tvg-name="X-MLS SEASON PASS" s:1:/images/QCqX5p5x3Y181Q8jwb82JL5JsNJ_E_9J-v00U8mWd7oKWiXUpTrZgh134nLXHywy.png" group-title="EVENTOS DEPORTIVOS",X-MLS SEASON PASS
+#EXTINF:-1 tvg-id="" tvg-name="X-MLS SEASON PASS" tvg-logo="s:1:/images/QCqX5p5x3Y181Q8jwb82JL5JsNJ_E_9J-v00U8mWd7oKWiXUpTrZgh134nLXHywy.png" group-title="EVENTOS DEPORTIVOS",X-MLS SEASON PASS
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/70b59717-b646-4ebb-8ade-e5efb848b793.m3u
-#EXTINF:-1 tvg-id="" tvg-name="X-MLS SEASON PASS 2" s:1:/images/QCqX5p5x3Y181Q8jwb82JL5JsNJ_E_9J-v00U8mWd7oKWiXUpTrZgh134nLXHywy.png" group-title="EVENTOS DEPORTIVOS",X-MLS SEASON PASS 2
+#EXTINF:-1 tvg-id="" tvg-name="X-MLS SEASON PASS 2" tvg-logo="s:1:/images/QCqX5p5x3Y181Q8jwb82JL5JsNJ_E_9J-v00U8mWd7oKWiXUpTrZgh134nLXHywy.png" group-title="EVENTOS DEPORTIVOS",X-MLS SEASON PASS 2
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/e8ec98bb-c977-4ff8-b4cc-02dd658a9433.m3u
-#EXTINF:-1 tvg-id="" tvg-name="FORMULA 1 Solo EVENTOS" https://i.postimg.cc/nVqH0wXB/FORMULA-1.jpg" group-title="EVENTOS DEPORTIVOS",FORMULA 1 Solo EVENTOS
+#EXTINF:-1 tvg-id="" tvg-name="FORMULA 1 Solo EVENTOS" tvg-logo="https://i.postimg.cc/nVqH0wXB/FORMULA-1.jpg" group-title="EVENTOS DEPORTIVOS",FORMULA 1 Solo EVENTOS
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/f6915181-6f66-41b8-8003-1bfa43fed324.m3u
-#EXTINF:-1 tvg-id="" tvg-name="BASQUET 1 - NBA Eventos" https://i.postimg.cc/SNmPb6hM/NBAEVENTOS.png" group-title="EVENTOS DEPORTIVOS",BASQUET 1 - NBA Eventos
+#EXTINF:-1 tvg-id="" tvg-name="BASQUET 1 - NBA Eventos" tvg-logo="https://i.postimg.cc/SNmPb6hM/NBAEVENTOS.png" group-title="EVENTOS DEPORTIVOS",BASQUET 1 - NBA Eventos
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/0688ff53-4dee-48ca-9e2f-3a79e2fd74c6.m3u
-#EXTINF:-1 tvg-id="" tvg-name="BASQUET 2 - LIBOBASQUET" https://i.postimg.cc/NF9H3M04/basquetpass.png" group-title="EVENTOS DEPORTIVOS",BASQUET 2 - LIBOBASQUET
+#EXTINF:-1 tvg-id="" tvg-name="BASQUET 2 - LIBOBASQUET" tvg-logo="https://i.postimg.cc/NF9H3M04/basquetpass.png" group-title="EVENTOS DEPORTIVOS",BASQUET 2 - LIBOBASQUET
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/42315b3f-9d8b-4a9c-a1d0-64a5038d516d.m3u
-#EXTINF:-1 tvg-id="" tvg-name="UFC 1 (Solo Eventos)" https://i.postimg.cc/15ZCHr8c/ufc.png" group-title="EVENTOS DEPORTIVOS",UFC 1 (Solo Eventos)
+#EXTINF:-1 tvg-id="" tvg-name="UFC 1 (Solo Eventos)" tvg-logo="https://i.postimg.cc/15ZCHr8c/ufc.png" group-title="EVENTOS DEPORTIVOS",UFC 1 (Solo Eventos)
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/a75760a4-dd38-4ae6-b82a-6a6953ee136f.m3u
-#EXTINF:-1 tvg-id="" tvg-name="WWE NETWORK Solo EVENTOS 1" https://i.postimg.cc/C51NzSxB/WWE.png" group-title="EVENTOS DEPORTIVOS",WWE NETWORK Solo EVENTOS 1
+#EXTINF:-1 tvg-id="" tvg-name="WWE NETWORK Solo EVENTOS 1" tvg-logo="https://i.postimg.cc/C51NzSxB/WWE.png" group-title="EVENTOS DEPORTIVOS",WWE NETWORK Solo EVENTOS 1
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/f0fe0a23-9308-45c4-9cc8-a25acdb9e451.m3u
-#EXTINF:-1 tvg-id="" tvg-name="UFC 2 (Solo Eventos)" https://i.postimg.cc/C5C4t9RC/ufc2.png" group-title="EVENTOS DEPORTIVOS",UFC 2 (Solo Eventos)
+#EXTINF:-1 tvg-id="" tvg-name="UFC 2 (Solo Eventos)" tvg-logo="https://i.postimg.cc/C5C4t9RC/ufc2.png" group-title="EVENTOS DEPORTIVOS",UFC 2 (Solo Eventos)
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/6106241a-7c4c-461f-a313-f8b18a65faea.m3u
-#EXTINF:-1 tvg-id="" tvg-name="RALLY TV - WRC" https://i.postimg.cc/QxwHzQmS/RALLYTV.png" group-title="EVENTOS DEPORTIVOS",RALLY TV - WRC
+#EXTINF:-1 tvg-id="" tvg-name="RALLY TV - WRC" tvg-logo="https://i.postimg.cc/QxwHzQmS/RALLYTV.png" group-title="EVENTOS DEPORTIVOS",RALLY TV - WRC
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/89602cf5-5164-4dd2-b953-5fb816ef8f8e.m3u
-#EXTINF:-1 tvg-id="" tvg-name=".EVENTO 1" " group-title="EVENTOS DEPORTIVOS",.EVENTO 1
+#EXTINF:-1 tvg-id="" tvg-name=".EVENTO 1" tvg-logo="" group-title="EVENTOS DEPORTIVOS",.EVENTO 1
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/6bf903d7-9661-4bfb-ab88-40cf9dfa989c.m3u
-#EXTINF:-1 tvg-id="" tvg-name=".EVENTO 2" " group-title="EVENTOS DEPORTIVOS",.EVENTO 2
+#EXTINF:-1 tvg-id="" tvg-name=".EVENTO 2" tvg-logo="" group-title="EVENTOS DEPORTIVOS",.EVENTO 2
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/c4dca060-4961-43e4-bd96-25ddd071b891.m3u
-#EXTINF:-1 tvg-id="" tvg-name=".EVENTO 3" " group-title="EVENTOS DEPORTIVOS",.EVENTO 3
+#EXTINF:-1 tvg-id="" tvg-name=".EVENTO 3" tvg-logo="" group-title="EVENTOS DEPORTIVOS",.EVENTO 3
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/b25d0296-885c-4324-ae27-1aac8eef5112.m3u
-#EXTINF:-1 tvg-id="" tvg-name="FUTBOL CANAL 1 HD" https://i.postimg.cc/jjz4Sfqp/FUTBOL-CANAL.jpg" group-title="DEPORTES",FUTBOL CANAL 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="FUTBOL CANAL 1 HD" tvg-logo="https://i.postimg.cc/jjz4Sfqp/FUTBOL-CANAL.jpg" group-title="DEPORTES",FUTBOL CANAL 1 HD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/ef03c1df-f6dc-46b2-9e83-2ac26319894f.m3u
-#EXTINF:-1 tvg-id="" tvg-name="FUTBOL CANAL 1 SD" https://i.postimg.cc/jjz4Sfqp/FUTBOL-CANAL.jpg" group-title="DEPORTES",FUTBOL CANAL 1 SD
+#EXTINF:-1 tvg-id="" tvg-name="FUTBOL CANAL 1 SD" tvg-logo="https://i.postimg.cc/jjz4Sfqp/FUTBOL-CANAL.jpg" group-title="DEPORTES",FUTBOL CANAL 1 SD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/bf4845b9-1009-48de-92b6-56024a892efd.m3u
-#EXTINF:-1 tvg-id="" tvg-name="FUTBOL CANAL 1 H264" https://i.postimg.cc/jjz4Sfqp/FUTBOL-CANAL.jpg" group-title="DEPORTES",FUTBOL CANAL 1 H264
+#EXTINF:-1 tvg-id="" tvg-name="FUTBOL CANAL 1 H264" tvg-logo="https://i.postimg.cc/jjz4Sfqp/FUTBOL-CANAL.jpg" group-title="DEPORTES",FUTBOL CANAL 1 H264
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/1e2cf160-7d0c-4459-b8e4-cfc03a401704.m3u
-#EXTINF:-1 tvg-id="" tvg-name="FUTBOL CANAL 2 HD" https://i.postimg.cc/jjz4Sfqp/FUTBOL-CANAL.jpg" group-title="DEPORTES",FUTBOL CANAL 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="FUTBOL CANAL 2 HD" tvg-logo="https://i.postimg.cc/jjz4Sfqp/FUTBOL-CANAL.jpg" group-title="DEPORTES",FUTBOL CANAL 2 HD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/d970267f-286b-4323-b87e-fbeea5f43fb5.m3u
-#EXTINF:-1 tvg-id="" tvg-name="FUTBOL CANAL 2 SD" https://i.postimg.cc/jjz4Sfqp/FUTBOL-CANAL.jpg" group-title="DEPORTES",FUTBOL CANAL 2 SD
+#EXTINF:-1 tvg-id="" tvg-name="FUTBOL CANAL 2 SD" tvg-logo="https://i.postimg.cc/jjz4Sfqp/FUTBOL-CANAL.jpg" group-title="DEPORTES",FUTBOL CANAL 2 SD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/30c4ea46-3906-4a36-b957-8b2057a4a35d.m3u
-#EXTINF:-1 tvg-id="" tvg-name="FUTBOL CANAL 3 (Evento Triple)" " group-title="DEPORTES",FUTBOL CANAL 3 (Evento Triple)
+#EXTINF:-1 tvg-id="" tvg-name="FUTBOL CANAL 3 (Evento Triple)" tvg-logo="" group-title="DEPORTES",FUTBOL CANAL 3 (Evento Triple)
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/dc458e1c-c3f5-42dc-af9b-5be05402aa49.m3u
-#EXTINF:-1 tvg-id="" tvg-name="T1GO 1 HD" https://i.postimg.cc/4yHMcft6/TIGO-SPORTS-1-BO.jpg" group-title="DEPORTES",T1GO 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="T1GO 1 HD" tvg-logo="https://i.postimg.cc/4yHMcft6/TIGO-SPORTS-1-BO.jpg" group-title="DEPORTES",T1GO 1 HD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/40e8efd7-3f76-48b7-9de0-c8401ec09f66.m3u
-#EXTINF:-1 tvg-id="" tvg-name="T1GO 1 SD" https://i.postimg.cc/4yHMcft6/TIGO-SPORTS-1-BO.jpg" group-title="DEPORTES",T1GO 1 SD
+#EXTINF:-1 tvg-id="" tvg-name="T1GO 1 SD" tvg-logo="https://i.postimg.cc/4yHMcft6/TIGO-SPORTS-1-BO.jpg" group-title="DEPORTES",T1GO 1 SD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/c345d80a-f5da-4bb9-8609-ca6118e69f1f.m3u
-#EXTINF:-1 tvg-id="" tvg-name="T1GO 2 HD" https://i.postimg.cc/NMzSL9yG/TIGO-SPORTS-2-BO.jpg" group-title="DEPORTES",T1GO 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="T1GO 2 HD" tvg-logo="https://i.postimg.cc/NMzSL9yG/TIGO-SPORTS-2-BO.jpg" group-title="DEPORTES",T1GO 2 HD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/01247cbf-9374-47ff-b406-7c9d716a26b3.m3u
-#EXTINF:-1 tvg-id="" tvg-name="T1GO 2 SD" https://i.postimg.cc/NMzSL9yG/TIGO-SPORTS-2-BO.jpg" group-title="DEPORTES",T1GO 2 SD
+#EXTINF:-1 tvg-id="" tvg-name="T1GO 2 SD" tvg-logo="https://i.postimg.cc/NMzSL9yG/TIGO-SPORTS-2-BO.jpg" group-title="DEPORTES",T1GO 2 SD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/149c4433-f527-47e7-a074-804205ddec93.m3u
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS PREMIUM HD ARG" https://i.postimg.cc/sfBDm54c/TNT-SPORT-ARGENTINA.jpg" group-title="DEPORTES",TNT SPORTS PREMIUM HD ARG
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS PREMIUM HD ARG" tvg-logo="https://i.postimg.cc/sfBDm54c/TNT-SPORT-ARGENTINA.jpg" group-title="DEPORTES",TNT SPORTS PREMIUM HD ARG
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/4a7cfc8c-84f3-4d7b-9ea2-1573a4ad49fb.m3u
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS PREMIUM HD CHILE" https://i.postimg.cc/QNRNyV6r/TNT-SPORT-CHILE.jpg" group-title="DEPORTES",TNT SPORTS PREMIUM HD CHILE
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS PREMIUM HD CHILE" tvg-logo="https://i.postimg.cc/QNRNyV6r/TNT-SPORT-CHILE.jpg" group-title="DEPORTES",TNT SPORTS PREMIUM HD CHILE
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/de5dbd99-edca-4deb-bec2-0ae387eb2e8e.m3u
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS CHILE" https://i.postimg.cc/QNRNyV6r/TNT-SPORT-CHILE.jpg" group-title="DEPORTES",TNT SPORTS CHILE
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS CHILE" tvg-logo="https://i.postimg.cc/QNRNyV6r/TNT-SPORT-CHILE.jpg" group-title="DEPORTES",TNT SPORTS CHILE
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/8a5ccddf-cc6e-45a2-a9a3-c9dc37b60681.m3u
-#EXTINF:-1 tvg-id="" tvg-name="TYC SPORTS HD ARG" https://i.postimg.cc/43NX9c3p/TYC-SPORTS.jpg" group-title="DEPORTES",TYC SPORTS HD ARG
+#EXTINF:-1 tvg-id="" tvg-name="TYC SPORTS HD ARG" tvg-logo="https://i.postimg.cc/43NX9c3p/TYC-SPORTS.jpg" group-title="DEPORTES",TYC SPORTS HD ARG
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/7c46edca-b705-48f9-97e7-7ac97c5da705.m3u
-#EXTINF:-1 tvg-id="" tvg-name="TYC SPORTS HD INTERNACIONAL" https://i.postimg.cc/43NX9c3p/TYC-SPORTS.jpg" group-title="DEPORTES",TYC SPORTS HD INTERNACIONAL
+#EXTINF:-1 tvg-id="" tvg-name="TYC SPORTS HD INTERNACIONAL" tvg-logo="https://i.postimg.cc/43NX9c3p/TYC-SPORTS.jpg" group-title="DEPORTES",TYC SPORTS HD INTERNACIONAL
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/f49d841c-1084-4903-9ef0-d479c149dffe.m3u
-#EXTINF:-1 tvg-id="" tvg-name="D SPORTS HD (Arg)" https://i.postimg.cc/05KHcNMm/DIRECTV-1.jpg" group-title="DEPORTES",D SPORTS HD (Arg)
+#EXTINF:-1 tvg-id="" tvg-name="D SPORTS HD (Arg)" tvg-logo="https://i.postimg.cc/05KHcNMm/DIRECTV-1.jpg" group-title="DEPORTES",D SPORTS HD (Arg)
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/73c9d55c-5599-4c78-afd8-fcf055ddf88f.m3u
-#EXTINF:-1 tvg-id="" tvg-name="D SPORTS 2 HD (Arg)" https://i.postimg.cc/k4zYq0ZB/DIRECTV-2.jpg" group-title="DEPORTES",D SPORTS 2 HD (Arg)
+#EXTINF:-1 tvg-id="" tvg-name="D SPORTS 2 HD (Arg)" tvg-logo="https://i.postimg.cc/k4zYq0ZB/DIRECTV-2.jpg" group-title="DEPORTES",D SPORTS 2 HD (Arg)
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/14837c4b-eff1-4e2d-96fb-ad95939c3ac3.m3u
-#EXTINF:-1 tvg-id="" tvg-name="D SPORTS + HD (Arg)" https://i.postimg.cc/BQW7yGHz/DIRECTV-MAS.jpg" group-title="DEPORTES",D SPORTS + HD (Arg)
+#EXTINF:-1 tvg-id="" tvg-name="D SPORTS + HD (Arg)" tvg-logo="https://i.postimg.cc/BQW7yGHz/DIRECTV-MAS.jpg" group-title="DEPORTES",D SPORTS + HD (Arg)
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/c8da34fe-c08c-4c77-8fb6-50243ed605f8.m3u
-#EXTINF:-1 tvg-id="" tvg-name="D SPORTS HD (Peru)" https://i.postimg.cc/LsQpN0K3/DIRECTV-EVENTOS.png" group-title="DEPORTES",D SPORTS HD (Peru)
+#EXTINF:-1 tvg-id="" tvg-name="D SPORTS HD (Peru)" tvg-logo="https://i.postimg.cc/LsQpN0K3/DIRECTV-EVENTOS.png" group-title="DEPORTES",D SPORTS HD (Peru)
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/c25277e9-5d39-45c3-8588-10b10241a56d.m3u
-#EXTINF:-1 tvg-id="" tvg-name="WIN SPORTS HD" https://i.postimg.cc/3xZKN13K/WIN-SPORTS.jpg" group-title="DEPORTES",WIN SPORTS HD
+#EXTINF:-1 tvg-id="" tvg-name="WIN SPORTS HD" tvg-logo="https://i.postimg.cc/3xZKN13K/WIN-SPORTS.jpg" group-title="DEPORTES",WIN SPORTS HD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/f74109b2-03f6-4b7a-8248-e66a76953afe.m3u
-#EXTINF:-1 tvg-id="" tvg-name="WIN SPORTS + HD" https://i.postimg.cc/VNGmBNSp/WIN-SPORTS-MAS.jpg" group-title="DEPORTES",WIN SPORTS + HD
+#EXTINF:-1 tvg-id="" tvg-name="WIN SPORTS + HD" tvg-logo="https://i.postimg.cc/VNGmBNSp/WIN-SPORTS-MAS.jpg" group-title="DEPORTES",WIN SPORTS + HD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/a11f0e05-a70d-4c90-abb1-996e1d58dc00.m3u
-#EXTINF:-1 tvg-id="" tvg-name="EL CANAL DEL FUTBOL HD (Ecuador) ECDF" https://i.postimg.cc/MKy3JrYp/ECDF.jpg" group-title="DEPORTES",EL CANAL DEL FUTBOL HD (Ecuador) ECDF
+#EXTINF:-1 tvg-id="" tvg-name="EL CANAL DEL FUTBOL HD (Ecuador) ECDF" tvg-logo="https://i.postimg.cc/MKy3JrYp/ECDF.jpg" group-title="DEPORTES",EL CANAL DEL FUTBOL HD (Ecuador) ECDF
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/57e81eb3-88a2-430b-9d86-2cd05578cf76.m3u
-#EXTINF:-1 tvg-id="" tvg-name="EL CANAL DEL FUTBOL - ECDF SD" " group-title="DEPORTES",EL CANAL DEL FUTBOL - ECDF SD
+#EXTINF:-1 tvg-id="" tvg-name="EL CANAL DEL FUTBOL - ECDF SD" tvg-logo="" group-title="DEPORTES",EL CANAL DEL FUTBOL - ECDF SD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/0a741f09-7c68-4b25-8c84-96716c6367b1.m3u
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES" https://i.postimg.cc/MT2jwt5z/MOVISTAR-DEPORTES.jpg" group-title="DEPORTES",MOVISTAR DEPORTES
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES" tvg-logo="https://i.postimg.cc/MT2jwt5z/MOVISTAR-DEPORTES.jpg" group-title="DEPORTES",MOVISTAR DEPORTES
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/7819c2da-efca-4c0d-810f-8598a2ed5ac3.m3u
-#EXTINF:-1 tvg-id="" tvg-name="GOL PERU" https://i.postimg.cc/m2bChXsD/GOLPERU.jpg" group-title="DEPORTES",GOL PERU
+#EXTINF:-1 tvg-id="" tvg-name="GOL PERU" tvg-logo="https://i.postimg.cc/m2bChXsD/GOLPERU.jpg" group-title="DEPORTES",GOL PERU
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/f676e770-49d1-48a0-9e42-7db7d264bb47.m3u
-#EXTINF:-1 tvg-id="" tvg-name="GOL TV HD" https://i.postimg.cc/3xNGFkWQ/GOLTV.jpg" group-title="DEPORTES",GOL TV HD
+#EXTINF:-1 tvg-id="" tvg-name="GOL TV HD" tvg-logo="https://i.postimg.cc/3xNGFkWQ/GOLTV.jpg" group-title="DEPORTES",GOL TV HD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/b52b8bef-7615-43e2-b210-b9ce8899de89.m3u
-#EXTINF:-1 tvg-id="" tvg-name="CLARO SPORTS HD" https://i.postimg.cc/KY9sskD7/CLARO-SPORTS.jpg" group-title="DEPORTES",CLARO SPORTS HD
+#EXTINF:-1 tvg-id="" tvg-name="CLARO SPORTS HD" tvg-logo="https://i.postimg.cc/KY9sskD7/CLARO-SPORTS.jpg" group-title="DEPORTES",CLARO SPORTS HD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/b021caed-bbef-4607-bc7f-0dbf9b3b7034.m3u
-#EXTINF:-1 tvg-id="" tvg-name="CLARO SPORTS 2 HD" https://i.postimg.cc/dVjfrS7x/CLARO-SPORTS-2.jpg" group-title="DEPORTES",CLARO SPORTS 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="CLARO SPORTS 2 HD" tvg-logo="https://i.postimg.cc/dVjfrS7x/CLARO-SPORTS-2.jpg" group-title="DEPORTES",CLARO SPORTS 2 HD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/0a353512-2932-40e2-95ff-8dd649000c5b.m3u
-#EXTINF:-1 tvg-id="" tvg-name="T1GO HD HONDURAS" https://i.postimg.cc/C119FHx6/TIGO-HONDURAS.jpg" group-title="DEPORTES",T1GO HD HONDURAS
+#EXTINF:-1 tvg-id="" tvg-name="T1GO HD HONDURAS" tvg-logo="https://i.postimg.cc/C119FHx6/TIGO-HONDURAS.jpg" group-title="DEPORTES",T1GO HD HONDURAS
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/b31c6d2d-dc5f-41d4-b67c-301810f94e3c.m3u
-#EXTINF:-1 tvg-id="" tvg-name="be iN SPORTS ES HD" https://i.postimg.cc/Kvv3m1P3/BEIN-SPORTS.jpg" group-title="DEPORTES",be iN SPORTS ES HD
+#EXTINF:-1 tvg-id="" tvg-name="be iN SPORTS ES HD" tvg-logo="https://i.postimg.cc/Kvv3m1P3/BEIN-SPORTS.jpg" group-title="DEPORTES",be iN SPORTS ES HD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/3defaf70-776b-4caf-8bb8-74192d831d9e.m3u
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS " https://i.postimg.cc/cLSjKNJ3/BEINSPORTS-LIGA.jpg" group-title="DEPORTES",BEIN SPORTS 
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS Ñ" tvg-logo="https://i.postimg.cc/cLSjKNJ3/BEINSPORTS-LIGA.jpg" group-title="DEPORTES",BEIN SPORTS Ñ
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/cfdea309-9479-4eef-9a86-27d36c129668.m3u
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS XTRA " https://i.postimg.cc/cLSjKNJ3/BEINSPORTS-LIGA.jpg" group-title="DEPORTES",BEIN SPORTS XTRA 
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS XTRA Ñ" tvg-logo="https://i.postimg.cc/cLSjKNJ3/BEINSPORTS-LIGA.jpg" group-title="DEPORTES",BEIN SPORTS XTRA Ñ
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/6b0bfb50-9c83-4a05-9598-21ecdad97c5a.m3u
-#EXTINF:-1 tvg-id="" tvg-name="UFC FIGHT PASS" https://i.postimg.cc/qvK3XB5n/UFC-PASS.jpg" group-title="DEPORTES",UFC FIGHT PASS
+#EXTINF:-1 tvg-id="" tvg-name="UFC FIGHT PASS" tvg-logo="https://i.postimg.cc/qvK3XB5n/UFC-PASS.jpg" group-title="DEPORTES",UFC FIGHT PASS
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/b2719fbc-7585-4f0b-a2a9-d9faa5c5ef9c.m3u
-#EXTINF:-1 tvg-id="" tvg-name="TD+HD" https://i.postimg.cc/k57kHd3C/TD.jpg" group-title="DEPORTES",TD+HD
+#EXTINF:-1 tvg-id="" tvg-name="TD+HD" tvg-logo="https://i.postimg.cc/k57kHd3C/TD.jpg" group-title="DEPORTES",TD+HD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/e15e947a-63b8-43a9-a34e-62946e973590.m3u
-#EXTINF:-1 tvg-id="" tvg-name="TD+2 HD" https://i.postimg.cc/TPQZMHfD/TD-2.jpg" group-title="DEPORTES",TD+2 HD
+#EXTINF:-1 tvg-id="" tvg-name="TD+2 HD" tvg-logo="https://i.postimg.cc/TPQZMHfD/TD-2.jpg" group-title="DEPORTES",TD+2 HD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/eae82ae3-63da-475e-9e03-d1d9ed6ba197.m3u
-#EXTINF:-1 tvg-id="" tvg-name="LIGA 1 Peru" https://i.postimg.cc/5tnN8ZbL/LIGA-1-PERU.jpg" group-title="DEPORTES",LIGA 1 Peru
+#EXTINF:-1 tvg-id="" tvg-name="LIGA 1 Peru" tvg-logo="https://i.postimg.cc/5tnN8ZbL/LIGA-1-PERU.jpg" group-title="DEPORTES",LIGA 1 Peru
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/af604598-b720-468b-ad26-b0444262b6b4.m3u
-#EXTINF:-1 tvg-id="" tvg-name="LIGA 1 MAX" https://i.postimg.cc/pddX7LSQ/LIGA-1-MAX.jpg" group-title="DEPORTES",LIGA 1 MAX
+#EXTINF:-1 tvg-id="" tvg-name="LIGA 1 MAX" tvg-logo="https://i.postimg.cc/pddX7LSQ/LIGA-1-MAX.jpg" group-title="DEPORTES",LIGA 1 MAX
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/14322801-f8c5-495e-b5ef-ca2cd74e7903.m3u
-#EXTINF:-1 tvg-id="" tvg-name="TUBI (Solo Eventos)" https://i.postimg.cc/Vv9BD4HX/tubi.png" group-title="DEPORTES",TUBI (Solo Eventos)
+#EXTINF:-1 tvg-id="" tvg-name="TUBI (Solo Eventos)" tvg-logo="https://i.postimg.cc/Vv9BD4HX/tubi.png" group-title="DEPORTES",TUBI (Solo Eventos)
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/56bfd79e-4924-4ed7-a288-66e485b65a8c.m3u
-#EXTINF:-1 tvg-id="" tvg-name="TUDN MEXICO HD" https://i.postimg.cc/J4Z7VmgH/TUDN.jpg" group-title="DEPORTES",TUDN MEXICO HD
+#EXTINF:-1 tvg-id="" tvg-name="TUDN MEXICO HD" tvg-logo="https://i.postimg.cc/J4Z7VmgH/TUDN.jpg" group-title="DEPORTES",TUDN MEXICO HD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/b68a690a-db64-468a-a1da-1f9152e2e9eb.m3u
-#EXTINF:-1 tvg-id="" tvg-name="TUDN DEPORTES USA HD" https://i.postimg.cc/J4Z7VmgH/TUDN.jpg" group-title="DEPORTES",TUDN DEPORTES USA HD
+#EXTINF:-1 tvg-id="" tvg-name="TUDN DEPORTES USA HD" tvg-logo="https://i.postimg.cc/J4Z7VmgH/TUDN.jpg" group-title="DEPORTES",TUDN DEPORTES USA HD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/9a8cd9d9-69dc-4b38-a8f2-04d872293b6d.m3u
-#EXTINF:-1 tvg-id="" tvg-name="TUDN" https://i.postimg.cc/J4Z7VmgH/TUDN.jpg" group-title="DEPORTES",TUDN
+#EXTINF:-1 tvg-id="" tvg-name="TUDN" tvg-logo="https://i.postimg.cc/J4Z7VmgH/TUDN.jpg" group-title="DEPORTES",TUDN
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/558664a5-b96e-4ac5-ba57-b5e3918d266b.m3u
-#EXTINF:-1 tvg-id="" tvg-name="TUDN    Opc 2" https://i.postimg.cc/J4Z7VmgH/TUDN.jpg" group-title="DEPORTES",TUDN    Opc 2
+#EXTINF:-1 tvg-id="" tvg-name="TUDN    Opc 2" tvg-logo="https://i.postimg.cc/J4Z7VmgH/TUDN.jpg" group-title="DEPORTES",TUDN    Opc 2
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/11ba2197-603f-4003-9126-0bea1176c12e.m3u
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS LA LIGA" https://i.postimg.cc/7hfLWBw9/SKY-SPORTLALIGA.jpg" group-title="DEPORTES",SKY SPORTS LA LIGA
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS LA LIGA" tvg-logo="https://i.postimg.cc/7hfLWBw9/SKY-SPORTLALIGA.jpg" group-title="DEPORTES",SKY SPORTS LA LIGA
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/c2c7d12a-be16-4039-886f-87ad0970e03c.m3u
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS (Bundesliga)" https://i.postimg.cc/7hfLWBw9/SKY-SPORTLALIGA.jpg" group-title="DEPORTES",SKY SPORTS (Bundesliga)
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS (Bundesliga)" tvg-logo="https://i.postimg.cc/7hfLWBw9/SKY-SPORTLALIGA.jpg" group-title="DEPORTES",SKY SPORTS (Bundesliga)
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/cfc663d0-a48a-4526-8b22-2cf513acdceb.m3u
-#EXTINF:-1 tvg-id="" tvg-name="- ITV DEPORTES" https://i.postimg.cc/YqbgF6rx/ITV-DEPORTES.jpg" group-title="DEPORTES",- ITV DEPORTES
+#EXTINF:-1 tvg-id="" tvg-name="- ITV DEPORTES" tvg-logo="https://i.postimg.cc/YqbgF6rx/ITV-DEPORTES.jpg" group-title="DEPORTES",- ITV DEPORTES
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/f7e79817-eb95-4561-9eb9-4b9e8caa0d72.m3u
-#EXTINF:-1 tvg-id="" tvg-name="CNBC" https://i.postimg.cc/MTMZ6rqv/CNBC.jpg" group-title="DEPORTES",CNBC
+#EXTINF:-1 tvg-id="" tvg-name="CNBC" tvg-logo="https://i.postimg.cc/MTMZ6rqv/CNBC.jpg" group-title="DEPORTES",CNBC
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/28085bfb-5126-4d6b-a781-cf29263da1f6.m3u
-#EXTINF:-1 tvg-id="" tvg-name="TIGO SPORTS GUATEMALA" https://i.postimg.cc/C119FHx6/TIGO-HONDURAS.jpg" group-title="DEPORTES",TIGO SPORTS GUATEMALA
+#EXTINF:-1 tvg-id="" tvg-name="TIGO SPORTS GUATEMALA" tvg-logo="https://i.postimg.cc/C119FHx6/TIGO-HONDURAS.jpg" group-title="DEPORTES",TIGO SPORTS GUATEMALA
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/628ecb23-5627-47f3-a8a2-e2628b56a887.m3u
-#EXTINF:-1 tvg-id="" tvg-name="NHL NETWORK" https://i.postimg.cc/8zLS3H7R/NHL-NETWORK.jpg" group-title="DEPORTES",NHL NETWORK
+#EXTINF:-1 tvg-id="" tvg-name="NHL NETWORK" tvg-logo="https://i.postimg.cc/8zLS3H7R/NHL-NETWORK.jpg" group-title="DEPORTES",NHL NETWORK
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/1cdc9c1d-c1f9-44a2-a508-7d88ad47bffc.m3u
-#EXTINF:-1 tvg-id="" tvg-name="NBA NETWORK" https://i.postimg.cc/KzP38LpB/NBA-NETWORT.jpg" group-title="DEPORTES",NBA NETWORK
+#EXTINF:-1 tvg-id="" tvg-name="NBA NETWORK" tvg-logo="https://i.postimg.cc/KzP38LpB/NBA-NETWORT.jpg" group-title="DEPORTES",NBA NETWORK
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/4399b9ac-b0c6-4670-8bdc-1f23582c5be7.m3u
-#EXTINF:-1 tvg-id="" tvg-name="RED BULL TV" https://i.postimg.cc/HnJGt4G7/REDBULL-TV.jpg" group-title="DEPORTES",RED BULL TV
+#EXTINF:-1 tvg-id="" tvg-name="RED BULL TV" tvg-logo="https://i.postimg.cc/HnJGt4G7/REDBULL-TV.jpg" group-title="DEPORTES",RED BULL TV
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/0372620c-9964-4767-9f6f-514dda49f766.m3u
-#EXTINF:-1 tvg-id="" tvg-name="REAL MADRID TV" https://i.postimg.cc/bYMfwMb0/REAL-MADRI-TV.jpg" group-title="DEPORTES",REAL MADRID TV
+#EXTINF:-1 tvg-id="" tvg-name="REAL MADRID TV" tvg-logo="https://i.postimg.cc/bYMfwMb0/REAL-MADRI-TV.jpg" group-title="DEPORTES",REAL MADRID TV
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/d1fd43b8-e761-4bab-af3e-e1f63f566c90.m3u
-#EXTINF:-1 tvg-id="" tvg-name="LATIN AMERICA SPORT" https://i.postimg.cc/Mpqyn1cW/LATIN-SPORTS.jpg" group-title="DEPORTES",LATIN AMERICA SPORT
+#EXTINF:-1 tvg-id="" tvg-name="LATIN AMERICA SPORT" tvg-logo="https://i.postimg.cc/Mpqyn1cW/LATIN-SPORTS.jpg" group-title="DEPORTES",LATIN AMERICA SPORT
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/40e8ef2b-fdfb-44d5-b09f-2ea2c6aa10f4.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AYM SPORTS TV" https://i.postimg.cc/vTwT35xd/AYM-SPORTS.jpg" group-title="DEPORTES",AYM SPORTS TV
+#EXTINF:-1 tvg-id="" tvg-name="AYM SPORTS TV" tvg-logo="https://i.postimg.cc/vTwT35xd/AYM-SPORTS.jpg" group-title="DEPORTES",AYM SPORTS TV
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/be197fad-1675-4e0c-a90c-e806aa55b6df.m3u
-#EXTINF:-1 tvg-id="" tvg-name="COMBATV" https://i.postimg.cc/T3fkBSvK/COMBA-TV.jpg" group-title="DEPORTES",COMBATV
+#EXTINF:-1 tvg-id="" tvg-name="COMBATV" tvg-logo="https://i.postimg.cc/T3fkBSvK/COMBA-TV.jpg" group-title="DEPORTES",COMBATV
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/cb37227a-76ad-42cf-8c0d-295750ace537.m3u
-#EXTINF:-1 tvg-id="" tvg-name="GOLF CHANNEL" https://i.postimg.cc/tRWBryn3/GOLF-CHANEL.jpg" group-title="DEPORTES",GOLF CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="GOLF CHANNEL" tvg-logo="https://i.postimg.cc/tRWBryn3/GOLF-CHANEL.jpg" group-title="DEPORTES",GOLF CHANNEL
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/03c01a79-0699-4f5a-87fe-d49d1961059b.m3u
-#EXTINF:-1 tvg-id="" tvg-name="_ TENNIS CHANNEL" http://icomplay.net:80/images/EFuEEgW5Z2mGowqQ2iBbinr7ptvcb9dmVQj1lGOt7hkJI1rmpfjPQX0GLRPfDp9JMVWfoIeNd54MivOno20gEZqJuEhA_WrJOkhH3ilMTgShVFcXysLSx5h5BTI5XjDLNe8FHPcvoULuw0ECtWzF4NGk535iHChMex2I5Hk1xBQ.png" group-title="DEPORTES",_ TENNIS CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="_ TENNIS CHANNEL" tvg-logo="http://icomplay.net:80/images/EFuEEgW5Z2mGowqQ2iBbinr7ptvcb9dmVQj1lGOt7hkJI1rmpfjPQX0GLRPfDp9JMVWfoIeNd54MivOno20gEZqJuEhA_WrJOkhH3ilMTgShVFcXysLSx5h5BTI5XjDLNe8FHPcvoULuw0ECtWzF4NGk535iHChMex2I5Hk1xBQ.png" group-title="DEPORTES",_ TENNIS CHANNEL
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/1e8e68d9-b4b0-4f18-ac68-6d2d657647dd.m3u
-#EXTINF:-1 tvg-id="" tvg-name="VIA X" https://i.postimg.cc/Z5GcPMY7/VIA-X.jpg" group-title="DEPORTES",VIA X
+#EXTINF:-1 tvg-id="" tvg-name="VIA X" tvg-logo="https://i.postimg.cc/Z5GcPMY7/VIA-X.jpg" group-title="DEPORTES",VIA X
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/a9c99a3b-5b48-4240-88af-e063d6fef1c5.m3u
-#EXTINF:-1 tvg-id="" tvg-name="CALIENTE TV HD Mexico" https://i.postimg.cc/5NMtJWhs/CALIENTE-TV.jpg" group-title="DEPORTES",CALIENTE TV HD Mexico
+#EXTINF:-1 tvg-id="" tvg-name="CALIENTE TV HD Mexico" tvg-logo="https://i.postimg.cc/5NMtJWhs/CALIENTE-TV.jpg" group-title="DEPORTES",CALIENTE TV HD Mexico
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/fefcbb42-3448-403b-ae80-00768bb7ee9d.m3u
-#EXTINF:-1 tvg-id="" tvg-name="ONETORO-TV" https://i.postimg.cc/N0xQ2ZjD/descarga.jpg" group-title="DEPORTES",ONETORO-TV
+#EXTINF:-1 tvg-id="" tvg-name="ONETORO-TV" tvg-logo="https://i.postimg.cc/N0xQ2ZjD/descarga.jpg" group-title="DEPORTES",ONETORO-TV
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/c75c4f39-58ba-4f80-a498-a463f5bca878.m3u
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS" " group-title="DEPORTES",SKY SPORTS
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS" tvg-logo="" group-title="DEPORTES",SKY SPORTS
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/0adf6c62-6fed-4e01-9c8d-06edbc173dbf.m3u
-#EXTINF:-1 tvg-id="" tvg-name="FUTV" " group-title="DEPORTES",FUTV
+#EXTINF:-1 tvg-id="" tvg-name="FUTV" tvg-logo="" group-title="DEPORTES",FUTV
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/e346b8a1-346d-4bfa-a4ad-cb24b0d138a7.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AYM" " group-title="DEPORTES",AYM
+#EXTINF:-1 tvg-id="" tvg-name="AYM" tvg-logo="" group-title="DEPORTES",AYM
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/60f24c20-e2bd-4765-a163-df7c9ea1870e.m3u
-#EXTINF:-1 tvg-id="" tvg-name="ZAPPING SPORTS ECUADOR (Solo Eventos)" https://i.postimg.cc/W3p91gQc/ZAPPING-SPORTS.png" group-title="DEPORTES",ZAPPING SPORTS ECUADOR (Solo Eventos)
+#EXTINF:-1 tvg-id="" tvg-name="ZAPPING SPORTS ECUADOR (Solo Eventos)" tvg-logo="https://i.postimg.cc/W3p91gQc/ZAPPING-SPORTS.png" group-title="DEPORTES",ZAPPING SPORTS ECUADOR (Solo Eventos)
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/f8f502bd-9a12-4eb0-bd25-5fe83011c0cb.m3u
-#EXTINF:-1 tvg-id="" tvg-name="ESPN HD (ARG)" https://i.postimg.cc/g2mSzqMq/ESPN-ARG-1.jpg" group-title="ESPN Y FOX SPORTSS",ESPN HD (ARG)
+#EXTINF:-1 tvg-id="" tvg-name="ESPN HD (ARG)" tvg-logo="https://i.postimg.cc/g2mSzqMq/ESPN-ARG-1.jpg" group-title="ESPN Y FOX SPORTSS",ESPN HD (ARG)
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/16901e78-db26-4a8a-851c-10d990606c36.m3u
-#EXTINF:-1 tvg-id="" tvg-name="ESPN HD (CHI)" https://i.postimg.cc/RVzGdLz5/ESPN-CL-1.jpg" group-title="ESPN Y FOX SPORTSS",ESPN HD (CHI)
+#EXTINF:-1 tvg-id="" tvg-name="ESPN HD (CHI)" tvg-logo="https://i.postimg.cc/RVzGdLz5/ESPN-CL-1.jpg" group-title="ESPN Y FOX SPORTSS",ESPN HD (CHI)
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/07015525-80b0-415f-937a-67867b0f912a.m3u
-#EXTINF:-1 tvg-id="" tvg-name="ESPN HD (COL)" https://i.postimg.cc/y6Rv0rty/ESPN-COL-1.jpg" group-title="ESPN Y FOX SPORTSS",ESPN HD (COL)
+#EXTINF:-1 tvg-id="" tvg-name="ESPN HD (COL)" tvg-logo="https://i.postimg.cc/y6Rv0rty/ESPN-COL-1.jpg" group-title="ESPN Y FOX SPORTSS",ESPN HD (COL)
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/a93858ae-bf68-4431-a7f5-9338fe194457.m3u
-#EXTINF:-1 tvg-id="" tvg-name="ESPN HD (MEX)" https://i.postimg.cc/h4V1XQQC/ESPN-MEXICO-1.jpg" group-title="ESPN Y FOX SPORTSS",ESPN HD (MEX)
+#EXTINF:-1 tvg-id="" tvg-name="ESPN HD (MEX)" tvg-logo="https://i.postimg.cc/h4V1XQQC/ESPN-MEXICO-1.jpg" group-title="ESPN Y FOX SPORTSS",ESPN HD (MEX)
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/20f389bd-4a71-46c8-b8d4-0410367d9592.m3u
-#EXTINF:-1 tvg-id="" tvg-name="ESPN HD (PE)" https://i.postimg.cc/cLkQpQPJ/ESPN-PERU.jpg" group-title="ESPN Y FOX SPORTSS",ESPN HD (PE)
+#EXTINF:-1 tvg-id="" tvg-name="ESPN HD (PE)" tvg-logo="https://i.postimg.cc/cLkQpQPJ/ESPN-PERU.jpg" group-title="ESPN Y FOX SPORTSS",ESPN HD (PE)
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/51024148-2326-4b07-ad97-c0f36fab95b8.m3u
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD (ARG)" https://i.postimg.cc/fRCHJtp4/ESPN-ARG-2.jpg" group-title="ESPN Y FOX SPORTSS",ESPN 2 HD (ARG)
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD (ARG)" tvg-logo="https://i.postimg.cc/fRCHJtp4/ESPN-ARG-2.jpg" group-title="ESPN Y FOX SPORTSS",ESPN 2 HD (ARG)
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/f6c624af-aceb-41ec-97e5-2aa46091b7d7.m3u
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD (CHI)" https://i.postimg.cc/fTf7K3s8/ESPN-CL-2.jpg" group-title="ESPN Y FOX SPORTSS",ESPN 2 HD (CHI)
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD (CHI)" tvg-logo="https://i.postimg.cc/fTf7K3s8/ESPN-CL-2.jpg" group-title="ESPN Y FOX SPORTSS",ESPN 2 HD (CHI)
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/2a11c323-c752-4515-b3d6-24cfec99a267.m3u
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD (COL)" https://i.postimg.cc/GhJK5TcB/ESPN-COL-2.jpg" group-title="ESPN Y FOX SPORTSS",ESPN 2 HD (COL)
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD (COL)" tvg-logo="https://i.postimg.cc/GhJK5TcB/ESPN-COL-2.jpg" group-title="ESPN Y FOX SPORTSS",ESPN 2 HD (COL)
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/b7fb0fde-5492-4ca4-aa2e-e64ee9cd4458.m3u
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD (MEX)" https://i.postimg.cc/sDy97fp3/ESPN-MEXICO-2.jpg" group-title="ESPN Y FOX SPORTSS",ESPN 2 HD (MEX)
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD (MEX)" tvg-logo="https://i.postimg.cc/sDy97fp3/ESPN-MEXICO-2.jpg" group-title="ESPN Y FOX SPORTSS",ESPN 2 HD (MEX)
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/bac4c3d7-4da6-4ff8-83a5-0bf067951e0f.m3u
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 HD" https://i.postimg.cc/XYjLSNJs/ESPN-LATINO-3.jpg" group-title="ESPN Y FOX SPORTSS",ESPN 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 HD" tvg-logo="https://i.postimg.cc/XYjLSNJs/ESPN-LATINO-3.jpg" group-title="ESPN Y FOX SPORTSS",ESPN 3 HD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/e78f958e-fb50-46e0-9013-fbc0129c9938.m3u
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 HD (ARG)" https://i.postimg.cc/5tknmcfn/ESPN-ARG-3.jpg" group-title="ESPN Y FOX SPORTSS",ESPN 3 HD (ARG)
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 HD (ARG)" tvg-logo="https://i.postimg.cc/5tknmcfn/ESPN-ARG-3.jpg" group-title="ESPN Y FOX SPORTSS",ESPN 3 HD (ARG)
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/a0c609cc-3fff-4317-9701-d1fd92c6f4f5.m3u
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 HD (MEX)" https://i.postimg.cc/qMLcLfLy/ESPN-MEXICO-3.jpg" group-title="ESPN Y FOX SPORTSS",ESPN 3 HD (MEX)
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 HD (MEX)" tvg-logo="https://i.postimg.cc/qMLcLfLy/ESPN-MEXICO-3.jpg" group-title="ESPN Y FOX SPORTSS",ESPN 3 HD (MEX)
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/2a38a83f-5a4e-40b9-92f3-4aebd7c15c5f.m3u
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 HD" https://i.postimg.cc/wB3kMWDJ/ESPN-LATINO-4.jpg" group-title="ESPN Y FOX SPORTSS",ESPN 4 HD
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 HD" tvg-logo="https://i.postimg.cc/wB3kMWDJ/ESPN-LATINO-4.jpg" group-title="ESPN Y FOX SPORTSS",ESPN 4 HD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/c7219cd2-ec2d-460c-a2d6-a00b5283fbde.m3u
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 HD ARG" https://i.postimg.cc/5ttsv9WX/ESPN-ARG-4.jpg" group-title="ESPN Y FOX SPORTSS",ESPN 4 HD ARG
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 HD ARG" tvg-logo="https://i.postimg.cc/5ttsv9WX/ESPN-ARG-4.jpg" group-title="ESPN Y FOX SPORTSS",ESPN 4 HD ARG
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/b4c92ab3-a2e3-4f6b-b04c-51c10a2d9683.m3u
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 HD MEX" https://i.postimg.cc/zGGC2dtM/ESPN-MEXICO-4.jpg" group-title="ESPN Y FOX SPORTSS",ESPN 4 HD MEX
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 HD MEX" tvg-logo="https://i.postimg.cc/zGGC2dtM/ESPN-MEXICO-4.jpg" group-title="ESPN Y FOX SPORTSS",ESPN 4 HD MEX
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/03d7fd95-207d-45f0-b1d0-dfede402c76b.m3u
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 5 HD ARG" https://i.postimg.cc/B6KccXYn/ESPN-LATINO-5.jpg" group-title="ESPN Y FOX SPORTSS",ESPN 5 HD ARG
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 5 HD ARG" tvg-logo="https://i.postimg.cc/B6KccXYn/ESPN-LATINO-5.jpg" group-title="ESPN Y FOX SPORTSS",ESPN 5 HD ARG
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/bcfece15-a160-492e-bf83-f9aac0f25546.m3u
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 5 HD" https://i.postimg.cc/B6KccXYn/ESPN-LATINO-5.jpg" group-title="ESPN Y FOX SPORTSS",ESPN 5 HD
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 5 HD" tvg-logo="https://i.postimg.cc/B6KccXYn/ESPN-LATINO-5.jpg" group-title="ESPN Y FOX SPORTSS",ESPN 5 HD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/1178e3ec-766e-4e57-b76e-b93b942fa72b.m3u
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 5 HD MEX" https://i.postimg.cc/prQf43tN/ESPN-MEX-5.jpg" group-title="ESPN Y FOX SPORTSS",ESPN 5 HD MEX
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 5 HD MEX" tvg-logo="https://i.postimg.cc/prQf43tN/ESPN-MEX-5.jpg" group-title="ESPN Y FOX SPORTSS",ESPN 5 HD MEX
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/6135db08-f9de-49d3-aefd-9db40bcf1e68.m3u
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 6 HD" https://i.postimg.cc/hGw1d90Y/ESPN-LATINO-6.jpg" group-title="ESPN Y FOX SPORTSS",ESPN 6 HD
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 6 HD" tvg-logo="https://i.postimg.cc/hGw1d90Y/ESPN-LATINO-6.jpg" group-title="ESPN Y FOX SPORTSS",ESPN 6 HD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/59b8fb4b-fb24-4dbb-82df-100116483e80.m3u
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 7 HD" https://i.postimg.cc/2yNdHrMF/ESPN-LATINO-07.jpg" group-title="ESPN Y FOX SPORTSS",ESPN 7 HD
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 7 HD" tvg-logo="https://i.postimg.cc/2yNdHrMF/ESPN-LATINO-07.jpg" group-title="ESPN Y FOX SPORTSS",ESPN 7 HD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/1e582e39-9c9b-496a-99eb-3155034f5253.m3u
-#EXTINF:-1 tvg-id="" tvg-name="ESPN DEPORTES HD" https://i.postimg.cc/d378b24N/ESPN-DEPORTES.jpg" group-title="ESPN Y FOX SPORTSS",ESPN DEPORTES HD
+#EXTINF:-1 tvg-id="" tvg-name="ESPN DEPORTES HD" tvg-logo="https://i.postimg.cc/d378b24N/ESPN-DEPORTES.jpg" group-title="ESPN Y FOX SPORTSS",ESPN DEPORTES HD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/9c61b1e2-3182-4c29-a681-93b5f9c985eb.m3u
-#EXTINF:-1 tvg-id="" tvg-name="ESPN PREMIUM ARG HD" https://i.postimg.cc/W3FSW93j/ESPN-ARG-PREMIUM.jpg" group-title="ESPN Y FOX SPORTSS",ESPN PREMIUM ARG HD
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PREMIUM ARG HD" tvg-logo="https://i.postimg.cc/W3FSW93j/ESPN-ARG-PREMIUM.jpg" group-title="ESPN Y FOX SPORTSS",ESPN PREMIUM ARG HD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/8314862b-ed02-46b4-a114-996f0aaafb2c.m3u
-#EXTINF:-1 tvg-id="" tvg-name="ESPN PREMIUM HD CHILE" https://i.postimg.cc/JnqmwJfd/espnpremium.png" group-title="ESPN Y FOX SPORTSS",ESPN PREMIUM HD CHILE
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PREMIUM HD CHILE" tvg-logo="https://i.postimg.cc/JnqmwJfd/espnpremium.png" group-title="ESPN Y FOX SPORTSS",ESPN PREMIUM HD CHILE
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/32035ba0-8be0-41df-a585-5805988d2d99.m3u
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS ARG HD." https://i.postimg.cc/W3ggqxzD/FOX-SPORTS.jpg" group-title="ESPN Y FOX SPORTSS",FOX SPORTS ARG HD.
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS ARG HD." tvg-logo="https://i.postimg.cc/W3ggqxzD/FOX-SPORTS.jpg" group-title="ESPN Y FOX SPORTSS",FOX SPORTS ARG HD.
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/2287a443-6bf7-4eb1-bef4-d9e6a399fdeb.m3u
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 ARG HD" https://i.postimg.cc/kGySf8xq/FOX-SPORTS-2.jpg" group-title="ESPN Y FOX SPORTSS",FOX SPORTS 2 ARG HD
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 ARG HD" tvg-logo="https://i.postimg.cc/kGySf8xq/FOX-SPORTS-2.jpg" group-title="ESPN Y FOX SPORTSS",FOX SPORTS 2 ARG HD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/e66e682a-3970-49c5-b9d9-da2523739f94.m3u
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3 ARG HD" https://i.postimg.cc/Y2NQrcTZ/FOX-SPORTS-3.jpg" group-title="ESPN Y FOX SPORTSS",FOX SPORTS 3 ARG HD
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3 ARG HD" tvg-logo="https://i.postimg.cc/Y2NQrcTZ/FOX-SPORTS-3.jpg" group-title="ESPN Y FOX SPORTSS",FOX SPORTS 3 ARG HD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/bd1c9973-1eb8-49f0-8403-4f7af73feea9.m3u
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS HD Mexico" https://i.postimg.cc/6q2tNgrJ/FOX-SPORTS-MEXICO.jpg" group-title="ESPN Y FOX SPORTSS",FOX SPORTS HD Mexico
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS HD Mexico" tvg-logo="https://i.postimg.cc/6q2tNgrJ/FOX-SPORTS-MEXICO.jpg" group-title="ESPN Y FOX SPORTSS",FOX SPORTS HD Mexico
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/f1a87a0e-3616-4f53-b11a-ff672184daa9.m3u
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 HD Mexico" https://i.postimg.cc/6q2tNgrJ/FOX-SPORTS-MEXICO.jpg" group-title="ESPN Y FOX SPORTSS",FOX SPORTS 2 HD Mexico
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 HD Mexico" tvg-logo="https://i.postimg.cc/6q2tNgrJ/FOX-SPORTS-MEXICO.jpg" group-title="ESPN Y FOX SPORTSS",FOX SPORTS 2 HD Mexico
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/17bd5022-8883-4986-8bff-fe259d2a36a7.m3u
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3 HD Mexico" https://i.postimg.cc/6q2tNgrJ/FOX-SPORTS-MEXICO.jpg" group-title="ESPN Y FOX SPORTSS",FOX SPORTS 3 HD Mexico
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3 HD Mexico" tvg-logo="https://i.postimg.cc/6q2tNgrJ/FOX-SPORTS-MEXICO.jpg" group-title="ESPN Y FOX SPORTSS",FOX SPORTS 3 HD Mexico
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/92871b5d-9af4-4be2-be6c-137c13a5d0ec.m3u
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS PREMIUM Mexico" https://i.postimg.cc/j594M3tk/FOX-SPORTS-MEXICOPREMIUM.jpg" group-title="ESPN Y FOX SPORTSS",FOX SPORTS PREMIUM Mexico
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS PREMIUM Mexico" tvg-logo="https://i.postimg.cc/j594M3tk/FOX-SPORTS-MEXICOPREMIUM.jpg" group-title="ESPN Y FOX SPORTSS",FOX SPORTS PREMIUM Mexico
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/34c192f5-8627-4985-8b61-441f112b7c35.m3u
-#EXTINF:-1 tvg-id="" tvg-name="FOX DEPORTES USA" https://i.postimg.cc/3NhpX90t/FOX-DEPORTES.jpg" group-title="ESPN Y FOX SPORTSS",FOX DEPORTES USA
+#EXTINF:-1 tvg-id="" tvg-name="FOX DEPORTES USA" tvg-logo="https://i.postimg.cc/3NhpX90t/FOX-DEPORTES.jpg" group-title="ESPN Y FOX SPORTSS",FOX DEPORTES USA
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/577d1497-da70-4a44-ba32-abd8b2d8de39.m3u
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 SD (COL)" https://i.postimg.cc/GhJK5TcB/ESPN-COL-2.jpg" group-title="ESPN Y FOX SPORTSS",ESPN 2 SD (COL)
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 SD (COL)" tvg-logo="https://i.postimg.cc/GhJK5TcB/ESPN-COL-2.jpg" group-title="ESPN Y FOX SPORTSS",ESPN 2 SD (COL)
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/df979da8-6957-4e9c-b10d-accdb7252f1a.m3u
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 5 SD" https://i.postimg.cc/B6KccXYn/ESPN-LATINO-5.jpg" group-title="ESPN Y FOX SPORTSS",ESPN 5 SD
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 5 SD" tvg-logo="https://i.postimg.cc/B6KccXYn/ESPN-LATINO-5.jpg" group-title="ESPN Y FOX SPORTSS",ESPN 5 SD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/9c967a74-9371-445d-a198-15e8389c16e1.m3u
-#EXTINF:-1 tvg-id="" tvg-name="ESPN SD (COL)" https://i.postimg.cc/y6Rv0rty/ESPN-COL-1.jpg" group-title="ESPN Y FOX SPORTSS",ESPN SD (COL)
+#EXTINF:-1 tvg-id="" tvg-name="ESPN SD (COL)" tvg-logo="https://i.postimg.cc/y6Rv0rty/ESPN-COL-1.jpg" group-title="ESPN Y FOX SPORTSS",ESPN SD (COL)
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/09e92b44-e933-468f-89d2-131e4f00541e.m3u
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 7 SD" https://i.postimg.cc/2yNdHrMF/ESPN-LATINO-07.jpg" group-title="ESPN Y FOX SPORTSS",ESPN 7 SD
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 7 SD" tvg-logo="https://i.postimg.cc/2yNdHrMF/ESPN-LATINO-07.jpg" group-title="ESPN Y FOX SPORTSS",ESPN 7 SD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/744bb65e-f2b6-46a5-bf3b-bc6e84ded866.m3u
-#EXTINF:-1 tvg-id="" tvg-name="ESPN SD (PE)" https://i.postimg.cc/cLkQpQPJ/ESPN-PERU.jpg" group-title="ESPN Y FOX SPORTSS",ESPN SD (PE)
+#EXTINF:-1 tvg-id="" tvg-name="ESPN SD (PE)" tvg-logo="https://i.postimg.cc/cLkQpQPJ/ESPN-PERU.jpg" group-title="ESPN Y FOX SPORTSS",ESPN SD (PE)
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/414e3a26-f622-49c8-95c0-afdb164c3e8e.m3u
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 SD (CHI)" https://i.postimg.cc/fTf7K3s8/ESPN-CL-2.jpg" group-title="ESPN Y FOX SPORTSS",ESPN 2 SD (CHI)
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 SD (CHI)" tvg-logo="https://i.postimg.cc/fTf7K3s8/ESPN-CL-2.jpg" group-title="ESPN Y FOX SPORTSS",ESPN 2 SD (CHI)
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/9f95eb2a-843f-4911-b621-e93121c345c3.m3u
-#EXTINF:-1 tvg-id="" tvg-name="ESPN SD (CHI)" https://i.postimg.cc/RVzGdLz5/ESPN-CL-1.jpg" group-title="ESPN Y FOX SPORTSS",ESPN SD (CHI)
+#EXTINF:-1 tvg-id="" tvg-name="ESPN SD (CHI)" tvg-logo="https://i.postimg.cc/RVzGdLz5/ESPN-CL-1.jpg" group-title="ESPN Y FOX SPORTSS",ESPN SD (CHI)
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/fdce41fd-472c-448e-960b-c2d05ca26e3a.m3u
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 SD" https://i.postimg.cc/wB3kMWDJ/ESPN-LATINO-4.jpg" group-title="ESPN Y FOX SPORTSS",ESPN 4 SD
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 SD" tvg-logo="https://i.postimg.cc/wB3kMWDJ/ESPN-LATINO-4.jpg" group-title="ESPN Y FOX SPORTSS",ESPN 4 SD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/a7c59c3a-1223-4ade-aca3-e9a7ff8e9632.m3u
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 6 SD" https://i.postimg.cc/hGw1d90Y/ESPN-LATINO-6.jpg" group-title="ESPN Y FOX SPORTSS",ESPN 6 SD
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 6 SD" tvg-logo="https://i.postimg.cc/hGw1d90Y/ESPN-LATINO-6.jpg" group-title="ESPN Y FOX SPORTSS",ESPN 6 SD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/60bebc45-fd43-427d-881d-73e9a29d51fe.m3u
-#EXTINF:-1 tvg-id="" tvg-name="ESPN PREMIUM SD CHILE" https://i.postimg.cc/TPyrfKXJ/ESPN-PREMIUM-CHILE.jpg" group-title="ESPN Y FOX SPORTSS",ESPN PREMIUM SD CHILE
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PREMIUM SD CHILE" tvg-logo="https://i.postimg.cc/TPyrfKXJ/ESPN-PREMIUM-CHILE.jpg" group-title="ESPN Y FOX SPORTSS",ESPN PREMIUM SD CHILE
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/2f0fadbf-eb21-4aba-a280-5acbbb517e4d.m3u
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 SD" https://i.postimg.cc/XYjLSNJs/ESPN-LATINO-3.jpg" group-title="ESPN Y FOX SPORTSS",ESPN 3 SD
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 SD" tvg-logo="https://i.postimg.cc/XYjLSNJs/ESPN-LATINO-3.jpg" group-title="ESPN Y FOX SPORTSS",ESPN 3 SD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/dfcd508a-30f5-44a4-a674-889d004ef9e7.m3u
-#EXTINF:-1 tvg-id="" tvg-name="HBO HD" https://i.postimg.cc/wvYrqcFk/HBO.jpg" group-title="CINE",HBO HD
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="https://i.postimg.cc/wvYrqcFk/HBO.jpg" group-title="CINE",HBO HD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/62eaeb80-2b11-485c-9fed-08ff3bca199f.m3u
-#EXTINF:-1 tvg-id="" tvg-name="HBO HD SUR" https://i.postimg.cc/CxWP7syV/HBO-NOTE.jpg" group-title="CINE",HBO HD SUR
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD SUR" tvg-logo="https://i.postimg.cc/CxWP7syV/HBO-NOTE.jpg" group-title="CINE",HBO HD SUR
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/3823e578-98c6-46df-addc-ce5393a9c110.m3u
-#EXTINF:-1 tvg-id="" tvg-name="HBO HD NORTE" https://i.postimg.cc/CxWP7syV/HBO-NOTE.jpg" group-title="CINE",HBO HD NORTE
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD NORTE" tvg-logo="https://i.postimg.cc/CxWP7syV/HBO-NOTE.jpg" group-title="CINE",HBO HD NORTE
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/4c9ebf5e-08b7-41bf-803f-bc2a883d889a.m3u
-#EXTINF:-1 tvg-id="" tvg-name="HBO 2 HD" https://i.postimg.cc/90WNTm6R/HBO-2.jpg" group-title="CINE",HBO 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 HD" tvg-logo="https://i.postimg.cc/90WNTm6R/HBO-2.jpg" group-title="CINE",HBO 2 HD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/5999218c-46a7-4aa8-a1e4-7f74cfb02e40.m3u
-#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS HD" https://i.postimg.cc/QxYn9r0C/HBO-PLUS.jpg" group-title="CINE",HBO PLUS HD
+#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS HD" tvg-logo="https://i.postimg.cc/QxYn9r0C/HBO-PLUS.jpg" group-title="CINE",HBO PLUS HD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/887dad40-b277-45d0-8ea0-af8998b6f056.m3u
-#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY HD" https://i.postimg.cc/L4TWSPPz/HBO-FAMILY.jpg" group-title="CINE",HBO FAMILY HD
+#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY HD" tvg-logo="https://i.postimg.cc/L4TWSPPz/HBO-FAMILY.jpg" group-title="CINE",HBO FAMILY HD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/63cd805b-0360-4a50-a072-98a860d6c743.m3u
-#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME HD" https://i.postimg.cc/1XJ7KxSW/HBO-EXTREME.jpg" group-title="CINE",HBO XTREME HD
+#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME HD" tvg-logo="https://i.postimg.cc/1XJ7KxSW/HBO-EXTREME.jpg" group-title="CINE",HBO XTREME HD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/32ee4f7f-8ba5-427f-a945-67bdafccfb34.m3u
-#EXTINF:-1 tvg-id="" tvg-name="HBO POP HD" https://i.postimg.cc/x1kpLF4R/HBO-POP.jpg" group-title="CINE",HBO POP HD
+#EXTINF:-1 tvg-id="" tvg-name="HBO POP HD" tvg-logo="https://i.postimg.cc/x1kpLF4R/HBO-POP.jpg" group-title="CINE",HBO POP HD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/fcff9aae-a531-49b2-883c-26663ace6df3.m3u
-#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE" https://i.postimg.cc/GpGM5TrT/HBO-SIGNATURE.jpg" group-title="CINE",HBO SIGNATURE
+#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE" tvg-logo="https://i.postimg.cc/GpGM5TrT/HBO-SIGNATURE.jpg" group-title="CINE",HBO SIGNATURE
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/e8d8c8b9-1ff5-4714-8635-95603ae93818.m3u
-#EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI" https://i.postimg.cc/7YZWZL1j/HBO-MUNDI.jpg" group-title="CINE",HBO MUNDI
+#EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI" tvg-logo="https://i.postimg.cc/7YZWZL1j/HBO-MUNDI.jpg" group-title="CINE",HBO MUNDI
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/d2a4f2c9-b973-43b6-a165-12eb0653c801.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AMC SUR HD" https://i.postimg.cc/MHCMNHzX/AMC-2.jpg" group-title="CINE",AMC SUR HD
+#EXTINF:-1 tvg-id="" tvg-name="AMC SUR HD" tvg-logo="https://i.postimg.cc/MHCMNHzX/AMC-2.jpg" group-title="CINE",AMC SUR HD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/230353d9-5ef9-4b83-9173-cb46243b3989.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AMC HD NORTE" https://i.postimg.cc/MHCMNHzX/AMC-2.jpg" group-title="CINE",AMC HD NORTE
+#EXTINF:-1 tvg-id="" tvg-name="AMC HD NORTE" tvg-logo="https://i.postimg.cc/MHCMNHzX/AMC-2.jpg" group-title="CINE",AMC HD NORTE
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/d80880a2-7b24-4c04-9373-ed28540f55ab.m3u
-#EXTINF:-1 tvg-id="" tvg-name="CINEMAX" https://i.postimg.cc/GpXBrqbW/CINEMAX.jpg" group-title="CINE",CINEMAX
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX" tvg-logo="https://i.postimg.cc/GpXBrqbW/CINEMAX.jpg" group-title="CINE",CINEMAX
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/b66f2fcd-f13d-49cf-90d7-cb8ad459febf.m3u
-#EXTINF:-1 tvg-id="" tvg-name="SPACE HD" https://i.postimg.cc/RFGLkcYh/SPACE.jpg" group-title="CINE",SPACE HD
+#EXTINF:-1 tvg-id="" tvg-name="SPACE HD" tvg-logo="https://i.postimg.cc/RFGLkcYh/SPACE.jpg" group-title="CINE",SPACE HD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/4cac3255-8b17-453d-8cdc-5a4e8ebbbb5d.m3u
-#EXTINF:-1 tvg-id="" tvg-name="CINE CANAL HD" https://i.postimg.cc/02SJmYCS/CINECANAL.jpg" group-title="CINE",CINE CANAL HD
+#EXTINF:-1 tvg-id="" tvg-name="CINE CANAL HD" tvg-logo="https://i.postimg.cc/02SJmYCS/CINECANAL.jpg" group-title="CINE",CINE CANAL HD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/5e02be14-2cd6-4cf3-80e6-0a2739fc37aa.m3u
-#EXTINF:-1 tvg-id="" tvg-name="GOLDEN" https://i.postimg.cc/X7stf57V/GOLDEN.jpg" group-title="CINE",GOLDEN
+#EXTINF:-1 tvg-id="" tvg-name="GOLDEN" tvg-logo="https://i.postimg.cc/X7stf57V/GOLDEN.jpg" group-title="CINE",GOLDEN
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/a21f08f9-3d21-4cd7-8062-c8f8c66889ed.m3u
-#EXTINF:-1 tvg-id="" tvg-name="GOLDEN EDGE HD" https://i.postimg.cc/dVDp40LG/GOLDEN-EDGE.jpg" group-title="CINE",GOLDEN EDGE HD
+#EXTINF:-1 tvg-id="" tvg-name="GOLDEN EDGE HD" tvg-logo="https://i.postimg.cc/dVDp40LG/GOLDEN-EDGE.jpg" group-title="CINE",GOLDEN EDGE HD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/c2051a57-4516-436d-824d-78edf5052f90.m3u
-#EXTINF:-1 tvg-id="" tvg-name="GOLDEN PLUS" https://i.postimg.cc/HkKKKCyR/GOLDEN-PLUS.jpg" group-title="CINE",GOLDEN PLUS
+#EXTINF:-1 tvg-id="" tvg-name="GOLDEN PLUS" tvg-logo="https://i.postimg.cc/HkKKKCyR/GOLDEN-PLUS.jpg" group-title="CINE",GOLDEN PLUS
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/999b4c0f-9afd-4546-87f2-d9ad1a169312.m3u
-#EXTINF:-1 tvg-id="" tvg-name="GOLDEN PREMIER HD" https://i.postimg.cc/s2h8C0PX/GOLDEN-PREMIER.jpg" group-title="CINE",GOLDEN PREMIER HD
+#EXTINF:-1 tvg-id="" tvg-name="GOLDEN PREMIER HD" tvg-logo="https://i.postimg.cc/s2h8C0PX/GOLDEN-PREMIER.jpg" group-title="CINE",GOLDEN PREMIER HD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/f966257f-651c-4c5e-90fa-f538ee801a31.m3u
-#EXTINF:-1 tvg-id="" tvg-name="GOLDEN PREMIER 2 HD" https://i.postimg.cc/26dKVbKN/GOLDEN-PREMIER2.jpg" group-title="CINE",GOLDEN PREMIER 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="GOLDEN PREMIER 2 HD" tvg-logo="https://i.postimg.cc/26dKVbKN/GOLDEN-PREMIER2.jpg" group-title="CINE",GOLDEN PREMIER 2 HD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/7b346ffa-d004-484d-937b-0938c3cb24d4.m3u
-#EXTINF:-1 tvg-id="" tvg-name="TNT SUR HD" https://i.postimg.cc/ncXGW9GV/TNT.jpg" group-title="CINE",TNT SUR HD
+#EXTINF:-1 tvg-id="" tvg-name="TNT SUR HD" tvg-logo="https://i.postimg.cc/ncXGW9GV/TNT.jpg" group-title="CINE",TNT SUR HD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/1d36817e-ac00-4ccf-9324-708bae2f988f.m3u
-#EXTINF:-1 tvg-id="" tvg-name="TNT HD NORTE" https://i.postimg.cc/ncXGW9GV/TNT.jpg" group-title="CINE",TNT HD NORTE
+#EXTINF:-1 tvg-id="" tvg-name="TNT HD NORTE" tvg-logo="https://i.postimg.cc/ncXGW9GV/TNT.jpg" group-title="CINE",TNT HD NORTE
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/98ba53c5-e2ab-4bf7-9980-7e4d2577b1cc.m3u
-#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES HD" https://i.postimg.cc/4xtbfC0r/TNT-SERIES.jpg" group-title="CINE",TNT SERIES HD
+#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES HD" tvg-logo="https://i.postimg.cc/4xtbfC0r/TNT-SERIES.jpg" group-title="CINE",TNT SERIES HD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/ef4a899d-aad7-4a16-89cd-0f6910760f89.m3u
-#EXTINF:-1 tvg-id="" tvg-name="TNT NOVELAS HD" https://i.postimg.cc/TYBJv2tV/TNT-NOVELAS.jpg" group-title="CINE",TNT NOVELAS HD
+#EXTINF:-1 tvg-id="" tvg-name="TNT NOVELAS HD" tvg-logo="https://i.postimg.cc/TYBJv2tV/TNT-NOVELAS.jpg" group-title="CINE",TNT NOVELAS HD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/4d28e07f-34e7-4745-8925-88035be2d76b.m3u
-#EXTINF:-1 tvg-id="" tvg-name="SONY MOVIES HD" https://i.postimg.cc/NMQxCNpZ/SONY-MOVIES.jpg" group-title="CINE",SONY MOVIES HD
+#EXTINF:-1 tvg-id="" tvg-name="SONY MOVIES HD" tvg-logo="https://i.postimg.cc/NMQxCNpZ/SONY-MOVIES.jpg" group-title="CINE",SONY MOVIES HD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/68ae95ef-88a6-450a-b672-a9472b7f851a.m3u
-#EXTINF:-1 tvg-id="" tvg-name="SONY CHANEL HD" https://i.postimg.cc/mrYwwxNQ/SONY-CHANNEL.jpg" group-title="CINE",SONY CHANEL HD
+#EXTINF:-1 tvg-id="" tvg-name="SONY CHANEL HD" tvg-logo="https://i.postimg.cc/mrYwwxNQ/SONY-CHANNEL.jpg" group-title="CINE",SONY CHANEL HD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/8bafb784-d801-4910-8fd0-6f43bd2a5872.m3u
-#EXTINF:-1 tvg-id="" tvg-name="SONY CHANEL HD NORTE" https://i.postimg.cc/mrYwwxNQ/SONY-CHANNEL.jpg" group-title="CINE",SONY CHANEL HD NORTE
+#EXTINF:-1 tvg-id="" tvg-name="SONY CHANEL HD NORTE" tvg-logo="https://i.postimg.cc/mrYwwxNQ/SONY-CHANNEL.jpg" group-title="CINE",SONY CHANEL HD NORTE
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/243c7781-2f48-4637-905e-bd2244ffbc59.m3u
-#EXTINF:-1 tvg-id="" tvg-name="WARNER CHANNEL HD" https://i.postimg.cc/GpKDtbxS/WARNER-BROS.jpg" group-title="CINE",WARNER CHANNEL HD
+#EXTINF:-1 tvg-id="" tvg-name="WARNER CHANNEL HD" tvg-logo="https://i.postimg.cc/GpKDtbxS/WARNER-BROS.jpg" group-title="CINE",WARNER CHANNEL HD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/a6a12b5a-41ca-492c-9b37-82390c53646d.m3u
-#EXTINF:-1 tvg-id="" tvg-name="WARNER CHANNEL HD NORTE" https://i.postimg.cc/GpKDtbxS/WARNER-BROS.jpg" group-title="CINE",WARNER CHANNEL HD NORTE
+#EXTINF:-1 tvg-id="" tvg-name="WARNER CHANNEL HD NORTE" tvg-logo="https://i.postimg.cc/GpKDtbxS/WARNER-BROS.jpg" group-title="CINE",WARNER CHANNEL HD NORTE
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/6f736ec7-682d-4bc3-b3c3-395ca928f5bb.m3u
-#EXTINF:-1 tvg-id="" tvg-name="A&E HD" https://i.postimg.cc/zvbHxKZ9/A-E.jpg" group-title="CINE",A&E HD
+#EXTINF:-1 tvg-id="" tvg-name="A&E HD" tvg-logo="https://i.postimg.cc/zvbHxKZ9/A-E.jpg" group-title="CINE",A&E HD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/805f7311-aec5-4462-aa6b-59c2f6b9d1ab.m3u
-#EXTINF:-1 tvg-id="" tvg-name="FX HD" https://i.postimg.cc/QNk2MP2K/FX.jpg" group-title="CINE",FX HD
+#EXTINF:-1 tvg-id="" tvg-name="FX HD" tvg-logo="https://i.postimg.cc/QNk2MP2K/FX.jpg" group-title="CINE",FX HD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/e6591d9a-b66a-47ec-a05e-36359d762107.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AXN HD" https://i.postimg.cc/7Pd2fsSD/AXN.jpg" group-title="CINE",AXN HD
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-logo="https://i.postimg.cc/7Pd2fsSD/AXN.jpg" group-title="CINE",AXN HD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/45df2c11-ada1-4d4a-b298-d1dcb0f5963f.m3u
-#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL HD" https://i.postimg.cc/ZnSzQz14/COMEDY-CENTRAL.jpg" group-title="CINE",COMEDY CENTRAL HD
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL HD" tvg-logo="https://i.postimg.cc/ZnSzQz14/COMEDY-CENTRAL.jpg" group-title="CINE",COMEDY CENTRAL HD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/087f9d62-78c1-4dd6-9322-6af67a631e21.m3u
-#EXTINF:-1 tvg-id="" tvg-name="DISTRITO COMEDIA" https://i.postimg.cc/FshQgmyx/DISTRITO-COMEDIA.jpg" group-title="CINE",DISTRITO COMEDIA
+#EXTINF:-1 tvg-id="" tvg-name="DISTRITO COMEDIA" tvg-logo="https://i.postimg.cc/FshQgmyx/DISTRITO-COMEDIA.jpg" group-title="CINE",DISTRITO COMEDIA
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/471800f3-914e-4e67-9acc-9e8df9bd4684.m3u
-#EXTINF:-1 tvg-id="" tvg-name="DISTRITO COMEDIA HD" https://i.postimg.cc/FshQgmyx/DISTRITO-COMEDIA.jpg" group-title="CINE",DISTRITO COMEDIA HD
+#EXTINF:-1 tvg-id="" tvg-name="DISTRITO COMEDIA HD" tvg-logo="https://i.postimg.cc/FshQgmyx/DISTRITO-COMEDIA.jpg" group-title="CINE",DISTRITO COMEDIA HD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/853b5394-908d-419c-8f3e-cf25621ac8ee.m3u
-#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL HD" https://i.postimg.cc/4ydQsYC5/STAR-CHANNEL.jpg" group-title="CINE",STAR CHANNEL HD
+#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL HD" tvg-logo="https://i.postimg.cc/4ydQsYC5/STAR-CHANNEL.jpg" group-title="CINE",STAR CHANNEL HD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/43b7175e-fdc9-4134-ad8c-e58163778f1a.m3u
-#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL HD NORTE" https://i.postimg.cc/4ydQsYC5/STAR-CHANNEL.jpg" group-title="CINE",STAR CHANNEL HD NORTE
+#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL HD NORTE" tvg-logo="https://i.postimg.cc/4ydQsYC5/STAR-CHANNEL.jpg" group-title="CINE",STAR CHANNEL HD NORTE
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/0b7dc424-f0c4-4dc5-9cd9-1e4c8af2682d.m3u
-#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CHANEL HD" https://i.postimg.cc/k4jW17Vt/UNIVERSAL-CHANNEL.jpg" group-title="CINE",UNIVERSAL CHANEL HD
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CHANEL HD" tvg-logo="https://i.postimg.cc/k4jW17Vt/UNIVERSAL-CHANNEL.jpg" group-title="CINE",UNIVERSAL CHANEL HD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/9846c092-d585-4db2-a5c0-c039f6364d87.m3u
-#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CINEMA HD" https://i.postimg.cc/KjRBCCLp/UNIVERSAL-CINEMA.jpg" group-title="CINE",UNIVERSAL CINEMA HD
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CINEMA HD" tvg-logo="https://i.postimg.cc/KjRBCCLp/UNIVERSAL-CINEMA.jpg" group-title="CINE",UNIVERSAL CINEMA HD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/8dbaa982-2d44-47f7-9c2e-9790c3de8a02.m3u
-#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL COMEDY HD" https://i.postimg.cc/SR3C4VfS/UNIVERSAL-COMEDY.jpg" group-title="CINE",UNIVERSAL COMEDY HD
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL COMEDY HD" tvg-logo="https://i.postimg.cc/SR3C4VfS/UNIVERSAL-COMEDY.jpg" group-title="CINE",UNIVERSAL COMEDY HD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/02271aaf-9742-4cf8-b484-3a97b561085d.m3u
-#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL PREMIERE HD" https://i.postimg.cc/kgrKh15w/UNIVERSAL-PREMIER.jpg" group-title="CINE",UNIVERSAL PREMIERE HD
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL PREMIERE HD" tvg-logo="https://i.postimg.cc/kgrKh15w/UNIVERSAL-PREMIER.jpg" group-title="CINE",UNIVERSAL PREMIERE HD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/582b47a4-d16b-4755-8b1c-8709051670c5.m3u
-#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CRIME HD" https://i.postimg.cc/CMQjbLT3/UNIVERSAL-CRIMEN.jpg" group-title="CINE",UNIVERSAL CRIME HD
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CRIME HD" tvg-logo="https://i.postimg.cc/CMQjbLT3/UNIVERSAL-CRIMEN.jpg" group-title="CINE",UNIVERSAL CRIME HD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/69f5b3ae-8362-4621-83fc-caeb2f105554.m3u
-#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL PREMIERE OESTE HD" https://i.postimg.cc/kgrKh15w/UNIVERSAL-PREMIER.jpg" group-title="CINE",UNIVERSAL PREMIERE OESTE HD
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL PREMIERE OESTE HD" tvg-logo="https://i.postimg.cc/kgrKh15w/UNIVERSAL-PREMIER.jpg" group-title="CINE",UNIVERSAL PREMIERE OESTE HD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/e298a670-7dbb-481c-809e-3635e0f8d8bb.m3u
-#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL REALITY HD" https://i.postimg.cc/0ypDgYMv/UNIVERSAL-REALTY.jpg" group-title="CINE",UNIVERSAL REALITY HD
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL REALITY HD" tvg-logo="https://i.postimg.cc/0ypDgYMv/UNIVERSAL-REALTY.jpg" group-title="CINE",UNIVERSAL REALITY HD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/a4dec065-212b-4537-a920-3da81d206f14.m3u
-#EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL" https://i.postimg.cc/VL0XgQzd/UNIVERSAL-ESTUDIO.jpg" group-title="CINE",STUDIO UNIVERSAL
+#EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://i.postimg.cc/VL0XgQzd/UNIVERSAL-ESTUDIO.jpg" group-title="CINE",STUDIO UNIVERSAL
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/f6d3cd7d-999d-477d-b4d0-a0816de62690.m3u
-#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT NETWORK" https://i.postimg.cc/ZqtHpY3b/PARAMOUNT.jpg" group-title="CINE",PARAMOUNT NETWORK
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT NETWORK" tvg-logo="https://i.postimg.cc/ZqtHpY3b/PARAMOUNT.jpg" group-title="CINE",PARAMOUNT NETWORK
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/90a8d193-8e8f-4f01-9e7b-7e5ed63659d1.m3u
-#EXTINF:-1 tvg-id="" tvg-name="ADULT SWIM" https://i.postimg.cc/LX0Zkv7t/ADULT-SWIT.jpg" group-title="CINE",ADULT SWIM
+#EXTINF:-1 tvg-id="" tvg-name="ADULT SWIM" tvg-logo="https://i.postimg.cc/LX0Zkv7t/ADULT-SWIT.jpg" group-title="CINE",ADULT SWIM
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/a4c97167-ef3a-4d2b-997a-2108ba424a14.m3u
-#EXTINF:-1 tvg-id="" tvg-name="EUROPA EUROPA HD" https://i.postimg.cc/DfrTXmXZ/EUROPA-EUROPA.jpg" group-title="CINE",EUROPA EUROPA HD
+#EXTINF:-1 tvg-id="" tvg-name="EUROPA EUROPA HD" tvg-logo="https://i.postimg.cc/DfrTXmXZ/EUROPA-EUROPA.jpg" group-title="CINE",EUROPA EUROPA HD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/af117804-6e23-4683-a479-fdbc6050a1cd.m3u
-#EXTINF:-1 tvg-id="" tvg-name="DHE HD" https://i.postimg.cc/8cmgQnSW/DHE.jpg" group-title="CINE",DHE HD
+#EXTINF:-1 tvg-id="" tvg-name="DHE HD" tvg-logo="https://i.postimg.cc/8cmgQnSW/DHE.jpg" group-title="CINE",DHE HD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/71b9a57f-ed8e-47cc-8611-a1a69aa12951.m3u
-#EXTINF:-1 tvg-id="" tvg-name="CLOVER CHANEL HD" https://i.postimg.cc/Gp6CkyKB/CLOVER-CHANNEL.jpg" group-title="CINE",CLOVER CHANEL HD
+#EXTINF:-1 tvg-id="" tvg-name="CLOVER CHANEL HD" tvg-logo="https://i.postimg.cc/Gp6CkyKB/CLOVER-CHANNEL.jpg" group-title="CINE",CLOVER CHANEL HD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/b0d6b5dc-79d2-4ec6-bc5f-3d926ee68ba9.m3u
-#EXTINF:-1 tvg-id="" tvg-name="LIFE TIME" https://i.postimg.cc/vBv0QR4Q/LIFETIME.jpg" group-title="CINE",LIFE TIME
+#EXTINF:-1 tvg-id="" tvg-name="LIFE TIME" tvg-logo="https://i.postimg.cc/vBv0QR4Q/LIFETIME.jpg" group-title="CINE",LIFE TIME
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/1b596bcb-5578-4069-8706-0ee34d511c1d.m3u
-#EXTINF:-1 tvg-id="" tvg-name="ATRES SERIES HD" https://i.postimg.cc/j5j7JB8q/A3SERIES.jpg" group-title="CINE",ATRES SERIES HD
+#EXTINF:-1 tvg-id="" tvg-name="ATRES SERIES HD" tvg-logo="https://i.postimg.cc/j5j7JB8q/A3SERIES.jpg" group-title="CINE",ATRES SERIES HD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/943c0873-8604-4747-b0b2-fa14dd199f8e.m3u
-#EXTINF:-1 tvg-id="" tvg-name="TCM" https://i.postimg.cc/RCsTGLfb/TCM.jpg" group-title="CINE",TCM
+#EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="https://i.postimg.cc/RCsTGLfb/TCM.jpg" group-title="CINE",TCM
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/75a827fa-3847-4991-9348-304306672319.m3u
-#EXTINF:-1 tvg-id="" tvg-name="DE PELICULA" https://i.postimg.cc/W4dVFnGL/DE-PELICULA.jpg" group-title="CINE",DE PELICULA
+#EXTINF:-1 tvg-id="" tvg-name="DE PELICULA" tvg-logo="https://i.postimg.cc/W4dVFnGL/DE-PELICULA.jpg" group-title="CINE",DE PELICULA
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/68213830-16ba-4d1f-ac0e-3f5217cff105.m3u
-#EXTINF:-1 tvg-id="" tvg-name="MULTIPREMIER" https://i.postimg.cc/Dy0xKMnT/MULTIPREMIER.jpg" group-title="CINE",MULTIPREMIER
+#EXTINF:-1 tvg-id="" tvg-name="MULTIPREMIER" tvg-logo="https://i.postimg.cc/Dy0xKMnT/MULTIPREMIER.jpg" group-title="CINE",MULTIPREMIER
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/bda5427a-f6ae-4ab3-bada-78b532fc7fbe.m3u
-#EXTINF:-1 tvg-id="" tvg-name="MULTICINEMA" https://i.postimg.cc/mZ8mJsxj/MULTICINE.jpg" group-title="CINE",MULTICINEMA
+#EXTINF:-1 tvg-id="" tvg-name="MULTICINEMA" tvg-logo="https://i.postimg.cc/mZ8mJsxj/MULTICINE.jpg" group-title="CINE",MULTICINEMA
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/105ce11b-c1eb-4d05-885e-1bee570d16cc.m3u
-#EXTINF:-1 tvg-id="" tvg-name="CINE LATINO" https://i.postimg.cc/zfzL99Yw/CINELATINO.jpg" group-title="CINE",CINE LATINO
+#EXTINF:-1 tvg-id="" tvg-name="CINE LATINO" tvg-logo="https://i.postimg.cc/zfzL99Yw/CINELATINO.jpg" group-title="CINE",CINE LATINO
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/63446465-6d7a-4c7a-b5ee-23e4205321a2.m3u
-#EXTINF:-1 tvg-id="" tvg-name="ACCION 24/7" https://i.postimg.cc/02Z1V3Z1/FREETV-ACCION.jpg" group-title="CINE",ACCION 24/7
+#EXTINF:-1 tvg-id="" tvg-name="ACCION 24/7" tvg-logo="https://i.postimg.cc/02Z1V3Z1/FREETV-ACCION.jpg" group-title="CINE",ACCION 24/7
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/87498d9c-f34b-48aa-80d5-2ed3cbfc8b94.m3u
-#EXTINF:-1 tvg-id="" tvg-name="DRAMA 24/7" https://i.postimg.cc/Vk6QpRHr/FREETV-DRAMA.jpg" group-title="CINE",DRAMA 24/7
+#EXTINF:-1 tvg-id="" tvg-name="DRAMA 24/7" tvg-logo="https://i.postimg.cc/Vk6QpRHr/FREETV-DRAMA.jpg" group-title="CINE",DRAMA 24/7
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/1f0db8fd-6d33-4c00-8923-8623cceb2c03.m3u
-#EXTINF:-1 tvg-id="" tvg-name="TERROR 24/7" https://i.postimg.cc/Xq8mDGfk/FREETV-TERROR.jpg" group-title="CINE",TERROR 24/7
+#EXTINF:-1 tvg-id="" tvg-name="TERROR 24/7" tvg-logo="https://i.postimg.cc/Xq8mDGfk/FREETV-TERROR.jpg" group-title="CINE",TERROR 24/7
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/7c99d13a-1341-46c6-ba6a-2ad6d80db8f7.m3u
-#EXTINF:-1 tvg-id="" tvg-name="FAMILIA 24/7" https://i.postimg.cc/q76fM7rp/FREETV-FAMILY.jpg" group-title="CINE",FAMILIA 24/7
+#EXTINF:-1 tvg-id="" tvg-name="FAMILIA 24/7" tvg-logo="https://i.postimg.cc/q76fM7rp/FREETV-FAMILY.jpg" group-title="CINE",FAMILIA 24/7
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/33f6d17e-798e-45ba-832f-934f1ed17324.m3u
-#EXTINF:-1 tvg-id="" tvg-name="ESTELAR 24/7" https://i.postimg.cc/YCsKHWJX/FREETV-ESTELAR.jpg" group-title="CINE",ESTELAR 24/7
+#EXTINF:-1 tvg-id="" tvg-name="ESTELAR 24/7" tvg-logo="https://i.postimg.cc/YCsKHWJX/FREETV-ESTELAR.jpg" group-title="CINE",ESTELAR 24/7
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/471e7e9e-e565-4cf7-9702-7895c686742b.m3u
-#EXTINF:-1 tvg-id="" tvg-name="LIVE 24/7" https://i.postimg.cc/43DDKT4V/FREETV-LIVE.jpg" group-title="CINE",LIVE 24/7
+#EXTINF:-1 tvg-id="" tvg-name="LIVE 24/7" tvg-logo="https://i.postimg.cc/43DDKT4V/FREETV-LIVE.jpg" group-title="CINE",LIVE 24/7
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/191a5b82-967f-4547-8b3c-d836db5686a7.m3u
-#EXTINF:-1 tvg-id="" tvg-name="CANAL SUREO" https://i.postimg.cc/Wzjxn6k4/FREETV-SURE-OO.jpg" group-title="CINE",CANAL SUREO
+#EXTINF:-1 tvg-id="" tvg-name="CANAL SUREÑO" tvg-logo="https://i.postimg.cc/Wzjxn6k4/FREETV-SURE-OO.jpg" group-title="CINE",CANAL SUREÑO
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/c3e48c8f-37db-4e00-ac96-b44c097ebbb9.m3u
-#EXTINF:-1 tvg-id="" tvg-name="SABER MAS" https://i.postimg.cc/W30QgftK/FREETV-SABER-MAS.jpg" group-title="CINE",SABER MAS
+#EXTINF:-1 tvg-id="" tvg-name="SABER MAS" tvg-logo="https://i.postimg.cc/W30QgftK/FREETV-SABER-MAS.jpg" group-title="CINE",SABER MAS
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/fdd21d0f-8af7-4039-91a3-c5dfadc71e85.m3u
-#EXTINF:-1 tvg-id="" tvg-name="USA" https://i.postimg.cc/KYxLm1BM/USA.jpg" group-title="CINE",USA
+#EXTINF:-1 tvg-id="" tvg-name="USA" tvg-logo="https://i.postimg.cc/KYxLm1BM/USA.jpg" group-title="CINE",USA
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/f6a21ead-fce0-4a3e-9747-8a9892b7f72b.m3u
-#EXTINF:-1 tvg-id="" tvg-name="CLARO CINEMA" https://i.postimg.cc/qvb0vYCx/CLARO-CINEMA.jpg" group-title="CINE",CLARO CINEMA
+#EXTINF:-1 tvg-id="" tvg-name="CLARO CINEMA" tvg-logo="https://i.postimg.cc/qvb0vYCx/CLARO-CINEMA.jpg" group-title="CINE",CLARO CINEMA
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/3adde4fd-e548-4a85-9f0e-84f103c41132.m3u
-#EXTINF:-1 tvg-id="" tvg-name="+CINE CLASSIC" https://i.postimg.cc/kgF6Y7zX/CINE-CLASSIC.jpg" group-title="CINE",+CINE CLASSIC
+#EXTINF:-1 tvg-id="" tvg-name="+CINE CLASSIC" tvg-logo="https://i.postimg.cc/kgF6Y7zX/CINE-CLASSIC.jpg" group-title="CINE",+CINE CLASSIC
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/1b3d4322-ff69-4046-8eae-411c2e8c3a44.m3u
-#EXTINF:-1 tvg-id="" tvg-name="SYFY HD" https://i.postimg.cc/fyrjLMDh/SYFY.jpg" group-title="CINE",SYFY HD
+#EXTINF:-1 tvg-id="" tvg-name="SYFY HD" tvg-logo="https://i.postimg.cc/fyrjLMDh/SYFY.jpg" group-title="CINE",SYFY HD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/0ce8a457-4ef7-4b8b-bda9-c4b800ee19d3.m3u
-#EXTINF:-1 tvg-id="" tvg-name="DE PELICULA PLUS HD" https://i.postimg.cc/0QmqZyXV/DE-PELICULA-PLUS.jpg" group-title="CINE",DE PELICULA PLUS HD
+#EXTINF:-1 tvg-id="" tvg-name="DE PELICULA PLUS HD" tvg-logo="https://i.postimg.cc/0QmqZyXV/DE-PELICULA-PLUS.jpg" group-title="CINE",DE PELICULA PLUS HD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/7bccb016-f308-4090-8666-d40bb8783952.m3u
-#EXTINF:-1 tvg-id="" tvg-name="RETRO TV ONLINE" https://i.postimg.cc/x1bgXNXp/RETROX-TV.jpg" group-title="CINE",RETRO TV ONLINE
+#EXTINF:-1 tvg-id="" tvg-name="RETRO TV ONLINE" tvg-logo="https://i.postimg.cc/x1bgXNXp/RETROX-TV.jpg" group-title="CINE",RETRO TV ONLINE
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/b8656bd1-60f9-4d50-b256-34e2be604edf.m3u
-#EXTINF:-1 tvg-id="" tvg-name="RETROX" https://i.postimg.cc/x1bgXNXp/RETROX-TV.jpg" group-title="CINE",RETROX
+#EXTINF:-1 tvg-id="" tvg-name="RETROX" tvg-logo="https://i.postimg.cc/x1bgXNXp/RETROX-TV.jpg" group-title="CINE",RETROX
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/a5b1b9ee-eab9-45e4-b1e5-f2b8096efd58.m3u
-#EXTINF:-1 tvg-id="" tvg-name="CINE ESTELAR MX" https://i.postimg.cc/Vkc0FJ7V/CINE-ESTELAR.jpg" group-title="CINE",CINE ESTELAR MX
+#EXTINF:-1 tvg-id="" tvg-name="CINE ESTELAR MX" tvg-logo="https://i.postimg.cc/Vkc0FJ7V/CINE-ESTELAR.jpg" group-title="CINE",CINE ESTELAR MX
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/a3942086-25c9-4564-9a79-589dbe987b38.m3u
-#EXTINF:-1 tvg-id="" tvg-name="MOREMAX" https://i.postimg.cc/qqMjqmK2/MOREMAX.jpg" group-title="CINE",MOREMAX
+#EXTINF:-1 tvg-id="" tvg-name="MOREMAX" tvg-logo="https://i.postimg.cc/qqMjqmK2/MOREMAX.jpg" group-title="CINE",MOREMAX
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/5de06f8d-a5ec-4114-b9db-e48edfa851aa.m3u
-#EXTINF:-1 tvg-id="" tvg-name="MOVIEMAX" https://i.postimg.cc/FzWGLjb8/MOVIEMAX.jpg" group-title="CINE",MOVIEMAX
+#EXTINF:-1 tvg-id="" tvg-name="MOVIEMAX" tvg-logo="https://i.postimg.cc/FzWGLjb8/MOVIEMAX.jpg" group-title="CINE",MOVIEMAX
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/c7f8b8ce-4379-497c-b1ff-0ad0fa747c1b.m3u
-#EXTINF:-1 tvg-id="" tvg-name="OUTERMAX" https://i.postimg.cc/wTr0xQjs/OUTERMAX.jpg" group-title="CINE",OUTERMAX
+#EXTINF:-1 tvg-id="" tvg-name="OUTERMAX" tvg-logo="https://i.postimg.cc/wTr0xQjs/OUTERMAX.jpg" group-title="CINE",OUTERMAX
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/a97e9284-0afb-4394-90ae-6f3225a38572.m3u
-#EXTINF:-1 tvg-id="" tvg-name="INDIEPLEX" https://i.postimg.cc/PxH6sfr3/INDIEPLEX.jpg" group-title="CINE",INDIEPLEX
+#EXTINF:-1 tvg-id="" tvg-name="INDIEPLEX" tvg-logo="https://i.postimg.cc/PxH6sfr3/INDIEPLEX.jpg" group-title="CINE",INDIEPLEX
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/63b6b941-9295-411f-b3a8-2d4869aeb07f.m3u
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL HD" https://i.postimg.cc/kMKTL6BM/DISNEY-CHANNEL.jpg" group-title="INFANTILES",DISNEY CHANNEL HD
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL HD" tvg-logo="https://i.postimg.cc/kMKTL6BM/DISNEY-CHANNEL.jpg" group-title="INFANTILES",DISNEY CHANNEL HD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/466f70fa-cb9b-4e0f-beac-6185cc4426f7.m3u
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS HD SUR" https://i.postimg.cc/PJs2PhFk/DISCOVERY-KIDS.jpg" group-title="INFANTILES",DISCOVERY KIDS HD SUR
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS HD SUR" tvg-logo="https://i.postimg.cc/PJs2PhFk/DISCOVERY-KIDS.jpg" group-title="INFANTILES",DISCOVERY KIDS HD SUR
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/96340f65-f0a3-42d6-b926-7a61a4acf841.m3u
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS HD NORTE" https://i.postimg.cc/PJs2PhFk/DISCOVERY-KIDS.jpg" group-title="INFANTILES",DISCOVERY KIDS HD NORTE
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS HD NORTE" tvg-logo="https://i.postimg.cc/PJs2PhFk/DISCOVERY-KIDS.jpg" group-title="INFANTILES",DISCOVERY KIDS HD NORTE
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/0a17a2b7-abca-4d18-99d6-39381c3191ce.m3u
-#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK HD" https://i.postimg.cc/rwQngBzS/CARTOON-NETWORK.jpg" group-title="INFANTILES",CARTOON NETWORK HD
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK HD" tvg-logo="https://i.postimg.cc/rwQngBzS/CARTOON-NETWORK.jpg" group-title="INFANTILES",CARTOON NETWORK HD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/3633b198-5036-4c3f-b3b5-e35b2cf90607.m3u
-#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK HD NORTE" https://i.postimg.cc/rwQngBzS/CARTOON-NETWORK.jpg" group-title="INFANTILES",CARTOON NETWORK HD NORTE
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK HD NORTE" tvg-logo="https://i.postimg.cc/rwQngBzS/CARTOON-NETWORK.jpg" group-title="INFANTILES",CARTOON NETWORK HD NORTE
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/8c52e899-3aa6-4ce6-842c-bc16847f8704.m3u
-#EXTINF:-1 tvg-id="" tvg-name="NICK JR" https://i.postimg.cc/N0ZxzBtr/NICK-JR.jpg" group-title="INFANTILES",NICK JR
+#EXTINF:-1 tvg-id="" tvg-name="NICK JR" tvg-logo="https://i.postimg.cc/N0ZxzBtr/NICK-JR.jpg" group-title="INFANTILES",NICK JR
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/79cb53b6-c97e-4c7d-b9e3-2a021c1f1fb9.m3u
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY JR SUR" https://i.postimg.cc/cH8Fx6hm/DISNE-JR.jpg" group-title="INFANTILES",DISNEY JR SUR
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JR SUR" tvg-logo="https://i.postimg.cc/cH8Fx6hm/DISNE-JR.jpg" group-title="INFANTILES",DISNEY JR SUR
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/ebf4d30c-4d37-4f38-81c9-1c90d2bfc00f.m3u
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY JR NORTE" https://i.postimg.cc/cH8Fx6hm/DISNE-JR.jpg" group-title="INFANTILES",DISNEY JR NORTE
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JR NORTE" tvg-logo="https://i.postimg.cc/cH8Fx6hm/DISNE-JR.jpg" group-title="INFANTILES",DISNEY JR NORTE
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/ead0fbce-06b9-4595-80f5-005d69993d27.m3u
-#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON (HD)" https://i.postimg.cc/cJvmh6pS/NICK.jpg" group-title="INFANTILES",NICKELODEON (HD)
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON (HD)" tvg-logo="https://i.postimg.cc/cJvmh6pS/NICK.jpg" group-title="INFANTILES",NICKELODEON (HD)
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/92fad9f8-1c0b-4e4d-8293-0918031f425c.m3u
-#EXTINF:-1 tvg-id="" tvg-name="TOONCAST" https://i.postimg.cc/GtCxbKHL/TOONCAST.jpg" group-title="INFANTILES",TOONCAST
+#EXTINF:-1 tvg-id="" tvg-name="TOONCAST" tvg-logo="https://i.postimg.cc/GtCxbKHL/TOONCAST.jpg" group-title="INFANTILES",TOONCAST
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/cc983806-6c10-495f-b759-301a6aa7523e.m3u
-#EXTINF:-1 tvg-id="" tvg-name="CARTOONITO" https://i.postimg.cc/K8ZpPGcG/CARTOONITO.jpg" group-title="INFANTILES",CARTOONITO
+#EXTINF:-1 tvg-id="" tvg-name="CARTOONITO" tvg-logo="https://i.postimg.cc/K8ZpPGcG/CARTOONITO.jpg" group-title="INFANTILES",CARTOONITO
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/620c6ef5-3aad-463d-8965-f1532ab3b7ea.m3u
-#EXTINF:-1 tvg-id="" tvg-name="LOLLY KIDS" https://i.postimg.cc/Nfxpf36W/LOLLY-KIDS.jpg" group-title="INFANTILES",LOLLY KIDS
+#EXTINF:-1 tvg-id="" tvg-name="LOLLY KIDS" tvg-logo="https://i.postimg.cc/Nfxpf36W/LOLLY-KIDS.jpg" group-title="INFANTILES",LOLLY KIDS
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/da58285c-33b7-45e4-a821-74c59302c241.m3u
-#EXTINF:-1 tvg-id="" tvg-name="TEEN NICK HD" https://i.postimg.cc/SxTdcctd/NICKELODEAN-TEEN.jpg" group-title="INFANTILES",TEEN NICK HD
+#EXTINF:-1 tvg-id="" tvg-name="TEEN NICK HD" tvg-logo="https://i.postimg.cc/SxTdcctd/NICKELODEAN-TEEN.jpg" group-title="INFANTILES",TEEN NICK HD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/ab5401a6-9caf-47ea-a4d9-ab30e2ca6205.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Baby TV" https://i.postimg.cc/c475tgSk/BABY-TV.jpg" group-title="INFANTILES",Baby TV
+#EXTINF:-1 tvg-id="" tvg-name="Baby TV" tvg-logo="https://i.postimg.cc/c475tgSk/BABY-TV.jpg" group-title="INFANTILES",Baby TV
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/9fbbbbd1-172e-41fe-a9c3-4ef8581c568c.m3u
-#EXTINF:-1 tvg-id="" tvg-name="BABY FIRST" https://i.postimg.cc/cCwkm68H/BABY-FIRST-TV.jpg" group-title="INFANTILES",BABY FIRST
+#EXTINF:-1 tvg-id="" tvg-name="BABY FIRST" tvg-logo="https://i.postimg.cc/cCwkm68H/BABY-FIRST-TV.jpg" group-title="INFANTILES",BABY FIRST
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/a161f877-b2ee-4945-a3b3-05102c8c0ce3.m3u
-#EXTINF:-1 tvg-id="" tvg-name="SEMILLITAS" https://i.postimg.cc/hv1bvmd9/SEMILLITAS.jpg" group-title="INFANTILES",SEMILLITAS
+#EXTINF:-1 tvg-id="" tvg-name="SEMILLITAS" tvg-logo="https://i.postimg.cc/hv1bvmd9/SEMILLITAS.jpg" group-title="INFANTILES",SEMILLITAS
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/d1a31b75-e661-4660-9452-42de5b6beecd.m3u
-#EXTINF:-1 tvg-id="" tvg-name="ZOOMOO" https://i.postimg.cc/sD348TkK/ZOOMOO-KIDS.jpg" group-title="INFANTILES",ZOOMOO
+#EXTINF:-1 tvg-id="" tvg-name="ZOOMOO" tvg-logo="https://i.postimg.cc/sD348TkK/ZOOMOO-KIDS.jpg" group-title="INFANTILES",ZOOMOO
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/5f067352-8e33-4d8c-9923-04860141c8f1.m3u
-#EXTINF:-1 tvg-id="" tvg-name="NICK MUSIC" https://i.postimg.cc/mDMSxJZp/NICK-MUSICA.jpg" group-title="INFANTILES",NICK MUSIC
+#EXTINF:-1 tvg-id="" tvg-name="NICK MUSIC" tvg-logo="https://i.postimg.cc/mDMSxJZp/NICK-MUSICA.jpg" group-title="INFANTILES",NICK MUSIC
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/12d130fe-bb9d-420a-99a5-c88f5d54137b.m3u
-#EXTINF:-1 tvg-id="" tvg-name="- BITME (anime, dibujos)" https://i.postimg.cc/zXYcfw9R/BITME.jpg" group-title="INFANTILES",- BITME (anime, dibujos)
+#EXTINF:-1 tvg-id="" tvg-name="- BITME (anime, dibujos)" tvg-logo="https://i.postimg.cc/zXYcfw9R/BITME.jpg" group-title="INFANTILES",- BITME (anime, dibujos)
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/87f8c085-3e1c-4464-b80f-6b2c4a7da989.m3u
-#EXTINF:-1 tvg-id="" tvg-name="DIOS TE VE KIDS" https://i.postimg.cc/7LRBrS3h/DIOS-KIDS.jpg" group-title="INFANTILES",DIOS TE VE KIDS
+#EXTINF:-1 tvg-id="" tvg-name="DIOS TE VE KIDS" tvg-logo="https://i.postimg.cc/7LRBrS3h/DIOS-KIDS.jpg" group-title="INFANTILES",DIOS TE VE KIDS
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/97c981e2-3e60-4d3f-b980-8e8fc33f6d9e.m3u
-#EXTINF:-1 tvg-id="" tvg-name="BIG CHANNEL" https://i.postimg.cc/FFL6mCn4/BIG-CHANNEL.jpg" group-title="INFANTILES",BIG CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="BIG CHANNEL" tvg-logo="https://i.postimg.cc/FFL6mCn4/BIG-CHANNEL.jpg" group-title="INFANTILES",BIG CHANNEL
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/eb0c8885-90ae-46bc-b2cd-434df0949499.m3u
-#EXTINF:-1 tvg-id="c6c8f8b1-8091-400b-995d-33c5426e4681" tvg-name="125 Trollhunter-relatos de arcadia" https://i.postimg.cc/9ftxdkTJ/trollhunters.webp" group-title="INFANTILES",125 Trollhunter-relatos de arcadia
+#EXTINF:-1 tvg-id="c6c8f8b1-8091-400b-995d-33c5426e4681" tvg-name="125 Trollhunter-relatos de arcadia" tvg-logo="https://i.postimg.cc/9ftxdkTJ/trollhunters.webp" group-title="INFANTILES",125 Trollhunter-relatos de arcadia
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/c6c8f8b1-8091-400b-995d-33c5426e4681.m3u
-#EXTINF:-1 tvg-id="" tvg-name="NBA PASS 1" https://i.postimg.cc/y6bmKGqf/NBA-PASSS.jpg" group-title="STARTV",NBA PASS 1
+#EXTINF:-1 tvg-id="" tvg-name="NBA PASS 1" tvg-logo="https://i.postimg.cc/y6bmKGqf/NBA-PASSS.jpg" group-title="STARTV",NBA PASS 1
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/52c34918-d261-4d01-b303-5cd9010623f9.m3u
-#EXTINF:-1 tvg-id="" tvg-name="NBA PASS 2" https://i.postimg.cc/y6bmKGqf/NBA-PASSS.jpg" group-title="STARTV",NBA PASS 2
+#EXTINF:-1 tvg-id="" tvg-name="NBA PASS 2" tvg-logo="https://i.postimg.cc/y6bmKGqf/NBA-PASSS.jpg" group-title="STARTV",NBA PASS 2
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/6ce187a5-b3f7-4802-8f01-b17f5a466bbb.m3u
-#EXTINF:-1 tvg-id="" tvg-name="NBA PASS 3" https://i.postimg.cc/y6bmKGqf/NBA-PASSS.jpg" group-title="STARTV",NBA PASS 3
+#EXTINF:-1 tvg-id="" tvg-name="NBA PASS 3" tvg-logo="https://i.postimg.cc/y6bmKGqf/NBA-PASSS.jpg" group-title="STARTV",NBA PASS 3
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/ad47ee6a-a86e-417b-af3b-c49dea511eb4.m3u
-#EXTINF:-1 tvg-id="" tvg-name="NBA PASS 4" https://i.postimg.cc/y6bmKGqf/NBA-PASSS.jpg" group-title="STARTV",NBA PASS 4
+#EXTINF:-1 tvg-id="" tvg-name="NBA PASS 4" tvg-logo="https://i.postimg.cc/y6bmKGqf/NBA-PASSS.jpg" group-title="STARTV",NBA PASS 4
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/234d3c52-4a6e-4954-bc97-68033000959c.m3u
-#EXTINF:-1 tvg-id="" tvg-name="NBA PASS 5" https://i.postimg.cc/y6bmKGqf/NBA-PASSS.jpg" group-title="STARTV",NBA PASS 5
+#EXTINF:-1 tvg-id="" tvg-name="NBA PASS 5" tvg-logo="https://i.postimg.cc/y6bmKGqf/NBA-PASSS.jpg" group-title="STARTV",NBA PASS 5
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/4a0b0887-9fc4-4887-8e4e-0f2c01d26e63.m3u
-#EXTINF:-1 tvg-id="" tvg-name="NBA PASS 6" https://i.postimg.cc/y6bmKGqf/NBA-PASSS.jpg" group-title="STARTV",NBA PASS 6
+#EXTINF:-1 tvg-id="" tvg-name="NBA PASS 6" tvg-logo="https://i.postimg.cc/y6bmKGqf/NBA-PASSS.jpg" group-title="STARTV",NBA PASS 6
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/42ae8015-d934-4e7f-8772-e119d1688994.m3u
-#EXTINF:-1 tvg-id="" tvg-name="NBA PASS 7" https://i.postimg.cc/y6bmKGqf/NBA-PASSS.jpg" group-title="STARTV",NBA PASS 7
+#EXTINF:-1 tvg-id="" tvg-name="NBA PASS 7" tvg-logo="https://i.postimg.cc/y6bmKGqf/NBA-PASSS.jpg" group-title="STARTV",NBA PASS 7
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/4e32ea98-d08c-4cd2-a6fe-6e1e7fdb9690.m3u
-#EXTINF:-1 tvg-id="" tvg-name="NBA PASS 8" https://i.postimg.cc/y6bmKGqf/NBA-PASSS.jpg" group-title="STARTV",NBA PASS 8
+#EXTINF:-1 tvg-id="" tvg-name="NBA PASS 8" tvg-logo="https://i.postimg.cc/y6bmKGqf/NBA-PASSS.jpg" group-title="STARTV",NBA PASS 8
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/72ef1321-a294-4f74-84b0-248c93336609.m3u
-#EXTINF:-1 tvg-id="" tvg-name="NBA PASS 9" https://i.postimg.cc/y6bmKGqf/NBA-PASSS.jpg" group-title="STARTV",NBA PASS 9
+#EXTINF:-1 tvg-id="" tvg-name="NBA PASS 9" tvg-logo="https://i.postimg.cc/y6bmKGqf/NBA-PASSS.jpg" group-title="STARTV",NBA PASS 9
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/856e48f5-48ce-4abe-b847-7440441dce6f.m3u
-#EXTINF:-1 tvg-id="" tvg-name="NBA PASS 10" https://i.postimg.cc/y6bmKGqf/NBA-PASSS.jpg" group-title="STARTV",NBA PASS 10
+#EXTINF:-1 tvg-id="" tvg-name="NBA PASS 10" tvg-logo="https://i.postimg.cc/y6bmKGqf/NBA-PASSS.jpg" group-title="STARTV",NBA PASS 10
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/4540201c-33d4-4c8d-b072-3a6d0879e31f.m3u
-#EXTINF:-1 tvg-id="" tvg-name="CNN Espanol" https://i.postimg.cc/brSy8cMt/CNN.jpg" group-title="NOTICIAS",CNN Espanol
+#EXTINF:-1 tvg-id="" tvg-name="CNN Espanol" tvg-logo="https://i.postimg.cc/brSy8cMt/CNN.jpg" group-title="NOTICIAS",CNN Espanol
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/ebf806e1-8375-453f-97e9-6673522c172a.m3u
-#EXTINF:-1 tvg-id="" tvg-name="RT HD" https://i.postimg.cc/156FcLtX/RT.jpg" group-title="NOTICIAS",RT HD
+#EXTINF:-1 tvg-id="" tvg-name="RT HD" tvg-logo="https://i.postimg.cc/156FcLtX/RT.jpg" group-title="NOTICIAS",RT HD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/b749af23-4dd4-4352-a30b-fc8be8ffb81b.m3u
-#EXTINF:-1 tvg-id="" tvg-name="TELESUR" https://i.postimg.cc/pV38j2P3/TELESUR.jpg" group-title="NOTICIAS",TELESUR
+#EXTINF:-1 tvg-id="" tvg-name="TELESUR" tvg-logo="https://i.postimg.cc/pV38j2P3/TELESUR.jpg" group-title="NOTICIAS",TELESUR
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/9ce6b91a-402f-451b-a704-d7afd2bce6dd.m3u
-#EXTINF:-1 tvg-id="" tvg-name="DW" https://i.postimg.cc/QVLXdYGn/DW.jpg" group-title="NOTICIAS",DW
+#EXTINF:-1 tvg-id="" tvg-name="DW" tvg-logo="https://i.postimg.cc/QVLXdYGn/DW.jpg" group-title="NOTICIAS",DW
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/190789a6-8e18-4b38-a969-e5d2a5b8f961.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Cablenoticias" https://i.postimg.cc/hjYyt7wZ/CLABLENOTICIAS.jpg" group-title="NOTICIAS",Cablenoticias
+#EXTINF:-1 tvg-id="" tvg-name="Cablenoticias" tvg-logo="https://i.postimg.cc/hjYyt7wZ/CLABLENOTICIAS.jpg" group-title="NOTICIAS",Cablenoticias
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/e872c1f2-c854-4578-8a00-5aad7d201326.m3u
-#EXTINF:-1 tvg-id="" tvg-name="CNN USA" https://i.postimg.cc/brSy8cMt/CNN.jpg" group-title="NOTICIAS",CNN USA
+#EXTINF:-1 tvg-id="" tvg-name="CNN USA" tvg-logo="https://i.postimg.cc/brSy8cMt/CNN.jpg" group-title="NOTICIAS",CNN USA
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/da15e657-ad14-4f50-8be8-c0536f3f342c.m3u
-#EXTINF:-1 tvg-id="" tvg-name="BBC NEWS" https://i.postimg.cc/xjXMqkVK/BBC-WORDS-NEWS.jpg" group-title="NOTICIAS",BBC NEWS
+#EXTINF:-1 tvg-id="" tvg-name="BBC NEWS" tvg-logo="https://i.postimg.cc/xjXMqkVK/BBC-WORDS-NEWS.jpg" group-title="NOTICIAS",BBC NEWS
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/8cf209e4-33ae-484f-83f5-ed0234d875d7.m3u
-#EXTINF:-1 tvg-id="" tvg-name="FRANCE 24 LATINO" https://i.postimg.cc/gJTzfkMp/FRANCE-24.jpg" group-title="NOTICIAS",FRANCE 24 LATINO
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE 24 LATINO" tvg-logo="https://i.postimg.cc/gJTzfkMp/FRANCE-24.jpg" group-title="NOTICIAS",FRANCE 24 LATINO
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/ff88a67d-1706-4948-b7bc-4d768a312247.m3u
-#EXTINF:-1 tvg-id="" tvg-name="NEGOCIOS TV" " group-title="NOTICIAS",NEGOCIOS TV
+#EXTINF:-1 tvg-id="" tvg-name="NEGOCIOS TV" tvg-logo="" group-title="NOTICIAS",NEGOCIOS TV
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/eab159ce-21df-4842-beed-ffd6b588bc1e.m3u
-#EXTINF:-1 tvg-id="" tvg-name="MTV HD" https://i.postimg.cc/XJ0vHFFM/MTV.jpg" group-title="MUSICA",MTV HD
+#EXTINF:-1 tvg-id="" tvg-name="MTV HD" tvg-logo="https://i.postimg.cc/XJ0vHFFM/MTV.jpg" group-title="MUSICA",MTV HD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/2de757f8-0ae5-4904-98dc-0b0631939d09.m3u
-#EXTINF:-1 tvg-id="" tvg-name="MTV LIVE HD" https://i.postimg.cc/j2xSKbZZ/MTV-LIVE.jpg" group-title="MUSICA",MTV LIVE HD
+#EXTINF:-1 tvg-id="" tvg-name="MTV LIVE HD" tvg-logo="https://i.postimg.cc/j2xSKbZZ/MTV-LIVE.jpg" group-title="MUSICA",MTV LIVE HD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/c4fda662-e8c5-4107-b881-93167308d4c5.m3u
-#EXTINF:-1 tvg-id="" tvg-name="MTV 00s HD" https://i.postimg.cc/FFpKpYHq/MTV-OOS.jpg" group-title="MUSICA",MTV 00s HD
+#EXTINF:-1 tvg-id="" tvg-name="MTV 00s HD" tvg-logo="https://i.postimg.cc/FFpKpYHq/MTV-OOS.jpg" group-title="MUSICA",MTV 00s HD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/ca5e5cd5-a743-4dfe-9c56-d4113490879e.m3u
-#EXTINF:-1 tvg-id="" tvg-name="HTV" https://i.postimg.cc/ZKfCbWk3/HTV.jpg" group-title="MUSICA",HTV
+#EXTINF:-1 tvg-id="" tvg-name="HTV" tvg-logo="https://i.postimg.cc/ZKfCbWk3/HTV.jpg" group-title="MUSICA",HTV
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/4273808c-f712-44bc-913d-5e67134fbe55.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Ecua Stereo Radio TV" https://i.postimg.cc/Zn4CR3KP/ECUA-STERO.jpg" group-title="MUSICA",Ecua Stereo Radio TV
+#EXTINF:-1 tvg-id="" tvg-name="Ecua Stereo Radio TV" tvg-logo="https://i.postimg.cc/Zn4CR3KP/ECUA-STERO.jpg" group-title="MUSICA",Ecua Stereo Radio TV
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/345fc1ea-9f61-464c-96b3-183c3df22c76.m3u
-#EXTINF:-1 tvg-id="" tvg-name="TV BANDA" https://i.postimg.cc/0QpzPZx2/FRETV-BANDA.jpg" group-title="MUSICA",TV BANDA
+#EXTINF:-1 tvg-id="" tvg-name="TV BANDA" tvg-logo="https://i.postimg.cc/0QpzPZx2/FRETV-BANDA.jpg" group-title="MUSICA",TV BANDA
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/45702ddf-03d2-43df-bc6c-293954cd99ee.m3u
-#EXTINF:-1 tvg-id="" tvg-name="MTV 80S" https://i.postimg.cc/zBSG9BSy/MTV-80.jpg" group-title="MUSICA",MTV 80S
+#EXTINF:-1 tvg-id="" tvg-name="MTV 80S" tvg-logo="https://i.postimg.cc/zBSG9BSy/MTV-80.jpg" group-title="MUSICA",MTV 80S
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/2278fb62-cba7-45f0-af51-406a12e518c0.m3u
-#EXTINF:-1 tvg-id="" tvg-name="MTV HITS" https://i.postimg.cc/zvxXGcQ5/MTV-HITS.jpg" group-title="MUSICA",MTV HITS
+#EXTINF:-1 tvg-id="" tvg-name="MTV HITS" tvg-logo="https://i.postimg.cc/zvxXGcQ5/MTV-HITS.jpg" group-title="MUSICA",MTV HITS
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/969aa652-25c6-4bd2-bf49-73fe90f9251f.m3u
-#EXTINF:-1 tvg-id="" tvg-name="STINGRAY CONCERTS HD" https://i.postimg.cc/0yM29Z0R/STINGRAY-CONSERT.jpg" group-title="MUSICA",STINGRAY CONCERTS HD
+#EXTINF:-1 tvg-id="" tvg-name="STINGRAY CONCERTS HD" tvg-logo="https://i.postimg.cc/0yM29Z0R/STINGRAY-CONSERT.jpg" group-title="MUSICA",STINGRAY CONCERTS HD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/8a9e2242-f3a3-41bc-b98c-413decb39362.m3u
-#EXTINF:-1 tvg-id="" tvg-name="STEREO MUSIC" https://i.postimg.cc/yYr8q29y/STERO-88.jpg" group-title="MUSICA",STEREO MUSIC
+#EXTINF:-1 tvg-id="" tvg-name="STEREO MUSIC" tvg-logo="https://i.postimg.cc/yYr8q29y/STERO-88.jpg" group-title="MUSICA",STEREO MUSIC
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/04ac84db-0547-48bd-b69e-281f6bcf6daa.m3u
-#EXTINF:-1 tvg-id="" tvg-name="LA TOP 102.9" https://i.postimg.cc/T3F1bB33/LATOP-102.jpg" group-title="MUSICA",LA TOP 102.9
+#EXTINF:-1 tvg-id="" tvg-name="LA TOP 102.9" tvg-logo="https://i.postimg.cc/T3F1bB33/LATOP-102.jpg" group-title="MUSICA",LA TOP 102.9
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/b40610c1-763d-467e-be59-6b5776348f0a.m3u
-#EXTINF:-1 tvg-id="" tvg-name="RUMBA 98.5" https://i.postimg.cc/TYP34TyP/RUMBA98.jpg" group-title="MUSICA",RUMBA 98.5
+#EXTINF:-1 tvg-id="" tvg-name="RUMBA 98.5" tvg-logo="https://i.postimg.cc/TYP34TyP/RUMBA98.jpg" group-title="MUSICA",RUMBA 98.5
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/8b4429a3-4ff6-4e82-b741-1fa9dd46c7b7.m3u
-#EXTINF:-1 tvg-id="" tvg-name="CALIFORNIA MUSIC CHANNEL (CMC)" https://i.postimg.cc/bJXZ7W7B/CALIFORNIA-MUSIC-CHANNEL.jpg" group-title="MUSICA",CALIFORNIA MUSIC CHANNEL (CMC)
+#EXTINF:-1 tvg-id="" tvg-name="CALIFORNIA MUSIC CHANNEL (CMC)" tvg-logo="https://i.postimg.cc/bJXZ7W7B/CALIFORNIA-MUSIC-CHANNEL.jpg" group-title="MUSICA",CALIFORNIA MUSIC CHANNEL (CMC)
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/691270b7-16c2-4d31-9f9a-6870ca7811b8.m3u
-#EXTINF:-1 tvg-id="" tvg-name="HERMANDAD SALSERA" https://i.postimg.cc/kXM2PxHq/HERMANDAD-SALERA.jpg" group-title="MUSICA",HERMANDAD SALSERA
+#EXTINF:-1 tvg-id="" tvg-name="HERMANDAD SALSERA" tvg-logo="https://i.postimg.cc/kXM2PxHq/HERMANDAD-SALERA.jpg" group-title="MUSICA",HERMANDAD SALSERA
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/d9a92bbe-9790-4aed-848c-a34ad3737298.m3u
-#EXTINF:-1 tvg-id="" tvg-name="V CLASSIC TV" https://i.postimg.cc/wTbPCM9K/VCLASSICTV.jpg" group-title="MUSICA",V CLASSIC TV
+#EXTINF:-1 tvg-id="" tvg-name="V CLASSIC TV" tvg-logo="https://i.postimg.cc/wTbPCM9K/VCLASSICTV.jpg" group-title="MUSICA",V CLASSIC TV
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/c81951cd-33ff-4876-ba53-d077ad7d0416.m3u
-#EXTINF:-1 tvg-id="" tvg-name="HEI now" https://i.postimg.cc/vThD6BcJ/HEI-NOW.jpg" group-title="MUSICA",HEI now
+#EXTINF:-1 tvg-id="" tvg-name="HEI now" tvg-logo="https://i.postimg.cc/vThD6BcJ/HEI-NOW.jpg" group-title="MUSICA",HEI now
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/e1bb5a51-9695-417c-a748-3bf4903ef0dd.m3u
-#EXTINF:-1 tvg-id="" tvg-name="TELE HIT" https://i.postimg.cc/C1Nwc2SD/TELEHIT.jpg" group-title="MUSICA",TELE HIT
+#EXTINF:-1 tvg-id="" tvg-name="TELE HIT" tvg-logo="https://i.postimg.cc/C1Nwc2SD/TELEHIT.jpg" group-title="MUSICA",TELE HIT
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/559e71a6-61c4-477a-b719-6b3ae960c02e.m3u
-#EXTINF:-1 tvg-id="" tvg-name="TRACE LATINO" https://i.postimg.cc/k49nFC3q/TRACE-LATINA.jpg" group-title="MUSICA",TRACE LATINO
+#EXTINF:-1 tvg-id="" tvg-name="TRACE LATINO" tvg-logo="https://i.postimg.cc/k49nFC3q/TRACE-LATINA.jpg" group-title="MUSICA",TRACE LATINO
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/a06dc509-4ab6-4c62-991f-80c9640ab740.m3u
-#EXTINF:-1 tvg-id="" tvg-name="LA BOCINA LATINA" https://i.postimg.cc/8zjsjTDY/LABOCINA-LATINA.jpg" group-title="MUSICA",LA BOCINA LATINA
+#EXTINF:-1 tvg-id="" tvg-name="LA BOCINA LATINA" tvg-logo="https://i.postimg.cc/8zjsjTDY/LABOCINA-LATINA.jpg" group-title="MUSICA",LA BOCINA LATINA
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/4e08e487-2411-4f57-b541-ef9ce36691a4.m3u
-#EXTINF:-1 tvg-id="" tvg-name="TELEHIT MUSICA" https://i.postimg.cc/g2CcjRgw/TELEHIT-MUSICA.jpg" group-title="MUSICA",TELEHIT MUSICA
+#EXTINF:-1 tvg-id="" tvg-name="TELEHIT MUSICA" tvg-logo="https://i.postimg.cc/g2CcjRgw/TELEHIT-MUSICA.jpg" group-title="MUSICA",TELEHIT MUSICA
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/21a65dff-337a-41f6-bbd6-3f7b0c18960e.m3u
-#EXTINF:-1 tvg-id="" tvg-name="TELEHIT MUSICA PLUS" https://i.postimg.cc/g2CcjRgw/TELEHIT-MUSICA.jpg" group-title="MUSICA",TELEHIT MUSICA PLUS
+#EXTINF:-1 tvg-id="" tvg-name="TELEHIT MUSICA PLUS" tvg-logo="https://i.postimg.cc/g2CcjRgw/TELEHIT-MUSICA.jpg" group-title="MUSICA",TELEHIT MUSICA PLUS
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/ec2f1dc7-e68d-4b15-849e-b458f42ea4bb.m3u
-#EXTINF:-1 tvg-id="" tvg-name="ANIMAL Planet HD" https://i.postimg.cc/905F9t7M/ANIMAL-PLANET.jpg" group-title="CULTURA-DOCUMENTALES",ANIMAL Planet HD
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL Planet HD" tvg-logo="https://i.postimg.cc/905F9t7M/ANIMAL-PLANET.jpg" group-title="CULTURA-DOCUMENTALES",ANIMAL Planet HD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/3279d538-25c2-43a4-bffa-7e8cb8b7213b.m3u
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL HD" https://i.postimg.cc/G3VpwRgR/Discoveri-Espa-ol.jpg" group-title="CULTURA-DOCUMENTALES",DISCOVERY CHANNEL HD
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://i.postimg.cc/G3VpwRgR/Discoveri-Espa-ol.jpg" group-title="CULTURA-DOCUMENTALES",DISCOVERY CHANNEL HD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/5048a012-225d-4bb4-a856-fb9f5244efc1.m3u
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO HD" https://i.postimg.cc/BQfXPsTg/NATIONAL-GEOGRAPHIA.jpg" group-title="CULTURA-DOCUMENTALES",NAT GEO HD
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO HD" tvg-logo="https://i.postimg.cc/BQfXPsTg/NATIONAL-GEOGRAPHIA.jpg" group-title="CULTURA-DOCUMENTALES",NAT GEO HD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/ea84c882-d878-4fd9-a9a4-100e1c04a0dc.m3u
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY H&H HD" https://i.postimg.cc/wjVydPsk/H-H-DISCOVERY.jpg" group-title="CULTURA-DOCUMENTALES",DISCOVERY H&H HD
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY H&H HD" tvg-logo="https://i.postimg.cc/wjVydPsk/H-H-DISCOVERY.jpg" group-title="CULTURA-DOCUMENTALES",DISCOVERY H&H HD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/9f098eef-6036-4ebc-b080-eaa4b86b886e.m3u
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY ID HD" https://i.postimg.cc/Hk4WyyYW/DISCOVERY-ID.jpg" group-title="CULTURA-DOCUMENTALES",DISCOVERY ID HD
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY ID HD" tvg-logo="https://i.postimg.cc/Hk4WyyYW/DISCOVERY-ID.jpg" group-title="CULTURA-DOCUMENTALES",DISCOVERY ID HD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/3120d967-51e7-4f47-9f1a-04aa8e993a87.m3u
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE" https://i.postimg.cc/pLtXrZt1/DISCOVERY-CIENCIA.jpg" group-title="CULTURA-DOCUMENTALES",DISCOVERY SCIENCE
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://i.postimg.cc/pLtXrZt1/DISCOVERY-CIENCIA.jpg" group-title="CULTURA-DOCUMENTALES",DISCOVERY SCIENCE
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/655d93f5-22da-4161-83ff-7d70dcd34ef1.m3u
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY THEATHER HD" https://i.postimg.cc/pT7PHQZC/DISCOVERY-THEATER.jpg" group-title="CULTURA-DOCUMENTALES",DISCOVERY THEATHER HD
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY THEATHER HD" tvg-logo="https://i.postimg.cc/pT7PHQZC/DISCOVERY-THEATER.jpg" group-title="CULTURA-DOCUMENTALES",DISCOVERY THEATHER HD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/943b80c6-f1c6-409d-a91b-85e49da25926.m3u
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO" https://i.postimg.cc/GtydhBgC/DISCOVERY-TURBO.jpg" group-title="CULTURA-DOCUMENTALES",DISCOVERY TURBO
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO" tvg-logo="https://i.postimg.cc/GtydhBgC/DISCOVERY-TURBO.jpg" group-title="CULTURA-DOCUMENTALES",DISCOVERY TURBO
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/00e237a4-7f43-46a3-a829-45c1c94ec983.m3u
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD HD" https://i.postimg.cc/5jW1HxDF/DISCOVERY-WORLD.jpg" group-title="CULTURA-DOCUMENTALES",DISCOVERY WORLD HD
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD HD" tvg-logo="https://i.postimg.cc/5jW1HxDF/DISCOVERY-WORLD.jpg" group-title="CULTURA-DOCUMENTALES",DISCOVERY WORLD HD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/0125472d-0e4b-4e30-9ace-07e0024b121f.m3u
-#EXTINF:-1 tvg-id="" tvg-name="E! Entertainment" https://i.postimg.cc/hPVQ2hD6/ENTERMAINMENT.jpg" group-title="CULTURA-DOCUMENTALES",E! Entertainment
+#EXTINF:-1 tvg-id="" tvg-name="E! Entertainment" tvg-logo="https://i.postimg.cc/hPVQ2hD6/ENTERMAINMENT.jpg" group-title="CULTURA-DOCUMENTALES",E! Entertainment
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/121610ab-f52f-4e98-bb38-bd9d8c0ed4eb.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Food Network HD" https://i.postimg.cc/7ZDGdDb6/FOOD-NTWORK.jpg" group-title="CULTURA-DOCUMENTALES",Food Network HD
+#EXTINF:-1 tvg-id="" tvg-name="Food Network HD" tvg-logo="https://i.postimg.cc/7ZDGdDb6/FOOD-NTWORK.jpg" group-title="CULTURA-DOCUMENTALES",Food Network HD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/47295f22-3b3d-45e5-92ca-1821f413c59b.m3u
-#EXTINF:-1 tvg-id="" tvg-name="GOURMET HD" https://i.postimg.cc/xjJzbtW0/EL-GOURTMET.jpg" group-title="CULTURA-DOCUMENTALES",GOURMET HD
+#EXTINF:-1 tvg-id="" tvg-name="GOURMET HD" tvg-logo="https://i.postimg.cc/xjJzbtW0/EL-GOURTMET.jpg" group-title="CULTURA-DOCUMENTALES",GOURMET HD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/1e696d5b-4978-4275-ae4e-b88a2825174d.m3u
-#EXTINF:-1 tvg-id="" tvg-name="History HD" https://i.postimg.cc/pdcmmFCh/HISTORY.jpg" group-title="CULTURA-DOCUMENTALES",History HD
+#EXTINF:-1 tvg-id="" tvg-name="History HD" tvg-logo="https://i.postimg.cc/pdcmmFCh/HISTORY.jpg" group-title="CULTURA-DOCUMENTALES",History HD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/bd2d7802-90ae-4c1e-b4fa-5db33b3e3ce7.m3u
-#EXTINF:-1 tvg-id="" tvg-name="History 2 HD" https://i.postimg.cc/k4VBKgYj/HISTORY-2.jpg" group-title="CULTURA-DOCUMENTALES",History 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="History 2 HD" tvg-logo="https://i.postimg.cc/k4VBKgYj/HISTORY-2.jpg" group-title="CULTURA-DOCUMENTALES",History 2 HD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/1da00199-6be0-4973-93a4-79debc7d0c0b.m3u
-#EXTINF:-1 tvg-id="" tvg-name="LOVE NATURE HD" https://i.postimg.cc/9MvzpHvc/LOVE-NATURE.jpg" group-title="CULTURA-DOCUMENTALES",LOVE NATURE HD
+#EXTINF:-1 tvg-id="" tvg-name="LOVE NATURE HD" tvg-logo="https://i.postimg.cc/9MvzpHvc/LOVE-NATURE.jpg" group-title="CULTURA-DOCUMENTALES",LOVE NATURE HD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/d3bbebae-cfd6-4793-b12d-cb91b4163c46.m3u
-#EXTINF:-1 tvg-id="" tvg-name="truTV HD" https://i.postimg.cc/mrnrLGZ7/TRU-TV.jpg" group-title="CULTURA-DOCUMENTALES",truTV HD
+#EXTINF:-1 tvg-id="" tvg-name="truTV HD" tvg-logo="https://i.postimg.cc/mrnrLGZ7/TRU-TV.jpg" group-title="CULTURA-DOCUMENTALES",truTV HD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/34463d24-3f28-4cfb-a567-d8a2d50aadd4.m3u
-#EXTINF:-1 tvg-id="" tvg-name="TLC HD" https://i.postimg.cc/0NjQ1Nv8/TLC.jpg" group-title="CULTURA-DOCUMENTALES",TLC HD
+#EXTINF:-1 tvg-id="" tvg-name="TLC HD" tvg-logo="https://i.postimg.cc/0NjQ1Nv8/TLC.jpg" group-title="CULTURA-DOCUMENTALES",TLC HD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/37fbf90c-b91c-40b8-905e-e48685b10fba.m3u
-#EXTINF:-1 tvg-id="" tvg-name="FILM & ARTS HD" https://i.postimg.cc/3rsDj2T2/FILME-Y-ART.jpg" group-title="CULTURA-DOCUMENTALES",FILM & ARTS HD
+#EXTINF:-1 tvg-id="" tvg-name="FILM & ARTS HD" tvg-logo="https://i.postimg.cc/3rsDj2T2/FILME-Y-ART.jpg" group-title="CULTURA-DOCUMENTALES",FILM & ARTS HD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/ce6c54e8-fc52-425d-bb02-257df09bd3ea.m3u
-#EXTINF:-1 tvg-id="" tvg-name="SUN CHANNEL HD" https://i.postimg.cc/4xBd09rL/SUN.jpg" group-title="CULTURA-DOCUMENTALES",SUN CHANNEL HD
+#EXTINF:-1 tvg-id="" tvg-name="SUN CHANNEL HD" tvg-logo="https://i.postimg.cc/4xBd09rL/SUN.jpg" group-title="CULTURA-DOCUMENTALES",SUN CHANNEL HD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/da4dec07-23fb-48c6-ab43-7f43ff71c78f.m3u
-#EXTINF:-1 tvg-id="" tvg-name="HOME GARDEN" https://i.postimg.cc/R0Z3CR7x/HGTV.jpg" group-title="CULTURA-DOCUMENTALES",HOME GARDEN
+#EXTINF:-1 tvg-id="" tvg-name="HOME GARDEN" tvg-logo="https://i.postimg.cc/R0Z3CR7x/HGTV.jpg" group-title="CULTURA-DOCUMENTALES",HOME GARDEN
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/ea59d6f7-6049-4992-9425-918966393127.m3u
-#EXTINF:-1 tvg-id="" tvg-name="STAR TVE HD" https://i.postimg.cc/htSvMr3Q/STAR-TV-HD.jpg" group-title="CULTURA-DOCUMENTALES",STAR TVE HD
+#EXTINF:-1 tvg-id="" tvg-name="STAR TVE HD" tvg-logo="https://i.postimg.cc/htSvMr3Q/STAR-TV-HD.jpg" group-title="CULTURA-DOCUMENTALES",STAR TVE HD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/b489f6c3-ceb3-40c0-8888-d6d573b39c4d.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AZ CLICK HD" https://i.postimg.cc/d32Qjk29/CLIC.jpg" group-title="CULTURA-DOCUMENTALES",AZ CLICK HD
+#EXTINF:-1 tvg-id="" tvg-name="AZ CLICK HD" tvg-logo="https://i.postimg.cc/d32Qjk29/CLIC.jpg" group-title="CULTURA-DOCUMENTALES",AZ CLICK HD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/05fa29af-fc9d-4b77-93c1-1148893a1886.m3u
-#EXTINF:-1 tvg-id="" tvg-name="CONCERT CHANNEL" https://i.postimg.cc/m29gTnKH/CONCERT.jpg" group-title="CULTURA-DOCUMENTALES",CONCERT CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="CONCERT CHANNEL" tvg-logo="https://i.postimg.cc/m29gTnKH/CONCERT.jpg" group-title="CULTURA-DOCUMENTALES",CONCERT CHANNEL
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/2d43e18a-fa72-4583-b877-266315b9c967.m3u
-#EXTINF:-1 tvg-id="" tvg-name="MAS CHIC" https://i.postimg.cc/3NmNfbTm/MAS-CHIC.jpg" group-title="CULTURA-DOCUMENTALES",MAS CHIC
+#EXTINF:-1 tvg-id="" tvg-name="MAS CHIC" tvg-logo="https://i.postimg.cc/3NmNfbTm/MAS-CHIC.jpg" group-title="CULTURA-DOCUMENTALES",MAS CHIC
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/aff75e93-26f0-4e23-b66c-3bcec207df88.m3u
-#EXTINF:-1 tvg-id="" tvg-name="MUNDO VISION TV" https://i.postimg.cc/FFLYK1Lz/MUNDOVISION.jpg" group-title="CULTURA-DOCUMENTALES",MUNDO VISION TV
+#EXTINF:-1 tvg-id="" tvg-name="MUNDO VISION TV" tvg-logo="https://i.postimg.cc/FFLYK1Lz/MUNDOVISION.jpg" group-title="CULTURA-DOCUMENTALES",MUNDO VISION TV
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/f3e27f54-1d61-46c3-9321-76003672a565.m3u
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD" https://i.postimg.cc/rFGzSbgL/NAT-WILD.jpg" group-title="CULTURA-DOCUMENTALES",NAT GEO WILD
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD" tvg-logo="https://i.postimg.cc/rFGzSbgL/NAT-WILD.jpg" group-title="CULTURA-DOCUMENTALES",NAT GEO WILD
 http://mastvapp.com:80/live/Jimmy1/Jimmy1/6591c873-1509-4284-8f80-97dc97998e54.m3u
 
