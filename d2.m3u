@@ -1,0 +1,903 @@
+#EXTM3U
+#EXTINF:-1,[VIX] TUDN HD
+http://myservicego.info:8080//live/edu2025/edu123/2661352.ts
+#EXTINF:-1 ,STAR+
+http://myservicego.info:8080//live/edu2025/edu123/485368.ts
+#EXTINF:-1 ,ESPN 2 EC
+http://myservicego.info:8080//live/edu2025/edu123/2374847.ts
+#EXTINF:-1 ,ESPN 3 EC
+http://myservicego.info:8080//live/edu2025/edu123/2374848.ts
+#EXTINF:-1 ,ESPN 5 EC
+http://myservicego.info:8080//live/edu2025/edu123/2374850.ts
+#EXTINF:-1 ,ESPN 6 EC
+http://myservicego.info:8080//live/edu2025/edu123/2374851.ts
+#EXTINF:-1 ,ESPN 7 EC
+http://myservicego.info:8080//live/edu2025/edu123/2374852.ts
+#EXTINF:-1 ,ESPN EC
+http://myservicego.info:8080//live/edu2025/edu123/2374846.ts
+#EXTINF:-1 ,ESPN PREMIUM AR
+http://myservicego.info:8080//live/edu2025/edu123/2044546.ts
+#EXTINF:-1 ,ESPN AR
+http://myservicego.info:8080//live/edu2025/edu123/2044526.ts
+#EXTINF:-1 , ESPN 1  AR
+http://myservicego.info:8080//live/edu2025/edu123/2044536.ts
+#EXTINF:-1 , ESPN 2 AR
+http://myservicego.info:8080//live/edu2025/edu123/2044535.ts
+#EXTINF:-1 , ESPN 3 AR
+http://myservicego.info:8080//live/edu2025/edu123/2044538.ts
+#EXTINF:-1 , ESPN 4 AR
+http://myservicego.info:8080//live/edu2025/edu123/2044540.ts
+#EXTINF:-1 , ESPN 5 AR
+http://myservicego.info:8080//live/edu2025/edu123/2044542.ts
+#EXTINF:-1 , ESPN 6 AR
+http://myservicego.info:8080//live/edu2025/edu123/2044543.ts
+#EXTINF:-1 , ESPN 7 AR
+http://myservicego.info:8080//live/edu2025/edu123/2044544.ts
+#EXTINF:-1 , ESPN MX
+http://myservicego.info:8080//live/edu2025/edu123/2044545.ts
+#EXTINF:-1 , ESPN 2 MX
+http://myservicego.info:8080//live/edu2025/edu123/2044547.ts
+#EXTINF:-1 , ESPN 3 MX
+http://myservicego.info:8080//live/edu2025/edu123/2044533.ts
+#EXTINF:-1 , ESPN 3 MEX
+http://myservicego.info:8080//live/edu2025/edu123/2044550.ts
+#EXTINF:-1 , ESPN 4 MX
+http://myservicego.info:8080//live/edu2025/edu123/2044551.ts
+#EXTINF:-1 , USA: ESPN 2
+http://myservicego.info:8080//live/edu2025/edu123/2044562.ts
+#EXTINF:-1 , FOX SPORTS HD
+http://myservicego.info:8080//live/edu2025/edu123/1444027.ts
+#EXTINF:-1 , Fox Sports HD (sat)
+http://myservicego.info:8080//live/edu2025/edu123/1444032.ts
+#EXTINF:-1 , Fox Sports CH
+http://myservicego.info:8080//live/edu2025/edu123/1444034.ts
+#EXTINF:-1 , FOX SPORTS 2 Opc2
+http://myservicego.info:8080//live/edu2025/edu123/1444020.ts
+#EXTINF:-1 , FOX SPORTS 2
+http://myservicego.info:8080//live/edu2025/edu123/1444025.ts
+#EXTINF:-1 , Fox Sports 2 Opc 2
+http://myservicego.info:8080//live/edu2025/edu123/1444030.ts
+#EXTINF:-1 , FOX SPORTS 3 HD
+http://myservicego.info:8080//live/edu2025/edu123/1444026.ts
+#EXTINF:-1 , Fox Sports 3 HD (sat)
+http://myservicego.info:8080//live/edu2025/edu123/1444031.ts
+#EXTINF:-1 , FOX SPORTS 3
+http://myservicego.info:8080//live/edu2025/edu123/1444021.ts
+#EXTINF:-1 , Fox Sports
+http://myservicego.info:8080//live/edu2025/edu123/1444037.ts
+#EXTINF:-1 , TNT Sports HD
+http://myservicego.info:8080//live/edu2025/edu123/1443569.ts
+#EXTINF:-1 , TNT Sports HD
+http://myservicego.info:8080//live/edu2025/edu123/1443577.ts
+#EXTINF:-1 , TNT Sports
+http://myservicego.info:8080//live/edu2025/edu123/1443576.ts
+#EXTINF:-1 , TNT Sports 3
+http://myservicego.info:8080//live/edu2025/edu123/1443586.ts
+#EXTINF:-1 , TNT SPORTS 2
+http://myservicego.info:8080//live/edu2025/edu123/1443571.ts
+#EXTINF:-1 , TNT SPORTS ARG
+http://myservicego.info:8080//live/edu2025/edu123/1443574.ts
+#EXTINF:-1 , TNT SPORTS ARG
+http://myservicego.info:8080//live/edu2025/edu123/1443581.ts
+#EXTINF:-1 , LIGA ARGENTINA: TNT SPORTS PREMIUM
+http://myservicego.info:8080//live/edu2025/edu123/1443568.ts
+#EXTINF:-1 , LIGA ARGENTINA: TNT SPORTS SD
+http://myservicego.info:8080//live/edu2025/edu123/1443575.ts
+#EXTINF:-1 , TNT SPORTS PREMIUM
+http://myservicego.info:8080//live/edu2025/edu123/1443573.ts
+#EXTINF:-1 , TNT SPORTS
+http://myservicego.info:8080//live/edu2025/edu123/1443582.ts
+#EXTINF:-1 , TNT Sports Premiun HD
+http://myservicego.info:8080//live/edu2025/edu123/1443583.ts
+#EXTINF:-1 , TNT Sports Premiun SD
+http://myservicego.info:8080//live/edu2025/edu123/1443584.ts
+#EXTINF:-1 , TNT SPORTS
+http://myservicego.info:8080//live/edu2025/edu123/1443578.ts
+#EXTINF:-1 , TyC Sports HD (EXCLUSIVO)
+http://myservicego.info:8080//live/edu2025/edu123/1443597.ts
+#EXTINF:-1 , TyC SPORTS
+http://myservicego.info:8080//live/edu2025/edu123/218265.ts
+#EXTINF:-1 , TYC SPORTS ARG
+http://myservicego.info:8080//live/edu2025/edu123/1443594.ts
+#EXTINF:-1 , TYC Sports Internacional
+http://myservicego.info:8080//live/edu2025/edu123/1443593.ts
+#EXTINF:-1 , Directv Sports
+http://myservicego.info:8080//live/edu2025/edu123/2373581.ts
+#EXTINF:-1 , DIRECTV SPORTS • OP01
+http://myservicego.info:8080//live/edu2025/edu123/2373574.ts
+#EXTINF:-1 , DIRECTV SPORTS • OP03
+http://myservicego.info:8080//live/edu2025/edu123/2373576.ts
+#EXTINF:-1 , DIRECTV SPORTS 2 • OP01
+http://myservicego.info:8080//live/edu2025/edu123/2373571.ts
+#EXTINF:-1 , DIRECTV SPORTS 2 • OP02
+http://myservicego.info:8080//live/edu2025/edu123/2373572.ts
+#EXTINF:-1 , DIRECTV SPORTS+
+http://myservicego.info:8080//live/edu2025/edu123/2373578.ts
+#EXTINF:-1 , DIRECTV SPORTS ECU
+http://myservicego.info:8080//live/edu2025/edu123/2044720.ts
+#EXTINF:-1 , DIRECTV SPORTS HD UY
+http://myservicego.info:8080//live/edu2025/edu123/2044730.ts
+#EXTINF:-1 , DSPORTS HD
+http://myservicego.info:8080//live/edu2025/edu123/1436364.ts
+#EXTINF:-1 , Directv Sports
+http://myservicego.info:8080//live/edu2025/edu123/215979.ts
+#EXTINF:-1 , DIRECTV SPORTS 1 HD
+http://myservicego.info:8080//live/edu2025/edu123/1155563.ts
+#EXTINF:-1 , DIRECTV SPORTS 1 HD
+http://myservicego.info:8080//live/edu2025/edu123/1155564.ts
+#EXTINF:-1 , D | Tudnxtra 4 HD
+http://myservicego.info:8080//live/edu2025/edu123/1508624.ts
+#EXTINF:-1 , D | Tudnxtra 8 HD
+http://myservicego.info:8080//live/edu2025/edu123/1508628.ts
+#EXTINF:-1 , D | Tudnxtra 9 HD
+http://myservicego.info:8080//live/edu2025/edu123/1508629.ts
+#EXTINF:-1 , TUDN MX HD
+http://myservicego.info:8080//live/edu2025/edu123/1508611.ts
+#EXTINF:-1 , TUDN USA HD
+http://myservicego.info:8080//live/edu2025/edu123/1508612.ts
+#EXTINF:-1 , LIGA Mexicana: TUDN Mexico HD
+http://myservicego.info:8080//live/edu2025/edu123/1508616.ts
+#EXTINF:-1 , LIGA Mexicana: TUDN USA HD
+http://myservicego.info:8080//live/edu2025/edu123/1508615.ts
+#EXTINF:-1 , MX TUDN HD
+http://myservicego.info:8080//live/edu2025/edu123/1508613.ts
+#EXTINF:-1 , MX TUDN HD
+http://myservicego.info:8080//live/edu2025/edu123/1508614.ts
+#EXTINF:-1 , TUDN USA HD
+http://myservicego.info:8080//live/edu2025/edu123/1508620.ts
+#EXTINF:-1 , TUDN DEPORTES HD
+http://myservicego.info:8080//live/edu2025/edu123/1155546.ts
+#EXTINF:-1 , TUDN DEPORTES HD
+http://myservicego.info:8080//live/edu2025/edu123/1155547.ts
+#EXTINF:-1 , TUDN DEPORTES
+http://myservicego.info:8080//live/edu2025/edu123/1155548.ts
+#EXTINF:-1 , TUDN LIGA MX
+http://myservicego.info:8080//live/edu2025/edu123/1155549.ts
+#EXTINF:-1 , TUDN HD MEXICO
+http://myservicego.info:8080//live/edu2025/edu123/1155550.ts
+#EXTINF:-1 , TUDN USA
+http://myservicego.info:8080//live/edu2025/edu123/486253.ts
+#EXTINF:-1 , TUDN HD
+http://myservicego.info:8080//live/edu2025/edu123/486290.ts
+#EXTINF:-1 , TUDN HD
+http://myservicego.info:8080//live/edu2025/edu123/486291.ts
+#EXTINF:-1 , SKY SPORTS FHD
+http://myservicego.info:8080//live/edu2025/edu123/2372814.ts
+#EXTINF:-1 , Sky sports (720)
+http://myservicego.info:8080//live/edu2025/edu123/2372812.ts
+#EXTINF:-1 , SKY SPORT
+http://myservicego.info:8080//live/edu2025/edu123/2372820.ts
+#EXTINF:-1 , SKY SPORT
+http://myservicego.info:8080//live/edu2025/edu123/2372823.ts
+#EXTINF:-1 , SKY SPORT
+http://myservicego.info:8080//live/edu2025/edu123/2372826.ts
+#EXTINF:-1 , SKY SPORT LA LIGA
+http://myservicego.info:8080//live/edu2025/edu123/2372817.ts
+#EXTINF:-1 , BEIN Sports 1 HD
+http://myservicego.info:8080//live/edu2025/edu123/1508638.ts
+#EXTINF:-1 , BEIN Sports XTRA (1080p) HD
+http://myservicego.info:8080//live/edu2025/edu123/1508635.ts
+#EXTINF:-1 , BEIN Sports XTRA HD
+http://myservicego.info:8080//live/edu2025/edu123/1508637.ts
+#EXTINF:-1 , BEIN Sports XTRA Ñ HD
+http://myservicego.info:8080//live/edu2025/edu123/1508636.ts
+#EXTINF:-1 , BEIN Sports Extra USA HD
+http://myservicego.info:8080//live/edu2025/edu123/1508633.ts
+#EXTINF:-1 , USA-bein Sports 8 HD
+http://myservicego.info:8080//live/edu2025/edu123/1508643.ts
+#EXTINF:-1 , BEIN SPORTS Ñ FHD
+http://myservicego.info:8080//live/edu2025/edu123/1444154.ts
+#EXTINF:-1 , BEIN SPORTS XTRA US
+http://myservicego.info:8080//live/edu2025/edu123/1444152.ts
+#EXTINF:-1 , BEIN SPORTS 2
+http://myservicego.info:8080//live/edu2025/edu123/1444149.ts
+#EXTINF:-1 , beIN Sports XTRA N
+http://myservicego.info:8080//live/edu2025/edu123/1444115.ts
+#EXTINF:-1 , Win Sports
+http://myservicego.info:8080//live/edu2025/edu123/1443274.ts
+#EXTINF:-1 , WIN Sports
+http://myservicego.info:8080//live/edu2025/edu123/69066.ts
+#EXTINF:-1 , Win Sports Plus
+http://myservicego.info:8080//live/edu2025/edu123/1443281.ts
+#EXTINF:-1 , WIN Sports +
+http://myservicego.info:8080//live/edu2025/edu123/69064.ts
+#EXTINF:-1 , WIN Sports + +
+http://myservicego.info:8080//live/edu2025/edu123/69069.ts
+#EXTINF:-1 , TIGO Sports HD
+http://myservicego.info:8080//live/edu2025/edu123/1508600.ts
+#EXTINF:-1 , TIGO Sports HD
+http://myservicego.info:8080//live/edu2025/edu123/1508601.ts
+#EXTINF:-1 , GOL TV ECU HD
+http://myservicego.info:8080//live/edu2025/edu123/1508657.ts
+#EXTINF:-1 , Gol TV
+http://myservicego.info:8080//live/edu2025/edu123/1508651.ts
+#EXTINF:-1 , GOL TV
+http://myservicego.info:8080//live/edu2025/edu123/1508662.ts
+#EXTINF:-1 , GOL TV (CX)
+http://myservicego.info:8080//live/edu2025/edu123/1508650.ts
+#EXTINF:-1 , Gol Perú OP1 HD
+http://myservicego.info:8080//live/edu2025/edu123/1508653.ts
+#EXTINF:-1 , Gol Perú OP2 HD
+http://myservicego.info:8080//live/edu2025/edu123/1508653.ts
+#EXTINF:-1,AR | TNT SPORTS HD
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4Buu0C9kJGIw8nyUZpSa6fM/ts
+#EXTINF:-1,AR | TNT SPORTS SD
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4EgNq6mSt7yivCejOhDDnnM/ts
+#EXTINF:-1,CO | Win Sports + SD
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4CNOoof21aNcPirwOAKPyTo/ts
+#EXTINF:-1,CO | Win Sports SD
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4Jvq3hdjh8m3FfhgJPHRxF8/ts
+#EXTINF:-1,DAZN 1
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4Mt1C4tlCY2CFayHioSHXfw/ts
+#EXTINF:-1,DAZN 2
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4G0-nK1j2O3PH6p9xJyOxE8/ts
+#EXTINF:-1,DAZN 3
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4MU1SJxW0xikKlAvQhQrtio/ts
+#EXTINF:-1,DAZN 4
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4AYrrFU-s368-A8udtBzvwg/ts
+#EXTINF:-1,DAZN F1
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4OJN84DVBCjvyt2GjxmyJg0/ts
+#EXTINF:-1,DAZN LA LIGA
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4Hta_j0bzlGUiOHNqB2coWA/ts
+#EXTINF:-1,DAZN LA LIGA 2 HD
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4LAT_4w7JHyqbCIlwCPZMc8/ts 
+#EXTINF:-1,DIRECTV SPORTS
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4OmMp9i04KxJ0Nm1m3JBUmo/ts
+#EXTINF:-1,DIRECTV SPORTS +
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4GrGpT-NEHuBHSQx47t0kHA/ts
+#EXTINF:-1,DIRECTV SPORTS + #2
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4H96NlYQ_axQM-SyuBPxbjg/ts
+#EXTINF:-1,DIRECTV SPORTS 2
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4JTu2tfGcRgJeksi76gCK_c/ts
+#EXTINF:-1,DIRECTV SPORTS 2
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4PsCtpGkTwBzvpieJtEJgyw/ts
+#EXTINF:-1,DIRECTV SPORTS 2 AR
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4FDdNBfiqQIpBBG71fY4PlQ/ts
+#EXTINF:-1,DIRECTV SPORTS 2 CHI
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4HfFxpVPBVffYm4TrP3KxmM/ts
+#EXTINF:-1,DIRECTV SPORTS 2 COL
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4EEgYbYqfRH8iHP9UIJk0Vo/ts
+#EXTINF:-1,DIRECTV SPORTS 2 ECU
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4HFbhcgSWdRTzxEIjUXBSok/ts
+#EXTINF:-1,DIRECTV SPORTS AR
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4M5hO670EpkuMGu_WAjSo14/ts
+#EXTINF:-1,DIRECTV SPORTS CHI
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4JuTPzVjmNvWyehzxVbI2Vc/ts
+#EXTINF:-1,DIRECTV SPORTS COL
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4NtiVPh1DZcWAxSAcCF8SAg/ts
+#EXTINF:-1,DIRECTV SPORTS PLUS
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4E9TDeix0j-pH9qdXDs4cWc/ts
+#EXTINF:-1,DIRECTV SPORTS PLUS CHI
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4MAD_IlhjKRicHogJdldTiY/ts
+#EXTINF:-1,DIRECTV SPORTS PLUS COL
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4Hg9u3YT4fmZdoxIcpaSVr8/ts
+#EXTINF:-1,DIRECTV SPORTS URUGUAY
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4CCoHPrlD_H_coqarKkGFCA/ts
+#EXTINF:-1,DIRECTV SPORTS UY
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4PJ8Fq3Vi3S1c_4fotcnrG4/ts 
+#EXTINF:-1,EC | EVENTO ECUADOR 1
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4BbAm3JgmtDbU4pfC6b-zRY/ts
+#EXTINF:-1,EC  | EVENTO ECUADOR 2
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4A9P6Dzxc-w-aRZmMIz_6Yk/ts
+#EXTINF:-1,EC  | EVENTO ECUADOR 3
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4FbT-NmGRxrvrf8_PTCv89E/ts
+#EXTINF:-1,EC | EVENTO ECUADOR 4
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4PUMvR2LSybKvr4yqcGBNJY/ts
+#EXTINF:-1,EC | DIRECTV SPORTS
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4JYCH4ZsWab9U2m-CEGav4w/ts
+#EXTINF:-1,EC | DIRECTV SPORTS +
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4E2fCwBYp6YQVUMxEe9ytcU/ts
+#EXTINF:-1,EC | DIRECTV SPORTS - 2MB
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4PXD6rizHCPLiRz9KGMyB6M/ts
+#EXTINF:-1,EC | DIRECTV SPORTS 2
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4BFkdkfDifP3IIiTiulhVb4/ts 
+#EXTINF:-1,EC | ESPN 3 ANDINA HD
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4LOKqWbz_xmGOvvoRj4roJo/ts
+#EXTINF:-1,EC | ESPN 5
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4O7r9o1rlZHfmwndFIHbPvc/ts
+#EXTINF:-1,EC | EVENTOS ZAPPING FHD
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4IA15J-ARlx-mBwiMw2e0tw/ts
+#EXTINF:-1,EC | EVENTOS ZAPPING HD
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4KGWIxI35q_Cm2bD7HatF_Y/ts
+#EXTINF:-1,EC | EVENTOS ZAPPING LOW
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4FgNNIq9b4EDMQVN8vxpA9Q/ts
+#EXTINF:-1,EC | EVENTOS ZAPPING SD
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4KPs34l4SWqs6lNr_8elwfA/ts 
+#EXTINF:-1,ELEVEN SPORTS
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4AhALfJOVGbbVGIL68q9PqM/ts
+#EXTINF:-1,ELEVEN SPORTS NETWORK
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4N0YPtcY_fEbNYOL50-56Yw/ts 
+#EXTINF:-1,ES | LA LIGA SMARTBANK HD
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4HiGnwhN3tW2Rd8ZX9OG46I/ts
+#EXTINF:-1,ES | M+DEPORTES 1 HD
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4Lx1gwpxV-63mvtCJ_mo5nY/ts
+#EXTINF:-1,ES | M+DEPORTES 1 HD
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4FD9sb4Wt43yV7kaCiueVGs/ts
+#EXTINF:-1,ES | M+DEPORTES 2 HD
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4H8kx0DgsUb1-xxLWajCKf0/ts
+#EXTINF:-1,ES | M+DEPORTES 2 HD
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4NFt7X549KG401h0l7f1dsc/ts
+#EXTINF:-1,ES | M+DEPORTES 3 HD
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4HjWZF8In56k-Pcb5K7rTnw/ts
+#EXTINF:-1,ES | M+DEPORTES 3 HD
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4Kp6ro3OTnm92vKqJKlwB0o/ts
+#EXTINF:-1,ES | M+DEPORTES HD
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4ExrGN9usueU3DmysQwtZf4/ts
+#EXTINF:-1,ES | M+DEPORTES HD
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4LiupW8CmHS0jqnLJPSZhgY/ts
+#EXTINF:-1,ES | M+LA LIGA 1 FHD
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4M1SuuENr0FwXnwNql9nguA/ts
+#EXTINF:-1,ES | M+LIGA DE CAMPEONES 2 FHD
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4Fu3IoQ9kn3SCqo1ytLg-9w/ts
+#EXTINF:-1,ES | M+LIGA DE CAMPEONES 2 HD
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4OEylwK3HeFqCRaFqgsoof4/ts
+#EXTINF:-1,ES | M+LIGA DE CAMPEONES 3
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4L5ONlPxbEXc80_FdH5poYw/ts
+#EXTINF:-1,ES | M+LIGA DE CAMPEONES 3 HD
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4HbTO4oU8Qdoysoy6P8jXis/ts
+#EXTINF:-1,ES | M+LIGA DE CAMPEONES 4
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4NDPfxj0rhmPfuub3cyXffM/ts
+#EXTINF:-1,ES | M+LIGA DE CAMPEONES FHD
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4PrPhHL1rAczmjakM0GYxIA/ts
+#EXTINF:-1,ES | M+LIGA DE CAMPEONES HD OP B
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4NDoq0GC4K4F0abh7klUh-4/ts 
+#EXTINF:-1,ESPN 2 AR
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4EY09oEpXVML46tDeNGW05g/ts
+#EXTINF:-1,ESPN 2 AR #2
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4GixUfeYX2iLDJKaA5I90yE/ts
+#EXTINF:-1,ESPN 2 COL
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4HIWx0dj4INVkhSk_-WNccI/ts
+#EXTINF:-1,ESPN 2 MX
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4NDLa1V6r85rzZACSk5XqaM/ts
+#EXTINF:-1,ESPN 3 AR
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4P6_znzAd-JUI--zWiHP_fA/ts
+#EXTINF:-1,ESPN 3 AR
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4BoYbh2DM5mpA3_F0ap5JHg/ts
+#EXTINF:-1,ESPN 3 COL
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4A7l3W2scMv8Bk6C_SCWTGE/ts
+#EXTINF:-1,ESPN 3 COL
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4CNrp5ajzyUEx1QfNyPSRyE/ts
+#EXTINF:-1,ESPN 3 MX
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4Ov7lcIXF4N4mOlwbtAbpMU/ts
+#EXTINF:-1,ESPN 3 MX
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4IsY_MN7Hd_hqZ6FZTaBinI/ts
+#EXTINF:-1,ESPN 3 PE
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4KZoUrQfMR7Zft44Hz0RXWI/ts
+#EXTINF:-1,ESPN 3 USA
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4DtfsYwAKp2ItZQFr4NIQq0/ts
+#EXTINF:-1,ESPN 4 AR
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4NRqAfdf1ViyhmWKhIeP9l4/ts
+#EXTINF:-1,ESPN 4 MX
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4HvTyhOjK3K-OTHP8q4I4Fs/ts
+#EXTINF:-1,ESPN 5
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4IX9m3eUD2unyf08QnInMzs/ts
+#EXTINF:-1,ESPN 6
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4E32Xgxbc3OGiEVxspDT99s/ts
+#EXTINF:-1,ESPN 7 HD
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4CkAIZe3WroKY9VAh8Wu2SU/ts
+#EXTINF:-1,ESPN AR
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4JLoYcx17YQPH9oU5PEzuBw/ts
+#EXTINF:-1,ESPN CHI
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4HwHgypHAm9beef8Go8104g/ts
+#EXTINF:-1,ESPN COL
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4JJK6KFOpaQ9JQJy_zbjo2Y/ts
+#EXTINF:-1,ESPN DEPORTES HD
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4G3QRIqB2VtqDp3v1eSq_eQ/ts
+#EXTINF:-1,ESPN EXTRA AR
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4NeFcmFDGqr-8PATQEEJ8U8/ts
+#EXTINF:-1,ESPN EXTRA MX
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4Ej65M_x0urQA7pH2HmhDbs/ts
+#EXTINF:-1,ESPN MX
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4JIqGwunUWsemPykJezHoog/ts
+#EXTINF:-1,ESPN MX
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4CUa5NfqXWZbRs8h7TcxkfY/ts
+#EXTINF:-1,ESPN NEWS
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4Eoaa51wVZJHEonunWkOdXw/ts
+#EXTINF:-1,ESPN PREMIUM AR
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4Il9aWt5YQaTvlgFas401Xc/ts
+#EXTINF:-1,ESPN SEC NETWORK
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4Ai7GgguOFFUeDPcBrMqEhg/ts
+#EXTINF:-1,ESPN U
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4NKtF4c2XubCBC458fFe37I/ts 
+#EXTINF:-1,FOX SPORTS
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4DUl_sMvmvXbsyiV3vpmpj4/ts
+#EXTINF:-1,FOX SPORTS 1 AR
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4MmSrVdrCRqpA4esKKzyuZM/ts
+#EXTINF:-1,FOX SPORTS 1 CHI
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4AN5m_D86tjR3ItR08pnc94/ts
+#EXTINF:-1,FOX SPORTS 1 MX
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4OFetlFl5M7X_hHML6HMDbk/ts
+#EXTINF:-1,FOX SPORTS 2 AR
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4GNYqlh_r252P5ZJY_cYLOg/ts
+#EXTINF:-1,FOX SPORTS 2 CHI
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4DpZUup7HRmlQBZA8IAA4SU/ts
+#EXTINF:-1,FOX SPORTS 2 CHI
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4D788jdee66nGqcqGYwxBpY/ts
+#EXTINF:-1,FOX SPORTS 2 COL
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4MpCi3oVx4KuRoC2F6Hpqqg/ts
+#EXTINF:-1,FOX SPORTS 2 COL
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4PS_1vuH-SuOjIKIrd_XHgE/ts
+#EXTINF:-1,FOX SPORTS 2 MX
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4M2R2hCC8DZ3ACjZMic4zjE/ts
+#EXTINF:-1,FOX SPORTS 3 AR
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4PAZ1MRiXr-8XEFjWSF536Q/ts
+#EXTINF:-1,FOX SPORTS 3 COL
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4FsnemRmagjNdLS8nIFCxbg/ts
+#EXTINF:-1,FOX SPORTS 3 MX
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4O8LXVuWXO_6Z_9Ej1eFPWk/ts
+#EXTINF:-1,FOX SPORTS 3 MX
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4A9wu54AC2AecGOpquWd3do/ts
+#EXTINF:-1,FOX SPORTS COL
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4NE1lCEJ-31rZz9BXLiMgQA/ts
+#EXTINF:-1,FOX SPORTS PREMIUM AR
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4IpvgqvNpgLtZJsJ-ek8ltg/ts
+#EXTINF:-1,FOX SPORTS PREMIUM MX
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4PfG05Ec8ZBDxh9fI3ZL_Wo/ts
+#EXTINF:-1,FOX SPORTS PREMIUM MX HD
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4HozjJxU1YC-qn47RJAY36g/ts
+#EXTINF:-1,FOX SPORTS SD (sv)
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4CqmImHT2rYuqgs82mX5Kn8/ts 
+#EXTINF:-1,HGTV
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4JUhw4sOGsBvB10O9-VDmVo/ts
+#EXTINF:-1,HGTV HD EAST
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4Gft9_a4A2lGuBumN1HwFug/ts
+#EXTINF:-1,HGTV HD WEST
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4CEpZWca00VHuc8cy5vRHcU/ts
+#EXTINF:-1,HGTV | SD
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4PRVlbPzG2evAf4bvUBMDy4/ts 
+#EXTINF:-1,Latino  2mb - ESPN
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4Pqoi2ZjCiwzt207tXTj2yU/ts
+#EXTINF:-1,Latino  2mb - ESPN 2
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4IF4UfGGciH5D3zmpT2iIz8/ts
+#EXTINF:-1,Latino  2mb - ESPN 3
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4JxLyIo6Ug_OedFH2P1teKw/ts 
+#EXTINF:-1,Latino 2mb - Fox Sports 2
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4Ixz56udpjit9fZSSBWok9A/ts
+#EXTINF:-1,Latino 2mb - Fox Sports 3
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4OQm0EWllbXaMS1VDx8-Uo8/ts 
+#EXTINF:-1,LIGA 1
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4D3YSiLwruiowcPG7bvXmFo/ts
+#EXTINF:-1,LIGA ARGENTINA: ESPN PREMIUM
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4DpZXldxYltjatWRZOm02yU/ts
+#EXTINF:-1,LIGA ARGENTINA: TNT SPORTS SD
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4GQZYOs6W9iy1ENJG3okm04/ts
+#EXTINF:-1,LIGA ARGENTINA: TYC SPORTS HD
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4IFHB-GpyNUzPqUVhm1ozlM/ts
+#EXTINF:-1,LIGA BRASILEÑA: SPORTV 3 HD
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4JWTBttdEJhzq3kc1YrQp5g/ts
+#EXTINF:-1,LIGA CHILENA: TNT SPORTS (enc) HD*
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4DFblyk-6YfveZMB5FT0mkY/ts
+#EXTINF:-1,LIGA CHILENA: TNT SPORTS 2 HD*
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4NwKY0htcL0LdSJIMaZ0Pgc/ts
+#EXTINF:-1,LIGA CHILENA: TNT SPORTS 3*
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4C-4HwcB7-cZmwsIc7bA2lE/ts
+#EXTINF:-1,LIGA CHILENA: TNT SPORTS FHD (60)
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4P7Q6r_D9_f4U45ZMUTyOww/ts
+#EXTINF:-1,LIGA COLOMBIA: WIN SPORTS + (OPC 3)
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4BWOUIbkEX7eEH_NAG29nGc/ts
+#EXTINF:-1,LIGA ECUADOR: EL CANAL DEL FÚTBOL
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4LIXrNUFEJD-VzqCmR1xelI/ts
+#EXTINF:-1,LIGA ECUADOR: GOL TV HD OP2
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4K2vOPpVNWc1Mv9l7-7fWdw/ts
+#EXTINF:-1,LIGA HONDURAS: TIGO SPORTS
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4AR4Tvdx23ydXH69_e2xdNo/ts
+#EXTINF:-1,LIGA PERU: GOL PERU
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4GiHNkBYmBmLAycQEPIA8jU/ts
+#EXTINF:-1,LIGA PERU: LIGA 1
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4JdNWoe1XYhJOFN7M-L1mHY/ts
+#EXTINF:-1,LIGA PERU: MOVISTAR PLUS
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4HGA27lwtVzSFDU71_mULBM/ts
+#EXTINF:-1,LIGA URUGUAY: VTV HD
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4FoR8MkJDJmGpZeEXdfl0O0/ts
+#EXTINF:-1,LIGA URUGUAY: VTV PLUS
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4KA_Fj0C4-D-jUPSf0utWLA/ts
+#EXTINF:-1,LIGA1
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4GDRMcokZjOCEjpwBcQLrbo/ts 
+#EXTINF:-1,MOVISTAR DEPORTES
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4PxymcxpfQmDIhWD7N7ZadU/ts
+#EXTINF:-1,MOVISTAR DEPORTES 1
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4AVcMMJtwHuDYwd29caCLH8/ts
+#EXTINF:-1,MOVISTAR LA LIGA
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4Gvx2TsxlvshuYwwRkOrFKE/ts
+#EXTINF:-1,MOVISTAR LIGA DE CAMPEONES
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4JNMnbYXsVDk3QPzA0Kktew/ts 
+#EXTINF:-1,MX ESPN 2 SD
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4PubTKq_1Tg4gj9E1DtObtY/ts
+#EXTINF:-1,MX: ESPN 1.
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4PPlaZ6I97a1WevMxKLlNyQ/ts
+#EXTINF:-1,MX: ESPN 2.
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4KAtUpOWdfyhJGoXqIj2faE/ts
+#EXTINF:-1,MX: ESPN 3.
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4H1-bgg_4PqEnYpXsq_0M3U/ts
+#EXTINF:-1,MX: ESPN EXTRA
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4FHpMMHn2q8nJcWotn5yNiw/ts
+#EXTINF:-1,MX: HGTV
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4CYoEWlO1RPFZ5udAitB0OE/ts
+#EXTINF:-1,MX: SyFy
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4DH8LcaG1sgQTV_CNa68U4I/ts
+#EXTINF:-1,PE• LIGA 1 (HD)
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4LQgtZ2d90z9wTRzMtuS6N8/ts
+#EXTINF:-1,PE• LIGA 1 MAX (HD) »1«
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4DuD82Om85P0jvcqsambiG8/ts
+#EXTINF:-1,PE• LIGA 1 MAX (HD) »2«
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4C6HkwlidgGzKyXAjEpbd5E/ts
+#EXTINF:-1,PE• LIGA 1 MAX (HD) »4«
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4NddRkXxXbsu0xukr78DTjg/ts
+#EXTINF:-1,PE• LIGA 1 MAX (HD) »5«
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4N3Lq_jxEFq4VPndJnigd8Y/ts
+#EXTINF:-1,PREMIER LEAGUE FHD
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4JP_3D0lpcm_zgS_v2uTmj0/ts
+#EXTINF:-1,PY | TIGO SPORTS PARAGUAY #2 (SOLO EVENTOS) | SD
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4O7hPN1-TJnFg17iX960Zgg/ts
+#EXTINF:-1,PY | TIGO SPORTS PARAGUAY #3 (SOLO EVENTOS) | SD
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4GXR2KN_yENxMXO3NfDrUig/ts
+#EXTINF:-1,PY | TIGO SPORTS PARAGUAY (SOLO EVENTOS) | SD
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4KYPUJlYo2w-mj9Vw5-DDVE/ts
+#EXTINF:-1,TIGO SPORT CR
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4DkVXGXWh_6cujz-88FEFgE/ts
+#EXTINF:-1,TIGO SPORTS
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4KtToVmlNm8i4gD0i62115M/ts
+#EXTINF:-1,TIGO SPORTS
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4PTo0-OCe2ZL-d7rGTRkwAA/ts
+#EXTINF:-1,TIGO SPORTS (BOL) 1 HD
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4OilQOt-a3ncCRJF0S-ZWMo/ts
+#EXTINF:-1,TIGO SPORTS (BOL) 12 HD
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4Or71FsgyQS7GrvvDgdlSk4/ts
+#EXTINF:-1,TIGO SPORTS (BOL) 13 HD
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4BFzHGuqLw68rA8F81sGhpY/ts
+#EXTINF:-1,TIGO SPORTS (BOL) 14 HD
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4CJM09xfF6jVZDhKnLFSuBo/ts
+#EXTINF:-1,TIGO SPORTS (C.R) 3 HD
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4LS2EhmDI7HaBoyuWNhvKbU/ts
+#EXTINF:-1,TIGO SPORTS (GUA) 5 HD
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4FUHSyO3KfZo9PUWtM04ekU/ts
+#EXTINF:-1,TIGO SPORTS (HON) 4 HD
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4JURa-Aowa3ORmfcGz9-bh8/ts
+#EXTINF:-1,TIGO SPORTS (HOND +) 11 HD
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4A78t16rG8grq_FjEv0b8MI/ts
+#EXTINF:-1,TIGO SPORTS (P.Y) 8 HD
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4Fg0YpH3pR-P0vuugAJYiGo/ts
+#EXTINF:-1,TIGO SPORTS (SAV) 9 HD
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4PeroyGCj7CYGSsmXh91AvI/ts
+#EXTINF:-1,TIGO SPORTS + PY
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4F2J56yAPGcAL080PLbjC4Q/ts
+#EXTINF:-1,Tigo Sports + | Guatemala
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4E8oNpMPQO9XJ23FDTjytH0/ts
+#EXTINF:-1,TIGO SPORTS 1 BOL
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4JAj-Huh3oQ-iaQiEQBopcQ/ts
+#EXTINF:-1,TIGO SPORTS 10 HD
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4FLL-h4C0DwXzbmdS7rxfrY/ts
+#EXTINF:-1,TIGO SPORTS CR
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4LFNQiszdAC9ODg_UTg-YxQ/ts
+#EXTINF:-1,TIGO SPORTS GT op2
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4HOvfA6np1YnlkUXfNR1cAs/ts
+#EXTINF:-1,TIGO SPORTS PV
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4BgXhV2em1du-Teu9XaH1aE/ts
+#EXTINF:-1,TIGO SPORTS SAL
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4Ks3gY8XnpIFxUmWORrHXA0/ts
+#EXTINF:-1,Tigo Sports SV i
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4GCIJTzEG8Q6QejEf6du8ik/ts
+#EXTINF:-1,Tigo Sports | Honduras  HD
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4HJ4NxOTrl_8ooMIQMeWdlk/ts 
+#EXTINF:-1,TNT SPORTS 1
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4CqNS1z1hMsgL5xAFS0Ox7E/ts
+#EXTINF:-1,TNT SPORTS 2
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4GD-jUvfk3DcsJISqvrqquo/ts
+#EXTINF:-1,TNT SPORTS 2 CHI
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4LsQ1piHkF3QafsykF7z0a4/ts
+#EXTINF:-1,TNT SPORTS 3
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4GLvNhUqwKJgeWB6xR1YGjc/ts
+#EXTINF:-1,TNT SPORTS 3 CHI
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4AkcQHZ3kGuVjOAwAgbEPc8/ts
+#EXTINF:-1,TNT Sports 4
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4BEqDm8BFg9i_MYPbcn4qXk/ts
+#EXTINF:-1,TNT SPORTS AR
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4F1_qnWimSkN9MsvY_sP4sA/ts
+#EXTINF:-1,TNT SPORTS ARG
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4BDA1pAezh53ehBm50Cg_Pk/ts
+#EXTINF:-1,TNT SPORTS CHI
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4G25JmYk611rxt3I9cDSasg/ts
+#EXTINF:-1,TNT SPORTS ESTADIO
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4Cxn-8KRXFBYra1tzTTUBQM/ts
+#EXTINF:-1,TUDN
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4DgNW5x_AGJ-ao16FQ32rw4/ts
+#EXTINF:-1,TUDN MX HD
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4GjBIWYDSl0q0UAieBFMh1A/ts
+#EXTINF:-1,TUDN MX SD
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4Ptm-T5NEBGmBpxfhjp2voI/ts
+#EXTINF:-1,TUDN USA HD
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4I2rKlsPj5TgGpT6VqNjqQE/ts
+#EXTINF:-1,TUDN USA SD
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4HBuPpN21swMMh3YRRL88E4/ts
+#EXTINF:-1,TV CHILE HD
+#EXTINF:-1,WIN SPORTS 01 ᴾᴿᴵᴹᴱᴿᴬ Cᵒˡᵒᵐᵇⁱᵃ Fᴴᴰ
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4G3BpWbzRA3LLz0b7YKi50A/ts
+#EXTINF:-1,WIN SPORTS 02 ᴾᴿᴵᴹᴱᴿᴬ Cᵒˡᵒᵐᵇⁱᵃ Fᴴᴰ
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4N5sUsESX4ebhGGV33WhmHU/ts
+#EXTINF:-1,WIN SPORTS 03 ᴾᴿᴵᴹᴱᴿᴬ Cᵒˡᵒᵐᵇⁱᵃ Fᴴᴰ
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4B5z7-r-IWrHiw-zb3XeORs/ts
+#EXTINF:-1,WIN SPORTS 04 ᴾᴿᴵᴹᴱᴿᴬ Cᵒˡᵒᵐᵇⁱᵃ Fᴴᴰ
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4NUCUO528DfTOBkIjEQjYOE/ts
+#EXTINF:-1,WIN SPORTS 05 ᴾᴿᴵᴹᴱᴿᴬ Cᵒˡᵒᵐᵇⁱᵃ Fᴴᴰ
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4BoBuTcamLwWIs052C89jdA/ts
+#EXTINF:-1,WIN SPORTS 07 ᴾᴿᴵᴹᴱᴿᴬ Cᵒˡᵒᵐᵇⁱᵃ Fᴴᴰ
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4HgraSr9Rl8dqRdkVAwfRh0/ts
+#EXTINF:-1,WIN SPORTS 09 ᴾᴿᴵᴹᴱᴿᴬ Cᵒˡᵒᵐᵇⁱᵃ Fᴴᴰ
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4I4dv8oZN8rbQLnWTTN3QmI/ts
+#EXTINF:-1,WIN SPORTS 10 ᴾᴿᴵᴹᴱᴿᴬ Cᵒˡᵒᵐᵇⁱᵃ Fᴴᴰ
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4FiXGwONe8c62RGmb2vb4cc/ts
+#EXTINF:-1,WIN SPORTS 11 ᴾᴿᴵᴹᴱᴿᴬ Cᵒˡᵒᵐᵇⁱᵃ Fᴴᴰ
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4Lf14ckdyLCT_SlIdKqmkA4/ts
+#EXTINF:-1,WIN SPORTS COL
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4MNiWSkqlsMOXoTRR6S4quc/ts
+#EXTINF:-1,WIN SPORTS PLUS
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4KhD2vCLbaJmqRcBGTUNO6Q/ts
+#EXTINF:-1,WINSPORTS +
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4N7etyHm2hTjSWnv2Lf7BXo/ts
+#EXTINF:-1,WINSPORTS +
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4D4U1L4DVexbDsN-WkID44g/ts
+#EXTINF:-1,24/7 Los años maravillosos
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4F5sH3d15yrlWZW9k7VVy_c/ts 
+#EXTINF:-1,[IZZI] S EVENTS 1
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4KWGyXzvxOR2vc4kBUQEmg0/ts
+#EXTINF:-1,[IZZI] S EVENTS 2
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4CTzBEavkSPEeS3vyucUqTw/ts
+#EXTINF:-1,[IZZI] S EVENTS 3
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4BGcuPfvPb62V43xFB22rU0/ts
+#EXTINF:-1,[IZZI] S EVENTS 4
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4ITFDsUiBX2WWU-uJdPA_wQ/ts
+#EXTINF:-1,[IZZI] S EVENTS 5
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4HaWkIhyvHgW0fr2JdR9hBY/ts 
+#EXTINF:-1,IT- EUROSPORT2
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4Auz_BC9KBsIH2I9w-YwmPk/ts
+#EXTINF:-1,IT- SKY 1
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4EK3jwcMi63cAyt3BU8BNL0/ts
+#EXTINF:-1,IT- SKY PRIMAFILA 4 HD
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4A97UpqrbMOi2KU7FLjn94A/ts
+#EXTINF:-1,DAZN SERIE A
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4CZlognq1Go96DFkBS3MtNs/ts
+#EXTINF:-1,DAZN SERIE A 1
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4OXBVxeWR_5kdCQZ57g67kU/ts
+#EXTINF:-1,DAZN SERIE A 2
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4I3Alq37EJLzZo3IAwTEEPQ/ts
+#EXTINF:-1,DAZN SERIE A 3
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4GRQ9POTEi1Cdi4zJ2P1oSk/ts
+#EXTINF:-1,DAZN SERIE A 4
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4ApkZDnzEYVJy1vy8X7F_jA/ts
+#EXTINF:-1,DAZN SERIE A 5
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4LyosWG0V6LzZ2vP57YSdEs/ts
+#EXTINF:-1,Kanal D Drama
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4BlUL9ZcQKP0bQO2mBYOmJI/ts
+#EXTINF:-1,CALI TV
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4OlWyHqriSDTq8c0wGX0_lc/ts
+#EXTINF:-1,MOVISTAR LIGA DE CAMPEONES 1
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4KmjbE62eELs3rk0e5kDhQs/ts
+#EXTINF:-1,MOVISTAR LIGA DE CAMPEONES 2
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4PW9aW-aHMVEdTjgBUeKPe4/ts
+#EXTINF:-1,MOVISTAR LIGA DE CAMPEONES 3
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4Eiop5qlBavpxyhb4Pj1PLE/ts
+#EXTINF:-1,[VIX] VIX 32 Eventos
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4H-xNJ0sXwMSVTXMXIY4KDM/ts
+#EXTINF:-1,[VIX] VIX 37 Eventos
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4DDJYW-ka6-PLZfikhns_0o/ts
+#EXTINF:-1,[VIX] VIX DEPORTES 33
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4PACoipnxbOtcqJlzJBhLlw/ts
+#EXTINF:-1,[VIX] Zona TUDN
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4DO12MNAFGOmuD0aPhVL_3M/ts
+#EXTINF:-1,[sling] Cine Club
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4FkCwIVbK9SKW-AlAoXUVLg/ts
+#EXTINF:-1,[sling] ViX Deportes 21
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4O1WO-f_v3XToSKWxkOT7cM/ts
+#EXTINF:-1,[sling] ViX Deportes 22
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4EMAa_brCtIhzv77H5eFqtc/ts
+#EXTINF:-1,[sling] ViX Deportes 23
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4CBflbNOWVvYUfm6Idz2KG0/ts 
+#EXTINF:-1,MAIN EVENT 1
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4JLdDaUM3UTzf1B5UI4dG8M/ts
+#EXTINF:-1,MAIN EVENT 2
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4NiLFMxBxXeAOr1ZsFK8bho/ts
+#EXTINF:-1,MAIN EVENT
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4Mb7P9ZhKLIZkjcEPL0sgig/ts
+#EXTINF:-1 ,ECU PPV 3 - Zapping Sports (e)(720)(SOLO EVENTOS)
+http://tv.zapping.life:8080/d4rioc8rt3/6ce283ead3e4/146759
+#EXTINF:-1,ECU PPV 4 - Zapping Sports (Z)(SOLO EVENTOS)
+http://tv.zapping.life:8080/d4rioc8rt3/6ce283ead3e4/146760 
+#EXTINF:-1 ,SK*Y SPORTS
+http://stklatino.dynns.com:2082/azcolom651/6515075296/51267
+#EXTINF:-1 ,SK*Y PREMIER
+http://stklatino.dynns.com:2082/azcolom651/6515075296/51269
+#EXTINF:-1 ,SK*Y LIGA
+http://stklatino.dynns.com:2082/azcolom651/6515075296/81708 
+#EXTINF:-1 ,CLASSIC + Peliculas 24/7
+http://stklatino.dynns.com:2082/azcolom651/6515075296/31698 
+#EXTINF:-1 ,El Chapulín Colorado 24/7
+http://stklatino.dynns.com:2082/azcolom651/6515075296/49647
+#EXTINF:-1 ,El Chavo del 8 24/7
+http://stklatino.dynns.com:2082/azcolom651/6515075296/14720
+#EXTINF:-1 ,Chespirito 24/7
+http://stklatino.dynns.com:2082/azcolom651/6515075296/48357 
+#EXTINF:-1 ,Los Picapiedra 24/7
+http://stklatino.dynns.com:2082/azcolom651/6515075296/31726 
+#EXTINF:-1 ,Netflix Cinema
+http://stklatino.dynns.com:2082/azcolom651/6515075296/50736
+#EXTINF:-1 ,Super Cine  24/7
+http://stklatino.dynns.com:2082/azcolom651/6515075296/33182 
+#EXTINF:-1 ,CINE - Syfy (M)(720)
+http://tv.zapping.life:8080/d4rioc8rt3/6ce283ead3e4/9735
+#EXTINF:-1 ,CINE - SYFY (Z)(1080)
+http://tv.zapping.life:8080/d4rioc8rt3/6ce283ead3e4/9736 
+#EXTINF:-1,CO: WIN SPORTS PLUS
+http://viphlvp.xyz:8080/VIP019941754062550529/94c20694eacf/5271
+#EXTINF:-1,CO: M+
+http://viphlvp.xyz:8080/VIP019941754062550529/94c20694eacf/5272
+#EXTINF:-1,CL: TNT SPORTS 3
+http://viphlvp.xyz:8080/VIP019941754062550529/94c20694eacf/5273
+#EXTINF:-1,CL: WIN SPORT PLUS
+http://viphlvp.xyz:8080/VIP019941754062550529/94c20694eacf/5274
+#EXTINF:-1,CL: DIRECTV SPORTS
+http://viphlvp.xyz:8080/VIP019941754062550529/94c20694eacf/5275
+#EXTINF:-1,CL: SPORTING
+http://viphlvp.xyz:8080/VIP019941754062550529/94c20694eacf/5276
+#EXTINF:-1,CO: WIN SPORTS
+http://viphlvp.xyz:8080/VIP019941754062550529/94c20694eacf/5239
+#EXTINF:-1,CO: DIRECTV SPORTS 2
+http://viphlvp.xyz:8080/VIP019941754062550529/94c20694eacf/5240
+#EXTINF:-1,CO: DIRECTV SPORTS
+http://viphlvp.xyz:8080/VIP019941754062550529/94c20694eacf/5241
+#EXTINF:-1,CO: FOX SPORTS 1
+http://viphlvp.xyz:8080/VIP019941754062550529/94c20694eacf/5242
+#EXTINF:-1,CO: DIRECTV SPORTS +
+http://viphlvp.xyz:8080/VIP019941754062550529/94c20694eacf/5243
+#EXTINF:-1,LA: ESPN 3
+http://viphlvp.xyz:8080/VIP019941754062550529/94c20694eacf/5058
+#EXTINF:-1,LA: ESPN 2
+http://viphlvp.xyz:8080/VIP019941754062550529/94c20694eacf/5059
+#EXTINF:-1,LA: ESPN
+http://viphlvp.xyz:8080/VIP019941754062550529/94c20694eacf/5060
+#EXTINF:-1,LA: SYFY
+http://viphlvp.xyz:8080/VIP019941754062550529/94c20694eacf/5061 
+#EXTINF:-1,LA: CINEMA 28 PPV
+http://viphlvp.xyz:8080/VIP019941754062550529/94c20694eacf/4959
+#EXTINF:-1,LA: CINEMA 30 PPV
+http://viphlvp.xyz:8080/VIP019941754062550529/94c20694eacf/4960
+#EXTINF:-1,LA: CINEMA 31 PPV
+http://viphlvp.xyz:8080/VIP019941754062550529/94c20694eacf/4961
+#EXTINF:-1,LA: CINEMA 33 PPV
+http://viphlvp.xyz:8080/VIP019941754062550529/94c20694eacf/4962
+#EXTINF:-1,LA: CINEMA 36 PPV
+http://viphlvp.xyz:8080/VIP019941754062550529/94c20694eacf/4963
+#EXTINF:-1,LA: CINEMA 37 PPV
+http://viphlvp.xyz:8080/VIP019941754062550529/94c20694eacf/4964
+#EXTINF:-1,LA: CINEMAX ACTION
+http://viphlvp.xyz:8080/VIP019941754062550529/94c20694eacf/4965
+#EXTINF:-1,ES: SYFY
+http://viphlvp.xyz:8080/VIP019941754062550529/94c20694eacf/760
+#EXTINF:-1,UK: Sky Sports Premier League FHD
+http://viphlvp.xyz:8080/VIP019941754062550529/94c20694eacf/146472
+#EXTINF:-1,UK: Sky Sports Premier League HD
+http://viphlvp.xyz:8080/VIP019941754062550529/94c20694eacf/147025
+#EXTINF:-1 ,DISNEY+
+http://stklatino.dynns.com:2082/azcolom651/6515075296/56934
+#EXTINF:-1,DEPORTES - SKY Sports Bundesliga (Z)
+http://tv.proyectox.vip:8080/marvidela01/latinplus3742/9600
+#EXTINF:-1 ,[SKY MX] SKY LIVE EVENT 1
+http://myservicego.info:8080//live/edu2025/edu123/2373234.ts
+#EXTINF:-1 ,[SKY MX] SKY LIVE EVENT 2
+http://myservicego.info:8080//live/edu2025/edu123/2373235.ts
+#EXTINF:-1 ,[SKY MX] SKY LIVE EVENT 3
+http://myservicego.info:8080//live/edu2025/edu123/2373236.ts
+#EXTINF:-1,[SKY MX] SKY LIVE EVENT 4
+http://myservicego.info:8080//live/edu2025/edu123/2373237.ts
+#EXTINF:-1 ,[SKY MX] SKY LIVE EVENT 5
+http://myservicego.info:8080//live/edu2025/edu123/2373238.ts
+#EXTINF:-1 ,[SKY MX] SKY LIVE EVENT 6
+http://myservicego.info:8080//live/edu2025/edu123/2373239.ts
+#EXTINF:-1 ,[SKY MX] SKY LIVE EVENT 7
+http://myservicego.info:8080//live/edu2025/edu123/2373240.ts
+#EXTINF:-1,[SKY MX] SKY LIVE EVENT 8
+http://myservicego.info:8080//live/edu2025/edu123/2373241.ts
+#EXTINF:-1 ,[SKY MX] SKY SPORTS 1
+http://myservicego.info:8080//live/edu2025/edu123/2373230.ts
+#EXTINF:-1 ,[SKY MX] SKY SPORTS 16
+http://myservicego.info:8080//live/edu2025/edu123/2373231.ts
+#EXTINF:-1 ,[SKY MX] SKY SPORTS 21
+http://myservicego.info:8080//live/edu2025/edu123/2373232.ts
+#EXTINF:-1 ,[SKY MX] SKY SPORTS 24
+http://myservicego.info:8080//live/edu2025/edu123/2373233.ts
+#EXTINF:-1 ,SKY LIVE EVENT 1 [IZZI FULL]
+http://myservicego.info:8080//live/edu2025/edu123/2373442.ts
+#EXTINF:-1 ,SKY LIVE EVENT 2 [IZZI FULL]
+http://myservicego.info:8080//live/edu2025/edu123/2373443.ts
+#EXTINF:-1 ,SKY LIVE EVENT 3 [IZZI FULL]
+http://myservicego.info:8080//live/edu2025/edu123/2373444.ts
+#EXTINF:-1  ,SKY LIVE EVENT 4 [IZZI FULL]
+http://myservicego.info:8080//live/edu2025/edu123/2373445.ts
+#EXTINF:-1 ,SKY LIVE EVENT 5 [IZZI FULL]
+http://myservicego.info:8080//live/edu2025/edu123/2373446.ts
+#EXTINF:-1 ,SKY LIVE EVENT 6 [IZZI FULL]
+http://myservicego.info:8080//live/edu2025/edu123/2373447.ts
+#EXTINF:-1  ,SKY LIVE EVENT 7 [IZZI FULL]
+http://myservicego.info:8080//live/edu2025/edu123/2373448.ts
+#EXTINF:-1 ,SKY LIVE EVENT 8 [IZZI FULL]
+#EXTINF:-1 ,SKY SPORTS 1 [IZZI FULL]
+http://myservicego.info:8080//live/edu2025/edu123/2373438.ts
+#EXTINF:-1  ,SKY SPORTS 16 [IZZI FULL]
+http://myservicego.info:8080//live/edu2025/edu123/2373439.ts
+#EXTINF:-1  ,SKY SPORTS 21 [IZZI FULL]
+http://myservicego.info:8080//live/edu2025/edu123/2373440.ts
+#EXTINF:-1 ,SKY SPORTS 24 [IZZI FULL]
+http://myservicego.info:8080//live/edu2025/edu123/2373441.ts
+#EXTINF:-1 ,CINEMA PPV-Cinema 01 (M)(1080)
+http://tv.proyectox.vip:8080/marvidela01/latinplus3742/8586
+#EXTINF:-1 ,CINEMA PPV-Cinema 02 (M)(1080)
+http://tv.proyectox.vip:8080/marvidela01/latinplus3742/8587
+#EXTINF:-1 ,CINEMA PPV-Cinema 03 (M)(1080)
+http://tv.proyectox.vip:8080/marvidela01/latinplus3742/8588
+#EXTINF:-1  ,CINEMA PPV-Cinema 04 (M)(1080)
+http://tv.proyectox.vip:8080/marvidela01/latinplus3742/8589
+#EXTINF:-1 ,CINEMA PPV-Cinema 05 (M)(1080)
+http://tv.proyectox.vip:8080/marvidela01/latinplus3742/8590
+#EXTINF:-1   ,CINEMA PPV-Cinema 06 (M)(1080)
+http://tv.proyectox.vip:8080/marvidela01/latinplus3742/8591
+#EXTINF:-1  ,CINEMA PPV-Cinema 07 (M)(1080)
+http://tv.proyectox.vip:8080/marvidela01/latinplus3742/8592
+#EXTINF:-1  ,CINEMA PPV-Cinema 08 (M)(1080)
+http://tv.proyectox.vip:8080/marvidela01/latinplus3742/8593
+#EXTINF:-1  ,CINEMA PPV-Cinema 09 (M)(1080)
+http://tv.proyectox.vip:8080/marvidela01/latinplus3742/8594
+#EXTINF:-1  ,CINEMA PPV-Cinema 10 (M)(1080)
+http://tv.proyectox.vip:8080/marvidela01/latinplus3742/8595
+#EXTINF:-1  ,CINEMA PPV-Cinema 11 (M)(1080)
+http://tv.proyectox.vip:8080/marvidela01/latinplus3742/8596
+#EXTINF:-1  ,CINEMA PPV-Cinema 12 (M)(1080)
+http://tv.proyectox.vip:8080/marvidela01/latinplus3742/8597
+#EXTINF:-1   ,CINEMA PPV-Cinema 13 (M)(1080)
+http://tv.proyectox.vip:8080/marvidela01/latinplus3742/8598
+#EXTINF:-1   ,CINEMA PPV-Cinema 14 (M)(1080)
+http://tv.proyectox.vip:8080/marvidela01/latinplus3742/8599
+#EXTINF:-1   ,CINEMA PPV-Cinema 15 (M)(1080)
+http://tv.proyectox.vip:8080/marvidela01/latinplus3742/8600
+#EXTINF:-1   ,CINEMA PPV-Cinema 16 (M)(1080)
+http://tv.proyectox.vip:8080/marvidela01/latinplus3742/8601
+#EXTINF:-1   ,CINEMA PPV-Cinema 17 (M)(1080)
+http://tv.proyectox.vip:8080/marvidela01/latinplus3742/8602
+#EXTINF:-1   ,CINEMA PPV-Cinema 18 (M)(1080)
+http://tv.proyectox.vip:8080/marvidela01/latinplus3742/8603
+#EXTINF:-1   ,CINEMA PPV-Cinema 19 (M)(1080)
+http://tv.proyectox.vip:8080/marvidela01/latinplus3742/8604
+#EXTINF:-1  ,CINEMA PPV-Cinema 20 (M)(1080)
+http://tv.proyectox.vip:8080/marvidela01/latinplus3742/8605
+#EXTINF:-1  ,CINEMA PPV-Cinema 21 (M)(1080)
+http://tv.proyectox.vip:8080/marvidela01/latinplus3742/8606
+#EXTINF:-1  ,CINEMA PPV-Cinema 22 (M)(1080)
+http://tv.proyectox.vip:8080/marvidela01/latinplus3742/8607
+#EXTINF:-1  ,CINEMA PPV-Cinema 23 (M)(1080)
+http://tv.proyectox.vip:8080/marvidela01/latinplus3742/8608
+#EXTINF:-1  ,CINEMA PPV-Cinema 24 (M)(1080)
+http://tv.proyectox.vip:8080/marvidela01/latinplus3742/8609
+#EXTINF:-1  ,CINEMA PPV-Cinema 25 (M)(1080)
+http://tv.proyectox.vip:8080/marvidela01/latinplus3742/8610
+#EXTINF:-1  ,CINEMA PPV-Cinema 26 (M)(1080)
+http://tv.proyectox.vip:8080/marvidela01/latinplus3742/8611
+#EXTINF:-1  ,CINEMA PPV-Cinema 27 (M)(1080)
+http://tv.proyectox.vip:8080/marvidela01/latinplus3742/8612
+#EXTINF:-1  ,CINEMA PPV-Cinema 28 (M)(1080)
+http://tv.proyectox.vip:8080/marvidela01/latinplus3742/8613
+#EXTINF:-1  ,CINEMA PPV-Cinema 29 (M)(1080)
+http://tv.proyectox.vip:8080/marvidela01/latinplus3742/8614
+#EXTINF:-1 ,CINEMA PPV-Cinema 30 (M)(1080)
+http://tv.proyectox.vip:8080/marvidela01/latinplus3742/8615
+#EXTINF:-1  ,CINEMA PPV-Cinema 31 (M)(1080)
+http://tv.proyectox.vip:8080/marvidela01/latinplus3742/8616
+#EXTINF:-1  ,CINEMA PPV-Cinema 32 (M)(1080)
+http://tv.proyectox.vip:8080/marvidela01/latinplus3742/8617
+#EXTINF:-1  ,CINEMA PPV-Cinema 33 (M)(1080)
+http://tv.proyectox.vip:8080/marvidela01/latinplus3742/8618
+#EXTINF:-1  ,CINEMA PPV-Cinema 34 (M)(1080)
+http://tv.proyectox.vip:8080/marvidela01/latinplus3742/8619
+#EXTINF:-1  ,CINEMA PPV-Cinema 35 (M)(1080)
+http://tv.proyectox.vip:8080/marvidela01/latinplus3742/8620
+#EXTINF:-1  ,CINEMA PPV-Cinema 36 (M)(1080)
+http://tv.proyectox.vip:8080/marvidela01/latinplus3742/8621
+#EXTINF:-1  ,CINEMA PPV-Cinema 37 (M)(1080)
+http://tv.proyectox.vip:8080/marvidela01/latinplus3742/8622
