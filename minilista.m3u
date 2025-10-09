@@ -1,309 +1,149 @@
 #EXTM3U
-#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Las Estrellas" tvg-logo="" group-title="Mexico" tvg-shift="",Las Estrellas
-http://user.tvcluboficial.com/live/m/m/411.m3u8
-#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="ImagenTV" tvg-logo="" group-title="Mexico" tvg-shift="",ImagenTV
-http://user.tvcluboficial.com/live/m/m/341.m3u8
-#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="ForoTV" tvg-logo="" group-title="Mexico" tvg-shift="",ForoTV
-https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_6.m3u8
-#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Multimedios" tvg-logo="" group-title="Mexico" tvg-shift="",Multimedios
-http://user.tvcluboficial.com/live/m/m/155.m3u8
-#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="ADN40" tvg-logo="" group-title="Mexico" tvg-shift="",ADN40
-http://user.tvcluboficial.com/live/m/m/447.m3u8
-#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="A+" tvg-logo="" group-title="Mexico" tvg-shift="",A+
-http://user.tvcluboficial.com/live/m/m/406.m3u8
-#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Star " tvg-logo="" group-title="Entretenimiento" tvg-shift="",Star
-http://user.tvcluboficial.com/live/m/m/45.m3u8
-#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Sony" tvg-logo="" group-title="Entretenimiento" tvg-shift="",Sony
-http://user.tvcluboficial.com/live/m/m/145.m3u8
-#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Warner" tvg-logo="" group-title="Entretenimiento" tvg-shift="",Warner
-http://user.tvcluboficial.com/live/m/m/102.m3u8
-#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="History" tvg-logo="" group-title="Entretenimiento" tvg-shift="",History
-http://user.tvcluboficial.com/live/m/m/67.m3u8
-#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Animal Planet" tvg-logo="" group-title="Entretenimiento" tvg-shift="",Animal Planet
-http://user.tvcluboficial.com/live/m/m/633.m3u8
-#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Studio Universal" tvg-logo="" group-title="Entretenimiento" tvg-shift="",Studio Universal
-http://user.tvcluboficial.com/live/m/m/84.m3u8
-#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Golden" tvg-logo="" group-title="Entretenimiento" tvg-shift="",Golden
-http://user.tvcluboficial.com/live/m/m/57.m3u8
-#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Golde Edge" tvg-logo="" group-title="Entretenimiento" tvg-shift="",Golde Edge
-http://user.tvcluboficial.com/live/m/m/58.m3u8
-#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Cine Marvel" tvg-logo="" group-title="Entretenimiento" tvg-shift="",Cine Marvel
-http://user.tvcluboficial.com/live/m/m/697.m3u8
-#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Cine Canal" tvg-logo="" group-title="Entretenimiento" tvg-shift="",Cine Canal
-http://user.tvcluboficial.com/live/m/m/18.m3u8
-#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Cinemax" tvg-logo="" group-title="Entretenimiento" tvg-shift="",Cinemax
-http://user.tvcluboficial.com/live/m/m/638.m3u8
-#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Space" tvg-logo="" group-title="Entretenimiento" tvg-shift="",Space
-http://user.tvcluboficial.com/live/m/m/83.m3u8
-#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Cartoon Network" tvg-logo="" group-title="Teen" tvg-shift="",Cartoon Network
-http://user.tvcluboficial.com/live/m/m/17.m3u8
-#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Disney" tvg-logo="" group-title="Teen" tvg-shift="",Disney
-http://user.tvcluboficial.com/live/m/m/29.m3u8
-#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Nick" tvg-logo="" group-title="Teen" tvg-shift="",Nick
-http://user.tvcluboficial.com/live/m/m/78.m3u8
-#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Nickelodeon" tvg-logo="" group-title="Teen" tvg-shift="",Nickelodeon
-http://user.tvcluboficial.com/live/m/m/184.m3u8
-#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Teen Nick" tvg-logo="" group-title="Teen" tvg-shift="",Teen Nick
-http://user.tvcluboficial.com/live/m/m/882.m3u8
-#EXTINF:0 type="stream" channelId="-1", cine infantil
-http://user.tvcluboficial.com/live/m/m/687.m3u8
-#EXTINF:0 type="stream" channelId="-1", BEIN OPCION 1
-http://user.tvcluboficial.com/live/m/m/376.m3u8
-#EXTINF:0 type="stream" channelId="-1", canal 5 opcion2 
-http://user.tvcluboficial.com/live/m/m/14.m3u8
-#EXTINF:0 type="stream" channelId="-1", sony
-http://user.tvcluboficial.com/live/m/m/145.m3u8
-#EXTINF:0 type="stream" channelId="-1", warner
-http://user.tvcluboficial.com/live/m/m/102.m3u8
-#EXTINF:0 type="stream" channelId="-1", history
-http://user.tvcluboficial.com/live/m/m/67.m3u8
-#EXTINF:0 type="stream" channelId="-1", animal planet
-http://user.tvcluboficial.com/live/m/m/633.m3u8
-#EXTINF:0 type="stream" channelId="-1", studio universal
-http://user.tvcluboficial.com/live/m/m/84.m3u8
-#EXTINF:0 type="stream" channelId="-1", golden
-http://user.tvcluboficial.com/live/m/m/57.m3u8
-#EXTINF:0 type="stream" channelId="-1", golde edge
-http://user.tvcluboficial.com/live/m/m/58.m3u8
-#EXTINF:0 type="stream" channelId="-1", cine marvel
-http://user.tvcluboficial.com/live/m/m/697.m3u8
-#EXTINF:0 type="stream" channelId="-1", cine canal
-http://user.tvcluboficial.com/live/m/m/18.m3u8
-#EXTINF:0 type="stream" channelId="-1", cinemax
-http://user.tvcluboficial.com/live/m/m/638.m3u8
-#EXTINF:0 type="stream" channelId="-1", space
-http://user.tvcluboficial.com/live/m/m/83.m3u8
-#EXTINF:0 type="stream" channelId="-1", animalplanet
-http://user.tvcluboficial.com/live/m/m/3.m3u8
-#EXTINF:0 type="stream" channelId="-1", azteca uno
-http://user.tvcluboficial.com/live/m/m/4.m3u8
-#EXTINF:0 type="stream" channelId="-1", azteca7
-http://user.tvcluboficial.com/live/m/m/5.m3u8
-#EXTINF:0 type="stream" channelId="-1", dorama5
-http://user.tvcluboficial.com/live/m/m/14.m3u8
-#EXTINF:0 type="stream" channelId="-1", once
-http://user.tvcluboficial.com/live/m/m/15.m3u8
-#EXTINF:0 type="stream" channelId="-1", discovery
-http://user.tvcluboficial.com/live/m/m/22.m3u8
-#EXTINF:0 type="stream" channelId="-1", discovery2
-http://user.tvcluboficial.com/live/m/m/23.m3u8
-#EXTINF:0 type="stream" channelId="-1", hh
-http://user.tvcluboficial.com/live/m/m/24.m3u8
-#EXTINF:0 type="stream" channelId="-1", discovery science
-http://user.tvcluboficial.com/live/m/m/26.m3u8
-#EXTINF:0 type="stream" channelId="-1", discovery turbo
-http://user.tvcluboficial.com/live/m/m/28.m3u8
-#EXTINF:0 type="stream" channelId="-1", disney channel
-http://user.tvcluboficial.com/live/m/m/29.m3u8
-#EXTINF:0 type="stream" channelId="-1", disney+
-http://user.tvcluboficial.com/live/m/m/30.m3u8
-#EXTINF:0 type="stream" channelId="-1", e!
-http://user.tvcluboficial.com/live/m/m/33.m3u8
-#EXTINF:0 type="stream" channelId="-1", ESPN
-http://user.tvcluboficial.com/live/m/m/34.m3u8
-#EXTINF:0 type="stream" channelId="-1", ESPN2
-http://user.tvcluboficial.com/live/m/m/35.m3u8
-#EXTINF:0 type="stream" channelId="-1", espn3
-http://user.tvcluboficial.com/live/m/m/36.m3u8
-#EXTINF:0 type="stream" channelId="-1", espn4
-http://user.tvcluboficial.com/live/m/m/37.m3u8
-#EXTINF:0 type="stream" channelId="-1", star channel
-http://user.tvcluboficial.com/live/m/m/45.m3u8
-#EXTINF:0 type="stream" channelId="-1", fox sports
-http://user.tvcluboficial.com/live/m/m/52.m3u8
-#EXTINF:0 type="stream" channelId="-1", fox sports2
-http://user.tvcluboficial.com/live/m/m/53.m3u8
-#EXTINF:0 type="stream" channelId="-1", fox sports3
-http://user.tvcluboficial.com/live/m/m/54.m3u8
-#EXTINF:0 type="stream" channelId="-1", vix
-http://user.tvcluboficial.com/live/m/m/56.m3u8
-#EXTINF:0 type="stream" channelId="-1", h2
-http://user.tvcluboficial.com/live/m/m/61.m3u8
-#EXTINF:0 type="stream" channelId="-1", hbo1
-http://user.tvcluboficial.com/live/m/m/62.m3u8
-#EXTINF:0 type="stream" channelId="-1", history1
-http://user.tvcluboficial.com/live/m/m/67.m3u8
-#EXTINF:0 type="stream" channelId="-1", nature
-http://user.tvcluboficial.com/live/m/m/77.m3u8
-#EXTINF:0 type="stream" channelId="-1", tudn1
-http://user.tvcluboficial.com/live/m/m/86.m3u8
-#EXTINF:0 type="stream" channelId="-1", tnt series
-http://user.tvcluboficial.com/live/m/m/90.m3u8
-#EXTINF:0 type="stream" channelId="-1", telemundo1
-http://user.tvcluboficial.com/live/m/m/92.m3u8
-#EXTINF:0 type="stream" channelId="-1", unicable
-http://user.tvcluboficial.com/live/m/m/98.m3u8
-#EXTINF:0 type="stream" channelId="-1", warner1
-http://user.tvcluboficial.com/live/m/m/102.m3u8
-#EXTINF:0 type="stream" channelId="-1", lifetime
-http://user.tvcluboficial.com/live/m/m/152.m3u8
-#EXTINF:0 type="stream" channelId="-1", tv azteca
-http://user.tvcluboficial.com/live/m/m/165.m3u8
-#EXTINF:0 type="stream" channelId="-1", estrella tv
-http://user.tvcluboficial.com/live/m/m/177.m3u8
-#EXTINF:0 type="stream" channelId="-1", amc
-http://user.tvcluboficial.com/live/m/m/183.m3u8
-#EXTINF:0 type="stream" channelId="-1", discovery world1
-http://user.tvcluboficial.com/live/m/m/187.m3u8
-#EXTINF:0 type="stream" channelId="-1", dazn
-http://user.tvcluboficial.com/live/m/m/192.m3u8
-#EXTINF:0 type="stream" channelId="-1", CIV deportes
-http://user.tvcluboficial.com/live/m/m/198.m3u8
-#EXTINF:0 type="stream" channelId="-1", tyc sports
-http://user.tvcluboficial.com/live/m/m/274.m3u8
-#EXTINF:0 type="stream" channelId="-1", FS Premium ingles
-http://user.tvcluboficial.com/live/m/m/276.m3u8
-#EXTINF:0 type="stream" channelId="-1", win sport  
-http://user.tvcluboficial.com/live/m/m/292.m3u8
-#EXTINF:0 type="stream" channelId="-1", fox sports1
-http://user.tvcluboficial.com/live/m/m/402.m3u8
-#EXTINF:0 type="stream" channelId="-1", chavo
-http://user.tvcluboficial.com/live/m/m/400.m3u8
-#EXTINF:0 type="stream" channelId="-1", cdo
-http://user.tvcluboficial.com/live/m/m/401.m3u8
-#EXTINF:0 type="stream" channelId="-1", chespirito
-http://user.tvcluboficial.com/live/m/m/417.m3u8
-#EXTINF:0 type="stream" channelId="-1", chapulin
-http://user.tvcluboficial.com/live/m/m/418.m3u8
-#EXTINF:0 type="stream" channelId="-1", tom y jerry
-http://user.tvcluboficial.com/live/m/m/421.m3u8
-#EXTINF:0 type="stream" channelId="-1", dragon ball1
-http://user.tvcluboficial.com/live/m/m/424.m3u8
-#EXTINF:0 type="stream" channelId="-1", dragon ball2
-http://user.tvcluboficial.com/live/m/m/425.m3u8
-#EXTINF:0 type="stream" channelId="-1", caballeros del zodiaco
-http://user.tvcluboficial.com/live/m/m/427.m3u8
-#EXTINF:0 type="stream" channelId="-1", universal1
-http://user.tvcluboficial.com/live/m/m/502.m3u8
-#EXTINF:0 type="stream" channelId="-1", tnt1
-http://user.tvcluboficial.com/live/m/m/500.m3u8
-#EXTINF:0 type="stream" channelId="-1", sony1
-http://user.tvcluboficial.com/live/m/m/498.m3u8
-#EXTINF:0 type="stream" channelId="-1", space1
-http://user.tvcluboficial.com/live/m/m/499.m3u8
-#EXTINF:0 type="stream" channelId="-1", tnt sports
-http://user.tvcluboficial.com/live/m/m/509.m3u8
-#EXTINF:0 type="stream" channelId="-1", goltv1
-http://user.tvcluboficial.com/live/m/m/514.m3u8
-#EXTINF:0 type="stream" channelId="-1", el gato cosmico
-http://user.tvcluboficial.com/live/m/m/521.m3u8
-#EXTINF:0 type="stream" channelId="-1", espn
-http://user.tvcluboficial.com/live/m/m/530.m3u8
-#EXTINF:0 type="stream" channelId="-1", cinemax1
-http://user.tvcluboficial.com/live/m/m/638.m3u8
-#EXTINF:0 type="stream" channelId="-1", discovery1
-http://user.tvcluboficial.com/live/m/m/639.m3u8
-#EXTINF:0 type="stream" channelId="-1", paramount1
-http://user.tvcluboficial.com/live/m/m/647.m3u8
-#EXTINF:0 type="stream" channelId="-1", telehit musica
-http://user.tvcluboficial.com/live/m/m/649.m3u8
-#EXTINF:0 type="stream" channelId="-1", hbo+
-http://user.tvcluboficial.com/live/m/m/655.m3u8
-#EXTINF:0 type="stream" channelId="-1", dsports2
-http://user.tvcluboficial.com/live/m/m/667.m3u8
-#EXTINF:0 type="stream" channelId="-1", los picapiedra
-http://user.tvcluboficial.com/live/m/m/669.m3u8
-#EXTINF:0 type="stream" channelId="-1", pelis1
-http://user.tvcluboficial.com/live/m/m/700.m3u8
-#EXTINF:0 type="stream" channelId="-1", pelis2
-http://user.tvcluboficial.com/live/m/m/701.m3u8
-#EXTINF:0 type="stream" channelId="-1", pelis3
-http://user.tvcluboficial.com/live/m/m/702.m3u8
-#EXTINF:0 type="stream" channelId="-1", pelis4
-http://user.tvcluboficial.com/live/m/m/703.m3u8
-#EXTINF:0 type="stream" channelId="-1", pelis5
-http://user.tvcluboficial.com/live/m/m/704.m3u8
-#EXTINF:0 type="stream" channelId="-1", pelis6
-http://user.tvcluboficial.com/live/m/m/705.m3u8
-#EXTINF:0 type="stream" channelId="-1", pelis7
-http://user.tvcluboficial.com/live/m/m/707.m3u8
-#EXTINF:0 type="stream" channelId="-1", pelis9
-http://user.tvcluboficial.com/live/m/m/709.m3u8
-#EXTINF:0 type="stream" channelId="-1", pelis10
-http://user.tvcluboficial.com/live/m/m/710.m3u8
-#EXTINF:0 type="stream" channelId="-1", pelis11
-http://user.tvcluboficial.com/live/m/m/711.m3u8
-#EXTINF:0 type="stream" channelId="-1", pelis12
-http://user.tvcluboficial.com/live/m/m/712.m3u8
-#EXTINF:0 type="stream" channelId="-1", axn
-http://user.tvcluboficial.com/live/m/m/713.m3u8
-#EXTINF:0 type="stream" channelId="-1", axn movies
-http://user.tvcluboficial.com/live/m/m/714.m3u8
-#EXTINF:0 type="stream" channelId="-1", wb
-http://user.tvcluboficial.com/live/m/m/716.m3u8
-#EXTINF:0 type="stream" channelId="-1", cerebro
-http://user.tvcluboficial.com/live/m/m/721.m3u8
-#EXTINF:0 type="stream" channelId="-1", ecdc el canal del futbol
-http://user.tvcluboficial.com/live/m/m/725.m3u8
-#EXTINF:0 type="stream" channelId="-1", hbo family1
-http://user.tvcluboficial.com/live/m/m/728.m3u8
-#EXTINF:0 type="stream" channelId="-1", win sports1
-http://user.tvcluboficial.com/live/m/m/754.m3u8
-#EXTINF:0 type="stream" channelId="-1", fox sports5
-http://user.tvcluboficial.com/live/m/m/769.m3u8
-#EXTINF:0 type="stream" channelId="-1", win sports+
-http://user.tvcluboficial.com/live/m/m/802.m3u8
-#EXTINF:0 type="stream" channelId="-1", win sports+1
-http://user.tvcluboficial.com/live/m/m/881.m3u8
-#EXTINF:0 type="stream" channelId="-1", pelis13
-http://user.tvcluboficial.com/live/m/m/800.m3u8
-#EXTINF:0 type="stream" channelId="-1", tudn
-http://user.tvcluboficial.com/live/m/m/801.m3u8
-#EXTINF:0 type="stream" channelId="-1", espn1
-http://user.tvcluboficial.com/live/m/m/842.m3u8
-#EXTINF:0 type="stream" channelId="-1", dhe
-http://user.tvcluboficial.com/live/m/m/844.m3u8
-#EXTINF:0 type="stream" channelId="-1", pelis14
-http://user.tvcluboficial.com/live/m/m/885.m3u8
-#EXTINF:0 type="stream" channelId="-1", los simpsons
-http://user.tvcluboficial.com/live/m/m/894.m3u8
-#EXTINF:0 type="stream" channelId="-1", sky sports bundesliga
-http://user.tvcluboficial.com/live/m/m/900.m3u8
-#EXTINF:0 type="stream" channelId="-1", universal premier
-http://user.tvcluboficial.com/live/m/m/901.m3u8
-#EXTINF:0 type="stream" channelId="-1", universal comedy
-http://user.tvcluboficial.com/live/m/m/903.m3u8
-#EXTINF:0 type="stream" channelId="-1", chile tv
-http://user.tvcluboficial.com/live/m/m/906.m3u8
-#EXTINF:0 type="stream" channelId="-1", pelis15
-http://user.tvcluboficial.com/live/m/m/915.m3u8
-#EXTINF:0 type="stream" channelId="-1", pelis16 
-http://user.tvcluboficial.com/live/m/m/917.m3u8
-#EXTINF:0 type="stream" channelId="-1", dmax
-http://user.tvcluboficial.com/live/m/m/923.m3u8
-#EXTINF:0 type="stream" channelId="-1", deportes por movistar+
-http://user.tvcluboficial.com/live/m/m/925.m3u8
-#EXTINF:0 type="stream" channelId="-1", canal5
-http://user.tvcluboficial.com/live/m/m/941.m3u8
-#EXTINF:0 type="stream" channelId="-1", a3cine
-http://user.tvcluboficial.com/live/m/m/945.m3u8
-#EXTINF:0 type="stream" channelId="-1", bitme
-http://user.tvcluboficial.com/live/m/m/946.m3u8
-#EXTINF:0 type="stream" channelId="-1", espn4
-http://user.tvcluboficial.com/live/m/m/951.m3u8
-#EXTINF:0 type="stream" channelId="-1", espn premium
-http://user.tvcluboficial.com/live/m/m/952.m3u8
-#EXTINF:0 type="stream" channelId="-1", musica 80s
-http://user.tvcluboficial.com/live/m/m/954.m3u8
-#EXTINF:0 type="stream" channelId="-1", cine con subtitulos español
-http://user.tvcluboficial.com/live/m/m/957.m3u8
-#EXTINF:0 type="stream" channelId="-1", hbo family2
-http://user.tvcluboficial.com/live/m/m/968.m3u8
-#EXTINF:0 type="stream" channelId="-1", espn premium
-http://user.tvcluboficial.com/live/m/m/972.m3u8
-#EXTINF:0 type="stream" channelId="-1", dsports1
-http://user.tvcluboficial.com/live/m/m/974.m3u8
-#EXTINF:0 type="stream" channelId="-1", dsports2
-http://user.tvcluboficial.com/live/m/m/975.m3u8
-#EXTINF:0 type="stream" channelId="-1", estrenos por movistar
-http://user.tvcluboficial.com/live/m/m/976.m3u8
-#EXTINF:0 type="stream" channelId="-1", fox sports3
-http://user.tvcluboficial.com/live/m/m/988.m3u8
-#EXTINF:0 type="stream" channelId="-1", sky sports
-http://user.tvcluboficial.com/live/m/m/989.m3u8
-#EXTINF:0 type="stream" channelId="-1", pelis17
-http://user.tvcluboficial.com/live/m/m/990.m3u8
-#EXTINF:0 type="stream" channelId="-1", pelis18
-http://user.tvcluboficial.com/live/m/m/1022.m3u8
-
-
+#EXTINF:-1 group-title="Deportes", WIN+
+http://190.60.37.154:45000/play/a00q/index.m3u8
+#EXTINF:-1 group-title="Deportes", WIN SPORTS PLUS HD 
+http://206.212.244.71:8080/7575138899/rissa1790@hotmail.com/78697
+#EXTINF:-1 group-title="Deportes", WIN+2
+http://190.60.37.154:45000/play/a00q/index.m3u8
+#EXTINF:-1 group-title="Deportes", win 
+http://206.212.244.71:8080/7575138899/rissa1790@hotmail.com/78717
+#EXTINF:-1 group-title="Deportes", win1 
+http://cord-cutter.net:8080/23290078/13941299/78717
+#EXTINF:-1 group-title="Deportes", winplus
+http://newultra.xyz:8080/live/94842496tv1/o234j6h/359.m3u8
+#EXTINF:-1 group-title="Deportes", TyC
+http://190.60.37.154:45000/play/a05a/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",DIRECTV SPORTS 2 PE (HD)
+http://newultra.xyz:8080/live/94842496tv1/o234j6h/477.m3u8
+#EXTINF:-1 group-title="DEPORTES",DIRECTV SPORTS+ CL (HD) 1
+http://newultra.xyz:8080/live/94842496tv1/o234j6h/472.m3u8
+#EXTINF:-1 group-title="DEPORTES",DIRECTV SPORTS+ CL (HD) 2
+http://newultra.xyz:8080/live/94842496tv1/o234j6h/469.m3u8
+#EXTINF:-1 group-title="DEPORTES",DIRECTV SPORTS+ AR (HD) 1
+http://newultra.xyz:8080/live/94842496tv1/o234j6h/467.m3u8
+#EXTINF:-1 group-title="DEPORTES",DIRECTV SPORTS+ AR (HD) 2
+http://newultra.xyz:8080/live/94842496tv1/o234j6h/466.m3u8
+#EXTINF:-1 group-title="DEPORTES",DIRECTV SPORTS+ AR (HD) 3
+http://newultra.xyz:8080/live/94842496tv1/o234j6h/468.m3u8
+#EXTINF:-1 group-title="DEPORTES",DIRECTV SPORTS+ CO (HD)
+http://newultra.xyz:8080/live/94842496tv1/o234j6h/470.m3u8
+#EXTINF:-1 group-title="DEPORTES",DIRECTV SPORTS+ PE (HD)
+http://newultra.xyz:8080/live/94842496tv1/o234j6h/471.m3u8
+#EXTINF:-1 group-title="Deportes", SKY La Liga
+http://newultra.xyz:8080/live/94842496tv1/o234j6h/12301.m3u8
+#EXTINF:-1 group-title="Deportes", TUDN
+http://newultra.xyz:8080/live/94842496tv1/o234j6h/247845.m3u8
+#EXTINF:-1 group-title=EVENTOS DISNEY",EVENTOS DISNEY+ 1
+http://newultra.xyz:8080/live/94842496tv1/o234j6h/248464.m3u8
+#EXTINF:-1 group-title=EVENTOS DISNEY",EVENTOS DISNEY+ 2
+http://newultra.xyz:8080/live/94842496tv1/o234j6h/248465.m3u8
+#EXTINF:-1 group-title=EVENTOS DISNEY",EVENTOS DISNEY+ 3
+http://newultra.xyz:8080/live/94842496tv1/o234j6h/248466.m3u8
+#EXTINF:-1 group-title=EVENTOS DISNEY",EVENTOS DISNEY+ 4
+http://newultra.xyz:8080/live/94842496tv1/o234j6h/248467.m3u8
+#EXTINF:-1 group-title=EVENTOS DISNEY",EVENTOS DISNEY+ 5
+http://newultra.xyz:8080/live/94842496tv1/o234j6h/248468.m3u8
+#EXTINF:-1 group-title=EVENTOS DISNEY",EVENTOS DISNEY+ 6
+http://newultra.xyz:8080/live/94842496tv1/o234j6h/248469.m3u8
+#EXTINF:-1 group-title=EVENTOS DISNEY",EVENTOS DISNEY+ 7
+http://newultra.xyz:8080/live/94842496tv1/o234j6h/248470.m3u8
+#EXTINF:-1 group-title=EVENTOS DISNEY",EVENTOS DISNEY+ 8
+http://newultra.xyz:8080/live/94842496tv1/o234j6h/248471.m3u8
+#EXTINF:-1 group-title="PPV EVENTOS Y DEPORTES",PPV EVENTOS 2 (HD)
+http://newultra.xyz:8080/live/94842496tv1/o234j6h/20220.m3u8
+EXTINF:-1 group-title="PPV EVENTOS Y DEPORTES",PPV EVENTOS 3 (HD)
+http://newultra.xyz:8080/live/94842496tv1/o234j6h/20233.m3u8
+#EXTINF:-1 group-title="PPV EVENTOS Y DEPORTES",PPV EVENTOS 4 (HD)
+http://newultra.xyz:8080/live/94842496tv1/o234j6h/20285.m3u8
+#EXTINF:-1 group-title="PPV EVENTOS Y DEPORTES",PPV EVENTOS 5 (HD)
+http://newultra.xyz:8080/live/94842496tv1/o234j6h/20286.m3u8
+#EXTINF:-1 group-title="PPV EVENTOS Y DEPORTES", DEPORTES - SKY Sports Bundesliga (Z)
+http://tv.proyectox.vip:8080/marvidela01/latinplus3742/9600
+#EXTINF:-1 group-title="PPV EVENTOS Y DEPORTES", [SKY MX] SKY LIVE EVENT 4
+http://myservicego.info:8080//live/edu2025/edu123/2373237.ts
+#EXTINF:-1 group-title="PPV EVENTOS Y DEPORTES", [SKY MX] SKY LIVE EVENT 5
+http://myservicego.info:8080//live/edu2025/edu123/2373238.ts
+#EXTINF:-1 group-title="PPV EVENTOS Y DEPORTES", [SKY MX] SKY LIVE EVENT 6
+http://myservicego.info:8080//live/edu2025/edu123/2373239.ts
+#EXTINF:-1 group-title="PPV EVENTOS Y DEPORTES", [SKY MX] SKY LIVE EVENT 7
+http://myservicego.info:8080//live/edu2025/edu123/2373240.ts
+#EXTINF:-1 group-title="PPV EVENTOS Y DEPORTES", [SKY MX] SKY SPORTS 16
+http://myservicego.info:8080//live/edu2025/edu123/2373231.ts
+#EXTINF:-1 group-title="PPV EVENTOS Y DEPORTES", [SKY MX] SKY SPORTS 21
+http://myservicego.info:8080//live/edu2025/edu123/2373232.ts
+#EXTINF:-1 group-title="PPV EVENTOS Y DEPORTES", [SKY MX] SKY SPORTS 24
+http://myservicego.info:8080//live/edu2025/edu123/2373233.ts
+#EXTINF:-1 group-title="PPV EVENTOS Y DEPORTES", [VIX] TUDN HD
+http://myservicego.info:8080//live/edu2025/edu123/2661352.ts
+#EXTINF:-1 group-title="PPV EVENTOS Y DEPORTES", Now Sports PL 2 FHD
+https://a1xs.vip/1100002
+#EXTINF:-1 group-title="PPV EVENTOS Y DEPORTES", Astro Premier League
+https://a1xs.vip/1100030
+#EXTINF:-1 group-title="PPV EVENTOS Y DEPORTES", Hub Premier 1 FHD
+https://a1xs.vip/1100041
+#EXTINF:-1 group-title="PPV EVENTOS Y DEPORTES", Hub Premier 2 FHD
+https://a1xs.vip/1100042
+#EXTINF:-1 group-title="PPV EVENTOS Y DEPORTES", DEP• LA LIGA TV ES (HD)
+http://newultra.xyz:8080/Claudio33/Zby5MeJn6PXj/490
+#EXTINF:-1 group-title="PPV EVENTOS Y DEPORTES", FCL• ESPN (HD) »1«
+http://newultra.xyz:8080/Claudio33/Zby5MeJn6PXj/67188
+#EXTINF:-1 group-title="PPV EVENTOS Y DEPORTES", M+  LA LIGA SD
+http://newultra.xyz:8080/Claudio33/Zby5MeJn6PXj/60235
+#EXTINF:-1 group-title="PPV EVENTOS Y DEPORTES", DSPORTS 2 ✅
+http://179.51.136.19:8000/play/a112/index.m3u8
+#EXTINF:-1 group-title="PPV EVENTOS Y DEPORTES", DSPORTS - Opción 2 ✅
+http://179.51.136.19:8000/play/DSPORTS1/index.m3u8
+#EXTINF:-1 group-title="PPV EVENTOS Y DEPORTES", AZTECA DEPORTES
+http://181.119.85.222:8000/play/a04e/index.m3u8
+#EXTINF:-1 group-title="PPV EVENTOS Y DEPORTES", CARACOL HD2
+http://181.119.85.222:8000/play/a02z/index.m3u8
+#EXTINF:-1 group-title="PPV EVENTOS Y DEPORTES", CARACOL HD
+http://181.119.85.222:8000/play/a02t/index.m3u8
+#EXTINF:-1 group-title="PPV EVENTOS Y DEPORTES", RCN HD
+http://181.119.85.222:8000/play/a02u/index.m3u8
+#EXTINF:-1 group-title="PPV EVENTOS Y DEPORTES", ESPN2
+http://181.119.85.222:8000/play/a00m/index.m3u8
+#EXTINF:-1 group-title="PPV EVENTOS Y DEPORTES", ESPN3
+http://181.119.85.222:8000/play/a00n/index.m3u8
+#EXTINF:-1 group-title="PPV EVENTOS Y DEPORTES", ESPN4
+http://181.119.85.222:8000/play/a00j/index.m3u8
+#EXTINF:-1 group-title="PPV EVENTOS Y DEPORTES", ESPN5
+http://181.119.85.222:8000/play/a02a/index.m3u8
+#EXTINF:-1 group-title="PPV EVENTOS Y DEPORTES", ESPN6
+http://181.119.85.222:8000/play/a01s/index.m3u8
+#EXTINF:-1 group-title="PPV EVENTOS Y DEPORTES", ESPN7
+http://181.119.85.222:8000/play/a00k/index.m3u8
+#EXTINF:-1 group-title="PPV EVENTOS Y DEPORTES", ESPN
+http://181.119.85.222:8000/play/a01q/index.m3u8
+#EXTINF:-1 group-title="PPV EVENTOS Y DEPORTES", ESPN PREMIUM
+http://45.181.122.46:8090/play/a015
+#EXTINF:-1 group-title="PPV EVENTOS Y DEPORTES", MOVISTAR LA LIGA
+http://181.78.106.127:9000/play/ca027/index.m3u8
+#EXTINF:-1 group-title="PPV EVENTOS Y DEPORTES", SKY Bundesliga
+http://181.78.106.127:9000/play/ca028/index.m3u8
+#EXTINF:-1 group-title="PPV EVENTOS Y DEPORTES", FOX SPORT 1
+http://181.78.106.127:9000/play/ca031/index.m3u8 
+#EXTINF:-1 group-title="PPV EVENTOS Y DEPORTES", TIGO SPORTs
+http://181.78.106.127:9000/play/ca038/index.m3u8
+#EXTINF:-1 group-title="PPV EVENTOS Y DEPORTES", BEIN SPORTS Ñ
+http://181.78.106.127:9000/play/ca039/index.m3u8
+#EXTINF:-1 group-title="PPV EVENTOS Y DEPORTES", GOLTV Portugal
+http://181.78.106.127:9000/play/ca041/index.m3u8
+#EXTINF:-1 group-title="PPV EVENTOS Y DEPORTES", SKY SPORTS LA LIGA
+http://181.78.106.127:9000/play/ca030/index.m3u8
+#EXTINF:-1 group-title="PPV EVENTOS Y DEPORTES",ESPN
+http://181.119.85.222:8000/play/a01q/index.m3u8
+#EXTINF:-1 group-title="PPV EVENTOS Y DEPORTES",ESPN1
+http://181.205.130.194:4000/play/a07j
+#EXTINF:-1 group-title="PPV EVENTOS Y DEPORTES",ESPN6
+http://179.51.136.19:8000/play/a1ai/index.m3u8
+#EXTINF:-1 group-title="PPV EVENTOS Y DEPORTES",ESPN7
+http://181.119.86.68:8000/play/b029/index.m3u8
+#EXTINF:-1 group-title="PPV EVENTOS Y DEPORTES",ESPN co
+http://181.78.23.26:45000/play/a02p
+#EXTINF:-1 group-title="PPV EVENTOS Y DEPORTES",
+#EXTINF:-1 group-title="PPV EVENTOS Y DEPORTES",
+#EXTINF:-1 group-title="PPV EVENTOS Y DEPORTES",
+#EXTINF:-1 group-title="PPV EVENTOS Y DEPORTES",
+#EXTINF:-1 group-title="PPV EVENTOS Y DEPORTES",
+#EXTINF:-1 group-title="PPV EVENTOS Y DEPORTES",
