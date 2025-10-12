@@ -1,0 +1,133 @@
+#EXTM3U
+#EXTINF:-1,Televida
+https://tls-cl.cdnz.cl/televida/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,Telemedellin
+http://181.78.23.26:45000/play/a04r
+#EXTINF:-1,Teleantioquia
+http://181.174.231.146:18000/play/a06j
+#EXTINF:-1,RCN
+http://181.174.231.146:18000/play/a0am
+#EXTINF:-1,RCN HD
+http://181.174.231.146:18000/play/a08z
+#EXTINF:-1,RCN NOVELAS
+http://181.174.231.146:18000/play/a07o
+#EXTINF:-1,RED Televisiðn
+http://181.174.231.146:18000/play/a05q
+#EXTINF:-1,CARACOL HD2
+http://181.174.231.146:18000/play/a07e
+#EXTINF:-1,Seæal Colombia
+http://181.174.231.146:18000/play/a0hf
+#EXTINF:-1,CableNoticias
+http://181.174.231.146:18000/play/a0iu
+#EXTINF:-1,Canal  Capital
+http://181.174.231.146:18000/play/a0bi
+#EXTINF:-1,Canal 1
+http://181.174.231.146:18000/play/a06h
+#EXTINF:-1,Canal 13
+http://181.174.231.146:18000/play/a0bf
+#EXTINF:-1,Canal Institucional
+http://181.174.231.146:18000/play/a0he
+#EXTINF:-1,Canal TRO
+http://181.174.231.146:18000/play/a0bg
+#EXTINF:-1,Canal del Congreso
+http://181.174.231.146:18000/play/a0b8
+#EXTINF:-1,Caracol
+http://181.174.231.146:18000/play/a0an
+#EXTINF:-1,Caracol HD
+http://181.174.231.146:18000/play/a090
+#EXTINF:-1,Caracol HD
+http://181.174.231.146:18000/play/a0it
+#EXTINF:-1,City TV
+http://181.174.231.146:18000/play/a09c
+#EXTINF:-1,Cristovisiðn
+http://181.174.231.146:18000/play/a08p
+#EXTINF:-1,ENLACE - IP 
+http://181.174.231.146:18000/play/a0bc
+#EXTINF:-1,EWTN
+http://181.174.231.146:18000/play/a06v
+#EXTINF:-1,HGTV
+http://181.174.231.146:18000/play/a0iy
+#EXTINF:-1,LA KALLE
+http://181.174.231.146:18000/play/a07p
+#EXTINF:-1,MUSICA POPULAR
+http://181.174.231.146:18000/play/a0hu
+#EXTINF:-1,MUSICA REGGAETON
+http://181.174.231.146:18000/play/a0hw
+#EXTINF:-1,MUSICA ROMANTICA
+http://181.174.231.146:18000/play/a0hv
+#EXTINF:-1,MUSICA SALSA
+http://181.174.231.146:18000/play/a0ht
+#EXTINF:-1,La Red HD
+http://181.174.231.146:18000/play/a0ip
+#EXTINF:-1,TVN HD
+http://181.174.231.146:18000/play/a01f
+#EXTINF:-1,Telecafe
+http://181.174.231.146:18000/play/a0bh
+#EXTINF:-1,Telecanal
+http://181.174.231.146:18000/play/a0ac
+#EXTINF:-1,Telecaribe
+http://181.174.231.146:18000/play/a0be
+#EXTINF:-1,TelefØ
+http://181.174.231.146:18000/play/a0jy
+#EXTINF:-1,Teleislas
+http://181.174.231.146:18000/play/a09e
+#EXTINF:-1,Win Sports
+http://181.174.231.146:18000/play/a0h8
+#EXTINF:-1,Win Sports+
+http://181.174.231.146:18000/play/a0is
+#EXTINF:-1,Win Sports+ HD
+http://181.174.231.146:18000/play/a0k0
+#EXTINF:-1,Win Sports+ HD
+http://181.174.231.146:18000/play/a0ih
+#EXTINF:-1,ESPN 2 HD
+http://181.174.231.146:18000/play/a0j5
+#EXTINF:-1,ESPN 3 HD
+http://181.174.231.146:18000/play/a0jh
+#EXTINF:-1,ESPN 4 HD
+http://181.174.231.146:18000/play/a0ji
+#EXTINF:-1,ESPN 5 HD
+http://181.174.231.146:18000/play/a0j6
+#EXTINF:-1,ESPN 6 HD
+http://181.174.231.146:18000/play/a0jj
+#EXTINF:-1,ESPN 7HD
+http://181.174.231.146:18000/play/a0gz
+#EXTINF:-1,ESPN HD
+http://181.174.231.146:18000/play/a0ia
+#EXTINF:-1,ESPN HD
+http://181.174.231.146:18000/play/a0j7
+#EXTINF:-1,ESPN Premium HD
+http://181.174.231.146:18000/play/a0jk
+#EXTINF:-1,GOLPERU
+http://181.174.231.146:18000/play/a06e
+#EXTINF:-1,TyC Sports
+http://181.174.231.146:18000/play/a0ha
+#EXTINF:-1,tudn
+http://199.127.63.143:8989/180970_.m3u8
+#EXTINF:-1 ,SKY SPORTS LA LIGA
+http://181.78.106.127:9000/play/ca030/index.m3u8
+#EXTINF:-1 ,TUDN (MX)
+http://181.78.106.127:9000/play/ca025/index.m3u8
+#EXTINF:-1 ,DSPORT
+http://181.78.106.127:9000/play/ca026/index.m3u8
+#EXTINF:-1 ,MOVISTAR LA LIGA
+http://181.78.106.127:9000/play/ca027/index.m3u8
+#EXTINF:-1 ,SKY BUNDESLIGA
+http://181.78.106.127:9000/play/ca028/index.m3u8
+#EXTINF:-1 ,FOX SPORT 1
+http://181.78.106.127:9000/play/ca031/index.m3u8
+#EXTINF:-1 ,FOX SPORT 2
+http://181.78.106.127:9000/play/ca032/index.m3u8
+#EXTINF:-1 ,TUDN USA
+http://181.78.106.127:9000/play/ca036/index.m3u8
+#EXTINF:-1 ,BEIN SPORTS Ñ
+http://181.78.106.127:9000/play/ca039/index.m3u8
+#EXTINF:-1 ,NBC UNIVERSO
+http://181.78.106.127:9000/play/ca088/index.m3u8
+#EXTINF:-1 ,DSPORTS1
+http://179.51.136.19:8000/play/DSPORTS1/index.m3u8
+#EXTINF:-1 group-title="-",CINE FAMILIAR
+http://181.174.231.146:18000/play/a0hq
+#EXTINF:-1 group-title="-",CINE HISPANO
+http://181.174.231.146:18000/play/a0hr
+#EXTINF:-1 group-title="-",CINE PREMIUM
+http://181.174.231.146:18000/play/a0hs
