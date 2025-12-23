@@ -1,0 +1,252 @@
+#EXTM3U
+#EXTINF:-1 group-title="Cine" ,neotvdigital
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+#EXTINF:-1 group-title="Cine" ,televisiondelestelive
+https://vdo2.streamgato.us:3632/live/televisiondelestelive.m3u8
+#EXTINF:-1 group-title="Cine" ,megacinetvlive
+https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
+#EXTINF:-1 group-title="Cine" , NEOX AR
+https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
+#EXTINF:-1 group-title="Cine2" , cosmos
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+#EXTINF:-1 group-title="Cine2" , tv nosara
+https://latamvdo.com:3870/hybrid/play.m3u8
+#EXTINF:-1 group-title="Cine2" , gamtv
+https://v2.azulstream.com:8081/gamtv/gamtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Cine2" , gamtv2
+https://v2.azulstream.com:8081/gamtv/gamtv/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Cine2" , cinerama
+https://owncloud1692001.fasthostunlimited.com/hls/0/stream.m3u8?cachebust=676173
+#EXTINF:-1 group-title="Cine2" , auroramflive
+https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
+#EXTINF:-1 group-title="Cine2" , barbetvlive
+https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
+#EXTINF:-1 group-title="Cine2" , nimtvgtlive
+https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
+#EXTINF:-1 group-title="Cine2" , soltvlive
+https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
+#EXTINF:-1 group-title="Cine2" , tvflorecialive
+https://cdn.streamhispanatv.net:3819/live/tvflorecialive.m3u8
+#EXTINF:-1 group-title="Cine2" , visiontvlive
+https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
+#EXTINF:-1 group-title="Cine2" , Invasiva
+https://mitv.zplay.cl/Invasiva/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Cine2" , milenium
+https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
+#EXTINF:-1 group-title="Cine2" , anzoateguitv
+https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/chunklist_w743696565.m3u8
+#EXTINF:0 type="stream" channelId="2422", tvs
+https://vcp10.myplaytv.com/tvs/tvs/chunklist_w1318973835.m3u8
+#EXTINF:-1 group-title="Cine2" , IMAGEN UNIVERSAL RD.
+https://imagenuniversaltv.net:3771/hybrid/play.m3u8
+#EXTINF:-1 group-title="Cine2" , VILLA ALTAGRACIA
+https://inliveserver.com:1936/10016/10016/chunklist.m3u8
+#EXTINF:-1 group-title="Cine2" , CONSTANZA TV RD
+https://live20.bozztv.com/akamaissh101/ssh101/ctv8hd/chunks.m3u8
+#EXTINF:-1 group-title="Cine2" , ONDA RD
+https://cnn.hostlagarto.com/ondatv/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Cine2" , CANAL 5 AR
+https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8
+#EXTINF:-1 group-title="Cine2" , GFTV
+https://live.obslivestream.com/regionaltv/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Cine2" , SONY CINE
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+#EXTINF:-1 group-title="Cine2" , CASCARA RD
+https://ss2.tvrdomi.com:1936/cascaratv/cascaratv/chunklist.m3u8
+#EXTINF:-1 group-title="Cine2" , GTV GT
+https://vdo.voxhdnet.com:3035/live/gtvlive.m3u8
+#EXTINF:-1 group-title="Cine2" , CANAL 69
+https://live20.bozztv.com/akamaissh101/ssh101/canal69/playlist.m3u8
+#EXTINF:-1 group-title="Cine2" , cineaccion
+https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
+#EXTINF:0 type="stream" channelId="64", cinecanal
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/index.m3u8
+#EXTINF:-1 group-title="Cine2" , nicoyatv2
+http://k3.usastreams.com:1935/nicoyatv/nicoyatv/playlist.m3u8
+#EXTINF:-1 group-title="Cine2" , TVSUR
+http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8
+#EXTINF:-1 group-title="Cine2" , elpitucolive
+https://imagenuniversaltv.net:3439/live/elpitucolive.m3u8
+#EXTINF:-1 group-title="Cine2" , iutvlive
+https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
+#EXTINF:-1 group-title="Cine2" , 208343
+https://live20.bozztv.com/giatvplayout7/giatv-208343/playlist.m3u8
+#EXTINF:-1 group-title="Cine2" , cascaratv
+https://ss2.tvrdomi.com:1936/cascaratv/cascaratv/playlist.m3u8
+#EXTINF:-1 group-title="Cine2" , frecuencia musical tv
+https://ss2.tvrdomi.com:1936/colometv/colometv/playlist.m3u8
+#EXTINF:-1 group-title="Cine2" , 3753
+https://s2.tvdatta.com:3753/hybrid/play.m3u8
+http://160.20.165.246:8000/play/a01j
+#EXTINF:-1 group-title="Cine2" , fmh family
+http://160.20.165.246:8000/play/a01j
+#EXTINF:-1 group-title="Cine2" , FMH Kids
+http://160.20.165.246:8000/play/a01f
+#EXTINF:-1 group-title="Cine2" , cine familiar
+http://160.20.165.246:8000/play/a02a/index.m3u8
+#EXTINF:0 type="stream" channelId="3741", cinema platino
+http://160.20.165.246:8000/play/a02e/index.m3u8
+#EXTINF:-1 group-title="Cine2" , cine hispano
+http://160.20.165.246:8000/play/a029/index.m3u8
+#EXTINF:-1 group-title="Cine2" , cine premium
+http://160.20.165.246:8000/play/a028/index.m3u8
+#EXTINF:-1 group-title="Cine2" , Mega Cine
+https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
+#EXTINF:-1 group-title="CINEA", HBO Family HD
+http://181.78.49.113:9999/play/a01p/index.m3u8
+#EXTINF:-1 group-title="CINEA", HBO HD
+http://181.78.49.113:9999/play/a01m/index.m3u8
+#EXTINF:-1 group-title="CINEA", HBO Plus HD
+http://181.78.49.113:9999/play/a01o/index.m3u8
+#EXTINF:-1 group-title="CINEA", HBO XTREME
+http://181.78.49.113:9999/play/a01q/index.m3u8
+#EXTINF:-1 group-title="CINEA", HBO2 HD
+http://181.78.49.113:9999/play/a01n/index.m3u8
+#EXTINF:-1,HBO POP
+http://179.51.136.19:8000/play/a1me/index.m3u8
+#EXTINF:-1 group-title="CINEA", Multicinema
+http://181.78.49.113:9999/play/a04f/index.m3u8
+#EXTINF:-1 group-title="CINEA", Paramount HD
+http://181.78.49.113:9999/play/a075/index.m3u8
+#EXTINF:-1 group-title="CINEA", SPACE HD
+http://181.78.49.113:9999/play/a06x/index.m3u8
+#EXTINF:-1 group-title="CINEA", Sony Movies HD
+http://181.78.49.113:9999/play/a037/index.m3u8
+#EXTINF:-1 group-title="CINEA", Star TVE HD
+http://181.78.49.113:9999/play/a03a/index.m3u8
+#EXTINF:-1 group-title="CINEA", TNT HD
+http://181.78.49.113:9999/play/a05l/index.m3u8
+#EXTINF:-1,cineaccion
+https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
+#EXTINF:-1,Sony Cine
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+#EXTINF:-1,Bum Television
+https://movil.ejeserver.com/live/visiondorada.m3u8?PlaylistM3UCL
+#EXTINF:-1 Wow Movies SD
+https://live20.bozztv.com/giatv/giatv-wowmovies/wowmovies/playlist.m3u8
+#EXTINF:-1,fortunatv
+https://streamtv.intervenhosting.net:3355/live/fortunatvlive.m3u8
+#EXTINF:-1 ,Vallevisión 
+https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 ,Microvision 
+https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,Golden
+http://181.78.106.127:9000/play/ca076/index.m3u
+#EXTINF:-1,HBO Family HD
+http://181.78.106.127:9000/play/a0o8/index.m3u8
+#EXTINF:-1,HBO Plus HD
+http://181.78.106.127:9000/play/ca070/index.m3u8
+#EXTINF:-1,HBO XTREME
+http://181.78.106.127:9000/play/ca069/index.m3u8
+#EXTINF:-1,HBO2 HD
+http://181.78.106.127:9000/play/a0on/index.m3u8
+#EXTINF:-1,Paramount HD
+http://181.78.106.127:9000/play/ca082/index.m3u8
+#EXTINF:-1,Studio Universal HD
+http://181.78.106.127:9000/play/a0su/index.m3u8
+#EXTINF:-1,UNIVERSAL CINEMA ESTE HD
+http://181.78.106.127:9000/play/ca083/index.m3u8
+#EXTINF:-1,UNIVERSAL COMEDY HD
+http://181.78.106.127:9000/play/a0qy/index.m3u8
+#EXTINF:-1,UNIVERSAL PREMIERE HD
+http://181.78.106.127:9000/play/a0qu/index.m3u8
+#EXTINF:-1,UNIVERSAL PREMIERE O HD
+http://181.78.106.127:9000/play/a0qv/index.m3u
+#EXTINF:-1,Universal
+http://181.78.106.127:9000/play/a0rg/index.m3u8
+#EXTINF:-1,WARNER HD
+http://181.78.106.127:9000/play/ca071/index.m3u8
+#EXTINF:-1,CANAL 5 (MX)
+http://181.78.106.127:9000/play/ca012/index.m3u8
+#EXTINF:-1,DREAMWORKS
+http://181.78.106.127:9000/play/ca054/index.m3u8
+#EXTINF:-1,GOLDEN PLUS
+http://181.78.106.127:9000/play/ca078/index.m3u8
+#EXTINF:-1,PLATINO
+http://181.78.106.127:9000/play/ca081/index.m3u8
+#EXTINF:-1,UNIVERSAL premier
+http://181.78.106.127:9000/play/a0qu/index.m3u8
+#EXTINF:-1,HBO POP
+http://179.51.136.19:8000/play/a1me/index.m3u8
+#EXTINF:-1,multivision ar
+https://videostream.shockmedia.com.ar:19360/multivisioncable/multivisioncable.m3u8
+#EXTINF:-1,giatv
+https://live20.bozztv.com/giatvplayout7/giatv-208343/playlist.m3u8
+#EXTINF:-1,CHINOLA
+https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
+#EXTINF:-1,villatv
+https://inliveserver.com:1936/10016/10016/playlist.m3u8
+#EXTINF:-1, CR TV
+https://live.obslivestream.com/crtvmux/index.m3u8?PlaylistM3UCL
+#EXTINF:-1, gm7digitallive
+https://s2.tvdatta.com:3858/live/gm7digitallive.m3u8
+#EXTINF:-1, elpitucolive
+https://imagenuniversaltv.net:3439/live/elpitucolive.m3u8
+#EXTINF:-1,giatvplayout7
+https://live20.bozztv.com/giatvplayout7/giatv-208343/playlist.m3u8
+#EXTINF:-1, palmartvlive
+https://streamunoapp.com:3255/live/palmartvlive.m3u8
+#EXTINF:-1,telever
+https://soportedvb.click:3413/live/televerlive.m3u8
+#EXTINF:-1,ondatv
+https://cnn.hostlagarto.com/ondatv/index.m3u8
+#EXTINF:-1 ,Peliculas DC
+http://200.115.120.1:8000/play/ca032/index.m3u8
+#EXTINF:-1 ,Peliculas Marvel
+http://200.115.120.1:8000/play/ca038/index.m3u8
+#EXTINF:-1 ,Peliculas Robots
+http://200.115.120.1:8000/play/ca072/index.m3u8
+#EXTINF:-1,CO: TELEMEDELLIN
+http://cord-cutter.net:8080/23290078/13941299/78722
+#EXTINF:-1,CO: CANAL UNO
+http://cord-cutter.net:8080/23290078/13941299/78698
+#EXTINF:-1,CO: CARACOL INTERNACIONAL HD
+http://cord-cutter.net:8080/23290078/13941299/78701
+#EXTINF:-1,CO: CARCOL HD
+http://cord-cutter.net:8080/23290078/13941299/78700
+#EXTINF:-1,CO: NTN24 HD
+http://cord-cutter.net:8080/23290078/13941299/78704
+#EXTINF:-1,CO: RCN FHD
+http://cord-cutter.net:8080/23290078/13941299/78694
+#EXTINF:-1,COL: WIN SPORTS PLUS HD (EXCLUSIVO)
+http://cord-cutter.net:8080/23290078/13941299/78697
+#EXTINF:-1,CO: RCN NOVELAS
+http://cord-cutter.net:8080/23290078/13941299/78716
+#EXTINF:-1,CO: SENAL COLOMBIA
+http://cord-cutter.net:8080/23290078/13941299/78711
+#EXTINF:-1,CO: TELECAFE
+http://cord-cutter.net:8080/23290078/13941299/78726
+#EXTINF:-1,CO: TELEANTIOQUIA HD
+http://cord-cutter.net:8080/23290078/13941299/78706
+#EXTINF:-1,CO Telepacifico  (P)
+http://cord-cutter.net:8080/23290078/13941299/78729
+#EXTINF:-1,MX | CNN 
+http://cord-cutter.net:8080/23290078/13941299/57619
+#EXTINF:-1,MX | Discovery Channel
+http://cord-cutter.net:8080/23290078/13941299/57625
+#EXTINF:-1,MX: Cinemax
+http://cord-cutter.net:8080/23290078/13941299/57638
+#EXTINF:-1,MX  DISTRITO COMEDIA
+http://cord-cutter.net:8080/23290078/13941299/57639
+#EXTINF:-1,US Latin Discovery (F)
+http://cord-cutter.net:8080/23290078/13941299/57645
+#EXTINF:-1,MX: Multimedios 
+http://cord-cutter.net:8080/23290078/13941299/57646
+#EXTINF:-1,ES: CANAL COCINA
+http://cord-cutter.net:8080/23290078/13941299/57698
+#EXTINF:-1,MX Multimedios HD
+http://cord-cutter.net:8080/23290078/13941299/57711
+#EXTINF:-1,MX | TNT 
+http://cord-cutter.net:8080/23290078/13941299/57719
+#EXTINF:-1,MX | TNT 
+http://cord-cutter.net:8080/Rme2Fg/183926/57719
+#EXTINF:-1,SEO TV Peliculas
+https://seo.tv.bo/tv/FIpSEO-TV-4.m3u8
+#EXTINF:-1,FMH Movies
+http://38.211.145.109:8000/play/a04a/index.m3u8
+#EXTINF:-1,FMH REWIND
+http://38.211.145.109:8000/play/a048/index.m3u8
+#EXTINF:-1,HGTV
+http://38.211.145.109:8000/play/a05r/index.m3u8
+#EXTINF:-1 group-title="Cine2" , conectatvx
+https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
