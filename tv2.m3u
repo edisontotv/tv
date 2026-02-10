@@ -1,0 +1,236 @@
+#EXTM3U
+# --- CONTENIDO 4K / UHD ---
+#EXTINF:-1,Win++
+http://190.60.37.154:45000/play/a00q/index.m3u8
+#EXTINF:-1,Win Sports
+http://38.51.234.11:8888/play/a0c9/index.m3u8
+#EXTINF:-1,Win Sports+
+http://181.205.130.194:4000/play/a0f1
+#EXTINF:-1,Win Sports+ HD
+http://181.205.130.194:4000/play/a0fu
+#EXTINF:-1,Win Sports+2
+http://177.10.184.193:8000/play/a0fc/index.m3u8
+#EXTINF:-1,DirecTV
+http://186.194.160.110:9002/play/a0oo/index.m3u8
+#EXTINF:-1,FUTV
+http://177.10.184.193:8000/play/a0f1/index.m3u8
+#EXTINF:-1,Sky Sports Main Event UHD
+https://a1xs.vip/2000015
+#EXTINF:-1,TNT Sports Ultimate UHD
+https://a1xs.vip/2000031
+# --- PREMIER LEAGUE (EPL) ---
+#EXTINF:-1,Now Sports PL 1 FHD
+https://a1xs.vip/1100001
+#EXTINF:-1,Hub Premier 1 FHD
+https://a1xs.vip/1100041
+# --- DEPORTES UK ---
+#EXTINF:-1,Sky Sports Football FHD
+https://a1xs.vip/2000003
+#EXTINF:-1,Azteca DEPORTES
+http://160.20.165.246:8000/play/a02t/index.m3u8
+#EXTINF:-1, Telemundo
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:-1, Telemundo Orlando FL
+https://nbculocallive.akamaized.net/hls/live/2037602/orlando/stream1/master.m3u8
+#EXTINF:-1,premier1
+ttp://99.27.51.147:8080/Infosport/index.m3u8
+#EXTINF:-1,ESPN
+http://38.44.109.41:8003/play/a03x/index.m3u8
+#EXTINF:-1,ESPN HD
+http://186.194.160.110:9002/play/a0pb/index.m3u8
+#EXTINF:-1,ESPN HD2
+http://186.194.160.110:9002/play/a0hk/index.m3u8
+#EXTINF:-1,ESPN MX
+http://190.14.10.19:16000/play/a092/index.m3u8
+#EXTINF:-1,ESPN premium
+http://38.44.109.41:8003/play/a03y/index.m3u8
+#EXTINF:-1,ESPN2
+http://38.44.109.41:8003/play/a03u/index.m3u8
+#EXTINF:-1,ESPN2 MX
+http://190.14.10.19:16000/play/a093/index.m3u8
+#EXTINF:-1,ESPN3
+http://38.44.109.41:8003/play/a03v/index.m3u8
+#EXTINF:-1,ESPN3 MX
+http://190.14.10.19:16000/play/a07r/index.m3u8
+#EXTINF:-1,ESPN4 MX
+http://190.14.10.19:16000/play/a09t/index.m3u8
+#EXTINF:-1,ESPN4 
+http://201.230.121.186:8000/play/a0k4/index.m3u8
+#EXTINF:-1,ESPN5
+http://38.44.109.41:8003/play/a03w/index.m3u8
+#EXTINF:-1,ESPN5 MX
+http://190.14.10.19:16000/play/a09e/index.m3u8
+#EXTINF:-1,ESPN6
+http://190.14.10.19:16000/play/a07u/index.m3u8
+#EXTINF:-1,ESPN6 MX
+http://201.230.121.186:8000/play/a0cr/index.m3u8
+#EXTINF:-1,ESPN7
+http://38.44.109.41:8003/play/a03z/index.m3u8
+#EXTINF:-1,ESPN7  sur
+http://179.49.163.34:45000/play/a00k/index.m3u8
+#EXTINF:-1,TYC Sports
+http://38.44.109.41:8003/play/a02l/index.m3u8
+#EXTINF:-1,SKY Sports La Liga
+http://190.14.10.19:16000/play/a09u/index.m3u8
+#EXTINF:-1,SKY Sports La Liga2
+http://45.5.119.43:4000/play/a05r/index.m3u8
+#EXTINF:-1,SKY Sports La Liga3
+http://177.10.184.193:8000/play/a0eh/index.m3u8
+#EXTINF:-1,TIGO  Sports 
+http://45.5.119.43:4000/play/a05t/index.m3u8
+#EXTINF:-1, TIGO SPORT COSTARICA
+http://190.14.10.19:16000/play/a00ps/index.m3u8
+#EXTINF:-1,BEINGSPORT
+https://live20.bozztv.com/akamaissh101/ssh101/vipmixflix/chunks.m3u8
+#EXTINF:-1,TUDN
+http://45.5.119.43:4000/play/a05q/index.m3u8
+#EXTINF:-1, La liga
+http://200.115.120.1:8000/play/ca124/index.m3u8
+#EXTINF:-1,Fox Sports 
+http://181.13.252.102:8000/play/a07j/index.m3u8
+#EXTINF:-1,TNT Sports 
+http://181.13.252.102:8000/play/a0bc/index.m3u8
+#EXTINF:-1,NBC universo_hd
+http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
+
+
+#EXTINF:-1,Universal Cinema
+http://177.10.184.193:8000/play/a0a9/index.m3u8
+#EXTINF:-1,Warner
+http://177.10.184.193:8000/play/a057/index.m3u8
+#EXTINF:-1,NEO tv
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+#EXTINF:-1,Pelimex (MX)
+https://telecine-pelimex-1-eu.xiaomi.wurl.tv/2000.m3u8
+#EXTINF:-1,FMH Movies
+http://64.76.53.91:9002/play/a008
+#EXTINF:-1,AE HD
+http://201.230.121.186:8000/play/a0cw/index.m3u8
+#EXTINF:-1,HGTV
+http://201.230.121.186:8000/play/a0o1/index.m3u8
+#EXTINF:-1,Cine DC
+http://200.115.120.1:8000/play/ca032/index.m3u8
+#EXTINF:-1,Cine Marvel
+http://200.115.120.1:8000/play/ca038/index.m3u8
+#EXTINF:-1,Cine MIC
+http://179.49.163.34:45000/play/a05j/index.m3u8
+#EXTINF:-1,Cine MIC AVI REWIND
+http://179.49.163.34:45000/play/a05k/index.m3u8
+#EXTINF:-1,Cine Multicinema
+http://179.49.163.34:45000/play/a01w/index.m3u8
+#EXTINF:-1,Cine Multipremier
+http://179.49.163.34:45000/play/a016/index.m3u8
+#EXTINF:-1,Cine netflix
+https://stmv2.voxtvhd.com.br/videokapc/videokapc/playlist.m3u8
+#EXTINF:-1,MEMORIAS CLASICC
+http://179.49.163.34:45000/play/a050/index.m3u8
+#EXTINF:-1,MEMORIAS Corazon
+http://179.49.163.34:45000/play/a051/index.m3u8
+#EXTINF:-1,MEMORIAS POP
+http://179.49.163.34:45000/play/a04z/index.m3u8
+#EXTINF:-1,La Kalle
+http://179.49.163.34:45000/play/a02s/index.m3u8
+#EXTINF:-1,La MEGA TV
+http://179.49.163.34:45000/play/a026/index.m3u8
+#EXTINF:-1,MEMORIAS TROPICAL
+http://179.49.163.34:45000/play/a055/index.m3u8
+#EXTINF:-1,MiMusica Popular
+http://190.60.37.154:45000/play/a010/index.m3u8
+#EXTINF:-1,MiMusica Romantica
+http://190.60.37.154:45000/play/a01u/index.m3u8
+#EXTINF:-1,MiMusica Salsa
+http://190.60.37.154:45000/play/a01t/index.m3u8
+#EXTINF:-1,MiMusica HD Reggaeton
+http://190.60.37.154:45000/play/a00z/index.m3u8
+#EXTINF:-1,tELENOSTALGIA
+http://190.60.37.154:45000/play/a011/index.m3u8
+#EXTINF:-1,canal 5
+http://45.5.119.43:4000/play/a05o/index.m3u8
+#EXTINF:-1,azteca 7
+http://45.5.119.43:4000/play/a026/index.m3u8
+
+
+#EXTINF:-1, Barbe Tv
+https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
+#EXTINF:-1, Next HD (480p)
+https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
+#EXTINF:-1, Mega Cine
+https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
+#EXTINF:-1, BIG RETRO TV
+https://live20.bozztv.com/akamaissh101/ssh101/bigchannel/chunks.m3u8
+#EXTINF:-1, CONTANZA TV
+https://live20.bozztv.com/akamaissh101/ssh101/ctv8hd/chunks.m3u8
+#EXTINF:-1,solo extrenos
+https://live20.bozztv.com/akamaissh101/ssh101/costa800122/chunks.m3u8
+#EXTINF:-1, WEPA TV
+https://live20.bozztv.com/akamaissh101/ssh101/wowchannelsd/playlist.m3u8
+#EXTINF:-1,canal 69
+https://live20.bozztv.com/akamaissh101/ssh101/canal69/chunks.m3u8
+#EXTINF:-1,Cosmos TV (720p)
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+#EXTINF:-1, Nim TV 
+https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
+#EXTINF:-1, SOL TV
+https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
+#EXTINF:-1 , Aurora Media Films
+https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
+#EXTINF:-1,Amc 
+http://190.11.225.124:5000/live/amc_hd/playlist.m3u8
+#EXTINF:-1,axn 
+http://190.11.225.124:5000/live/axn_hd/playlist.m3u8
+#EXTINF:-1,Azcinema 
+http://190.11.225.124:5000/live/azcinema_hd/playlist.m3u8
+#EXTINF:-1,BabyTv 
+http://190.11.225.124:5000/live/baby_tv/playlist.m3u8
+#EXTINF:-1,Bandamax 
+http://190.11.225.124:5000/live/baby_tv/playlist.m3u8
+#EXTINF:-1, Canal 5 
+http://190.11.225.124:5000/live/canal5_hd/playlist.m3u8
+#EXTINF:-1,Canal Estrellas 
+http://190.11.225.124:5000/live/estrellas_hd/playlist.m3u8
+#EXTINF:-1,Cartoonito 
+http://190.11.225.124:5000/live/cartoonito_hd/playlist.m3u8
+#EXTINF:-1,Comedy Central 
+http://190.11.225.124:5000/live/comedycentral_hd/playlist.m3u8
+#EXTINF:-1,De pelicula 
+http://190.11.225.124:5000/live/depelicula/playlist.m3u8
+#EXTINF:-1,DHE 
+http://190.11.225.124:5000/live/dhe_hd/playlist.m3u8
+#EXTINF:-1,Disney 
+http://190.11.225.124:5000/live/disney_hd/playlist.m3u8
+#EXTINF:-1,Espn 2 
+http://190.11.225.124:5000/live/espn_2_hd/playlist.m3u8
+#EXTINF:-1,Espn 3 
+http://190.11.225.124:5000/live/espn_3_hd/playlist.m3u8
+#EXTINF:-1,Fx 
+http://190.11.225.124:5000/live/fx_hd/playlist.m3u8
+#EXTINF:-1,Golden 
+http://190.11.225.124:5000/live/golden_hd/playlist.m3u8
+#EXTINF:-1,Hbo Family 
+http://190.11.225.124:5000/live/hbo_family_hd/playlist.m3u8
+#EXTINF:-1,Hbo Plus 
+http://190.11.225.124:5000/live/hbo_plus_hd/playlist.m3u8
+#EXTINF:-1,Hbo Xtreme 
+http://190.11.225.124:5000/live/hbo_xtreme_hd/playlist.m3u8
+#EXTINF:-1,Lifetime 
+http://190.11.225.124:5000/live/lifetime/playlist.m3u8
+#EXTINF:-1,Natgeo 
+http://190.11.225.124:5000/live/natgeo_hd/playlist.m3u8
+#EXTINF:-1,Nickjr 
+http://190.11.225.124:5000/live/nickjr/playlist.m3u8
+#EXTINF:-1,Sony 
+http://190.11.225.124:5000/live/sony_hd/playlist.m3u8
+#EXTINF:-1,Space 
+http://190.11.225.124:5000/live/space_hd/playlist.m3u8
+#EXTINF:-1,Telehit 
+http://190.11.225.124:5000/live/telehit_hd/playlist.m3u8
+#EXTINF:-1,Telemundo 
+http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
+#EXTINF:-1,TNT 
+http://190.11.225.124:5000/live/tnt_hd/playlist.m3u8
+#EXTINF:-1,TUDN 
+http://190.11.225.124:5000/live/tudn_hd/playlist.m3u8
+#EXTINF:-1,Universal 
+http://190.11.225.124:5000/live/universal_hd/playlist.m3u8
+#EXTINF:-1,Univision 
+http://190.11.225.124:5000/live/univision_hd/playlist.m3u8
