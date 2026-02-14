@@ -234,3 +234,91 @@ http://190.11.225.124:5000/live/tudn_hd/playlist.m3u8
 http://190.11.225.124:5000/live/universal_hd/playlist.m3u8
 #EXTINF:-1,Univision 
 http://190.11.225.124:5000/live/univision_hd/playlist.m3u8
+#EXTINF:-1,Totalmusic 80s
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1,ENT Channel
+https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1,ENT Family
+https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1,Sony Cine HD
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+#EXTINF:-1 ,Aurora Media Films
+https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
+#EXTINF:-1 ,Wow Movies SD
+https://live20.bozztv.com/giatv/giatv-wowmovies/wowmovies/playlist.m3u8
+#EXTINF:-1 ,MASTER TV
+https://live.obslivestream.com/mastertv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,CINCO TV
+https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
+#EXTINF:-1 ,MEGA CINE TV
+https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
+#EXTINF:-1 ,VALLEVISION
+https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8
+#EXTINF:-1 ,READY HD
+https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8
+#EXTINF:-1 ,IMAGEN UNIVERSAL
+https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
+#EXTINF:-1 ,COSMOS TV
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+#EXTINF:-1 ,NOW 80
+https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 ,NOW 70
+https://lightning-now70s-samsungnz.amagi.tv/playlist720p.m3u8
+#EXTINF:-1, WIN+
+http://190.60.37.154:45000/play/a00q/index.m3u8
+#EXTINF:-1 , WIN+2
+http://38.211.145.109:8000/play/a02p/index.m3u8
+#EXTINF:-1 , WIN
+http://38.211.145.109:8000/play/a02c/index.m3u8
+#EXTINF:-1, ESPN3 MX
+http://190.14.10.19:16000/play/a07r/index.m3u8
+#EXTINF:-1 , ESPN4
+http://201.230.121.186:8000/play/a0k4/index.m3u8
+#EXTINF:-1 , ESPN5
+http://38.44.109.41:8003/play/a03w/index.m3u8
+#EXTINF:-1 , ESPN5 MX
+http://190.14.10.19:16000/play/a09e/index.m3u8
+#EXTINF:-1 , ESPN6
+http://190.14.10.19:16000/play/a07u/index.m3u8
+#EXTINF:-1 , ESPN6 MX
+http://201.230.121.186:8000/play/a0cr/index.m3u8
+#EXTINF:-1 , ESPN7
+http://38.44.109.41:8003/play/a03z/index.m3u8
+#EXTINF:-1 , ESPN7  sur
+http://179.49.163.34:45000/play/a00k/index.m3u8
+#EXTINF:-1 , SKY Sports La Liga2
+http://45.5.119.43:4000/play/a05r/index.m3u8
+#EXTINF:-1 , Win Sports HD
+http://181.78.71.71:18000/play/a03p/index.m3u8
+#EXTINF:-1 , DSPORT+.HD1
+http://38.199.6.1:17001/play/a0vx/index.m3u8
+#EXTINF:-1 , Liga1MAX.HD2
+http://181.224.226.128:5000/play/a001/index.m3u8
+#EXTINF:-1 , ElCanaldelFutbol.SD7
+http://181.198.105.69:8111/play/a1vk/index.m3u8
+#EXTINF:-1 , ESPN1(MX)HD2
+http://45.5.119.43:4000/play/a052/index.m3u8
+#EXTINF:-1 , ESPN2.HD10
+http://181.224.226.128:5000/play/a07d/index.m3u8
+#EXTINF:-1 , ESPN.4 HD5
+http://38.199.6.1:17001/play/a055/index.m3u8
+#EXTINF:-1 , TNTSportPremium.HD1
+http://38.199.6.1:17001/play/a036/index.m3u8
+#EXTINF:-1 , TyC.SportHD1
+http://190.102.139.189:8000/play/a00t/index.m3u8
+#EXTINF:-1 , SKY SPORT HD2
+http://190.92.10.66:4000/play/a001/index.m3u8
+#EXTINF:-1 , SKY SPORT HD3
+http://190.14.10.19:16000/play/a09u/index.m3u8
+#EXTINF:-1 , BEIN SPORTS Ñ.HD2
+http://190.83.9.222:8000/play/ca129
+#EXTINF:-1 , WIN SPORT HD7
+http://190.60.32.178:8178/play/a0fk/index.m3u8
+#EXTINF:-1 , WIN SPORT HD12
+http://190.0.247.38:8000/play/a068
+#EXTINF:-1 , WIN SPORT+ HD4
+http://181.78.8.199:8000/play/a0cc/index.m3u8
+#EXTINF:-1 , TIGO SPORT HD6
+http://190.14.10.19:16000/play/a00ps/index.m3u8
+#EXTINF:-1 , TIGO SPORT HD7
+http://45.5.119.96:12500/play/a05q/index.m3u8
