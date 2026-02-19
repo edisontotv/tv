@@ -77,7 +77,6 @@ https://ss2.tvrdomi.com:1936/cascaratv/cascaratv/playlist.m3u8
 https://ss2.tvrdomi.com:1936/colometv/colometv/playlist.m3u8
 #EXTINF:-1 group-title="Cine2" , 3753
 https://s2.tvdatta.com:3753/hybrid/play.m3u8
-http://160.20.165.246:8000/play/a01j
 #EXTINF:-1 group-title="Cine2" , fmh family
 http://160.20.165.246:8000/play/a01j
 #EXTINF:-1 group-title="Cine2" , FMH Kids
@@ -90,8 +89,6 @@ http://160.20.165.246:8000/play/a02e/index.m3u8
 http://160.20.165.246:8000/play/a029/index.m3u8
 #EXTINF:-1 group-title="Cine2" , cine premium
 http://160.20.165.246:8000/play/a028/index.m3u8
-#EXTINF:-1 group-title="Cine2" , Mega Cine
-https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
 #EXTINF:-1 group-title="CINEA", HBO Family HD
 http://181.78.49.113:9999/play/a01p/index.m3u8
 #EXTINF:-1 group-title="CINEA", HBO HD
@@ -116,10 +113,6 @@ http://181.78.49.113:9999/play/a037/index.m3u8
 http://181.78.49.113:9999/play/a03a/index.m3u8
 #EXTINF:-1 group-title="CINEA", TNT HD
 http://181.78.49.113:9999/play/a05l/index.m3u8
-#EXTINF:-1,cineaccion
-https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
-#EXTINF:-1,Sony Cine
-https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 #EXTINF:-1,Bum Television
 https://movil.ejeserver.com/live/visiondorada.m3u8?PlaylistM3UCL
 #EXTINF:-1 Wow Movies SD
@@ -164,14 +157,8 @@ http://181.78.106.127:9000/play/ca054/index.m3u8
 http://181.78.106.127:9000/play/ca078/index.m3u8
 #EXTINF:-1,PLATINO
 http://181.78.106.127:9000/play/ca081/index.m3u8
-#EXTINF:-1,UNIVERSAL premier
-http://181.78.106.127:9000/play/a0qu/index.m3u8
-#EXTINF:-1,HBO POP
-http://179.51.136.19:8000/play/a1me/index.m3u8
 #EXTINF:-1,multivision ar
 https://videostream.shockmedia.com.ar:19360/multivisioncable/multivisioncable.m3u8
-#EXTINF:-1,giatv
-https://live20.bozztv.com/giatvplayout7/giatv-208343/playlist.m3u8
 #EXTINF:-1,CHINOLA
 https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
 #EXTINF:-1,villatv
@@ -180,10 +167,6 @@ https://inliveserver.com:1936/10016/10016/playlist.m3u8
 https://live.obslivestream.com/crtvmux/index.m3u8?PlaylistM3UCL
 #EXTINF:-1, gm7digitallive
 https://s2.tvdatta.com:3858/live/gm7digitallive.m3u8
-#EXTINF:-1, elpitucolive
-https://imagenuniversaltv.net:3439/live/elpitucolive.m3u8
-#EXTINF:-1,giatvplayout7
-https://live20.bozztv.com/giatvplayout7/giatv-208343/playlist.m3u8
 #EXTINF:-1, palmartvlive
 https://streamunoapp.com:3255/live/palmartvlive.m3u8
 #EXTINF:-1,telever
@@ -250,3 +233,84 @@ http://38.211.145.109:8000/play/a048/index.m3u8
 http://38.211.145.109:8000/play/a05r/index.m3u8
 #EXTINF:-1 group-title="Cine2" , conectatvx
 https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
+#EXTINF:-1,Universal Cinema
+http://177.10.184.193:8000/play/a0a9/index.m3u8
+#EXTINF:-1,Warner
+http://177.10.184.193:8000/play/a057/index.m3u8
+#EXTINF:-1,Pelimex (MX)
+https://telecine-pelimex-1-eu.xiaomi.wurl.tv/2000.m3u8
+#EXTINF:-1,FMH Movies
+http://64.76.53.91:9002/play/a008
+#EXTINF:-1,AE HD
+http://201.230.121.186:8000/play/a0cw/index.m3u8
+#EXTINF:-1,HGTV
+http://201.230.121.186:8000/play/a0o1/index.m3u8
+#EXTINF:-1,Cine MIC
+http://179.49.163.34:45000/play/a05j/index.m3u8
+#EXTINF:-1,Cine MIC AVI REWIND
+http://179.49.163.34:45000/play/a05k/index.m3u8
+#EXTINF:-1,Cine Multicinema
+http://179.49.163.34:45000/play/a01w/index.m3u8
+#EXTINF:-1,Cine Multipremier
+http://179.49.163.34:45000/play/a016/index.m3u8
+#EXTINF:-1,Cine netflix
+https://stmv2.voxtvhd.com.br/videokapc/videokapc/playlist.m3u8
+#EXTINF:-1,MEMORIAS CLASICC
+http://179.49.163.34:45000/play/a050/index.m3u8
+#EXTINF:-1,MEMORIAS Corazon
+http://179.49.163.34:45000/play/a051/index.m3u8
+#EXTINF:-1,MEMORIAS POP
+http://179.49.163.34:45000/play/a04z/index.m3u8
+#EXTINF:-1,La Kalle
+http://179.49.163.34:45000/play/a02s/index.m3u8
+#EXTINF:-1,La MEGA TV
+http://179.49.163.34:45000/play/a026/index.m3u8
+#EXTINF:-1,MEMORIAS TROPICAL
+http://179.49.163.34:45000/play/a055/index.m3u8
+#EXTINF:-1,MiMusica Popular
+http://190.60.37.154:45000/play/a010/index.m3u8
+#EXTINF:-1,MiMusica Romantica
+http://190.60.37.154:45000/play/a01u/index.m3u8
+#EXTINF:-1,MiMusica Salsa
+http://190.60.37.154:45000/play/a01t/index.m3u8
+#EXTINF:-1,MiMusica HD Reggaeton
+http://190.60.37.154:45000/play/a00z/index.m3u8
+#EXTINF:-1,tELENOSTALGIA
+http://190.60.37.154:45000/play/a011/index.m3u8
+#EXTINF:-1,canal 5
+http://45.5.119.43:4000/play/a05o/index.m3u8
+#EXTINF:-1,azteca 7
+http://45.5.119.43:4000/play/a026/index.m3u8
+#EXTINF:-1, Next HD (480p)
+https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
+#EXTINF:-1, BIG RETRO TV
+https://live20.bozztv.com/akamaissh101/ssh101/bigchannel/chunks.m3u8
+#EXTINF:-1,solo extrenos
+https://live20.bozztv.com/akamaissh101/ssh101/costa800122/chunks.m3u8
+#EXTINF:-1, WEPA TV
+https://live20.bozztv.com/akamaissh101/ssh101/wowchannelsd/playlist.m3u8
+#EXTINF:-1,canal 69
+https://live20.bozztv.com/akamaissh101/ssh101/canal69/chunks.m3u8
+#EXTINF:-1,Amc 
+http://190.11.225.124:5000/live/amc_hd/playlist.m3u8
+#EXTINF:-1,axn 
+http://190.11.225.124:5000/live/axn_hd/playlist.m3u8
+#EXTINF:-1,Azcinema 
+http://190.11.225.124:5000/live/azcinema_hd/playlist.m3u8
+#EXTINF:-1,BabyTv 
+http://190.11.225.124:5000/live/baby_tv/playlist.m3u8
+#EXTINF:-1, Canal 5 
+http://190.11.225.124:5000/live/canal5_hd/playlist.m3u8
+#EXTINF:-1,Canal Estrellas 
+http://190.11.225.124:5000/live/estrellas_hd/playlist.m3u8
+#EXTINF:-1,Cartoonito 
+http://190.11.225.124:5000/live/cartoonito_hd/playlist.m3u8
+#EXTINF:-1,Comedy Central 
+http://190.11.225.124:5000/live/comedycentral_hd/playlist.m3u8
+#EXTINF:-1,De pelicula 
+http://190.11.225.124:5000/live/depelicula/playlist.m3u8
+#EXTINF:-1,DHE 
+http://190.11.225.124:5000/live/dhe_hd/playlist.m3u8
+#EXTINF:-1,Disney 
+http://190.11.225.124:5000/live/disney_hd/playlist.m3u8
+#EXTINF:-1,Espn 2
