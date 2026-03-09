@@ -1,0 +1,197 @@
+#EXTM3U
+#EXTINF:-1   group="Cine", cosmos
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+#EXTINF:-1   group="Cine", Cine Sony (720p)
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+#EXTINF:-1   group="Cine", Sony Movies (720p)
+http://200.4.244.29:8000/play/a05a
+#EXTINF:-1   group="Cine",Aguacate TV (1080p)
+https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8
+#EXTINF:-1   group="Cine",Xtrema Accion
+https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
+#EXTINF:-1   group="Cine",Bum Televisión (720p) [Not 24/7]
+https://movil.ejeserver.com/live/visiondorada.m3u8
+#EXTINF:-1   group="Cine",Unitel
+https://play.agenciastreaming.com:8081/uniteltv/index.m3u8
+#EXTINF:-1   group="Cine",Neo TV | AR
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+#EXTINF:-1   group="Cine",CR TV | PE
+https://live.obslivestream.com/crtvmux/index.m3u8
+#EXTINF:-1   group="Cine",Aurora Media Films (720p)
+https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
+#EXTINF:-1   group="Cine",nimtv
+https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
+#EXTINF:-1   group="Cine",CANAL 8 VALLE DE UCO
+https://videostream.shockmedia.com.ar:19360/canal8/canal8.m3u8
+#EXTINF:-1   group="Cine", GM7 Digital [Not 24/7]
+https://s2.tvdatta.com:3858/live/gm7digitallive.m3u8
+#EXTINF:-1   group="Cine",Bayres TV (720p)
+https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
+#EXTINF:-1   group="Cine",GLOBAL HD
+http://181.224.226.128:5000/play/a08l/index.m3u8
+#EXTINF:-1   group="Cine",HBO 2
+http://181.224.226.128:5000/play/a049/index.m3u8
+#EXTINF:-1   group="Cine",HBO FAMILY HD
+http://181.224.226.128:5000/play/a07l/index.m3u8
+#EXTINF:-1   group="Cine",HBO HD
+http://181.224.226.128:5000/play/a071/index.m3u8
+#EXTINF:-1   group="Cine",HBO Mundi
+http://181.224.226.128:5000/play/a04q/index.m3u8
+#EXTINF:-1   group="Cine",HBO Plus
+http://181.224.226.128:5000/play/a048/index.m3u8
+#EXTINF:-1   group="Cine",HBO POP HD
+http://181.224.226.128:5000/play/a07e/index.m3u8
+#EXTINF:-1   group="Cine",HBO XTREME HD
+http://181.224.226.128:5000/play/a07m/index.m3u8
+#EXTINF:-1   group="Cine",MI PELICULA
+http://181.224.226.128:5000/play/a02j/index.m3u8
+#EXTINF:-1   group="Cine",TUNER
+http://181.224.226.128:5000/play/a08h/index.m3u8
+#EXTINF:-1   group="Cine",CINE FAMILIAR
+http://200.4.244.29:8000/play/a04v
+#EXTINF:-1   group="Cine",CINE PREMIUN
+http://200.4.244.29:8000/play/a04u
+#EXTINF:-1   group="Cine",+CINE CLASSIC HD (PROVEEDOR HUALAVISION)
+http://179.63.6.12:9000/play/a05t
+#EXTINF:-1   group="Cine",+CINE FAMILY HD (PROVEEDOR HUALAVISION)
+http://179.63.6.12:9000/play/a06y
+#EXTINF:-1   group="Cine",+CINE HD (PROVEEDOR HUALAVISION)
+http://179.63.6.12:9000/play/a057
+#EXTINF:-1   group="Cine",+CINE TERROR HD (PROVEEDOR HUALAVISION)
+http://179.63.6.12:9000/play/a00w
+#EXTINF:-1   group="Cine",+CINE WAR HD (PROVEEDOR HUALAVISION)
+http://179.63.6.12:9000/play/a07n
+#EXTINF:-1   group="Cine",CLASSIC+ (MIC)
+http://179.63.6.12:9000/play/a05u
+#EXTINF:-1   group="Cine",DHE
+http://179.63.6.12:9000/play/a01g
+#EXTINF:-1   group="Cine",Cine Latino
+http://217.26.190.76:8888/play/a0ja/index.m3u8
+#EXTINF:-1   group="Cine",Cinecanal
+http://217.26.190.76:8888/play/a0dw/index.m3u8
+#EXTINF:-1   group="Cine",Cinemax
+http://217.26.190.76:8888/play/a0f9/index.m3u8
+#EXTINF:-1   group="Cine",re WIND
+http://217.26.190.76:8888/play/a0jh/index.m3u8
+#EXTINF:-1   group="Cine",ENT Channel
+https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1   group="Cine",ENT Family
+https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1   group="Cine",Golden Premier
+http://190.60.32.178:8178/play/a097/index.m3u8
+#EXTINF:-1   group="Musica",Mi Gente TV (720p) [Geo-blocked]
+https://byecableiptvnew3.ddns.net/ENVIVOMIGENTE/video.m3u8
+#EXTINF:-1   group="Musica",MUSIC TOP
+https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
+#EXTINF:-1   group="Deportes",DIRECTV SPORTS
+http://181.224.226.128:5000/play/a08p/index.m3u8
+#EXTINF:-1   group="Deportes",ESPN 2
+http://181.224.226.128:5000/play/a07d/index.m3u8
+#EXTINF:-1   group="Deportes",ESPN2 2
+http://179.63.6.12:9000/play/a05z
+#EXTINF:-1   group="Deportes",ESPN 3 HD
+http://181.224.226.128:5000/play/a075/index.m3u8
+#EXTINF:-1   group="Deportes",ESPN 3
+http://200.4.244.29:8000/play/a00p
+#EXTINF:-1   group="Deportes",ESPN 4HD
+http://181.224.226.128:5000/play/a083/index.m3u8
+#EXTINF:-1   group="Deportes",ESPN 5 HD
+http://181.224.226.128:5000/play/a06y/index.m3u8
+#EXTINF:-1   group="Deportes",ESPN 6HD
+http://181.224.226.128:5000/play/a06s/index.m3u8
+#EXTINF:-1   group="Deportes",ESPN 7HD
+http://181.224.226.128:5000/play/a07v/index.m3u8
+#EXTINF:-1   group="Deportes",ESPN HD
+http://181.224.226.128:5000/play/a09b/index.m3u8
+#EXTINF:-1   group="Deportes",ESPN1 HD
+http://181.224.226.128:5000/play/a07h/index.m3u8
+#EXTINF:-1   group="Deportes",ESPN PERU HD
+http://181.224.226.128:5000/play/a096/index.m3u8
+#EXTINF:-1   group="Deportes",ESPN Premium HD
+http://181.224.226.128:5000/play/a07k/index.m3u8
+#EXTINF:-1   group="Deportes",ESPN Premium2 HD
+http://179.63.6.12:9000/play/a02r
+#EXTINF:-1   group="Deportes",CLARO SPORT CLARO SPORT (CLARO)
+http://179.63.6.12:9000/play/a02n
+#EXTINF:-1   group="Deportes",DSPORTS HD  (PARA ANALOGICO)
+http://179.63.6.12:9000/play/a01k
+#EXTINF:-1   group="Deportes",DSPORTS HD 
+http://217.26.190.76:8888/play/a0co/index.m3u8
+#EXTINF:-1   group="Deportes",DirecTV+
+http://217.26.190.76:8888/play/a0jb/index.m3u8
+#EXTINF:-1   group="Deportes",WIN SPORTS+ HD
+http://179.63.6.12:9000/play/a06r
+#EXTINF:-1   group="Deportes",WIN SPORTS HD
+http://217.26.190.76:8888/play/a06a/index.m3u8
+#EXTINF:-1   group="Deportes",BEIN SPORTXTRA 
+https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
+#EXTINF:-1   group="Deportes",Caracol HD2
+http://190.60.32.178:8178/play/a0aj/index.m3u8
+
+#EXTINF:-1   group="Variado", Azteca Internacional (1080p)
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+#EXTINF:-1   group="Variado",HGTV
+http://181.224.226.128:5000/play/a062/index.m3u8
+#EXTINF:-1   group="Variado",A&E HD
+http://181.224.226.128:5000/play/a06u/index.m3u8
+#EXTINF:-1   group="Variado",AGROTENDENCIA HD
+http://179.63.6.12:9000/play/a001
+#EXTINF:-1   group="Variado",Canal CNN
+https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1   group="Variado",CNN  Chile
+http://217.26.190.76:8888/play/a029/index.m3u8
+#EXTINF:-1   group="Variado",CNN  español
+http://217.26.190.76:8888/play/a0aj/index.m3u8
+
+#EXTINF:-1   group=".",Anal
+https://cdn.adultiptv.net/anal.m3u8
+#EXTINF:-1   group=".",Asian
+https://cdn.adultiptv.net/asian.m3u8
+#EXTINF:-1   group=".",Big Ass
+https://cdn.adultiptv.net/bigass.m3u8
+#EXTINF:-1   group=".",Big Dick
+https://cdn.adultiptv.net/bigdick.m3u8
+#EXTINF:-1   group=".",Big Tits
+https://cdn.adultiptv.net/bigtits.m3u8
+#EXTINF:-1   group=".",Blonde
+https://cdn.adultiptv.net/blonde.m3u8
+#EXTINF:-1   group=".",Blowjob
+https://cdn.adultiptv.net/blowjob.m3u8
+#EXTINF:-1   group=".",Brunette
+https://cdn.adultiptv.net/brunette.m3u8
+#EXTINF:-1   group=".",Compilation
+https://cdn.adultiptv.net/compilation.m3u8
+#EXTINF:-1   group=".",Cuckold
+https://cdn.adultiptv.net/cuckold.m3u8
+#EXTINF:-1   group=".",Fetish
+https://cdn.adultiptv.net/fetish.m3u8
+#EXTINF:-1   group=".",Gangbang
+https://cdn.adultiptv.net/gangbang.m3u8
+#EXTINF:-1   group=".",Hardcore
+https://cdn.adultiptv.net/hardcore.m3u8
+#EXTINF:-1   group=".",Interracial
+https://cdn.adultiptv.net/interracial.m3u8
+#EXTINF:-1   group=".",Latina
+https://cdn.adultiptv.net/latina.m3u8
+#EXTINF:-1   group=".",Lesbian
+https://cdn.adultiptv.net/lesbian.m3u8
+#EXTINF:-1   group=".",Live Cams
+https://cdn.adultiptv.net/livecams.m3u8
+#EXTINF:-1   group=".",MILF
+https://cdn.adultiptv.net/milf.m3u8
+#EXTINF:-1   group=".",Pornstar
+https://cdn.adultiptv.net/pornstar.m3u8
+#EXTINF:-1   group=".",POV
+https://cdn.adultiptv.net/pov.m3u8
+#EXTINF:-1   group=".",Rough
+https://cdn.adultiptv.net/rough.m3u8
+#EXTINF:-1   group=".",Russian
+https://cdn.adultiptv.net/russian.m3u8
+#EXTINF:-1   group=".",Teen
+https://cdn.adultiptv.net/teen.m3u8
+#EXTINF:-1   group=".",Threesome
+https://cdn.adultiptv.net/threesome.m3u8
+#EXTINF:-1   group=".",Woman
+https://live.redtraffic.net/woman.m3u8
+
+
