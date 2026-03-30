@@ -1,81 +1,157 @@
 #EXTM3U
-#EXTINF:-1 ,Live Event 1
-https://a1xs.vip/ppv1
-#EXTINF:-1 ,Live Event 2
-https://a1xs.vip/ppv2
-#EXTINF:-1 ,Live Event 3
-https://a1xs.vip/ppv3
-#EXTINF:-1 ,Live Event 4
-https://a1xs.vip/ppv4
-#EXTINF:-1 ,Live Event 5
-https://a1xs.vip/ppv5
-#EXTINF:-1 ,UK: Sky Sports Main Event UHD
-https://a1xs.vip/2000015
-#EXTINF:-1 ,UK: TNT Sports Ultimate UHD
-https://a1xs.vip/2000031
-#EXTINF:-1 ,MY: Astro Sports UHD
-https://a1xs.vip/9000001
-#EXTINF:-1 ,SG: Hub Premier 2 UHD
-https://a1xs.vip/9000012
-#EXTINF:-1 ,SE: V Sport Ultra HD
-https://a1xs.vip/9000013
-#EXTINF:-1 ,Now Sports PL 2 FHD
-https://a1xs.vip/1100002
-#EXTINF:-1 ,Astro Premier League
-https://a1xs.vip/1100030
-#EXTINF:-1 ,Sky Sport PL NZ
-https://a1xs.vip/700008
-#EXTINF:-1 ,Peacock Premier League TV
-https://a1xs.vip/1100021
-#EXTINF:-1 ,Hub Premier 1 FHD
-https://a1xs.vip/1100041
-#EXTINF:-1 ,Hub Premier 2 FHD
-https://a1xs.vip/1100042
-#EXTINF:-1 ,Hub Premier 3 FHD
-https://a1xs.vip/1100043
-#EXTINF:-1 ,Hub Premier 4 FHD
-https://a1xs.vip/1100044
-#EXTINF:-1 ,Sky Sports Main Event UHD
-https://a1xs.vip/2000015
-#EXTINF:-1 ,Sky Sports F1 UHD
-https://a1xs.vip/2000016
-#EXTINF:-1 ,TNT Sports Ultimate UHD
-https://a1xs.vip/2000031
-#EXTINF:-1 ,Sky Sports Main Event FHD
-https://a1xs.vip/2000001
-#EXTINF:-1 ,Sky Sports Premier League FHD
-https://a1xs.vip/2000002
-#EXTINF:-1 ,Sky Sports Mix FHD
-https://a1xs.vip/2000008
-#EXTINF:-1 ,Sky Sports+ FHD
-https://a1xs.vip/2000012
-#EXTINF:-1 ,Sky Sports Tennis FHD
-https://a1xs.vip/2000013
-#EXTINF:-1 ,TNT Sports 1 FHD
-https://a1xs.vip/2000021
-#EXTINF:-1 ,TNT Sports 2 FHD
-https://a1xs.vip/2000022
-#EXTINF:-1 ,TNT Sports 3 FHD
-https://a1xs.vip/2000023
-#EXTINF:-1 ,TNT Sports 4 FHD
-https://a1xs.vip/2000024
-#EXTINF:-1 ,SportsNet NY FHD
-https://a1xs.vip/40000045
-#EXTINF:-1 ,Spectrum Sportsnet Lakers
-https://a1xs.vip/400053
-#EXTINF:-1 ,CBS Sports Golazo Network
-https://a1xs.vip/4000009
-#EXTINF:-1 ,CBS Sports HQ FHD
-https://a1xs.vip/4000007
-#EXTINF:-1 ,Tennis Channel FHD
-https://a1xs.vip/40000040
-#EXTINF:-1 ,Tennis Channel Plus FHD
-https://a1xs.vip/40000041
-#EXTINF:-1 ,TNT FHD
-https://a1xs.vip/300001
-#EXTINF:-1 ,Sportsnet World FHD
-https://a1xs.vip/6000013
-#EXTINF:-1 ,DE: Sportdigital Fussball FHD
-https://a1xs.vip/120001
-#EXTINF:-1 ,NL: Ziggo Sport FHD
-https://a1xs.vip/140001
+
+# --- DEPORTES ---
+#EXTINF:-1 group-title="DEPORTES", Azteca DEPORTES
+http://160.20.165.246:8000/play/a02t/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", BEIN SPORTS esp
+http://181.78.106.127:9000/play/ca039/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", BEIN SPORTS Ñ.HD2
+http://190.83.9.222:8000/play/ca129
+#EXTINF:-1 group-title="DEPORTES", BEINGSPORT
+https://live20.bozztv.com/akamaissh101/ssh101/vipmixflix/chunks.m3u8
+#EXTINF:-1 group-title="DEPORTES", Dazn 1 Hd (Eventos)
+http://latinapro.net:25461/lazaroperez/perez3/52674.ts
+#EXTINF:-1 group-title="DEPORTES", Dazn 3 Hd (Eventos)
+http://latinapro.net:25461/lazaroperez/perez3/52676.ts
+#EXTINF:-1 group-title="DEPORTES", Deportes 1 HD Eventos
+http://latinapro.net:25461/lazaroperez/perez3/2263.ts
+#EXTINF:-1 group-title="DEPORTES", DirecTV
+http://186.194.160.110:9002/play/a0oo/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", DSPORT
+http://181.78.106.127:9000/play/ca026/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", DSPORTS1
+http://179.51.136.19:8000/play/DSPORTS1/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", DSPORT+.HD1
+http://38.199.6.1:17001/play/a0vx/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ElCanaldelFutbol.SD7
+http://181.198.105.69:8111/play/a1vk/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN COL HD
+http://181.78.82.6:46090/play/a04f/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN HD
+http://186.194.160.110:9002/play/a0pb/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN premium
+http://38.44.109.41:8003/play/a03y/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN 2 HD
+http://181.78.82.6:46090/play/a00i/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN 3 HD
+http://181.78.82.6:46090/play/a00v/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN 4 HD
+http://181.78.82.6:46090/play/a01l/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN 5 HD
+http://181.78.82.6:46090/play/a01c/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN 6 HD
+http://181.78.82.6:46090/play/a00w/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN 7 HD
+http://181.78.82.6:46090/play/a01d/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", FOX SPORT 1
+http://181.78.106.127:9000/play/ca031/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", FUTV
+http://177.10.184.193:8000/play/a0f1/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", GOL TV
+http://181.78.106.127:9000/play/ca041/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", Liga1MAX.HD2
+http://181.224.226.128:5000/play/a001/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", MOVISTAR LA LIGA
+http://181.78.106.127:9000/play/ca027/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", SKY BUNDESLIGA
+http://181.78.106.127:9000/play/ca028/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", SKY SPORT HD
+http://190.92.10.66:4000/play/a001/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", SKY Sports La Liga
+http://190.14.10.19:16000/play/a09u/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", TIGO Sports
+http://45.5.119.43:4000/play/a05t/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", TNT Sports Premiere
+http://190.102.246.93:9005/play/a059
+#EXTINF:-1 group-title="DEPORTES", TUDN
+http://45.5.119.43:4000/play/a05q/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", TYC Sports
+http://38.44.109.41:8003/play/a02l/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", win sport
+http://181.205.205.173:8888/play/a0h0/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", WIN SPORT HD
+http://181.78.71.71:18000/play/a03p/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", WIN SPORT+ HD
+http://181.78.8.199:8000/play/a0cc/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", AMERICA SPORT
+http://45.239.31.254:8000/play/a02e/index.m3u8
+
+# --- CINE ---
+#EXTINF:-1 group-title="CINE", Amc
+http://190.11.225.124:5000/live/amc_hd/playlist.m3u8
+#EXTINF:-1 group-title="CINE", axn
+http://190.11.225.124:5000/live/axn_hd/playlist.m3u8
+#EXTINF:-1 group-title="CINE", Azcinema
+http://190.11.225.124:5000/live/azcinema_hd/playlist.m3u8
+#EXTINF:-1 group-title="CINE", Cine netflix
+https://stmv2.voxtvhd.com.br/videokapc/videokapc/playlist.m3u8
+#EXTINF:-1 group-title="CINE", cineaccion
+https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
+#EXTINF:-1 group-title="CINE", cinecanal
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/index.m3u8
+#EXTINF:-1 group-title="CINE", DHE
+http://190.11.225.124:5000/live/dhe_hd/playlist.m3u8
+#EXTINF:-1 group-title="CINE", Golden
+http://181.78.106.127:9000/play/ca076/index.m3u
+#EXTINF:-1 group-title="CINE", HBO HD
+http://181.78.49.113:9999/play/a01m/index.m3u8
+#EXTINF:-1 group-title="CINE", HBO Family HD
+http://181.78.49.113:9999/play/a01p/index.m3u8
+#EXTINF:-1 group-title="CINE", HBO POP
+http://179.51.136.19:8000/play/a1me/index.m3u8
+#EXTINF:-1 group-title="CINE", HBO Plus HD
+http://181.78.49.113:9999/play/a01o/index.m3u8
+#EXTINF:-1 group-title="CINE", HBO XTREME
+http://181.78.49.113:9999/play/a01q/index.m3u8
+#EXTINF:-1 group-title="CINE", Paramount HD
+http://181.78.49.113:9999/play/a075/index.m3u8
+#EXTINF:-1 group-title="CINE", SPACE HD
+http://181.78.49.113:9999/play/a06x/index.m3u8
+#EXTINF:-1 group-title="CINE", Universal Cinema
+http://181.78.106.127:9000/play/ca083/index.m3u8
+#EXTINF:-1 group-title="CINE", Warner HD
+http://181.78.106.127:9000/play/ca071/index.m3u8
+#EXTINF:-1 group-title="CINE", Peliculas DC
+http://200.115.120.1:8000/play/ca032/index.m3u8
+#EXTINF:-1 group-title="CINE", Peliculas Marvel
+http://200.115.120.1:8000/play/ca038/index.m3u8
+#EXTINF:-1 group-title="CINE", Peliculas Robots
+http://200.115.120.1:8000/play/ca072/index.m3u8
+#EXTINF:-1 group-title="CINE", Studio Universal
+http://128.201.227.251:4000/play/a0ai
+
+# --- INFANTIL ---
+#EXTINF:-1 group-title="INFANTIL", BabyTv
+http://190.11.225.124:5000/live/baby_tv/playlist.m3u8
+#EXTINF:-1 group-title="INFANTIL", Cartoonito
+http://190.11.225.124:5000/live/cartoonito_hd/playlist.m3u8
+#EXTINF:-1 group-title="INFANTIL", Disney
+http://190.11.225.124:5000/live/disney_hd/playlist.m3u8
+#EXTINF:-1 group-title="INFANTIL", Nickjr
+http://190.11.225.124:5000/live/nickjr/playlist.m3u8
+#EXTINF:-1 group-title="INFANTIL", PITUFO TV
+http://45.239.31.254:8000/play/a001/index.m3u8
+
+# --- MUSICA ---
+#EXTINF:-1 group-title="MUSICA", MiMusica Salsa
+http://190.60.37.154:45000/play/a01t/index.m3u8
+#EXTINF:-1 group-title="MUSICA", NOW 80
+https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 group-title="MUSICA", Telehit
+http://190.11.225.124:5000/live/telehit_hd/playlist.m3u8
+#EXTINF:-1 group-title="MUSICA", Totalmusic 80s
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/master.m3u8
+
+# --- COLOMBIA ---
+#EXTINF:-1 group-title="COLOMBIA", TELEMEDELLIN
+http://cord-cutter.net:8080/23290078/13941299/78722
+#EXTINF:-1 group-title="COLOMBIA", CANAL UNO
+http://cord-cutter.net:8080/23290078/13941299/78698
+#EXTINF:-1 group-title="COLOMBIA", CARCOL HD
+http://cord-cutter.net:8080/23290078/13941299/78700
+#EXTINF:-1 group-title="COLOMBIA", NTN24 HD
+http://cord-cutter.net:8080/23290078/13941299/78704
+#EXTINF:-1 group-title="COLOMBIA", RCN FHD
+http://cord-cutter.net:8080/23290078/13941299/78694
+#EXTINF:-1 group-title="COLOMBIA", TELEANTIOQUIA HD
+http://cord-cutter.net:8080/23290078/13941299/78706
