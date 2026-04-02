@@ -1,128 +1,100 @@
 #EXTM3U
-#EXTINF:-1, UNIVERSO 
-http://190.11.225.124:5000/live/universo/playlist.m3u8
-#EXTINF:-1,amc
-http://190.11.225.124:5000/live/amc/playlist.m3u8
-#EXTINF:-1,animalplanet 
-http://190.11.225.124:5000/live/animal_planet/playlist.m3u8
-#EXTINF:-1,axn  
-http://190.11.225.124:5000/live/axn/playlist.m3u8
-#EXTINF:-1,azcinema  
-http://190.11.225.124:5000/live/azcinema/playlist.m3u8
-#EXTINF:-1,azteca7  
-http://190.11.225.124:5000/live/azteca7/playlist.m3u8
-#EXTINF:-1,babytv  
-http://190.11.225.124:5000/live/baby_tv/playlist.m3u8
-#EXTINF:-1,bandamax  
-http://190.11.225.124:5000/live/bandamax/playlist.m3u8
-#EXTINF:-1,canal5  
-http://190.11.225.124:5000/live/canal5/playlist.m3u8
-#EXTINF:-1,canaldelasestrellas 
-http://190.11.225.124:5000/live/estrellas/playlist.m3u8
-#EXTINF:-1,cartoonito(boomerang) 
-http://190.11.225.124:5000/live/cartoonito/playlist.m3u8
-#EXTINF:-1,comedycentral 
-http://190.11.225.124:5000/live/comedycentral/playlist.m3u8
-#EXTINF:-1,depel?cula  
-http://190.11.225.124:5000/live/depelicula/playlist.m3u8
-#EXTINF:-1,dhe  
-http://190.11.225.124:5000/live/dhe/playlist.m3u8
-#EXTINF:-1,disneychannel  
-http://190.11.225.124:5000/live/disney/playlist.m3u8
-#EXTINF:-1,espn2  
-http://190.11.225.124:5000/live/espn_2/playlist.m3u8
-#EXTINF:-1,espn3  
-http://190.11.225.124:5000/live/espn_3/playlist.m3u8
-http://190.11.225.124:5000/live/espn_5/playlist.m3u8
-#EXTINF:-1,fx  
-http://190.11.225.124:5000/live/fx/playlist.m3u8
-#EXTINF:-1,golden  
-http://190.11.225.124:5000/live/golden/playlist.m3u8
-#EXTINF:-1,hbofamily  
-http://190.11.225.124:5000/live/hbo_family/playlist.m3u8
-#EXTINF:-1,hboplus  
-http://190.11.225.124:5000/live/hbo_plus/playlist.m3u8
-#EXTINF:-1,hbosignature 
-http://190.11.225.124:5000/live/hbo_signature/playlist.m3u8
-#EXTINF:-1,hboxtreme  
-http://190.11.225.124:5000/live/hbo_xtreme/playlist.m3u8
-#EXTINF:-1,lifetime  
-http://190.11.225.124:5000/live/lifetime/playlist.m3u8
-#EXTINF:-1,natgeo  
-http://190.11.225.124:5000/live/natgeo/playlist.m3u8
-#EXTINF:-1,nickjr  
-http://190.11.225.124:5000/live/nickjr/playlist.m3u8
-#EXTINF:-1,paramount  
-http://190.11.225.124:5000/live/paramount/playlist.m3u8
-#EXTINF:-1,sony  
-http://190.11.225.124:5000/live/sony/playlist.m3u8
-#EXTINF:-1,space  
-http://190.11.225.124:5000/live/space/playlist.m3u8
-#EXTINF:-1,telehit  
-http://190.11.225.124:5000/live/telehit/playlist.m3u8
-#EXTINF:-1,telemundo  
-http://190.11.225.124:5000/live/telemundo/playlist.m3u8
-#EXTINF:-1,tlnovelas  
-http://190.11.225.124:5000/live/tlnovelas/playlist.m3u8
-#EXTINF:-1,tnt  
-http://190.11.225.124:5000/live/tnt/playlist.m3u8
-#EXTINF:-1,tudn  
-http://190.11.225.124:5000/live/tudn/playlist.m3u8
-#EXTINF:-1,universal  
-http://190.11.225.124:5000/live/universal/playlist.m3u8
-#EXTINF:-1,universo  
-http://190.11.225.124:5000/live/universo/playlist.m3u8
-#EXTINF:-1,univision  
-http://190.11.225.124:5000/live/univision/playlist.m3u8
-#EXTINF:-1,warnerchannel  
-http://190.11.225.124:5000/live/warner/playlist.m3u8
-#EXTINF:-1, Playboy
-http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
-#EXTINF:-1,neox
-http://176.65.146.237:8401/play/a0ag/index.m3u8
-#EXTINF:-1,fsp1
-http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8
-#EXTINF:-1,FMH Movies
-http://38.211.145.109:8000/play/a04a/index.m3u8
-#EXTINF:-1,FMH REWIND
-http://38.211.145.109:8000/play/a048/index.m3u8
-#EXTINF:-1,FMH FAMILY
-http://38.211.145.109:8000/play/a046/index.m3u8
-#EXTINF:-1,FMH movies
-http://38.211.145.109:8000/play/a042/index.m3u8
+#EXTINF:-1,win
+http://190.60.52.28:5001/play/a0fu/index.m3u8
+#EXTINF:-1,zona tv plus
+http://181.78.8.199:8000/play/a0ie/index.m3u8
+#EXTINF:-1,tv max canal mundial
+http://181.78.8.199:8000/play/a0ij/index.m3u8
 #EXTINF:-1,HGTV
-http://38.211.145.109:8000/play/a05r/index.m3u8
-#EXTINF:-1,WIN+2
-http://38.211.145.109:8000/play/a02p/index.m3u8
-#EXTINF:-1,WIN
-http://38.211.145.109:8000/play/a02c/index.m3u8
-#EXTINF:-1,AE
-http://38.211.145.109:8000/play/a01b/index.m3u8
-#EXTINF:-1,ESPN
-http://38.211.145.109:8000/play/a01z/index.m3u8
-#EXTINF:-1,ESPN2
-http://38.211.145.109:8000/play/a018/index.m3u8
-#EXTINF:-1,ESPN3
-http://38.211.145.109:8000/play/a02j/index.m3u8
-#EXTINF:-1,ESPN4
-http://38.211.145.109:8000/play/a04z/index.m3u8
-#EXTINF:-1,ESPN5
-http://38.211.145.109:8000/play/a01q/index.m3u8
-#EXTINF:-1,ESPN6
-http://38.211.145.109:8000/play/a01d/index.m3u8
-#EXTINF:-1,ESPN7
-http://38.211.145.109:8000/play/a01c/index.m3u8
-#EXTINF:11,ESPN
-http://45.228.234.30:16000/play/a01k/index.m3u8
-#EXTINF:11,ESPN 4 HD
-http://45.228.234.30:16000/play/a03i/index.m3u8
-#EXTINF:11,ESPN 2
-http://45.228.234.30:16000/play/a01l/index.m3u8
-#EXTINF:11,ESPN 3
-http://45.228.234.30:16000/play/a038/index.m3u8
-#EXTINF:11,ESPN 3 HD
-http://45.228.234.30:16000/play/a038/index.m3u8
-#EXTINF:11,ESPN 5 HD
-http://45.228.234.30:16000/play/a02o/index.m3u8
-#EXTINF:11,EWTN
-http://45.228.234.30:16000/play/a010/index.m3u8
+http://190.60.32.186:1010/play/a015/index.m3u8
+#EXTINF:-1,clover
+http://190.60.32.186:1010/play/a026/index.m3u8
+#EXTINF:-1,FMH MOVIES
+http://190.60.33.237:1010/play/a01d/index.m3u8
+#EXTINF:-1,FMH MOVIES
+http://38.211.145.109:8000/play/a04a/index.m3u8
+#EXTINF:-1,FMH Atlas
+http://38.211.145.109:8000/play/a045/index.m3u8
+#EXTINF:-1,FMH Kids
+http://38.211.145.109:8000/play/a047/index.m3u8
+#EXTINF:-1,FMH Family
+http://38.211.145.109:8000/play/a046/index.m3u8
+#EXTINF:-1,Teleantioquia
+http://181.118.150.27:8000/play/a02i/index.m3u8
+#EXTINF:-1,Telemedellin
+http://181.118.150.27:8000/play/a02l/index.m3u8
+#EXTINF:-1,RCN
+http://181.118.150.27:8000/play/a02f/index.m3u8
+#EXTINF:-1,Caracol
+http://181.118.150.27:8000/play/a01u/index.m3u8
+#EXTINF:-1,ESPN 1
+http://181.118.150.27:8000/play/a03f/index.m3u8
+#EXTINF:-1,ESPN 1 
+http://181.118.150.27:8000/play/a01b/index.m3u8
+#EXTINF:-1,ESPN 2
+http://181.118.150.27:8000/play/a01c/index.m3u8
+#EXTINF:-1,ESPN 2
+http://181.118.150.27:8000/play/a03g/index.m3u8
+#EXTINF:-1,ESPN 3
+http://181.118.150.27:8000/play/a03h/index.m3u8
+#EXTINF:-1,ESPN 3
+http://181.118.150.27:8000/play/a01d/index.m3u8
+#EXTINF:-1,ESPN 4
+http://181.118.150.27:8000/play/a01e/index.m3u8
+#EXTINF:-1,ESPN 4
+http://181.118.150.27:8000/play/a022/index.m3u8
+#EXTINF:-1,ESPN 5
+http://181.118.150.27:8000/play/a03m/index.m3u8
+#EXTINF:-1,ESPN 5
+http://181.118.150.27:8000/play/a01f/index.m3u8
+#EXTINF:-1,ESPN 5
+http://181.118.150.27:8000/play/a023/index.m3u8
+#EXTINF:-1,ESPN 6
+http://181.118.150.27:8000/play/a01g/index.m3u8
+#EXTINF:-1,ESPN 6
+http://181.118.150.27:8000/play/a024/index.m3u8
+#EXTINF:-1,ESPN 7
+http://181.118.150.27:8000/play/a025/index.m3u8
+#EXTINF:-1,ESPN 7
+http://181.118.150.27:8000/play/a03d/index.m3u8
+#EXTINF:-1,win
+http://181.78.79.131:8000/play/a0n1
+#EXTINF:-1,caracol hd2
+http://190.60.52.28:5001/play/a0gk/index.m3u8
+#EXTINF:-1,ntn24
+http://190.60.52.28:5001/play/a0fj/index.m3u8
+#EXTINF:-1,rcn hd2
+http://190.60.52.28:5001/play/a0go/index.m3u8
+#EXTINF:-1,rcn 
+http://190.60.52.28:5001/play/a0gn/index.m3u8
+#EXTINF:-1,win1
+http://190.60.52.28:5001/play/a0fu/index.m3u8
+#EXTINF:-1,win2
+http://190.60.52.28:5001/play/a0cf/index.m3u8
+#EXTINF:-1,win
+http://181.78.8.199:8000/play/a0ic/index.m3u8
+#EXTINF:-1,dsport
+http://217.26.190.76:8888/play/a0co/index.m3u8
+#EXTINF:-1,dsport+
+http://217.26.190.76:8888/play/a0jb/index.m3u8
+#EXTINF:-1,CNN ESPAÑOL HD
+http://179.63.6.15:8002/play/a02q
+#EXTINF:-1,HBO Family
+http://186.194.160.110:9002/play/a0hd/index.m3u8
+#EXTINF:-1,HBO
+http://186.194.160.110:9002/play/a06o/index.m3u8
+#EXTINF:-1,HBO2
+http://186.194.160.110:9002/play/a0m1/index.m3u8
+#EXTINF:-1,HBO XTREME
+http://186.194.160.110:9002/play/a0lt/index.m3u8
+#EXTINF:-1,Win Sports+ HD
+http://8.243.64.201:2025/play/a0hw/index.m3u8
+#EXTINF:-1,HBO POP HD
+http://8.243.64.201:2025/play/a0gu/index.m3u8
+#EXTINF:-1,SKY
+http://190.105.128.198:5800/play/a087/index.m3u8
+#EXTINF:-1,cine familiar
+http://191.97.49.82:8001/play/a00s/index.m3u8
+#EXTINF:-1,TUDN MX
+http://200.58.64.244:9000/play/a01o/index.m3u8
+
