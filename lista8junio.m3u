@@ -1,0 +1,197 @@
+#EXTM3U
+
+# Grupo: 8.243.126.131
+#EXTINF:-1,WIN
+http://8.243.126.131:8000/play/a025/index.m3u8
+#EXTINF:-1,ESPN PREMIUM
+http://8.243.126.131:8000/play/a053/index.m3u8
+#EXTINF:-1,DIRECTV SPORT HD
+http://8.243.126.131:8000/play/a05a/index.m3u8
+#EXTINF:-1,HBO2
+http://8.243.126.131:8000/play/a05o/index.m3u8
+#EXTINF:-1,HBO PLUS
+http://8.243.126.131:8000/play/a0f5/index.m3u8
+#EXTINF:-1,UNIVERSAL PREMIERE HD
+http://8.243.126.131:8000/play/a04s/index.m3u8
+#EXTINF:-1,UNIVERSAL CINEMA ESTE HD
+http://8.243.126.131:8000/play/a0de/index.m3u8
+
+# Grupo: 38.226.210.46
+#EXTINF:-1,ESPN
+http://38.226.210.46:8000/play/a05u/index.m3u8
+
+# Grupo: 45.188.229.33
+#EXTINF:-1,eventos2
+http://45.188.229.33:8000/play/a1dc/index.m3u8
+
+# Grupo: 147.135.114.221
+#EXTINF:-1,DIRECTV SPORT HD
+http://147.135.114.221:8001/play/a00m/index.m3u8
+#EXTINF:-1,ESPN PREMIUM HD
+http://147.135.114.221:8001/play/a019/index.m3u8
+
+# Grupo: 177.10.184.193
+#EXTINF:-1,Cine Premium HD
+http://177.10.184.193:8000/play/a0a3/index.m3u8
+#EXTINF:-1,STAR CHANNEL HD
+http://177.10.184.193:8000/play/a056/index.m3u8
+#EXTINF:-1,TUDN
+http://177.10.184.193:8000/play/a0ft/index.m3u8
+#EXTINF:-1,FOX VIVO
+http://177.10.184.193:8000/play/a09k/index.m3u8
+
+# Grupo: 179.60.51.134
+#EXTINF:-1,syfy
+http://179.60.51.134:8888/SYFY/tracks-v1a1/mono.m3u8
+
+# Grupo: 181.79.87.130
+#EXTINF:-1,WIN
+http://181.79.87.130:8000/play/a02x/index.m3u8
+
+# Grupo: 190.102.242.130
+#EXTINF:-1,+CINE
+http://190.102.242.130:25461/tpowercine/123456/31
+
+# Grupo: 205.235.6.29
+#EXTINF:-1,TNT SPORTS PREMIUM2
+http://205.235.6.29:8000/play/a104/index.m3u8
+#EXTINF:-1,TNT SPORTS
+http://205.235.6.29:8000/play/a0xa/index.m3u8
+#EXTINF:-1,MoviStar Deportes
+http://205.235.6.29:8000/play/a0zd/index.m3u8
+#EXTINF:-1,Canal nitro
+http://205.235.6.29:8000/play/a0xw/index.m3u8
+#EXTINF:-1,eventos
+http://205.235.6.29:8000/play/a0y3/index.m3u8
+
+# Grupo: astra.fibernetisp.com.co
+#EXTINF:-1,win
+http://astra.fibernetisp.com.co/play/a04g/index.m3u8
+#EXTINF:-1,win2
+http://astra.fibernetisp.com.co/play/a0b2/index.m3u8
+#EXTINF:-1,caracol hd2
+http://astra.fibernetisp.com.co/play/a0e2/index.m3u8
+#EXTINF:-1,rcn hd2
+http://astra.fibernetisp.com.co/play/a0e3/index.m3u8
+#EXTINF:-1,ESPN
+http://astra.fibernetisp.com.co/play/a0a9/index.m3u8
+#EXTINF:-1,ESPN2
+http://astra.fibernetisp.com.co/play/a0dp/index.m3u8
+#EXTINF:-1,ESPN3
+http://astra.fibernetisp.com.co/play/a0jc/index.m3u8
+#EXTINF:-1,ESPN4
+http://astra.fibernetisp.com.co/play/a0it/index.m3u8
+#EXTINF:-1,ESPN5
+http://astra.fibernetisp.com.co/play/a0id/index.m3u8
+#EXTINF:-1,eSPN2
+http://astra.fibernetisp.com.co/play/a076/index.m3u8
+#EXTINF:-1,ESPN6
+http://astra.fibernetisp.com.co/play/a0ae/index.m3u8
+#EXTINF:-1,ESPN 7 HD
+http://astra.fibernetisp.com.co/play/a0ad/index.m3u8
+#EXTINF:-1,RCN
+http://astra.fibernetisp.com.co/play/a03s/index.m3u8
+#EXTINF:-1,RCN FHD
+http://astra.fibernetisp.com.co/play/a0b5/index.m3u8
+#EXTINF:-1,Caracol
+http://astra.fibernetisp.com.co/play/a03r/index.m3u8
+#EXTINF:-1,caracol hd
+http://astra.fibernetisp.com.co/play/a0tf/index.m3u8
+#EXTINF:-1,caracol fhd
+http://astra.fibernetisp.com.co/play/a0b4/index.m3u8
+#EXTINF:-1,GOLDEN
+http://astra.fibernetisp.com.co/play/a0m4/index.m3u8
+#EXTINF:-1,GOLDEN EDGE
+http://astra.fibernetisp.com.co/play/a0m8/index.m3u8
+#EXTINF:-1,FX
+http://astra.fibernetisp.com.co/play/a05p/index.m3u8
+#EXTINF:-1,STAR CHANNEL HD
+http://astra.fibernetisp.com.co/play/a061/index.m3u8
+#EXTINF:-1,TNT
+http://astra.fibernetisp.com.co/play/a062/index.m3u8
+#EXTINF:-1,HBO MUNDI
+http://astra.fibernetisp.com.co/play/a0di/index.m3u8
+#EXTINF:-1,HBO Family HD
+http://astra.fibernetisp.com.co/play/a0dl/index.m3u8
+#EXTINF:-1,HBO
+http://astra.fibernetisp.com.co/play/a0ax/index.m3u8
+#EXTINF:-1,HBO POP
+http://astra.fibernetisp.com.co/play/a0dj/index.m3u8
+#EXTINF:-1,HBO XTREME HD
+http://astra.fibernetisp.com.co/play/a0dk/index.m3u8
+#EXTINF:-1,LA KALLE
+http://astra.fibernetisp.com.co/play/a0fg/index.m3u8
+#EXTINF:-1,SPACE HD
+http://astra.fibernetisp.com.co/play/a05o/index.m3u8
+#EXTINF:-1,Studio Universal HD
+http://astra.fibernetisp.com.co/play/a0tn/index.m3u8
+#EXTINF:-1,UNIVERSAL CHANNEL HD
+http://astra.fibernetisp.com.co/play/a060/index.m3u8
+#EXTINF:-1,CINECANAL HD
+http://astra.fibernetisp.com.co/play/a05z/index.m3u8
+#EXTINF:-1,HGV
+http://astra.fibernetisp.com.co/play/a0ll/index.m3u8
+#EXTINF:-1,A&E HD
+http://astra.fibernetisp.com.co/play/a05u/index.m3u8
+#EXTINF:-1,AMC
+http://astra.fibernetisp.com.co/play/a0is/index.m3u8
+#EXTINF:-1,AXN
+http://astra.fibernetisp.com.co/play/a05n/index.m3u8
+#EXTINF:-1,CINEMAX
+http://astra.fibernetisp.com.co/play/a05l/index.m3u8
+
+# Grupo: Otros Servidores (Streaming Directo)
+#EXTINF:-1,ESPN Colombia ᵐ 🇨🇴
+http://m3u.tvcluboficial.com/m/m/368.m3u8
+#EXTINF:-1,win2
+http://m3u.tvcluboficial.com/m/m/1042.m3u8
+#EXTINF:-1,SIEMPRE LATINO
+https://d1xc25jm9e0l4b.cloudfront.net/XITE_Siempre_Latino.m3u8
+#EXTINF:-1,TV CISNE
+https://video2.lhdserver.es/tvcisne/live.m3u8
+#EXTINF:-1,COSMOS TV | AR
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8?PlaylistM3UCL
+#EXTINF:-1,TNT SPORTS PREMIUM
+https://1nyaler.streamhostingcdn.top/stream/30/index.m3u8
+#EXTINF:-1,ESPN
+https://1nyaler.streamhostingcdn.top/stream/99/index.m3u8
+#EXTINF:-1,trilers
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovemagazinees-samsungspain/playlist.m3u8
+#EXTINF:-1,COSMOS TV HD
+https://canaletaplus.com:3922/live/cosmoslive.m3u8
+#EXTINF:-1,CHINOLATV
+https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
+#EXTINF:-1,EL CHAVO
+https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
+#EXTINF:-1,EL CHAVO8
+https://live20.bozztv.com/giatvplayout7/giatv-208870/playlist.m3u8
+#EXTINF:-1,EVENTO E$PN 2   
+http://daleplaytv.vip:80//live/prf010823g/oejrbnedh/444067.ts
+#EXTINF:-1,EVENTO E$PN 3    
+http://daleplaytv.vip:80//live/prf010823g/oejrbnedh/444058.ts
+#EXTINF:-1,EVENTO E$PN 4    
+http://daleplaytv.vip:80//live/prf010823g/oejrbnedh/444064.ts
+#EXTINF:-1,EVENTO E$PN 5   
+http://daleplaytv.vip:80//live/prf010823g/oejrbnedh/444061.ts
+#EXTINF:-1,EVENTO 6 D$PORTS     
+http://daleplaytv.vip:80//live/prf010823g/oejrbnedh/444070.ts
+#EXTINF:-1,EVENTO 7   
+http://daleplaytv.vip:80//live/prf010823g/oejrbnedh/444079.ts
+#EXTINF:-1,EVENTO 8 I  
+http://daleplaytv.vip:80//live/prf010823g/oejrbnedh/444073.ts
+#EXTINF:-1,EVENTO 10  
+http://daleplaytv.vip:80//live/prf010823g/oejrbnedh/444300.ts
+#EXTINF:-1,EVENTO 12    
+http://daleplaytv.vip:80//live/prf010823g/oejrbnedh/444521.ts
+#EXTINF:-1,EVENTO 1
+http://daleplaytv.vip:80//live/prf010823g/oejrbnedh/540041.ts
+#EXTINF:-1,EVENTO 2
+http://daleplaytv.vip:80//live/prf010823g/oejrbnedh/540038.ts
+#EXTINF:-1,EVENTO 3
+http://daleplaytv.vip:80//live/prf010823g/oejrbnedh/540035.ts
+#EXTINF:-1,EVENTO 4
+http://daleplaytv.vip:80//live/prf010823g/oejrbnedh/540026.ts
+#EXTINF:-1,CARACOL MUNDIAL 2026
+http://daleplaytv.vip:80//live/prf010823g/oejrbnedh/69252.ts
+
+
