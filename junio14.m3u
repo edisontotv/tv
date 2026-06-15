@@ -1,0 +1,67 @@
+#EXTM3U
+#EXTINF:-1,win 
+http://181.78.17.52:8000/play/a0pw/index.m3u8
+#EXTINF:-1win+ astra
+https://astra.fibernetisp.com.co/play/a0b2/index.m3u8
+#EXTINF:-1win+ lnyaler
+https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
+#EXTINF:-1dazn
+https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
+#EXTINF:-1espn 3 disney+
+https://1nyaler.streamhostingcdn.top/stream/96/index.m3u8
+#EXTINF:-1espn
+https://1nyaler.streamhostingcdn.top/stream/99/index.m3u8
+#EXTINF:-1espn3
+https://1nyaler.streamhostingcdn.top/stream/102/index.m3u8
+#EXTINF:-1dsports
+https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8
+#EXTINF:-1dsports2
+http://181.64.27.65:8000/play/a0dq/index.m3u8
+#EXTINF:-1dsports1
+http://177.53.152.117:8000/play/a07d/index.m3u8
+#EXTINF:-1tudn
+http://24.152.53.3:8090/play/a012/index.m3u8?
+#EXTINF:-1azteca 7
+https://1nyaler.streamhostingcdn.top/stream/117/index.m3u8
+#EXTINF:-1win
+http://181.78.17.52:8000/play/a0pw/index.m3u8
+#EXTINF:-1win2
+http://190.60.37.118:4000/play/a0bw
+#EXTINF:-1win1
+http://190.60.37.118:4000/play/a0b2
+#EXTINF:-1espn premium
+http://205.235.6.29:8000/play/a0pz/index.m3u8
+#EXTINF:-1win
+http://181.78.71.71:18000/play/a03p/index.m3u8
+#EXTINF:-1win mejor2
+http://181.78.85.59:2500/play/a030/index.m3u8
+#EXTINF:-1rcn
+http://181.78.211.244:8005/play/a0ak/index.m3u8
+#EXTINF:-1caracol
+http://181.78.8.199:8000/play/a0b0/index.m3u8
+#EXTINF:-1win mejor3
+http://181.78.8.199:8000/play/a09s/index.m3u8
+#EXTINF:-1fmh movies
+http://181.78.8.199:8000/play/a06u/index.m3u8
+#EXTINF:-1win mejor4
+http://181.78.8.199:8000/play/a0ic/index.m3u8
+#EXTINF:-1dsports
+http://8.243.126.131:8000/play/a05a/index.m3u8?hls
+#EXTINF:-1sky la liga
+https://1nyaler.streamhostingcdn.top/stream/74/index.m3u8
+#EXTINF:-1sky premier
+https://1nyaler.streamhostingcdn.top/stream/78/index.m3u8
+#EXTINF:-1sky premier2
+https://1nyaler.streamhostingcdn.top/stream/128/index.m3u8
+#EXTINF:-1fox sports
+https://1nyaler.streamhostingcdn.top/stream/25/index.m3u8
+#EXTINF:-1espn1
+https://astra.fibernetisp.com.co/play/a0a9/index.m3u8
+#EXTINF:-1esp2
+https://astra.fibernetisp.com.co/play/a076/index.m3u8
+#EXTINF:-1espn3
+https://astra.fibernetisp.com.co/play/a0jc/index.m3u8
+#EXTINF:-1los simpsons
+https://live20.bozztv.com/akamaissh101/ssh101/simptestnews/chunks.m3u8
+#EXTINF:-1el chavo del 8
+https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
