@@ -169,3 +169,21 @@ http://190.61.42.218:9000/play/a082/index.m3u8
 http://190.61.42.218:9000/play/a062/index.m3u8
 #EXTINF:-1,ESPN7
 http://190.61.42.218:9000/play/a01j/index.m3u8
+#EXTINF:-1, cdn deportes
+http://38.159.232.166:8000/play/a014/index.m3u8
+#EXTINF:-1,DIRECTV
+http://191.97.63.231:2053/play/a1aa/index.m3u8
+#EXTINF:-1,DSPORTS
+http://191.97.63.231:2053/play/a1aa/index.m3u8
+#EXTINF:-1, DSPORTS2
+http://191.97.63.231:2053/play/a1ab/index.m3u8
+#EXTINF:-1,free action
+http://191.97.63.231:2053/play/a0ps/index.m3u8
+#EXTINF:-1,Global
+http://191.97.63.231:2053/play/a1a4/index.m3u8
+#EXTINF:-1,Max Channel
+http://191.97.63.231:2053/play/a18u/index.m3u8
+#EXTINF:-1,wins
+http://191.97.63.231:2053/play/a1a8/index.m3u8
+#EXTINF:-1,Supertv
+http://190.119.176.186:8000/play/a09x/index.m3u8
