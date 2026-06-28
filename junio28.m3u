@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1 ,Caracol HD
+http://181.78.79.131:8000/play/a0l0
+#EXTINF:-1 ,RCN HD
+http://181.78.79.131:8000/play/a0l4
+#EXTINF:-1 ,Eventos Deportivos
+http://181.78.79.131:8000/play/a0tr
+#EXTINF:-1 ,Super5
+http://191.102.39.254:5000/live/5up3r5/playlist.m3u8
+#EXTINF:-1,Super Canal Yurimaguas (720p)
+https://live.obslivestream.com/supercanal/index.m3u8
+#EXTINF:-1,interTV (1080p)
+https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8
+#EXTINF:-1 ,win
+http://190.217.66.92:8000/play/a0fh/index.m3u8
+#EXTINF:-1 ,win+
+http://190.217.66.92:8000/play/a0qs/index.m3u8
+#EXTINF:-1 ,win2
+http://138.121.15.230:9002/WIN-SPORT/index.m3u8
+#EXTINF:-1 ,dsports
+http://181.78.8.199:8000/play/a0io/index.m3u8
+#EXTINF:-1 ,dsports
+http://190.223.48.46:8000/play/a028/index.m3u8
+#EXTINF:-1 ,dsports2
+http://190.223.48.46:8000/play/a07n/index.m3u8
+#EXTINF:-1 ,dsports
+http://38.187.7.252:8000/play/a03d/index.m3u8
+#EXTINF:-1 ,win m1
+http://181.78.8.199:8000/play/a09s/index.m3u8
+#EXTINF:-1 ,win m1
+http://181.78.8.199:8000/play/a0ic/index.m3u8
+#EXTINF:-1 ,win m1
+http://181.78.8.199:8000/play/a0cc/index.m3u8
