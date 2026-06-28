@@ -308,6 +308,19 @@ http://www.1play.cool:25461/2147807636/33de96f6e3/177178
 http://www.1play.cool:25461/2147807636/33de96f6e3/177179
 #EXTINF:-1 , canal5 mx
 http://181.119.108.43:9001/play/a06d/index.m3u8
+#EXTINF:-1 group-title="DEPORTE", DSPORTS OPC 1
+http://8.243.126.131:8000/play/a05a/index.m3u8
 
+#EXTINF:-1 group-title="DEPORTE", DSPORTS OPC 2
+http://181.64.27.65:8000/play/a0dq/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTE", DSPORTS OPC 3
+http://38.187.7.252:8000/play/a03d/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTE", DSPORTS OPC 4
+http://190.223.48.46:8000/play/a028/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTE", WIN SPORTS+ HD
+http://181.78.79.131:8000/play/a0n1
 
 
