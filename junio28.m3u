@@ -38,3 +38,7 @@ https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 , amaga television
 https://viewhn.com/amagatelevision/sdfUYWKegHKRPpSirG/playlist.m3u8
+#EXTINF:-1 ,Atacama TV (Copiapó) 
+https://v2.tustreaming.cl/atacamatv/index.m3u8
+#EXTINF:-1 ,Wayra TV
+https://live-evg11.tv360.bitel.com.pe/bitel/wayratv/playlist.m3u8
