@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1, unitel
+https://play.agenciastreaming.com:8081/uniteltv/index.m3u8
+#EXTINF:-1, planetatv
+https://tls-cl.cdnz.cl/planetatv/live/playlist.m3u8
+#EXTINF:-1, inprecionante
+https://cloud2.streaminglivehd.com:19360/8036/8036.m3u8
+#EXTINF:-1,elchavo 
+https://live20.bozztv.com/giatvplayout7/giatv-211465/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,win
+http://190.217.66.92:8000/play/a0qs/index.m3u8
+#EXTINF:-1,win buena velocidad
+http://181.78.79.131:8000/play/a0qy
+#EXTINF:-1,ESPN4
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn4-mux/playlist.m3u8
+#EXTINF:-1,ESPN4
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn5-mux/playlist.m3u8
+#EXTINF:-1,HBO 2 HD
+http://8.243.126.131:8000/play/a05o/index.m3u8?hls
+#EXTINF:-1,CINE FAMILIAR 
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cinefamiliar.stream/playlist.m3u8
+#EXTINF:-1,HBO
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/HBO/playlist.m3u8
