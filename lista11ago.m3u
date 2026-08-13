@@ -229,3 +229,87 @@ http://181.78.8.199:8000/play/a09l/index.m3u8
 http://181.78.14.26:4000/play/a03m/index.m3u8
 #EXTINF:-1,group-title="Varios", TeleAntioquia
 http://38.236.104.167:51002/play/a03j/index.m3u8
+#EXTINF:-1,,BUZZER GT
+https://tvstream.alojawebgt.net:3434/live/buzzertvlive.m3u8
+#EXTINF:-1,NEOX TV AR 
+https://tv.streamcasthd.com:3031/live/neoxtvlive.m3u8
+#EXTINF:-1,7
+https://vivo.solumedia.com:19360/canal7salta/canal7salta.m3u8
+#EXTINF:-1,MAXTV 
+https://live-evg11.tv360.bitel.com.pe/bitel/maxtv/chunks.m3u8 
+#EXTINF:-1,UTV
+https://live-evg11.tv360.bitel.com.pe/bitel/utv/playlist.m3u8
+#EXTINF:-1,wayratv
+https://live-evg11.tv360.bitel.com.pe/bitel/wayratv/playlist.m3u8
+#EXTINF:-1,RFTV
+https://acceso.mediosdecostarica.com:3638/live/360rftvcrlive.m3u8
+#EXTINF:-1,Canal 10
+https://acceso.mediosdecostarica.com:3606/hybrid/play.m3u8?PlaylistM3UCL
+#EXTINF:-1,IMAGEN UNIVERSAL RD
+https://imagenuniversaltv.net:3771/hybrid/play.m3u8        
+#EXTINF:-1,FMCOSMOS AR
+https://canaletaplus.com:3922/live/cosmoslive.m3u8 
+#EXTINF:-1 ,CANAL 10 CR
+https://acceso.mediosdecostarica.com:3606/hybrid/play.m3u8   
+#EXTINF:-1 ,UNICENTRO JUNIN
+https://live-evg11.tv360.bitel.com.pe/bitel/unicentroSRT/chunks.m3u8 
+#EXTINF:-1,ORBIT RD
+https://edge.essastream.com/orbittv/tracks-v1a1/index.m3u8    
+#EXTINF:-1 ,PINAMAR AR
+https://intelincloud01.com.ar/hls/cn3/index.m3u8  
+#EXTINF:-1 ,CASCARA TV RD 
+https://ss2.tvrdomi.com:1936/cascaratv/cascaratv/chunklist.m3u8  
+#EXTINF:-1 , vision3000
+https://ss2.tvrdomi.com:1936/vision3000/vision3000/playlist.m3u8
+#EXTINF:-1 ,coto brus
+https://cloudvideo.servers10.com:8081/8030/index.m3u8
+#EXTINF:-1 ,WTV NICARAGUA 
+https://cloudvideo.servers10.com:8081/8130/tracks-v1a1/index.m3u8   
+#EXTINF:-1 ,MELINKANA TV CL 
+https://v1.tustreaming.cl/melinkana/index.m3u8   
+#EXTINF:-1 ,Del Rey TV (1080p)
+https://video.hostingcaaguazu.com:19360/delreytv/delreytv.m3u8
+#EXTINF:-1 , Bum Televisión (720p) [Not 24/7]
+https://movil.ejeserver.com/live/visiondorada.m3u8
+#EXTINF:-1 ,BARBE TV
+https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
+#EXTINF:-1 ,Canal 34 San Juan (720p)
+https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
+#EXTINF:-1 ,Canalda 26 HD [Not 24/7]
+https://canalda.rgradio.net:3084/live/canaldalive.m3u8
+#EXTINF:-1 ,Codigo TV (1080p) [Not 24/7]
+https://edge.essastream.com/codigotv/playlist.m3u8
+#EXTINF:-1 ,lacaletatv
+https://edge.essastream.com/lacaletatv/playlist.m3u8
+#EXTINF:-1 ,Cana TV Digital (720p) [Not 24/7]
+https://stream.hostuis.com:19360/canatvdigital/canatvdigital.m3u8
+#EXTINF:-1 ,DAN TV (1080p) [Not 24/7]
+https://cnn.hostlagarto.com/telesiglo/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,megacinetv
+https://cnn.hostlagarto.com/megacinetv/index.m3u8
+#EXTINF:-1 ,telesiglo
+https://cnn.hostlagarto.com/telesiglo/index.m3u8
+#EXTINF:-1 ,Xtra Tv (720p) [Not 24/7]
+https://mlb.essastream.com:8081/xtratv/index.m3u8
+#EXTINF:-1 ,Xtrema Accion
+https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
+#EXTINF:-1 ,Microvision 10 (720p) [Not 24/7]
+https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8
+#EXTINF:-1 , Caoba TV Radio (720p) [Not 24/7]
+https://host.streamingnation.live:3940/live/caobatvlive.m3u8
+#EXTINF:-1 , La Descarga TV [Geo-blocked]
+https://video.udwn.net:19360/ladescargatv/ladescargatv.m3u8
+#EXTINF:-1 ,Canal TV3 (720p) [Not 24/7]
+https://streaming.telenetdigital.net.co:8086/canal3tv/stream.m3u8
+#EXTINF:-1 ,Sarapiqui TV (720p) [Not 24/7]
+http://tiquiciatv.com:1935/stv/web/playlist.m3u8
+#EXTINF:-1 ,Unitel (1080p)
+https://play.agenciastreaming.com:8081/uniteltv/index.m3u8
+#EXTINF:-1 ,Vía Altomayo (720p) [Not 24/7]
+https://live.obslivestream.com/viaaltomayomux/index.m3u8
+#EXTINF:-1 ,Zuraca TV (720p)
+https://tv3.bitstreaming.net:3680/live/zuracatvlive.m3u8
+#EXTINF:-1 ,TV Cisne (1080p)
+https://video2.lhdserver.es/tvcisne/live.m3u8
+#EXTINF:-1 ,TV Hispanic [Not 24/7]
+https://livetv.305streamhd.com:3504/live/tvhispaniclive.m3u8
