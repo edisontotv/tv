@@ -1,0 +1,65 @@
+#EXTM3U
+#EXTINF:-1,group-title="Deportes",Win+
+http://209.14.119.203:8000/play/a08x/index.m3u8
+#EXTINF:-1,group-title="Deportes",Win
+http://209.14.119.203:8000/play/a08i/index.m3u8
+#EXTINF:-1,group-title="Deportes",Win+2
+http://190.60.36.103:8000/play/a0aa/index.m3u8
+#EXTINF:-1,group-title="Deportes",Win1
+http://205.235.6.29:8000/play/a10e/index.m3u8
+#EXTINF:-1,group-title="Deportes",DSports
+http://205.235.6.29:8000/play/a0y3/index.m3u8
+#EXTINF:-1,group-title="Deportes",DSports2
+http://191.97.63.231:2053/play/a1ab/index.m3u8
+#EXTINF:-1,group-title="Deportes",Win1.1
+http://45.173.203.73:12000/play/a0kf/index.m3u8?hl
+#EXTINF:-1,group-title="Deportes",TNT Sports
+http://209.14.119.203:8000/play/a0cc/index.m3u8
+#EXTINF:-1,group-title="Deportes", ESPN PREMIUM
+http://209.14.119.203:8000/play/a0cg/index.m3u8
+#EXTINF:-1,group-title="Deportes", ESPN CO
+http://209.14.119.203:8000/play/a08u/index.m3u8
+#EXTINF:-1,group-title="Deportes", ESPN2
+http://209.14.119.203:8000/play/a07c/index.m3u8
+#EXTINF:-1,group-title="Deportes", ESPN2.2
+http://209.14.119.203:8000/play/a0cd/index.m3u8
+#EXTINF:-1,group-title="Deportes", ESPN3
+http://209.14.119.203:8000/play/a0cq/index.m3u8
+#EXTINF:-1,group-title="Deportes", ESPN4
+http://45.173.203.73:12000/play/a0a4/index.m3u8?hl
+#EXTINF:-1,group-title="Deportes", ESPN5
+http://209.14.119.203:8000/play/a0bb/index.m3u8
+#EXTINF:-1,group-title="Deportes", ESPN6
+http://209.14.119.203:8000/play/a0ck/index.m3u8
+#EXTINF:-1,group-title="Deportes", ESPN7
+http://209.14.119.203:8000/play/a0cr/index.m3u8
+#EXTINF:-1,group-title="Deportes", AZTECA Deportes
+http://45.173.203.73:12000/play/a0ef/index.m3u8?hl
+#EXTINF:-1,group-title="Deportes", FOX Sports
+http://181.209.38.115:8000/play/a00g/index.m3u8?hl
+#EXTINF:-1,group-title="Deportes", F O X 
+http://191.97.63.231:2053/play/a1a9/index.m3u8
+#EXTINF:-1,group-title="CINE",HBO XTREME
+http://209.14.119.203:8000/play/a078/index.m3u8
+#EXTINF:-1,group-title="CINE",HBO+
+http://209.14.119.203:8000/play/a077/index.m3u8
+#EXTINF:-1,group-title="CINE",HBO 
+http://209.14.119.203:8000/play/a0am/index.m3u8
+#EXTINF:-1,group-title="CINE",HBO FAMILY
+http://209.14.119.203:8000/play/a0ch/index.m3u8
+#EXTINF:-1,group-title="CINE",HBO2
+http://209.14.119.203:8000/play/a076/index.m3u8
+#EXTINF:-1,group-title="CINE",HBO 
+http://209.14.119.203:8000/play/a08b/index.m3u8
+#EXTINF:-1,group-title="CINE",HBO POP
+http://158.172.155.130:8000/play/a007/index.m3u8
+#EXTINF:-1,group-title="CINE",MI PELICULA
+http://45.173.203.73:12000/play/a07l/index.m3u8?hl
+#EXTINF:-1,group-title="CINE", Free Action
+http://191.97.63.231:2053/play/a0ps/index.m3u8
+#EXTINF:-1,group-title="CINE",HBO MUNDI
+http://38.224.231.47:8000/play/a01h/index.m3u8
+#EXTINF:-1,group-title="Variado",AE 
+http://209.14.119.203:8000/play/a0ai/index.m3u8
+#EXTINF:-1,group-title="Variado",HGTV
+http://205.235.6.29:8000/play/a0ym/index.m3u8
