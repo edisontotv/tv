@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:-1,liga 1 max hd
+http://191.97.49.82:8001/play/a010/index.m3u8
+#EXTINF:-1,espn1
+http://191.97.49.82:8001/play/a00k/index.m3u8
+#EXTINF:-1,espn2
+http://191.97.49.82:8001/play/a00j/index.m3u8
+#EXTINF:-1,espn3
+http://190.117.20.37:8000/play/a07t/index.m3u8
+#EXTINF:-1,espn5
+http://191.97.49.82:8001/play/a002/index.m3u8
+#EXTINF:-1,espn6
+http://191.97.49.82:8001/play/a005/index.m3u8
+#EXTINF:-1,espn7
+http://191.97.49.82:8001/play/a006/index.m3u8
+#EXTINF:-1,auratv
+http://190.117.20.37:8000/play/a0d7/index.m3u8
+#EXTINF:-1, unitel tv
+http://190.117.20.37:8000/play/a08p/index.m3u8
+#EXTINF:-1,unitel
+http://190.117.20.37:8000/play/a0g3/index.m3u8
+#EXTINF:-1,winplus
+http://181.205.130.194:4000/play/a0f1
+#EXTINF:-1,FOX Premier Ligue
+http://190.61.101.11:7050/play/a08w/index.m3u8?hls
+#EXTINF:-1,La LIGA
+http://190.61.101.11:7050/play/a04g/index.m3u8?hls
+#EXTINF:-1,TUDN
+http://190.61.101.11:7050/play/a04m/index.m3u8?hls
+#EXTINF:-1, NITRO
+http://205.235.6.29:8000/play/a0xw/index.m3u8?hls
+#EXTINF:-1, DSPORTS
+http://157.100.9.51:8000/play/a26d
+#EXTINF:-1, WIN
+http://157.100.9.51:8000/play/a1us
