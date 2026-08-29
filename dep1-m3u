@@ -1,0 +1,552 @@
+#EXTM3U
+#EXTINF:-1, Fox Sport
+http://190.61.101.11:7050/play/a08t/index.m3u8
+#EXTINF:-1, FOX SPORT PREMIUM
+http://190.61.101.11:7050/play/a08u/index.m3u8
+#EXTINF:-1, Fox Sport 2
+http://190.61.101.11:7050/play/a08v/index.m3u8
+#EXTINF:-1, Fox premier league
+http://190.61.101.11:7050/play/a08w/index.m3u8
+#EXTINF:-1, ESPN Mx 4 HD
+http://190.61.101.11:7050/play/a08p/index.m3u8
+#EXTINF:-1, ESPN 2 Mx HD
+http://190.61.101.11:7050/play/a05c/index.m3u8
+#EXTINF:-1, ESPN 3 Mx HD
+http://190.61.101.11:7050/play/a05d/index.m3u8
+#EXTINF:-1, ESPN 5 Mx HD
+http://190.61.101.11:7050/play/a06j/index.m3u8
+#EXTINF:-1, ESPN 6 Mx HD
+http://190.61.101.11:7050/play/a05e/index.m3u8
+#EXTINF:-1, ESPN Mx
+http://190.61.101.11:7050/play/a09k/index.m3u8
+#EXTINF:-1, Fox
+http://190.61.101.11:7050/play/a09z/index.m3u8
+#EXTINF:-1, FOX CR
+http://190.61.101.11:7050/play/a0a7/index.m3u8
+#EXTINF:-1, EVENTO FOX
+http://190.61.101.11:7050/play/a0a9/index.m3u8
+#EXTINF:-1, LA Liga
+http://190.61.101.11:7050/play/a04g/index.m3u8
+#EXTINF:-1, TUDN
+http://190.61.101.11:7050/play/a04m/index.m3u8
+#EXTINF:-1, Win
+http://138.121.15.230:9002/WIN-SPORT/index.m3u8
+#EXTINF:-1,WINSPORTS HD
+http://181.225.190.242:8000/play/a03r
+#EXTINF:-1,ESPN1
+http://181.225.190.242:8000/play/a01l
+#EXTINF:-1,ESPN2
+http://181.225.190.242:8000/play/a01m
+#EXTINF:-1,ESPN3
+http://181.225.190.242:8000/play/a01n
+#EXTINF:-1,espn4
+http://181.225.190.242:8000/play/a01o
+#EXTINF:-1,espn5
+http://181.225.190.242:8000/play/a01p
+#EXTINF:-1,espn6
+http://181.225.190.242:8000/play/a01q
+#EXTINF:-1,espn7
+http://181.225.190.242:8000/play/a01r
+#EXTINF:-1,win
+http://181.78.8.199:8000/play/a09s/index.m3u8
+#EXTINF:-1,DIRECTV
+http://181.78.8.199:8000/play/a0io/index.m3u8
+#EXTINF:-1,ESPN 1
+http://181.78.8.199:8000/play/a0b1/index.m3u8
+#EXTINF:-1,ESPN 2
+http://181.78.8.199:8000/play/a0b2/index.m3u8
+#EXTINF:-1,ESPN 2 HD
+http://181.78.8.199:8000/play/a08z/index.m3u8
+#EXTINF:-1,ESPN 3
+http://181.78.8.199:8000/play/a0b3/index.m3u8
+#EXTINF:-1,ESPN 3 HD
+http://181.78.8.199:8000/play/a07f/index.m3u8
+#EXTINF:-1,ESPN 4HD
+http://181.78.8.199:8000/play/a09b/index.m3u8
+#EXTINF:-1,ESPN 5HD
+http://181.78.8.199:8000/play/a08n/index.m3u8
+#EXTINF:-1,ESPN 6HD
+http://181.78.8.199:8000/play/a07g/index.m3u8
+#EXTINF:-1,ESPN 7HD
+http://181.78.8.199:8000/play/a08o/index.m3u8
+#EXTINF:-1,ESPN EXTRA
+http://181.78.8.199:8000/play/a0do/index.m3u8
+#EXTINF:-1,ESPN HD
+http://181.78.8.199:8000/play/a08y/index.m3u8
+#EXTINF:-1,ESPN5
+http://181.78.8.199:8000/play/a0bv/index.m3u8
+#EXTINF:-1,ESPN6
+http://181.78.8.199:8000/play/a0bw/index.m3u8
+#EXTINF:-1,ESPN7
+http://181.78.8.199:8000/play/a0bx/index.m3u8
+#EXTINF:-1,WIN NORMAL
+http://181.78.8.199:8000/play/a0ic/index.m3u8
+#EXTINF:-1,WIN SPORT MAS  LOCAL
+http://181.78.8.199:8000/play/a0hz/index.m3u8
+#EXTINF:-1,WINSPORT
+http://181.78.8.199:8000/play/a0cc/index.m3u8
+#EXTINF:-1,Win Sports+ HD
+http://181.78.8.199:8000/play/a06v/index.m3u8
+#EXTINF:-1,ESPN 1 HD mejor
+http://181.225.190.242:8000/play/a01l
+#EXTINF:-1,ESPN 2 HD
+http://181.225.190.242:8000/play/a01m
+#EXTINF:-1,ESPN 3 HD
+http://181.225.190.242:8000/play/a01n
+#EXTINF:-1,ESPN 4 HD
+http://181.225.190.242:8000/play/a01o
+#EXTINF:-1,ESPN 5 HD
+http://181.225.190.242:8000/play/a01p
+#EXTINF:-1,ESPN 6 HD
+http://181.225.190.242:8000/play/a01q
+#EXTINF:-1,ESPN 7 HD
+http://181.225.190.242:8000/play/a01r
+#EXTINF:-1,ESPN 2
+http://181.78.211.244:8005/play/a0b7/index.m3u8
+#EXTINF:-1, ESPN 2 HD
+http://181.78.211.244:8005/play/a0b3/index.m3u8
+#EXTINF:-1, ESPN 3 HD
+http://181.78.211.244:8005/play/a0c1/index.m3u8
+#EXTINF:-1, ESPN 4
+http://181.78.211.244:8005/play/a08w/index.m3u8
+#EXTINF:-1, ESPN 4 HD
+http://181.78.211.244:8005/play/a0c9/index.m3u8
+#EXTINF:-1, ESPN 5
+http://181.78.211.244:8005/play/a0b6/index.m3u8
+#EXTINF:-1, ESPN 6
+http://181.78.211.244:8005/play/a0b9/index.m3u8
+#EXTINF:-1, ESPN 7
+http://181.78.211.244:8005/play/a0b8/index.m3u8
+#EXTINF:-1, ESPN 7 HD
+http://181.78.211.244:8005/play/a0c7/index.m3u8
+#EXTINF:-1, ESPN HD
+http://181.78.211.244:8005/play/a0b4/index.m3u8
+#EXTINF:-1, ESPN Premium HD
+http://181.78.211.244:8005/play/a0b5/index.m3u8
+#EXTINF:-1, Win
+http://181.78.211.244:8005/play/a0am/index.m3u8
+#EXTINF:-1, ESPN HD
+http://181.78.12.119:16123/play/ch16/index.m3u8
+#EXTINF:-1, ESPN 2 HD
+http://181.78.12.119:16123/play/ch17/index.m3u8
+#EXTINF:-1, ESPN 3 HD
+http://181.78.12.119:16123/play/ch18/index.m3u8
+#EXTINF:-1, ESPN5 HD
+http://181.78.12.119:16123/play/ch19/index.m3u8
+#EXTINF:-1, ESPN5 HD (clone)
+http://181.78.12.119:16123/play/ch19a/index.m3u8
+#EXTINF:-1, ESPN 7 HD
+http://181.78.12.119:16123/play/ch20/index.m3u8
+#EXTINF:-1, ESPN  6 HD
+http://181.78.12.119:16123/play/ch21/index.m3u8
+#EXTINF:-1, ESPN4 HD
+http://181.78.12.119:16123/play/ch90/index.m3u8
+#EXTINF:-1, ESPN CO sd
+http://181.78.12.119:16123/play/a0du/index.m3u8
+#EXTINF:-1, TNT SPORTS
+http://205.235.6.29:8000/play/a0xa/index.m3u8
+#EXTINF:-1, TNT Sports Premiun HD
+http://205.235.6.29:8000/play/a104/index.m3u8
+#EXTINF:-1, Caracol
+http://205.235.6.29:8000/play/a10e/index.m3u8
+#EXTINF:-1, Nitro HD
+http://205.235.6.29:8000/play/a0xw/index.m3u8
+#EXTINF:-1, DSPORTS
+http://205.235.6.29:8000/play/a0y3/index.m3u8
+#EXTINF:-1,win
+http://181.78.211.244:8005/play/a0am/index.m3u8
+#EXTINF:-1, DSPORTS
+http://38.210.3.64:8090/play/a0p5/index.m3u8
+#EXTINF:-1, DSPORTS+
+http://38.210.3.64:8090/play/a0p6/index.m3u8
+#EXTINF:-1, Fox Sport
+http://190.61.101.11:7050/play/a08t/index.m3u8
+#EXTINF:-1, FOX SPORT PREMIUM
+http://190.61.101.11:7050/play/a08u/index.m3u8
+#EXTINF:-1, Fox Sport 2
+http://190.61.101.11:7050/play/a08v/index.m3u8
+#EXTINF:-1, Fox premier league
+http://190.61.101.11:7050/play/a08w/index.m3u8
+#EXTINF:-1, ESPN Mx 4 HD
+http://190.61.101.11:7050/play/a08p/index.m3u8
+#EXTINF:-1, ESPN 2 Mx HD
+http://190.61.101.11:7050/play/a05c/index.m3u8
+#EXTINF:-1, ESPN 3 Mx HD
+http://190.61.101.11:7050/play/a05d/index.m3u8
+#EXTINF:-1, ESPN 5 Mx HD
+http://190.61.101.11:7050/play/a06j/index.m3u8
+#EXTINF:-1, ESPN 6 Mx HD
+http://190.61.101.11:7050/play/a05e/index.m3u8
+#EXTINF:-1, ESPN Mx
+http://190.61.101.11:7050/play/a09k/index.m3u8
+#EXTINF:-1, Fox
+http://190.61.101.11:7050/play/a09z/index.m3u8
+#EXTINF:-1, FOX CR
+http://190.61.101.11:7050/play/a0a7/index.m3u8
+#EXTINF:-1, EVENTO FOX
+http://190.61.101.11:7050/play/a0a9/index.m3u8
+#EXTINF:-1, LA Liga
+http://190.61.101.11:7050/play/a04g/index.m3u8
+#EXTINF:-1, TUDN
+http://190.61.101.11:7050/play/a04m/index.m3u8
+#EXTINF:-1, LIGA 1 MAX
+http://38.137.192.250:8000/play/a0c5
+#EXTINF:-1,DSPORTS HD
+http://38.210.3.64:8090/play/a0p5/index.m3u8
+#EXTINF:-1,DIRECTV SPORTS
+http://45.186.254.75:8000/play/a0en/index.m3u8
+#EXTINF:-1,Win+
+http://181.78.79.131:8000/play/a0m1
+#EXTINF:-1 group="Deportes", Win
+http://181.78.8.199:8000/play/a09s/index.m3u8
+#EXTINF:-1, WIN
+http://181.79.87.130:8000/play/a02x/index.m3u8
+#EXTINF:-1, 5.MPTS_WIN_ALTO_DE_PATIOS
+http://181.118.156.46:8000/play/a05w/index.m3u8
+#EXTINF:-1, win mejor4
+http://181.78.8.199:8000/play/a0ic/index.m3u8
+#EXTINF:-1, 5.MPTS_CARACOL-RCN_TDT_ALTO_DE_PATIOS
+http://181.118.156.46:8000/play/a060/index.m3u8
+#EXTINF:-1, ESPN 2
+http://181.78.8.199:8000/play/a0b2/index.m3u8
+#EXTINF:-1 ESPN 2 HD
+http://181.78.8.199:8000/play/a08z/index.m3u8
+#EXTINF:-1, ESPN 3 HD
+http://181.78.8.199:8000/play/a07f/index.m3u8
+#EXTINF:-1, ESPN 4HD
+http://181.78.8.199:8000/play/a09b/index.m3u8
+#EXTINF:-1, ESPN 7HD
+http://181.78.8.199:8000/play/a08o/index.m3u8
+#EXTINF:0 type="favorites" channelId="4657" group="-", ESPN EXTRA
+http://181.78.8.199:8000/play/a0do/index.m3u8
+#EXTINF:0 type="favorites" channelId="1263" group="-", ESPN HD
+http://181.78.8.199:8000/play/a08y/index.m3u8
+#EXTINF:-1, ESPN6
+http://181.78.8.199:8000/play/a0bw/index.m3u8
+#EXTINF:-1, ESPN7
+http://181.78.8.199:8000/play/a0bx/index.m3u8
+#EXTINF:-1,, ESPN 2 HD
+http://200.59.191.177:8000/play/a0o1/index.m3u8
+#EXTINF:-1,, ESPN 3
+http://200.59.191.177:8000/play/a0oh/index.m3u8
+#EXTINF:-1,, ESPN 4 HD
+http://200.59.191.177:8000/play/a0pz/index.m3u8
+#EXTINF:-1,, ESPN 7
+http://200.59.191.177:8000/play/a0p2/index.m3u8
+#EXTINF:-1,, ESPN HD
+http://200.59.191.177:8000/play/a0o2/index.m3u8
+#EXTINF:-1,, ESPN Premium HD
+http://200.59.191.177:8000/play/a0ko/index.m3u8
+#EXTINF:-1, La Liga VIX
+http://38.188.186.47:4000/play/a015/index.m3u8
+#EXTINF:-1, DIRECTV SPORTS
+http://181.224.255.210:8001/play/a0s8/index.m3u8
+#EXTINF:-1, WIN SPORT
+http://181.118.150.27:8000/play/a011/index.m3u8
+#EXTINF:-1 , FOX SPORT PREMIUM
+http://190.61.101.11:7050/play/a08u/index.m3u8?hls
+#EXTINF:-1 , FOX SPORT
+http://190.61.101.11:7050/play/a08t/index.m3u8?hls
+#EXTINF:-1 , FOX3
+http://190.61.101.11:7050/play/a0af/index.m3u8?hls
+#EXTINF:-1 , FOX SPORT 3
+http://186.33.26.18:8000/play/a0rw/index.m3u8
+#EXTINF:-1, TUDN
+http://190.61.101.11:7050/play/a04m/index.m3u8?hls
+#EXTINF:-1 , ESPN
+http://186.33.26.18:8000/play/a0py/index.m3u8
+#EXTINF:-1, ESPN3
+http://186.33.26.18:8000/play/a0q0/index.m3u8
+#EXTINF:-1 , ESPN CO
+http://186.148.163.17:8000/play/a008/index.m3u8
+#EXTINF:-1 , L1 MAX
+http://45.173.203.73:12000/play/a0fr/index.m3u8
+#EXTINF:-1 , DSPORTS 2
+http://191.97.63.231:2053/play/a1ab/index.m3u8
+#EXTINF:-1 , Win+1
+http://181.78.79.131:8000/play/a0m1
+#EXTINF:-1 , win2
+http://190.61.42.218:9000/play/a01s/index.m3u8
+#EXTINF:-1, Win
+http://38.19.41.143:8000/play/a0cm/index.m3u8
+#EXTINF:-1, WIN SPORTS
+http://181.78.71.71:18000/play/a03p/index.m3u8
+#EXTINF:-1, WIN SPORTS
+http://190.60.39.195:8000/play/a0ug/index.m3u8
+#EXTINF:-1, ESPN3
+http://181.78.12.119:16123/play/ch18/index.m3u8
+#EXTINF:-1, ESPN5
+http://181.78.12.119:16123/play/ch19/index.m3u8
+#EXTINF:-1 , ESPN6
+http://181.78.12.119:16123/play/ch21/index.m3u8
+#EXTINF:-1 , ESPN7
+http://181.78.12.119:16123/play/ch20/index.m3u8
+#EXTINF:-1 , Win
+http://209.14.119.203:8000/play/a08i/index.m3u8
+#EXTINF:-1 ,Win+2
+http://190.60.36.103:8000/play/a0aa/index.m3u8
+#EXTINF:-1 ,TNT Sports
+http://209.14.119.203:8000/play/a0cc/index.m3u8
+#EXTINF:-1 , ESPN3
+http://209.14.119.203:8000/play/a0cq/index.m3u8
+#EXTINF:-1 , ESPN4
+http://45.173.203.73:12000/play/a0a4/index.m3u8?hl
+#EXTINF:-1 , AZTECA Deportes
+http://45.173.203.73:12000/play/a0ef/index.m3u8?hl
+#EXTINF:-1 , FOX Sports
+http://181.209.38.115:8000/play/a00g/index.m3u8?hl
+#EXTINF:-1 , La LIGA
+http://190.61.101.11:7050/play/a04g/index.m3u8?hls
+#EXTINF:-1 , espn1
+http://191.97.49.82:8001/play/a00k/index.m3u8
+#EXTINF:-1 , espn5
+http://191.97.49.82:8001/play/a002/index.m3u8
+#EXTINF:-1 , espn6
+http://191.97.49.82:8001/play/a005/index.m3u8
+#EXTINF:-1 , espn7
+http://191.97.49.82:8001/play/a006/index.m3u8
+#EXTINF:-1 , ESPN 5
+http://200.59.191.177:8000/play/a0p1/index.m3u8
+#EXTINF:-1 , ESPN 6
+http://200.59.191.177:8000/play/a0oi/index.m3u8
+#EXTINF:-1 , ESPN 1
+http://181.78.8.199:8000/play/a0b1/index.m3u8
+#EXTINF:-1 , ESPN 6HD
+http://181.78.8.199:8000/play/a07g/index.m3u8
+#EXTINF:-1 , Win
+http://190.61.42.218:9000/play/a084/index.m3u8
+#EXTINF:-1, ESPN
+http://190.61.42.218:9000/play/a04l/index.m3u8
+#EXTINF:-1 , ESPN 2 Latin
+http://190.61.42.218:9000/play/a08c/index.m3u8
+#EXTINF:-1, ESPN 3 HD
+http://190.61.42.218:9000/play/a061/index.m3u8
+#EXTINF:-1 , ESPN 7 HD
+http://190.61.42.218:9000/play/a01j/index.m3u8
+#EXTINF:-1, ESPN HD
+http://190.61.42.218:9000/play/a05t/index.m3u8
+#EXTINF:-1, DSPORTS
+http://191.97.63.231:2053/play/a1aa/index.m3u8
+#EXTINF:-1, Win + HD
+http://190.217.66.92:8000/play/a0qs/index.m3u8
+
+#EXTINF:-1 , ESPN HD 11262h
+http://181.78.71.71:18000/play/a01p/index.m3u8
+#EXTINF:-1 , ESPN 5 HD
+http://181.78.71.71:18000/play/a04j/index.m3u8
+#EXTINF:-1, ESPN 2
+http://181.78.71.71:18000/play/a032/index.m3u8
+#EXTINF:-1, 010 - ESPN
+http://181.118.153.15:8000/play/nk34/index.m3u8
+#EXTINF:-1, 012 - ESPN 3
+http://181.118.153.15:8000/play/lt41/index.m3u8
+#EXTINF:-1, 013 - ESPN4
+http://181.118.153.15:8000/play/rk19/index.m3u8
+#EXTINF:-1 , 014 - ESPN 5
+http://181.118.153.15:8000/play/en28/index.m3u8
+#EXTINF:-1 , 015 - ESPN 6
+http://181.118.153.15:8000/play/ns99/index.m3u8
+#EXTINF:-1 , 016 - ESPN 7
+http://181.118.153.15:8000/play/rq26/index.m3u8
+#EXTINF:-1, ESPN 3
+http://190.60.52.28:5001/play/a0cl/index.m3u8
+#EXTINF:-1 , ESPN 7
+http://190.60.52.28:5001/play/a0dd/index.m3u8
+#EXTINF:-1 , L1MAX
+http://38.210.4.182:8000/play/a15l/index.m3u8
+#EXTINF:-1 , AZTECA DEportes
+http://38.188.186.47:4000/play/a012/index.m3u8
+#EXTINF:-1 , Espn5
+http://181.224.200.5:2277/play/a02k/index.m3u8
+#EXTINF:-1 , Espn7
+http://181.224.200.5:2277/play/a02l/index.m3u8
+#EXTINF:-1 , WIN SPORT + ACC
+http://190.60.52.28:5001/play/a0hl/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", win mejor3
+http://190.60.52.28:5001/play/a0hl/index.m3u8
+#EXTINF:-1 , Win
+http://190.60.52.28:5001/play/a0cf/index.m3u8
+#EXTINF:-1 , Win
+http://181.78.8.199:8000/play/a09s/index.m3u8
+#EXTINF:-1 , Win+2
+http://181.78.8.199:8000/play/a06v/index.m3u8
+#EXTINF:-1 , win
+http://200.69.92.222:8000/play/a02l/index.m3u8
+#EXTINF:-1 , win1
+http://181.78.211.244:8005/play/a0am/index.m3u8
+#EXTINF:-1, espn
+http://200.69.92.222:8000/play/a01n/index.m3u8
+#EXTINF:-1 , espn7
+http://147.135.114.221:8001/play/a01k/index.m3u8
+#EXTINF:-1 , espn premium
+http://147.135.114.221:8001/play/a019/index.m3u8
+#EXTINF:-1 , l1max
+http://147.135.114.221:8001/play/a00n/index.m3u8
+#EXTINF:-1 , eventos2
+http://45.188.229.33:8000/play/a1dc/index.m3u8
+#EXTINF:-1 , FOX VIVO
+http://177.10.184.193:8000/play/a09k/index.m3u8
+#EXTINF:-1 , WIN
+http://181.79.87.130:8000/play/a02x/index.m3u8
+#EXTINF:-1, TNT SPORTS
+http://205.235.6.29:8000/play/a0xa/index.m3u8
+#EXTINF:-1, MoviStar Deportes
+http://205.235.6.29:8000/play/a0zd/index.m3u8
+#EXTINF:-1, ESPN
+http://astra.fibernetisp.com.co/play/a0a9/index.m3u8
+#EXTINF:-1, ESPN2
+http://astra.fibernetisp.com.co/play/a0dp/index.m3u8
+#EXTINF:-1, ESPN3
+http://astra.fibernetisp.com.co/play/a0jc/index.m3u8
+#EXTINF:-1, ESPN4
+http://astra.fibernetisp.com.co/play/a0it/index.m3u8
+#EXTINF:-1 , ESPN5
+http://astra.fibernetisp.com.co/play/a0id/index.m3u8
+#EXTINF:-1, eSPN2
+http://astra.fibernetisp.com.co/play/a076/index.m3u8
+#EXTINF:-1, ESPN
+http://186.33.40.97:8789/play/20
+#EXTINF:-1, ESPN
+http://177.10.184.193:8000/play/a053/index.m3u8
+#EXTINF:-1 , ESPN 1
+http://181.118.158.103:8000/play/a038/index.m3u8
+#EXTINF:-1, ESPN 2
+http://177.10.184.193:8000/play/a054/index.m3u8
+#EXTINF:-1, ESPN 2
+http://181.118.158.103:8000/play/a039/index.m3u8
+#EXTINF:-1, ESPN 2 HD
+http://177.10.184.193:8000/play/a0db/index.m3u8
+#EXTINF:-1 , ESPN 6
+http://181.118.158.103:8000/play/a03d/index.m3u8
+#EXTINF:-1 , ESPN 6 HD
+http://177.10.184.193:8000/play/a0dd/index.m3u8
+#EXTINF:-1 , ESPN 7
+http://217.26.190.76:8888/play/a0g2/index.m3u8
+#EXTINF:-1 , ESPN 7
+http://181.118.158.103:8000/play/a03e/index.m3u8
+#EXTINF:-1 , ESPN Premium
+http://217.26.190.76:8888/play/a0es/index.m3u8
+#EXTINF:-1 , FOX SPORT HD
+http://177.10.184.193:8000/play/a0e1/index.m3u8
+#EXTINF:-1, Movistar Deportes
+http://217.26.190.76:8888/play/a0l9/index.m3u8
+#EXTINF:-1, TNT SPORTS
+http://217.26.190.76:8888/play/a0o6/index.m3u8
+#EXTINF:-1 , 5.MPTS_WIN_ALTO_DE_PATIOS
+http://181.118.156.46:8000/play/a05w/index.m3u8
+#EXTINF:-1 , ESPN 1 TRANSCODIFICADO
+http://191.97.49.82:8001/play/a00l/index.m3u8
+#EXTINF:-1, ESPN 2 HD
+http://200.10.30.241:8000/play/a01r/index.m3u8
+#EXTINF:-1, ESPN 3 HD
+http://200.10.30.241:8000/play/a0b1/index.m3u8
+#EXTINF:-1 , ESPN 4 HD
+http://200.10.30.241:8000/play/a01k/index.m3u8
+#EXTINF:-1 , ESPN 5HD
+http://200.10.30.241:8000/play/a0aw/index.m3u8
+#EXTINF:-1 , ESPN 6HD
+http://200.10.30.241:8000/play/a074/index.m3u8
+#EXTINF:-1 , ESPN 7HD
+http://200.10.30.241:8000/play/a06u/index.m3u8
+#EXTINF:-1, ESPN HD
+http://200.10.30.241:8000/play/a03c/index.m3u8
+#EXTINF:-1 , Win
+http://200.10.30.241:8000/play/a01x/index.m3u8
+#EXTINF:-1, DSports (Opción 6)
+http://190.223.48.46:8000/play/a028/index.m3u8
+#EXTINF:-1, TUDN
+http://24.152.53.3:8090/play/a012/index.m3u8?
+#EXTINF:-1 , win+ astra
+https://astra.fibernetisp.com.co/play/a0b2/index.m3u8
+#EXTINF:-1 , dazn
+https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
+#EXTINF:-1 , win mejor4
+http://181.78.8.199:8000/play/a0ic/index.m3u8
+#EXTINF:-1, ESPN
+http://179.60.51.134:8888/ESPN/index.m3u8
+#EXTINF:-1, ESPN2
+http://179.60.51.134:8888/ESPN2/index.m3u8
+#EXTINF:-1 , mundial2
+https://s2.bufaloweb.com/bufalo10/index.m3u8
+#EXTINF:-1 , mundial
+https://s2.bufaloweb.com/bufalo9/index.m3u8
+#EXTINF:-1 , DSPORT
+http://190.61.42.218:9000/play/a0a9/index.m3u8
+#EXTINF:-1 , win2
+http://190.61.42.218:9000/play/a01s/index.m3u8
+#EXTINF:-1, ESPN
+http://190.61.42.218:9000/play/a04l/index.m3u8
+#EXTINF:-1 , ESPN1
+http://190.61.42.218:9000/play/a05t/index.m3u8
+#EXTINF:-1, ESPN2
+http://190.61.42.218:9000/play/a05n/index.m3u8
+#EXTINF:-1 , ESPN2.2
+http://190.61.42.218:9000/play/a08c/index.m3u8
+#EXTINF:-1, ESPN3
+http://190.61.42.218:9000/play/a061/index.m3u8
+#EXTINF:-1, ESPN4
+http://190.61.42.218:9000/play/a07f/index.m3u8
+#EXTINF:-1 , ESPN5
+http://190.61.42.218:9000/play/a082/index.m3u8
+#EXTINF:-1 , ESPN6
+http://190.61.42.218:9000/play/a062/index.m3u8
+#EXTINF:-1 , ESPN7
+http://190.61.42.218:9000/play/a01j/index.m3u8
+#EXTINF:-1 , cdn deportes
+http://38.159.232.166:8000/play/a014/index.m3u8
+#EXTINF:-1 , MUNDIAL LIVE9
+http://mtvp.net:8080/live/RobertoArce/pZbSDnRqam/1979615.m3u8
+#EXTINF:-1 , LIGA PREMIER | NBC UNIVERSO HD
+http://mtvp.net:8080/live/RobertoArce/pZbSDnRqam/1599543.m3u8
+#EXTINF:-1 , LIGA PREMIER | TELEMUNDO
+http://mtvp.net:8080/live/RobertoArce/pZbSDnRqam/1599542.m3u8
+#EXTINF:-1 , LIGA PREMIER | DAZN 1 HD
+http://mtvp.net:8080/live/RobertoArce/pZbSDnRqam/1599551.m3u8
+#EXTINF:-1 , LIGA PREMIER | DAZN 2 HD
+http://mtvp.net:8080/live/RobertoArce/pZbSDnRqam/1599550.m3u8
+#EXTINF:-1 , LIGA PREMIER | DAZN 4 HD
+http://mtvp.net:8080/live/RobertoArce/pZbSDnRqam/1599548.m3u8
+#EXTINF:-1 , LIGA PREMIER | TNT SPORTS MX
+http://mtvp.net:8080/live/RobertoArce/pZbSDnRqam/1599541.m3u8
+#EXTINF:-1 , LIGA PREMIER | SKY SPORTS HD
+http://mtvp.net:8080/live/RobertoArce/pZbSDnRqam/1599535.m3u8
+#EXTINF:-1 , LIGA PREMIER | PREMIER SPORTS 1
+http://mtvp.net:8080/live/RobertoArce/pZbSDnRqam/1599536.m3u8
+#EXTINF:-1 , MUNDIAL LIVE10
+http://mtvp.net:8080/live/RobertoArce/pZbSDnRqam/1979614.m3u8
+#EXTINF:-1  group="DEPORTE", DSPORTS OPC 1
+http://8.243.126.131:8000/play/a05a/index.m3u8
+#EXTINF:-1  group="DEPORTE", DSPORTS OPC 2
+http://181.64.27.65:8000/play/a0dq/index.m3u8
+#EXTINF:-1  group="DEPORTE", DSPORTS OPC 3
+http://38.187.7.252:8000/play/a03d/index.m3u8
+#EXTINF:-1 , win+
+http://190.217.66.92:8000/play/a0qs/index.m3u8
+#EXTINF:-1 , win2
+http://138.121.15.230:9002/WIN-SPORT/index.m3u8
+#EXTINF:-1 , dsports
+http://181.78.8.199:8000/play/a0io/index.m3u8
+#EXTINF:-1 , dsports2
+http://190.223.48.46:8000/play/a07n/index.m3u8
+#EXTINF:-1 , win m1
+http://181.78.8.199:8000/play/a0cc/index.m3u8
+#EXTINF:-1 ,ESPN DEPORTES
+http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7796
+#EXTINF:-1 ,ESPN DEPORTES1
+http://168.228.44.241:9998/play/a0dz/index.m3u8
+#EXTINF:-1 ,ESPN DEPORTES2
+http://cinemagold.org:8880/Casimiro6363/7273nrnnf/360915
+#EXTINF:-1 , AZTECA DEPORTES
+http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7201
+#EXTINF:-1 , win+ m1
+http://181.78.8.199:8000/play/winsport/index.m3u8
+#EXTINF:-1 , win+ m2
+http://181.78.8.199:8000/play/a0cc/index.m3u8
+#EXTINF:-1 , win
+http://181.78.8.199:8000/play/a0ic/index.m3u8
+#EXTINF:-1 , Sky Sports
+http://168.228.44.241:9998/play/a0bi/index.m3u8
+#EXTINF:-1 ,DAZN LA LIGA
+http://lunar.pm:8080/phil/Thetimes22/138387
+#EXTINF:-1 ,TUDN
+http://cinemagold.org:8880/Casimiro6363/7273nrnnf/567627
