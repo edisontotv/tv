@@ -1,0 +1,92 @@
+#EXTM3U
+#EXTINF:-1,El Chavo TV
+https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
+
+#EXTINF:-1,Los  SIMPSONS
+http://lbgo.bozztv.com/ssh101/ssh101/simplat/chunks.m3u8
+#EXTINF:-1,Retro TV
+https://lbgo.bozztv.com/ssh101/ssh101/sternblink/chunks.m3u8
+#EXTINF:-1,imagen universal
+https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
+#EXTINF:-1,Cosmos TV
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+#EXTINF:-1,Cosmos TV2
+https://canaletaplus.com:3922/live/cosmoslive.m3u8
+#EXTINF:-1,Cosmos TV3
+https://canaletaplus.com:3922/hybrid/play.m3u8
+#EXTINF:-1,trilers
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovemagazinees-samsungspain/playlist.m3u8
+#EXTINF:-1,BARBE TV
+https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
+#EXTINF:-1, canal 10
+https://acceso.mediosdecostarica.com:3606/hybrid/play.m3u8
+#EXTINF:-1,SICARDITV HD  18.2
+https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
+#EXTINF:-1,11 digital
+https://live20.bozztv.com/giatv/giatv-ojodigital/ojodigital/playlist.m3u8
+#EXTINF:-1,Telecinco
+https://videohd.live:19360/8016/8016.m3u8
+#EXTINF:-1,TIV
+ https://videohd.live:19360/8008/8008.m3u8
+#EXTINF:-1,MARVEL
+https://lbgo.bozztv.com/ssh101/ssh101/imcu/playlist.m3u8
+#EXTINF:-1,BOX CINEMA
+https://distrib.noisypeak.com/d/K9U16RORPWBMXX3B09JH/hls3/now,-1m/1.m3u8
+#EXTINF:-1,MAX TV MOVIES
+https://tvstreaming.albpo.com/memfs/8d987761-7923-4532-a95d-20723ae95374_output_0.m3u8
+https://tvstreaming.albpo.com/memfs/8d987761-7923-4532-a95d-20723ae95374_output_0.m3u8
+#EXTINF:-1,TELECREATIVA HD
+https://panel.host-live.com:19360/8012/8012.m3u8
+#EXTINF:-1,TELEMIX HD
+https://183.bozztv.com/giatv/giatv-telemixenvivo/telemixenvivo/playlist.m3u8
+#EXTINF:-1,IPERSONICA TV 
+https://lbgo.bozztv.com/ssh101/ssh101/ipersonica/playlist.m3u8
+#EXTINF:-1,MAXCINE FAMILY
+https://live20.bozztv.com/giatvplayout7/giatv-208817/playlist.m3u8
+#EXTINF:-1,MAX CINE
+https://live20.bozztv.com/giatvplayout7/giatv-208138/tracks-v1a1/mono.m3u8
+#EXTINF:-1,MAXCINE COMEDY
+https://live20.bozztv.com/giatvplayout7/giatv-208730/playlist.m3u8
+#EXTINF:-1,AMC ESPAÑOL
+https://amc-amcespanol-1-us.lg.wurl.tv/3000.m3u8
+#EXTINF:-1,MULTIBOX ACCIÓN 
+https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
+#EXTINF:-1,NITRO
+http://205.235.6.29:8000/play/a0xw/index.m3u8?hls
+#EXTINF:-1,IPERSONICATV
+https://lbgo.bozztv.com/ssh101/ssh101/ipersonica/playlist.m3u8
+#EXTINF:-1,ORBIT TV
+https://cnn.hostlagarto.com/orbittv/tracks-v1a1/index.m3u8
+#EXTINF:-1,LA DESCARGA TV
+https://video.udwn.net:19360/ladescargatv/ladescargatv.m3u8
+#EXTINF:-1,ENT CHANNEL
+https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ENT FAMILY 
+https://cdn.40mediagroup.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,TELEMUNDO ACCION
+https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master_5.m3u8
+#EXTINF:-1,BBC SERIES 
+https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/1080p/index.m3u8
+#EXTINF:-1,SONY ACTION
+https://de9yx47crxs6l.cloudfront.net/playlist.m3u8
+#EXTINF:-1,SONY COMEDIA
+https://d3m8rnla2v9m5d.cloudfront.net/playlist.m3u8
+#EXTINF:-1,CINE SONY
+https://a-cdn.klowdtv.com:443/live1/cine_720p/chunks.m3u8
+#EXTINF:-1,WOW MOVIES
+https://live20.bozztv.com/giatv/giatv-wowmovies/wowmovies/chunks.m3u8
+#EXTINF:-1,NEXTV
+https://edge.enhdtv.com/nexthd/tracks-v1a1/mono.m3u8
+#EXTINF:-1,TVM+
+https://streamtv.intervenhosting.net:3529/live/tvmparatilive.m3u8
+#EXTINF:-1,CANAL 13
+https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
+#EXTINF:-1,CINEACCION
+https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
+#EXTINF:-1,UNITEL TV
+https://play.agenciastreaming.com:8081/uniteltv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,CH 260
+https://stream.enlineatv.net/hls/somoslatinatv/index.m3u8
+#EXTINF:-1,CH 261
+https://video.udwn.net:19360/ladescargatv/ladescargatv.m3u8
+
