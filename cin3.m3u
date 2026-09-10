@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 group-title="CINE", TELEFLIX
+http://200.35.176.154:8000/play/a04r/index.m3u8
+#EXTINF:-1 group-title="CINE",La voz
+http://38.137.192.250:8000/play/jokbni9
+#EXTINF:-1 group-title="CINE",La Ley
+http://38.137.192.250:8000/play/sd311
+#EXTINF:-1 group-title="CINE",Vision sur
+http://38.137.192.250:8000/play/tvsur
+#EXTINF:-1 group-title="CINE",CVM Estrenos
+http://38.137.192.250:8000/play/fe2s
+#EXTINF:-1 group-title="CINE",CVM Accion
+http://38.137.192.250:8000/play/okok
+#EXTINF:-1 group-title="CINE", CVM Series
+http://38.137.192.250:8000/play/cvmseries
+#EXTINF:-1 group-title="CINE",BHTV
+http://38.137.192.250:8000/play/a0cm
+#EXTINF:-1 group-title="Cine",Xtrema Acción
+https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
+#EXTINF:-1 group-title="DEPORTE", WIN SPORTS+
+http://181.119.86.1:8000/play/a0d4
